@@ -112,7 +112,7 @@ function lisaaViesti(rooli, teksti) {
   div.classList.add("message");
   div.classList.add(rooli);
 
-  div.innerText = teksti;
+  div.innerHTML = muotoileVastaus(teksti);
 
   chat.appendChild(div);
   chat.scrollTop = chat.scrollHeight;
@@ -156,7 +156,23 @@ document.getElementById("kysymys").addEventListener("keypress", function(e) {
     lahetaKysymys();
   }
 });
+function muotoileVastaus(teksti) {
+  let html = teksti.replace(/\n/g, "<br>");
 
+  // Videolähde
+  html = html.replace(
+    /Löytyy videosta: (.*)/g,
+    '<div style="margin-top:10px; padding:8px; background:#e7f3ff; border-radius:6px;">🎥 $1</div>'
+  );
+
+  // Lisäohje
+  html = html.replace(
+    /Lisäohje: (.*)/g,
+    '<div style="margin-top:5px; padding:8px; background:#f1f1f1; border-radius:6px;">📘 $1</div>'
+  );
+
+  return html;
+}
 </script>
 
 </body>
