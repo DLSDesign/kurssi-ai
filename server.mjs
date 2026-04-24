@@ -84,10 +84,19 @@ function lueKurssisisalto() {
 
   return kurssisisalto;
 }
+function tallennaAnalytiikka(kysymys) {
+  const rivi = {
+    aika: new Date().toISOString(),
+    kysymys: kysymys
+  };
+
+  fs.appendFileSync("analytics.jsonl", JSON.stringify(rivi) + "\n", "utf8");
+}
 
 app.post("/kysy", async (req, res) => {
   try {
     const kysymys = req.body.kysymys;
+tallennaAnalytiikka(kysymys);
     const historia = req.body.historia || [];
     const kurssisisalto = lueKurssisisalto();
 

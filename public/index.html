@@ -29,6 +29,24 @@
       border-bottom: 1px solid #ddd;
       background: #ffffff;
     }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.clear-button {
+  background: transparent;
+  border: 1px solid #ccc;
+  color: #555;
+  border-radius: 16px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+
+.clear-button:hover {
+  background: #f1f1f1;
+}
 
     #chat {
       flex: 1;
@@ -165,8 +183,11 @@ transition: opacity 0.3s ease, transform 0.3s ease;
 <div class="container">
 
 <div class="header">
-  Kurssi-AI
-  <div id="headerOhjelma" style="font-size:14px; color:#666;"></div>
+  <div>
+    Kurssi-AI
+    <div id="headerOhjelma" style="font-size:14px; color:#666;"></div>
+  </div>
+  <button class="clear-button" onclick="tyhjennaKeskustelu()">Tyhjennä</button>
 </div>
 
   <div id="chat">
@@ -220,9 +241,17 @@ function valitseOhjelma(ohjelma) {
 
   document.getElementById("valittuOhjelma").innerText = teksti;
 
-  // 🔥 uusi rivi
-  document.getElementById("headerOhjelma").innerText =
-    ohjelma ? ohjelma : "";
+  const headerOhjelma = document.getElementById("headerOhjelma");
+  if (headerOhjelma) {
+    headerOhjelma.innerText = ohjelma ? ohjelma : "";
+  }
+
+  if (historia.length > 0) {
+    lisaaViesti("assistant", ohjelma
+      ? `Ohjelma vaihdettu: ${ohjelma}`
+      : "Ohjelmarajaus poistettu."
+    );
+  }
 }
 function piilotaAloitusruutu() {
   const welcome = document.getElementById("welcome");
@@ -235,7 +264,33 @@ function piilotaAloitusruutu() {
     }, 300);
   }
 }
+function tyhjennaKeskustelu() {
+  historia = [];
 
+  const chat = document.getElementById("chat");
+  chat.innerHTML = `
+    <div id="welcome" class="welcome">
+      <h2>Kysy apua 👋</h2>
+      <p>Valitse ohjelma ja kirjoita kysymys.</p>
+
+      <div class="programs">
+        <button onclick="valitseOhjelma('Word')">Word</button>
+        <button onclick="valitseOhjelma('Excel')">Excel</button>
+        <button onclick="valitseOhjelma('PowerPoint')">PowerPoint</button>
+      </div>
+
+      <p id="valittuOhjelma" class="selected-program">
+        ${valittuOhjelma ? "Valittu ohjelma: " + valittuOhjelma : "Ohjelmaa ei ole valittu."}
+      </p>
+
+      <div class="suggestions">
+        <button onclick="lahetaValmisKysymys('Miten jaan tiedoston?')">Miten jaan tiedoston?</button>
+        <button onclick="lahetaValmisKysymys('Miten valitsen sarakkeen?')">Miten valitsen sarakkeen?</button>
+        <button onclick="lahetaValmisKysymys('Miten lisään kuvan?')">Miten lisään kuvan?</button>
+      </div>
+    </div>
+  `;
+}
 function lisaaViesti(rooli, teksti, id = null) {
   const chat = document.getElementById("chat");
 
