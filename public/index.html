@@ -138,6 +138,19 @@
     .send-button:hover {
       background: #0056b3;
     }
+.programs button {
+  margin: 6px 6px 0 0;
+  background: #f8f9fa;
+  color: #333;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  padding: 8px 12px;
+}
+
+.selected-program {
+  font-size: 14px;
+  color: #555;
+}
   </style>
 </head>
 
@@ -160,6 +173,16 @@
         <button onclick="lahetaValmisKysymys('Miten valitsen sarakkeen Excelissä?')">Miten valitsen sarakkeen Excelissä?</button>
         <button onclick="lahetaValmisKysymys('Miten kopioin tietoja?')">Miten kopioin tietoja?</button>
         <button onclick="lahetaValmisKysymys('Miten lisään kuvan PowerPointissa?')">Miten lisään kuvan PowerPointissa?</button>
+<p><strong>Valitse ohjelma, jota kysymyksesi koskee:</strong></p>
+
+<div class="programs">
+  <button onclick="valitseOhjelma('Word')">Word</button>
+  <button onclick="valitseOhjelma('Excel')">Excel</button>
+  <button onclick="valitseOhjelma('PowerPoint')">PowerPoint</button>
+  <button onclick="valitseOhjelma('')">En tiedä / kaikki</button>
+</div>
+
+<p id="valittuOhjelma" class="selected-program">Ohjelmaa ei ole valittu.</p>
       </div>
     </div>
   </div>
@@ -173,7 +196,17 @@
 
 <script>
 let historia = [];
+let valittuOhjelma = "";
 
+function valitseOhjelma(ohjelma) {
+  valittuOhjelma = ohjelma;
+
+  const teksti = ohjelma
+    ? "Valittu ohjelma: " + ohjelma
+    : "Ohjelmaa ei ole rajattu.";
+
+  document.getElementById("valittuOhjelma").innerText = teksti;
+}
 function piilotaAloitusruutu() {
   const welcome = document.getElementById("welcome");
   if (welcome) {
@@ -317,10 +350,12 @@ async function lahetaKysymys() {
       headers: {
         "Content-Type": "application/json"
       },
-      body: JSON.stringify({
-        kysymys: kysymys,
-        historia: historia
-      })
+body: JSON.stringify({
+  kysymys: valittuOhjelma
+    ? `Ohjelma: ${valittuOhjelma}. Kysymys: ${kysymys}`
+    : kysymys,
+  historia: historia
+})
     });
 
     const data = await response.json();
