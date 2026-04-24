@@ -164,9 +164,10 @@ transition: opacity 0.3s ease, transform 0.3s ease;
 
 <div class="container">
 
-  <div class="header">
-    Kurssi-AI
-  </div>
+<div class="header">
+  Kurssi-AI
+  <div id="headerOhjelma" style="font-size:14px; color:#666;"></div>
+</div>
 
   <div id="chat">
 <div id="welcome" class="welcome">
@@ -218,6 +219,10 @@ function valitseOhjelma(ohjelma) {
     : "Ohjelmaa ei ole rajattu.";
 
   document.getElementById("valittuOhjelma").innerText = teksti;
+
+  // 🔥 uusi rivi
+  document.getElementById("headerOhjelma").innerText =
+    ohjelma ? ohjelma : "";
 }
 function piilotaAloitusruutu() {
   const welcome = document.getElementById("welcome");
