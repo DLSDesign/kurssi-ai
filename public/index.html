@@ -14,17 +14,18 @@
     }
 
     .container {
-      width: 600px;
+      width: 700px;
       height: 100vh;
       display: flex;
       flex-direction: column;
       background: white;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      box-shadow: 0 0 12px rgba(0,0,0,0.08);
     }
 
     .header {
-      padding: 15px;
+      padding: 18px;
       font-weight: bold;
+      font-size: 20px;
       border-bottom: 1px solid #ddd;
       background: #ffffff;
     }
@@ -32,28 +33,89 @@
     #chat {
       flex: 1;
       overflow-y: auto;
-      padding: 15px;
+      padding: 20px;
+    }
+
+    .welcome {
+      background: #f0f6ff;
+      padding: 18px;
+      border-radius: 12px;
+      margin-bottom: 18px;
+    }
+
+    .welcome h2 {
+      margin-top: 0;
+    }
+
+    .suggestions button {
+      margin: 6px 6px 0 0;
+      background: white;
+      color: #0056b3;
+      border: 1px solid #bcd7ff;
+      border-radius: 20px;
+      padding: 8px 12px;
     }
 
     .message {
-      margin-bottom: 15px;
-      max-width: 80%;
-      padding: 10px 12px;
-      border-radius: 10px;
-      line-height: 1.4;
-      white-space: pre-line;
+      margin-bottom: 16px;
+      max-width: 85%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      line-height: 1.45;
+      white-space: normal;
     }
 
     .user {
       background: #007bff;
       color: white;
-      align-self: flex-end;
+      margin-left: auto;
     }
 
     .assistant {
       background: #e9ecef;
       color: black;
-      align-self: flex-start;
+      margin-right: auto;
+    }
+
+    .typing {
+      font-style: italic;
+      color: #666;
+      background: #f1f1f1;
+    }
+
+    ol {
+      padding-left: 24px;
+      margin-top: 8px;
+      margin-bottom: 8px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    .step-icon {
+      margin-right: 6px;
+    }
+
+    .source-video {
+      margin-top: 10px;
+      padding: 8px;
+      background: #e7f3ff;
+      border-radius: 6px;
+    }
+
+    .source-note {
+      margin-top: 5px;
+      padding: 8px;
+      background: #f1f1f1;
+      border-radius: 6px;
+    }
+
+    .ui-term {
+      font-weight: bold;
+      background: #fff3cd;
+      padding: 1px 4px;
+      border-radius: 4px;
     }
 
     .input-area {
@@ -63,24 +125,23 @@
 
     input {
       flex: 1;
-      padding: 12px;
+      padding: 14px;
       border: none;
       outline: none;
-      font-size: 14px;
+      font-size: 15px;
     }
 
-    button {
-      padding: 12px 20px;
+    .send-button {
+      padding: 14px 22px;
       border: none;
       background: #007bff;
       color: white;
       cursor: pointer;
     }
 
-    button:hover {
+    .send-button:hover {
       background: #0056b3;
     }
-
   </style>
 </head>
 
@@ -92,76 +153,118 @@
     Kurssi-AI
   </div>
 
-  <div id="chat"></div>
+  <div id="chat">
+    <div id="welcome" class="welcome">
+      <h2>Hei 👋</h2>
+      <p>Kysy apua Wordiin, Exceliin tai PowerPointiin liittyvissä kurssin asioissa.</p>
+      <p>Voit kirjoittaa oman kysymyksen tai aloittaa valmiilla esimerkillä.</p>
+
+      <div class="suggestions">
+        <button onclick="lahetaValmisKysymys('Miten jaan tiedoston?')">Miten jaan tiedoston?</button>
+        <button onclick="lahetaValmisKysymys('Miten valitsen sarakkeen Excelissä?')">Miten valitsen sarakkeen Excelissä?</button>
+        <button onclick="lahetaValmisKysymys('Miten kopioin tietoja?')">Miten kopioin tietoja?</button>
+        <button onclick="lahetaValmisKysymys('Miten lisään kuvan PowerPointissa?')">Miten lisään kuvan PowerPointissa?</button>
+      </div>
+    </div>
+  </div>
 
   <div class="input-area">
     <input id="kysymys" placeholder="Kysy mitä tahansa kurssista...">
-    <button onclick="lahetaKysymys()">Lähetä</button>
+    <button class="send-button" onclick="lahetaKysymys()">Lähetä</button>
   </div>
 
 </div>
 
 <script>
-
 let historia = [];
 
-function lisaaViesti(rooli, teksti) {
+function piilotaAloitusruutu() {
+  const welcome = document.getElementById("welcome");
+  if (welcome) {
+    welcome.remove();
+  }
+}
+
+function lisaaViesti(rooli, teksti, id = null) {
   const chat = document.getElementById("chat");
 
   const div = document.createElement("div");
   div.classList.add("message");
   div.classList.add(rooli);
 
-  div.innerHTML = muotoileVastaus(teksti);
+  if (id) {
+    div.id = id;
+  }
+
+  if (rooli === "assistant") {
+    div.innerHTML = muotoileVastaus(teksti);
+  } else {
+    div.innerText = teksti;
+  }
 
   chat.appendChild(div);
   chat.scrollTop = chat.scrollHeight;
 }
 
-async function lahetaKysymys() {
-  const input = document.getElementById("kysymys");
-  const kysymys = input.value;
+function naytaKirjoittaa() {
+  lisaaViesti("assistant", "AI kirjoittaa...", "typing");
+  document.getElementById("typing").classList.add("typing");
+}
 
-  if (!kysymys.trim()) return;
-
-  lisaaViesti("user", kysymys);
-  input.value = "";
-
-  const response = await fetch("/kysy", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json"
-    },
-    body: JSON.stringify({
-      kysymys: kysymys,
-      historia: historia
-    })
-  });
-
-  const data = await response.json();
-
-  if (data.vastaus) {
-    lisaaViesti("assistant", data.vastaus);
-
-    historia.push({ role: "user", content: kysymys });
-    historia.push({ role: "assistant", content: data.vastaus });
-  } else {
-    lisaaViesti("assistant", "Virhe: " + data.virhe);
+function poistaKirjoittaa() {
+  const typing = document.getElementById("typing");
+  if (typing) {
+    typing.remove();
   }
 }
 
-// Enter-näppäin toimii
-document.getElementById("kysymys").addEventListener("keypress", function(e) {
-  if (e.key === "Enter") {
-    lahetaKysymys();
-  }
-});
+function korostaPainikkeet(teksti) {
+  const termit = [
+    "Jaa",
+    "Kopioi",
+    "Liitä",
+    "Tallenna",
+    "Avaa",
+    "Lisää",
+    "Muokkaa",
+    "Poista",
+    "Lataa",
+    "Tiedosto",
+    "Aloitus",
+    "Näytä",
+    "Etsi",
+    "Korvaa",
+    "Ctrl + C",
+    "Ctrl + V",
+    "Ctrl + A",
+    "Control A"
+  ];
+
+  termit.forEach(termi => {
+    const regex = new RegExp(`\\b${termi}\\b`, "g");
+    teksti = teksti.replace(regex, `<span class="ui-term">${termi}</span>`);
+  });
+
+  return teksti;
+}
+
+function boldaaTarkeat(teksti) {
+  teksti = teksti.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+  return teksti;
+}
+
 function muotoileVastaus(teksti) {
   let rivit = teksti.split("\n");
   let html = "";
   let listaKaynnissa = false;
 
   rivit.forEach(rivi => {
+    rivi = rivi.trim();
+
+    if (!rivi) {
+      return;
+    }
+
     const numeroMatch = rivi.match(/^\d+\.\s/);
 
     if (numeroMatch) {
@@ -169,23 +272,28 @@ function muotoileVastaus(teksti) {
         html += "<ol>";
         listaKaynnissa = true;
       }
-      html += "<li>" + rivi.replace(/^\d+\.\s/, "") + "</li>";
+
+      let kohta = rivi.replace(/^\d+\.\s/, "");
+      kohta = boldaaTarkeat(kohta);
+      kohta = korostaPainikkeet(kohta);
+
+      html += `<li><span class="step-icon">👉</span>${kohta}</li>`;
     } else {
       if (listaKaynnissa) {
         html += "</ol>";
         listaKaynnissa = false;
       }
 
-      // Videolähde
       if (rivi.startsWith("Löytyy videosta:")) {
-        html += `<div style="margin-top:10px; padding:8px; background:#e7f3ff; border-radius:6px;">🎥 ${rivi.replace("Löytyy videosta:", "").trim()}</div>`;
+        html += `<div class="source-video">🎥 ${rivi.replace("Löytyy videosta:", "").trim()}</div>`;
       }
-      // Lisäohje
       else if (rivi.startsWith("Lisäohje:")) {
-        html += `<div style="margin-top:5px; padding:8px; background:#f1f1f1; border-radius:6px;">📘 ${rivi.replace("Lisäohje:", "").trim()}</div>`;
+        html += `<div class="source-note">📘 ${rivi.replace("Lisäohje:", "").trim()}</div>`;
       }
       else {
-        html += "<div>" + rivi + "</div>";
+        let muotoiltu = boldaaTarkeat(rivi);
+        muotoiltu = korostaPainikkeet(muotoiltu);
+        html += `<div>${muotoiltu}</div>`;
       }
     }
   });
@@ -196,6 +304,59 @@ function muotoileVastaus(teksti) {
 
   return html;
 }
+
+async function lahetaValmisKysymys(kysymys) {
+  document.getElementById("kysymys").value = kysymys;
+  await lahetaKysymys();
+}
+
+async function lahetaKysymys() {
+  const input = document.getElementById("kysymys");
+  const kysymys = input.value;
+
+  if (!kysymys.trim()) return;
+
+  piilotaAloitusruutu();
+  lisaaViesti("user", kysymys);
+  input.value = "";
+
+  naytaKirjoittaa();
+
+  try {
+    const response = await fetch("/kysy", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        kysymys: kysymys,
+        historia: historia
+      })
+    });
+
+    const data = await response.json();
+
+    poistaKirjoittaa();
+
+    if (data.vastaus) {
+      lisaaViesti("assistant", data.vastaus);
+
+      historia.push({ role: "user", content: kysymys });
+      historia.push({ role: "assistant", content: data.vastaus });
+    } else {
+      lisaaViesti("assistant", "Virhe: " + data.virhe);
+    }
+  } catch (error) {
+    poistaKirjoittaa();
+    lisaaViesti("assistant", "Yhteydessä tapahtui virhe. Yritä hetken kuluttua uudelleen.");
+  }
+}
+
+document.getElementById("kysymys").addEventListener("keypress", function(e) {
+  if (e.key === "Enter") {
+    lahetaKysymys();
+  }
+});
 </script>
 
 </body>
