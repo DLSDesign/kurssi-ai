@@ -3,93 +3,161 @@
 <head>
   <meta charset="UTF-8">
   <title>Kurssi-AI</title>
+
   <style>
     body {
-      font-family: Arial;
-      max-width: 600px;
-      margin: 40px auto;
+      font-family: Arial, sans-serif;
+      background: #f5f6f8;
+      margin: 0;
+      display: flex;
+      justify-content: center;
     }
-    input {
-      width: 100%;
-      padding: 10px;
-      margin-bottom: 10px;
+
+    .container {
+      width: 600px;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
-    button {
-      padding: 10px 15px;
-      margin: 5px 5px 5px 0;
+
+    .header {
+      padding: 15px;
+      font-weight: bold;
+      border-bottom: 1px solid #ddd;
+      background: #ffffff;
     }
-    #vastaus {
-      margin-top: 20px;
+
+    #chat {
+      flex: 1;
+      overflow-y: auto;
+      padding: 15px;
+    }
+
+    .message {
+      margin-bottom: 15px;
+      max-width: 80%;
+      padding: 10px 12px;
+      border-radius: 10px;
+      line-height: 1.4;
       white-space: pre-line;
     }
+
+    .user {
+      background: #007bff;
+      color: white;
+      align-self: flex-end;
+    }
+
+    .assistant {
+      background: #e9ecef;
+      color: black;
+      align-self: flex-start;
+    }
+
+    .input-area {
+      display: flex;
+      border-top: 1px solid #ddd;
+    }
+
+    input {
+      flex: 1;
+      padding: 12px;
+      border: none;
+      outline: none;
+      font-size: 14px;
+    }
+
+    button {
+      padding: 12px 20px;
+      border: none;
+      background: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
   </style>
 </head>
+
 <body>
 
-  <h1>Kysy kurssista</h1>
+<div class="container">
+
+  <div class="header">
+    Kurssi-AI
+  </div>
 
   <div id="chat"></div>
 
-  <input id="kysymys" type="text" placeholder="Kirjoita kysymys">
-  <button onclick="lahetaKysymys()">Kysy</button>
+  <div class="input-area">
+    <input id="kysymys" placeholder="Kysy mitä tahansa kurssista...">
+    <button onclick="lahetaKysymys()">Lähetä</button>
+  </div>
 
-  <script>
-    let historia = [];
+</div>
 
-    function lisaaViesti(rooli, teksti) {
-      const chat = document.getElementById("chat");
+<script>
 
-      const div = document.createElement("div");
-      div.style.margin = "10px 0";
+let historia = [];
 
-      if (rooli === "user") {
-        div.innerHTML = "<b>Sinä:</b> " + teksti;
-      } else {
-        div.innerHTML = "<b>AI:</b><br>" + teksti.replace(/\n/g, "<br>");
-      }
+function lisaaViesti(rooli, teksti) {
+  const chat = document.getElementById("chat");
 
-      chat.appendChild(div);
-      chat.scrollTop = chat.scrollHeight;
-    }
+  const div = document.createElement("div");
+  div.classList.add("message");
+  div.classList.add(rooli);
 
-    async function lahetaKysymys() {
-      const kysymysInput = document.getElementById("kysymys");
-      const kysymys = kysymysInput.value;
+  div.innerText = teksti;
 
-      if (!kysymys.trim()) return;
+  chat.appendChild(div);
+  chat.scrollTop = chat.scrollHeight;
+}
 
-      lisaaViesti("user", kysymys);
+async function lahetaKysymys() {
+  const input = document.getElementById("kysymys");
+  const kysymys = input.value;
 
-      const response = await fetch("/kysy", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({
-          kysymys: kysymys,
-          historia: historia
-        })
-      });
+  if (!kysymys.trim()) return;
 
-      const data = await response.json();
+  lisaaViesti("user", kysymys);
+  input.value = "";
 
-      if (data.vastaus) {
-        lisaaViesti("assistant", data.vastaus);
+  const response = await fetch("/kysy", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      kysymys: kysymys,
+      historia: historia
+    })
+  });
 
-        historia.push({
-          role: "user",
-          content: kysymys
-        });
+  const data = await response.json();
 
-        historia.push({
-          role: "assistant",
-          content: data.vastaus
-        });
+  if (data.vastaus) {
+    lisaaViesti("assistant", data.vastaus);
 
-        kysymysInput.value = "";
-      }
-    }
-  </script>
+    historia.push({ role: "user", content: kysymys });
+    historia.push({ role: "assistant", content: data.vastaus });
+  } else {
+    lisaaViesti("assistant", "Virhe: " + data.virhe);
+  }
+}
+
+// Enter-näppäin toimii
+document.getElementById("kysymys").addEventListener("keypress", function(e) {
+  if (e.key === "Enter") {
+    lahetaKysymys();
+  }
+});
+
+</script>
 
 </body>
 </html>
