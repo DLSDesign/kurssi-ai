@@ -93,10 +93,6 @@
       margin-bottom: 8px;
     }
 
-    .step-icon {
-      margin-right: 6px;
-    }
-
     .source-video {
       margin-top: 10px;
       padding: 8px;
@@ -232,7 +228,6 @@ function korostaPainikkeet(teksti) {
     "Tiedosto",
     "Aloitus",
     "Näytä",
-    "Etsi",
     "Korvaa",
     "Ctrl + C",
     "Ctrl + V",
@@ -245,11 +240,6 @@ function korostaPainikkeet(teksti) {
     teksti = teksti.replace(regex, `<span class="ui-term">${termi}</span>`);
   });
 
-  return teksti;
-}
-
-function boldaaTarkeat(teksti) {
-  teksti = teksti.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
   return teksti;
 }
 
@@ -274,10 +264,9 @@ function muotoileVastaus(teksti) {
       }
 
       let kohta = rivi.replace(/^\d+\.\s/, "");
-      kohta = boldaaTarkeat(kohta);
       kohta = korostaPainikkeet(kohta);
 
-      html += `<li><span class="step-icon">👉</span>${kohta}</li>`;
+      html += `<li>${kohta}</li>`;
     } else {
       if (listaKaynnissa) {
         html += "</ol>";
@@ -291,7 +280,7 @@ function muotoileVastaus(teksti) {
         html += `<div class="source-note">📘 ${rivi.replace("Lisäohje:", "").trim()}</div>`;
       }
       else {
-        let muotoiltu = boldaaTarkeat(rivi);
+        let muotoiltu = rivi;
         muotoiltu = korostaPainikkeet(muotoiltu);
         html += `<div>${muotoiltu}</div>`;
       }
