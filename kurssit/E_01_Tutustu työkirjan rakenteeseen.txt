@@ -1,0 +1,53 @@
+OHJELMA: Excel
+
+VIDEO: Tutustu työkirjan rakenteeseen
+
+AIHE: Excel-työkirjaan tutustuminen
+
+TAVOITE: Oppia tuntemaan Excelin käyttöliittymä ja työkirjan rakenne. Kun tiedät, mitä ovat työkirja, laskentataulukko, solut, kaavarivi ja valikot, Excelin käyttö tuntuu loogiselta. Hyvä perusosaaminen auttaa sinua käsittelemään tietoa nopeammin ja tekee työskentelystäsi sujuvampaa. 
+
+OHJE:
+ 
+Excelissä työskentelyaluetta kutsutaan työkirjaksi.  
+
+Yläreunassa näkyy erilaisia välilehtiä, kuten Tiedosto, Aloitus, Lisää ja niin edelleen. Kun napsautat jotain välilehteä, sen työkalut tulevat näkyviin valintanauhalle välilehtien alle. 
+
+Jos näet työkaluja ainoastaan yhdellä rivillä, voit laajentaa valintanauhan.  
+
+Napsauta tätä oikeassa yläkulmassa olevaa nuolikuvaketta. 
+
+Valitse Perinteinen valintanauha.  
+
+Näin saat näkyviin kaikki perinteiset työkalut.  
+
+Valitse vielä samasta valikosta Näytä aina valintanauha, jos haluat kaikkien työkalujen olevan koko ajan esillä.  
+
+Säädä automaattisesti -valinnalla valintanauha tulee näkyviin, kun napsautat jotakin välilehteä, ja piiloutuu taas, kun siirryt pois. 
+
+Hienoa, nämä asetukset helpottavat työskentelyäsi. 
+
+Valintanauhassa komennot on järjestetty omiin ryhmiinsä. Ryhmän nimi näkyy valintanauhan alareunassa. 
+
+Kaikki ohjelman valintanauhat eivät ole oletuksena näkyvissä.  
+
+Osa niistä tulee näkyviin silloin, kun niitä tarvitaan.  
+
+Näin toimii esimerkiksi kaavion muokkaus välilehti, joka näkyy ainoastaan silloin, kun jokin kaavio on valittuna.  
+
+Kun avaat uuden työkirjan, on siinä yksi laskentataulukko. Voit lisätä laskentataulukoita tarpeen mukaan.  
+
+Yhdessä laskentataulukossa on yli miljoona riviä ja yli 16 tuhatta saraketta.   
+
+Rivit on yksilöity numeroilla ja sarakkeet kirjaimilla. 
+
+Nimi-ruudussa näet valittuna olevan solun osoitteen, esimerkiksi A1 eli A-sarakkeen ensimmäinen rivi. 
+
+Kaavarivillä näet valittuna olevan solun sisällön, syötetyt tiedot ja kaavat. Siinä voit myös muokata solun sisältöä.  
+
+Tilarivi sijaitsee työkirjan alapuolella. Siinä näet tietoja ohjelman tilasta, käynnissä olevista toiminnoista tai valittuna olevasta kohteesta.  
+
+Tilarivin oikean reunan säätimellä voit myös zoomata laskentataulukkoa.   
+
+VINKKI: 
+
+Nimi-ruutua voit käyttää myös laskentataulukossa liikkumiseen. Kun kirjoitat siihen solun osoitteen (esimerkiksi D250) ja painat Enteriä, Excel siirtyy suoraan kyseiseen kohtaan. Tämä säästää paljon aikaa etenkin suurissa taulukoissa. 

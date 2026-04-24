@@ -1,0 +1,20 @@
+TYYPPI: video
+
+OHJELMA:Excel
+
+VIDEO: Lisää soluihin reunaviivoja
+
+AIHE: Solujen reunaviivojen lisääminen
+
+TAVOITE: Oppia käyttämään reunaviivoja. Reunaviivojen avulla taulukon rakenne erottuu selkeämmin ja tiedot on helpompi hahmottaa yhdellä silmäyksellä. Kun osaat lisätä, muokata ja poistaa reunaviivoja, voit selkeyttää taulukon esitystapaa ja tuoda tärkeät alueet paremmin esiin.
+
+OHJE:
+
+Voit lisätä soluihin reunaviivat näin. 
+Valitse solut, joihin haluat reunaviivat.
+Napsauta Aloitus-välilehden Fontti-ryhmän Reunat-painikkeen oikeassa reunassa olevaa nuolta.
+Valitse avautuneesta valikoimasta alueelle haluamasi reunaviiva.
+Jos haluat poistaa reunaviivat, valitse valikoimasta Ei reunaviivaa -vaihtoehto.
+
+Lisää reunaviivat vasta, kun taulukon sisältö on valmis. Valitse koko taulukko ja käytä valmiita reunaviivatyylejä. Näin saat nopeasti selkeän ja siistin lopputuloksen ilman turhaa säätöä.
+

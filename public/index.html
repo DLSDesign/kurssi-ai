@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8">
+  <title>Kurssi-AI</title>
+  <style>
+    body {
+      font-family: Arial;
+      max-width: 600px;
+      margin: 40px auto;
+    }
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    button {
+      padding: 10px 15px;
+      margin: 5px 5px 5px 0;
+    }
+    #vastaus {
+      margin-top: 20px;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Kysy kurssista</h1>
+
+  <div id="chat"></div>
+
+  <input id="kysymys" type="text" placeholder="Kirjoita kysymys">
+  <button onclick="lahetaKysymys()">Kysy</button>
+
+  <script>
+    let historia = [];
+
+    function lisaaViesti(rooli, teksti) {
+      const chat = document.getElementById("chat");
+
+      const div = document.createElement("div");
+      div.style.margin = "10px 0";
+
+      if (rooli === "user") {
+        div.innerHTML = "<b>Sinä:</b> " + teksti;
+      } else {
+        div.innerHTML = "<b>AI:</b><br>" + teksti.replace(/\n/g, "<br>");
+      }
+
+      chat.appendChild(div);
+      chat.scrollTop = chat.scrollHeight;
+    }
+
+    async function lahetaKysymys() {
+      const kysymysInput = document.getElementById("kysymys");
+      const kysymys = kysymysInput.value;
+
+      if (!kysymys.trim()) return;
+
+      lisaaViesti("user", kysymys);
+
+      const response = await fetch("/kysy", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          kysymys: kysymys,
+          historia: historia
+        })
+      });
+
+      const data = await response.json();
+
+      if (data.vastaus) {
+        lisaaViesti("assistant", data.vastaus);
+
+        historia.push({
+          role: "user",
+          content: kysymys
+        });
+
+        historia.push({
+          role: "assistant",
+          content: data.vastaus
+        });
+
+        kysymysInput.value = "";
+      }
+    }
+  </script>
+
+</body>
+</html>

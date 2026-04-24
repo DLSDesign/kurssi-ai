@@ -1,0 +1,58 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Kirjoita tietoja soluihin
+
+AIHE: Kirjoita tietoja soluihin
+
+TAVOITE: Oppia, miten Excel tulkitsee tietoja ja miten voit itse vaikuttaa tietojen syöttöön ja muotoiluun. 
+
+OHJE:
+Excel muotoilee tiedot automaattisesti sen mukaan, mitä syötät. Tekstit tulevat vasempaan reunaan, luvut oikeaan ja päivämäärät omassa muodossaan. Tämä helpottaa työskentelyäsi, mutta voi joskus aiheuttaa yllätyksiä, kuten etunollien katoamista tai vääränlaista muotoilua. 
+
+Oletuksena ohjelma muotoilee tiedot niiden syöttömuodon perusteella ja tasaa näin tekstit solun vasempaan reunaan ja luvut oikeaan reunaan.  
+
+Päivämäärän kirjoitat näin.  
+
+Voit myös valita tietojen syöttöalueen hiirellä ja kirjoittaa tiedot. neljä solua:  
+
+Kun painat Enteriä, siirtyy kohdistin automaattisesti seuraavaan valitun alueen soluun. 
+
+Ohjelmassa on kätevä kopiointitoiminto. Kun valitset solun ja viet hiiren osoittimen solun oikeaan alakulmaan, muuttuu hiiren osoittimen muoto.  
+
+Nyt kopiointitoiminto on päällä ja voit hiirellä vetämällä kopioida solun sisältöä.  
+
+Ohjelmassa on myös valmiina erilaisia sarjoja esimerkiksi kuukausille ja päivämäärille. Kun kirjoitat ensimmäisen tiedon ja tartut täyttökahvasta kiinni ja vedät, jatkaa ohjelma automaattisesti sarjaa.  
+
+Päivämäärissä tämä on joskus ongelmallista. Kun kopioit päivämäärää, antaa ohjelma automaattisesti seuraavan päivän.  
+
+Jos kuitenkin haluat kopioida samaa päivämäärää, avaa kopioinnin jälkeen ilmestyvä toimintopainike.  
+
+Valitse tästä Kopioi solut.    
+
+Tietojen syöttämisessä tulee usein esiin seuraava ongelma. Kirjoitat soluun postinumeron 00100.  
+
+Ohjelma tunnistaa syöttämäsi tiedon luvuksi, tasaa sen solun oikeaan reunaan ja poistaa siitä etunollat. Soluun jää luku 100. 
+
+Voit muotoilla solut postinumerotyyppiseksi erikoismuotoilujen avulla.  
+
+Valitse muotoiltava sarake ja valitse täältä Lisää numeromuotoja. 
+
+Valitse Erikoismuotoilu. 
+
+Valitse tästä Postinumero. 
+
+Jos kirjoitat nollalla alkavan luvun yhteen yksittäiseen soluun, voit lisätä luvun eteen heittomerkin ('). Näin tieto muuntuu tekstitiedoksi ja etunollat jäävät näkyviin.  
+
+Hyvin yleinen ongelma on myös se, että olet jossakin vaiheessa syöttänyt soluun päivämäärän tai prosenttiluvun.  
+
+Poistat sen ja kirjoitat soluun luvun. Muotoilu onkin jäänyt soluun, eikä luku näy oikein.  
+
+Valitse solulle yleinen muotoilu, niin saat korjattua tämän ongelman. 
+
+VINKKI:
+
+Tietoja syötettäessä voi vahingossa jäädä tyhjä sarake. Tämä tapahtuu usein silloin, kun jonkin sarakkeen teksti on pitkä ja näyttää ulottuvan viereisen sarakkeen puolelle, vaikka sarake on oikeasti tyhjä. 
+
+Tyhjä sarake voi aiheuttaa ongelmia esimerkiksi lajittelussa, suodatuksessa ja kaavojen toiminnassa. Siksi on hyvä tarkistaa taulukko ja poistaa turhat tyhjät sarakkeet ennen jatkokäsittelyä. 

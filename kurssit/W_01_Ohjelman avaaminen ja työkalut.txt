@@ -1,0 +1,29 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Ohjelman avaaminen ja työkalut
+
+AIHE: Ohjelman avaaminen ja työkalut
+
+TAVOITE: Oppia tuntemaan ohjelman käyttöliittymä ja yleisimmät työkalut
+
+Wordin verkkoversion avaat näin. Avaa selainohjelma. Kirjoita osoiteriville office 365 ja paina Enter-näppäintä.
+Kirjaudu sisään omalla Microsoft-tililläsi.
+Käytössäsi olevat ohjelmat näet täällä. 
+Word-tekstinkäsittely, Excel-taulukkolaskenta ja PowerPoint-esitysgrafiikka.
+
+Napsauta ohjelmaa, jonka haluat avata. 
+Uuden dokumentin voit lisätä tästä. Nyt olet ohjelman verkkoversiossa. Ohjelmasta on olemassa myös tietokoneelle asennettava versio. Se on maksullinen ja hiukan monipuolisempi toiminnoiltaan, kuin tämä verkkoversio. Jos ero on huomattava, löydät siitä erillisen videon tältä kurssilta. 
+Tutustutaan aivan ensimmäiseksi ohjelmaan.
+Yläreunassa näkyy erilaisia välilehtiä, kuten Tiedosto, Aloitus, Lisää, Asettelu, Tarkista ja Näytä. Kun napsautat jotain välilehteä, sen työkalut tulevat näkyviin valintanauhalle välilehtien alle.
+Jos näet työkaluja ainoastaan yhdellä rivillä, voit laajentaa valintanauhan. 
+Napsauta tätä oikeassa yläkulmassa olevaa nuolikuvaketta.
+Valitse Perinteinen valintanauha. 
+Näin saat näkyviin kaikki perinteiset työkalut.
+Valitse vielä samasta valikosta Näytä aina valintanauha, jos haluat kaikkien työkalujen olevan koko ajan esillä. 
+Säädä automaattisesti -valinnalla valintanauha tulee näkyviin, kun napsautat jotakin välilehteä, ja piiloutuu taas, kun siirryt pois.
+Hienoa, nämä asetukset helpottavat työskentelyäsi. 
+
+Vinkki:
+Jos et löydä jotakin työkalua valintanauhasta, kokeile etsiä se yläreunan Hae-kentän avulla. Voit kirjoittaa siihen esimerkiksi “taulukko” tai “sivunumerot”, ja ohjelma näyttää suoraan oikean toiminnon. Tämä on erityisen kätevä verkkoversiossa, jossa osa toiminnoista on piilotettu eri valikoihin.

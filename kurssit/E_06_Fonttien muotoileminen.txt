@@ -1,0 +1,28 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Muuta fonttia ja tekstin ulkoasua
+
+AIHE: Fonttien muotoilu
+
+TAVOITE: Oppia muotoilemaan fontteja
+
+OHJE: 
+Fonttimuotoilujen avulla voit tehdä Excel-taulukostasi selkeämmän ja helpommin luettavan. Kun muutat fonttia, kokoa ja korostuksia, tärkeät tiedot erottuvat paremmin ja taulukko näyttää viimeistellyltä.
+ 
+Fontit muotoilet helpoiten työkalurivin Fontti-ryhmän painikkeiden avulla.
+
+Tästä voit vaihtaa fontin.
+
+ja tästä fonttikoon. Huomaa, että näillä painikkeilla voit suurentaa ja pienentää fonttia.
+
+Tästä voit vaihtaa fontin värin.
+
+Tällä lihavoit valitun tekstin.
+
+ja tällä kursivoit.
+
+Tällä painikkeella voit muuttaa solun täyttövärin. 
+
+Käytä fonttimuotoiluja maltillisesti. Kun korostat vain tärkeimmät otsikot tai luvut, taulukko pysyy selkeänä ja tiedot on helppo hahmottaa.

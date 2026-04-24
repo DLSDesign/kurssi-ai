@@ -1,0 +1,34 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Siirrä ja kopioi tietoja
+
+AIHE: Tietojen kopiointi ja siirtäminen laskentataulukon sisällä
+
+TAVOITE: Oppia siirtämään ja kopioimaan tietoja laskentataulukon sisällä. 
+
+OHJE: 
+Solujen sisältöjä ja niissä olevia laskukaavoja voidaan siirtää ja kopioida.
+Tarvittavat työkalut löydät tästä ryhmästä.
+Voit siirtää alueita näin. 
+Valitse siirrettävä alue.
+Napsauta työkalurivin Leikkaa-painiketta.
+Siirrä kohdistin kohtaan, johon haluat siirtää tiedot.
+Napsauta työkalurivin Liitä-painiketta.
+Samassa laskentataulukossa voit siirtää alueen myös hiirellä näin.
+Solun sisällön kopioit näin. 
+Valitse alue ja napsauta Kopioi-painiketta.
+Siirrä kohdistin kohdesoluun ja napsauta Liitä-painiketta.
+Voit myös kopioida kaavan tuloksen ilman laskukaavaa. 
+Valitse solut, jotka sisältävät laskukaavan.
+Napsauta Kopioi-painiketta.
+Siirry kohdesoluun. Tässä esimerkissä se sijaitsee toisessa työkirjassa.
+Valitse Liitä-painikkeen valikosta vain arvot. 
+Kun olet liittänyt jotain, näkyviin tulee pieni painike.
+Siitä voit valita samat liittämisen vaihtoehdot kuin Liitä-painikkeesta.
+Voit siis vaihtaa liittämistapaa myös tämän painikkeen kautta.
+
+VINKKI:
+Toki voit käyttää kopiointiin näppäinyhdistelmää Control + C ja liittää sen Control + V. Siirtoon vastaavasti Control + x. Näit videolla myös hiirellä siirtämisen. Jos haluat kopioida hiirellä, pidä Ctrl-näppäintä alhaalla, kun siirrät aluetta. Näin toiminto onkin kopiointi.
+

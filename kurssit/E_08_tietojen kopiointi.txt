@@ -1,0 +1,13 @@
+
+TYYPPI: Ohje
+
+OHJELMA: Excel
+
+AIHE: Tietojen kopiointi
+
+OHJE:
+Excelissä kaavojen tai tietojen nopea kopiointi alas päin onnistuu täyttökahvan kaksoisnapsautuksella:
+Vie hiiri solun päälle: Vie hiiren osoitin sen solun oikeaan alakulmaan, jonka haluat kopioida.
+Musta risti: Osoitin muuttuu mustaksi plussaksi (+), eli täyttökahvaksi.
+Kaksoisnapsauta: Tee nopea kaksoisnapsautushiiren vasemmalla painikkeella. 
+Excel kopioi solun sisällön tai kaavan automaattisesti alas päin niin pitkälle kuin viereisessä sarakkeessa on tietoa.
