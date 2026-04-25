@@ -13,23 +13,21 @@ Excel muotoilee tiedot automaattisesti sen mukaan, mitä syötät. Tekstit tulev
 
 Oletuksena ohjelma muotoilee tiedot niiden syöttömuodon perusteella ja tasaa näin tekstit solun vasempaan reunaan ja luvut oikeaan reunaan.  
 
-Päivämäärän kirjoitat näin.  
+Kirjoita päivämäärä tähän muotoon pp.kk.vvvv. 
 
-Voit myös valita tietojen syöttöalueen hiirellä ja kirjoittaa tiedot. neljä solua:  
+Voit myös valita tietojen syöttöalueen hiirellä ja kirjoittaa tiedot. Kun painat Enter-näppäintä, siirtyy kohdistin automaattisesti seuraavaan valitun alueen soluun. 
 
-Kun painat Enteriä, siirtyy kohdistin automaattisesti seuraavaan valitun alueen soluun. 
-
-Ohjelmassa on kätevä kopiointitoiminto. Kun valitset solun ja viet hiiren osoittimen solun oikeaan alakulmaan, muuttuu hiiren osoittimen muoto.  
+Ohjelmassa on kätevä kopiointitoiminto. Kun valitset solun ja viet hiiren osoittimen solun oikeaan alakulmaan (täyttökahvan päälle), muuttuu hiiren osoitin mustaksi ristiksi.  
 
 Nyt kopiointitoiminto on päällä ja voit hiirellä vetämällä kopioida solun sisältöä.  
 
-Ohjelmassa on myös valmiina erilaisia sarjoja esimerkiksi kuukausille ja päivämäärille. Kun kirjoitat ensimmäisen tiedon ja tartut täyttökahvasta kiinni ja vedät, jatkaa ohjelma automaattisesti sarjaa.  
+Ohjelmassa on myös valmiina erilaisia sarjoja esimerkiksi kuukausille ja päivämäärille. Kun kirjoitat ensimmäisen tiedon ja tartut täyttökahvasta kiinni ja vedät, jatkaa ohjelma automaattisesti sarjaa. Täyttökahva on valitun solun oikeassa alakulmassa oleva pieni neliö. 
 
 Päivämäärissä tämä on joskus ongelmallista. Kun kopioit päivämäärää, antaa ohjelma automaattisesti seuraavan päivän.  
 
 Jos kuitenkin haluat kopioida samaa päivämäärää, avaa kopioinnin jälkeen ilmestyvä toimintopainike.  
 
-Valitse tästä Kopioi solut.    
+Valitse sen valikosta Kopioi solut.    
 
 Tietojen syöttämisessä tulee usein esiin seuraava ongelma. Kirjoitat soluun postinumeron 00100.  
 
@@ -37,12 +35,13 @@ Ohjelma tunnistaa syöttämäsi tiedon luvuksi, tasaa sen solun oikeaan reunaan 
 
 Voit muotoilla solut postinumerotyyppiseksi erikoismuotoilujen avulla.  
 
-Valitse muotoiltava sarake ja valitse täältä Lisää numeromuotoja. 
+1. Valitse muotoiltava sarake ja valitse täältä Lisää numeromuotoja. 
 
-Valitse Erikoismuotoilu. 
+2. Valitse Erikoismuotoilu. 
 
-Valitse tästä Postinumero. 
+3. Valitse luettelosta Postinumero. 
 
+VINKKI:
 Jos kirjoitat nollalla alkavan luvun yhteen yksittäiseen soluun, voit lisätä luvun eteen heittomerkin ('). Näin tieto muuntuu tekstitiedoksi ja etunollat jäävät näkyviin.  
 
 Hyvin yleinen ongelma on myös se, että olet jossakin vaiheessa syöttänyt soluun päivämäärän tai prosenttiluvun.  
@@ -56,3 +55,15 @@ VINKKI:
 Tietoja syötettäessä voi vahingossa jäädä tyhjä sarake. Tämä tapahtuu usein silloin, kun jonkin sarakkeen teksti on pitkä ja näyttää ulottuvan viereisen sarakkeen puolelle, vaikka sarake on oikeasti tyhjä. 
 
 Tyhjä sarake voi aiheuttaa ongelmia esimerkiksi lajittelussa, suodatuksessa ja kaavojen toiminnassa. Siksi on hyvä tarkistaa taulukko ja poistaa turhat tyhjät sarakkeet ennen jatkokäsittelyä. 
+
+VINKKI:
+Hyödynnä automaattitäyttöä. Kun kirjoitat ensimmäisen arvon tai sarjan alkuosan (esimerkiksi maanantai tai tammikuu), voit jatkaa sarjaa nopeasti vetämällä solun oikeassa alakulmassa olevaa pientä täyttökahvaa.
+
+Esimerkkejä:
+
+numerot: 1, 2, 3…
+päivämäärät
+viikonpäivät
+kuukaudet
+
+Näin säästät aikaa ja vältät turhaa kirjoittamista. Kokeile.

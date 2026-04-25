@@ -1,0 +1,38 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tarkastele ja käsittele asiakirjaa näytöllä
+
+AIHE: Tarkastele ja käsittele asiakirjaa näytöllä
+
+TAVOITE: Oppia käsittelemään asiakirjaa eri näkymissä
+
+Tällä videolla käymme läpi muutamia hyödyllisiä toimintoja, jotka auttavat sinua hahmottamaan ja hallitsemaan asiakirjaa. 
+Ohjelmaikkunan yläreunassa näet valintanauhan, jossa ovat kaikki tärkeimmät työkalut tekstin kirjoittamiseen ja muotoiluun. 
+Katsotaan pari hyödyllistä komentoa Näytä-välilehdeltä. 
+Ensimmäinen niistä on viivain. Sen avulla hahmotat, missä tekstisi kulkee, ja voit säätää esimerkiksi sisennyksiä. 
+Voit ottaa sen näkyviin tästä. 
+Jos et tarvitse viivainta, voit helposti piilottaa sen näin.
+Toinen hyödyllinen toiminto on komentopaneeli. Kun avaat sen, näet asiakirjan otsikot listana vasemmassa reunassa. 
+Voit siirtyä nopeasti haluamaasi kohtaan napsauttamalla otsikkoa. 
+Tässä voit myös hakea sanoja tai lauseita koko asiakirjasta. Tämä on erityisen kätevää silloin, kun asiakirja on pitkä.
+Tutkitaan seuraavaksi ohjelman tilariviä. Se sijaitsee sivun alareunassa, ja kertoo paljon hyödyllistä tietoa asiakirjasta.
+Tässä näet asiakirjan sanojen määrän. 
+Kun napsautat sitä, saat näkyviin tarkempia tietoja esimerkiksi merkkien ja kappaleiden määrän. Tämä on hyödyllistä, jos tehtävässä on rajattu sanamäärä.
+Tässä näet asiakirjan kielen. 
+Word tunnistaa kielen yleensä automaattisesti, mutta voit vaihtaa sen tarvittaessa. 
+Napsauta kieltä ja valitse listasta haluamasi vaihtoehto.  Tämä vaikuttaa siihen, millä kielellä oikoluku ja oikeinkirjoituksen tarkistus toimivat.
+Tilarivillä on myös Erilliset sivut -painike. 
+Kun tämä asetus on päällä, jokainen sivu näkyy omana alueenaan, ja niiden välissä on selvä väli. 
+Tilarivin alussa näet, millä sivulla olet, ja montako sivua asiakirjassa on yhteensä. Tämä auttaa hahmottamaan, missä kohtaa asiakirjaa olet menossa.
+Kun toiminto on pois päältä, asiakirja näkyy yhtenä pitkänä jatkumona ilman sivurajoja.
+Voit valita sen tilan, joka tuntuu sinusta selkeimmältä.
+Tässä näet zoomauksen. Sen avulla voit suurentaa tai pienentää näkymää.
+Jos haluat nähdä koko sivun kerralla, pienennä zoomausta.
+Jos taas haluat katsoa tekstiä tarkemmin, suurennus auttaa.
+Zoomausta voit säätää liukusäätimellä tai valitsemalla sopivan prosenttiluvun.
+Kun tunnet nämä perustoiminnot, työskentelysi on sujuvaa ja vaivatonta.
+
+Huom! Eroavaisuus Wordin työpöytäversioissa. Wordin työpöytäversiossa on enemmän erilaisia näyttötiloja. 
+

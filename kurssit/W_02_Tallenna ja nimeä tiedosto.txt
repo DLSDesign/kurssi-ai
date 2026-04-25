@@ -1,0 +1,20 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tallenna ja nimeä tiedosto
+
+AIHE: Tiedoston tallentaminen ja nimeäminen
+
+TAVOITE: Oppia tallentamaan tiedoston
+
+Ohjelman verkkoversio tallentaa muutokset automaattisesti OneDriveen. Täällä yläreunassa on tilanteen mukaan joko Tallennetaan tai Tallennettu. 
+Tässä näet dokumenttisi nimen. 
+Jos haluat nimetä sen uudelleen, napsauta nimeä hiirellä. 
+Saat näkyviin tämän valintaikkunan. 
+Kirjoita dokumentille haluamasi nimi. 
+Hyväksy nimi napsauttamalla hiirellä valintaikkunan ulkopuolella.
+Nyt uusi nimi näkyy tässä.
+
+Vinkki:
+Jos haluat palata aiempaan versioon dokumentista, napsauta yläreunasta tiedoston nimeä ja valitse Versiohistoria. Näet listan automaattisesti tallennetuista versioista ja voit tarvittaessa palauttaa niistä minkä tahansa.

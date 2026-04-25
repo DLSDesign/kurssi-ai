@@ -1,0 +1,54 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Valitse solualueita
+
+AIHE: Valitse soluja ja solualueita
+
+TAVOITE: Oppia valitsemaan erilaisia alueita laskentataulukosta. Näiden taitojen opetteleminen helpottaa työskentelyäsi.
+
+OHJE:
+
+Kun haluat muotoilla, kopioida tai siirtää taulukon soluja, täytyy sinun ensin valita ne. Yhtenäisen alueen lisäksi sinun täytyy usein valita useita erillisiä alueita.  
+
+Tässä muutama tehokas vinkki osien valintaan. 
+
+Valitse alue hiirellä maalaamalla.  
+
+Erillisen alueen valitset Control-näppäin alhaalla. 
+
+Rivin valitset rivitunnuksesta ja sarakkeen sen tunnuksesta. 
+
+Koko taulukon valitset kätevästi Control A -näppäinyhdistelmällä. 
+
+Ja koko laskentataulukon napsauttamalla rivinumeroiden ja sarakekirjaimien risteyksessä olevaa painiketta. 
+
+VINKKI:
+Käytä Vaihto(Shift)-näppäintä suurten alueiden valintaan.
+
+Jos haluat valita pitkän alueen nopeasti:
+
+1. Napsauta ensimmäistä solua.
+2. Pidä Vaihto(Shift)-näppäin alas painettuna.
+3. Napsauta alueen viimeistä solua.
+
+Excel valitsee kaikki solut näiden välistä.
+
+Esimerkiksi: Valitse solu A1, paina Vaihto(Shift)-näppäin alas ja napsauta A100-solua. Kaikki solut A1–A100 valitaan yhdellä kertaa.
+
+Tämä on paljon nopeampaa ja tarkempaa kuin hiirellä maalaaminen, etenkin isoissa taulukoissa.
+
+VINKKI:
+Tässä muutama hyvä vinkki solujen valintaan Excelissä:
+
+1. Ctrl + nuolinäppäimet
+Siirryt nopeasti tietojen reunaan ilman vierittämistä.
+Esimerkiksi Ctrl + ↓ vie seuraavan tietoryhmän loppuun.
+2. Ctrl + Vaihto(Shift) + nuolinäppäimet
+Valitsee nopeasti pitkän yhtenäisen alueen.
+Esimerkiksi Ctrl + Shift + ↓ valitsee kaikki alapuolella olevat tiedot.
+3. Nimiruutu nopeaan valintaan
+Kirjoita nimi-ruutuun esimerkiksi A1:D20 ja paina Enter. Excel valitsee koko alueen heti.
+
+Näistä ehkä tehokkain arjessa on Ctrl + Shift + nuoli. Sillä saat valittua isot tietomäärät.

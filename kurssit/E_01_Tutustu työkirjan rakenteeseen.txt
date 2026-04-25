@@ -12,17 +12,15 @@ Excelissä työskentelyaluetta kutsutaan työkirjaksi.
 
 Yläreunassa näkyy erilaisia välilehtiä, kuten Tiedosto, Aloitus, Lisää ja niin edelleen. Kun napsautat jotain välilehteä, sen työkalut tulevat näkyviin valintanauhalle välilehtien alle. 
 
-Jos näet työkaluja ainoastaan yhdellä rivillä, voit laajentaa valintanauhan.  
+Jos näet työkaluja kaikkien työkalujen näkyvän, voit laajentaa valintanauhan.  
 
-Napsauta tätä oikeassa yläkulmassa olevaa nuolikuvaketta. 
+1. Napsauta valintanauhan oikeassa reunassa olevaa nuolikuvaketta. 
 
-Valitse Perinteinen valintanauha.  
+2. Valitse avautuneesta valikosta Perinteinen valintanauha. Näin saat näkyviin kaikki perinteiset työkalut.  
 
-Näin saat näkyviin kaikki perinteiset työkalut.  
+3. Jos haluat kaikkien työkalujen olevan koko ajan esillä, valitse vielä samasta valikosta Näytä aina valintanauha. 
 
-Valitse vielä samasta valikosta Näytä aina valintanauha, jos haluat kaikkien työkalujen olevan koko ajan esillä.  
-
-Säädä automaattisesti -valinnalla valintanauha tulee näkyviin, kun napsautat jotakin välilehteä, ja piiloutuu taas, kun siirryt pois. 
+4. Säädä automaattisesti -valinnalla valintanauha tulee näkyviin, kun napsautat jotakin välilehteä, ja piiloutuu taas, kun siirryt pois. 
 
 Hienoa, nämä asetukset helpottavat työskentelyäsi. 
 
@@ -48,6 +46,28 @@ Tilarivi sijaitsee työkirjan alapuolella. Siinä näet tietoja ohjelman tilasta
 
 Tilarivin oikean reunan säätimellä voit myös zoomata laskentataulukkoa.   
 
+Työkirja
+Työkirja on koko Excel-tiedosto, johon tallennat työsi. Se voi sisältää yhden tai useita laskentataulukoita.
+
+Laskentataulukko
+Laskentataulukko on työkirjan yksi välilehti, jossa käsittelet tietoja. Työkirjassa voi olla useita laskentataulukoita.
+
+Taulukko
+Taulukko on laskentataulukon sisällä oleva tietojoukko, joka on järjestetty riveihin ja sarakkeisiin. Taulukossa tiedot ovat selkeästi yhdessä paikassa.
+
 VINKKI: 
 
 Nimi-ruutua voit käyttää myös laskentataulukossa liikkumiseen. Kun kirjoitat siihen solun osoitteen (esimerkiksi D250) ja painat Enteriä, Excel siirtyy suoraan kyseiseen kohtaan. Tämä säästää paljon aikaa etenkin suurissa taulukoissa. 
+
+VINKKI:
+Voit nopeuttaa työskentelyä lisäämällä usein käyttämäsi komennot Excelin Pikatyökaluriville, joka näkyy ohjelmaikkunan oikeassa yläreunassa.
+
+Näin teet sen:
+
+1. Etsi haluamasi komento valintanauhasta.
+2. Napsauta komentoa hiiren oikealla painikkeella.
+3. Valitse avautuneesta valikosta Lisää pikatyökaluriville.
+
+Työkalu näkyy tämän jälkeen aina yläreunassa, riippumatta siitä, millä välilehdellä työskentelet. Näin voit säästää monta klikkausta päivässä.
+
+HAKUSANAT: työkirja, työkirjan rakenne, laskentataulukko, Excel välilehdet, valintanauha, perinteinen valintanauha, näytä aina valintanauha, kaavarivi, nimi-ruutu, aktiivinen solu, solun osoite, soluosoite, sarakkeet, rivit, solut, tilarivi, zoomaus, pikatyökalurivi, Excel-työkalut, siirtyminen soluun, siirry soluun

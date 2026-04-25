@@ -1,0 +1,30 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Sulje ja avaa dokumentti
+
+AIHE: Tiedoston sulkeminen ja avaaminen
+
+TAVOITE: Oppia sulkemaan ja avaamaan asiakirjan
+
+Kun haluat sulkea dokumentin, voit sulkea selainohjelmasta sen välilehden. 
+Aloitusvälilehti on täällä edelleen avoinna ja voit halutessasi avata ohjelman ja dokumentit sieltä uudelleen.
+Kun haluat avata aiemmin tekemäsi dokumentin, napsauta Word kuvaketta.
+Näet etusivulla listan viimeksi käytetyistä tiedostoista.
+Napsauta tiedoston nimeä, jos se on listalla.
+Jos tiedostoa ei näy, valitse Näytä kaikki tiedostot. 
+Nyt voi käyttää näitä suodatuspainikkeita tai etsiä tiedoston tämän hakuruudun avulla. 
+Kun löydät haluamasi tiedoston, napsauta sen nimeä.
+Tiedosto avautuu uuteen selaimen välilehteen. 
+Voit aloittaa sen muokkaamisen.
+
+Tuo olemassa oleva dokumentti käsiteltäväksi Wordin verkkoversioon.
+Avaa Word.
+Napsauta Wordissa Lataa tiedosto –painiketta. 
+Selaa tietokoneeltasi haluamasi tiedosto ja valitse Avaa.
+Word avaa tiedoston ja lataa sen automaattisesti OneDriveen.
+Jos olet tehnyt OneDriveen kansioita, voit siirtää tiedoston haluamaasi kansioon näin.
+Valitse Tiedosto-välilehdeltä Siirrä tiedosto.
+Saat näkyviin valintaikkunan, jossa voit määrittää, mihin tiedosto siirretään.
+
