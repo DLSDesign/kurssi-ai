@@ -1,0 +1,59 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Rivien ja sarakkeiden käsittely
+
+AIHE: Rivien ja sarakkeiden käsittely
+
+TAVOITE: Rivien ja sarakkeiden käsittely on yksi Excelin tärkeimmistä perustaidoista. Usein huomaat, että taulukkoon täytyy lisätä uusia rivejä tai sarakkeita jo olemassa olevien tietojen väliin, jotta taulukko pysyy ajan tasalla ja selkeänä.
+
+OHJE:
+Sarakkeen leveyttä voit muuttaa kaksoisnapsauttamalla saraketunnusten (esim. A ja B) välissä näkyvää viivaa. Kun viet hiiren tämän viivan päälle, muuttuu hiiri kaksisuuntaiseksi nuoleksi. Voit myös vetää sarakkeen leveyden hiirellä osoittimen ollessa kaksisuuntainen nuoli.
+Jos haluat muuttaa useamman sarakkeen leveyden, valitse ne ja muuta leveyttä.
+Samalla tavalla voit muuttaa rivin korkeutta.
+
+Sarakkeita sekä rivejä lisäät ja poistat näillä painikkeilla. 
+1. Valitse rivi sen rivitunnuksesta (numero) tai sarake sen saraketunnuksesta (kirjain).
+2. Valitse Aloitus-välilehden Solut-ryhmästä Lisää-komento. Valitse vielä avautuneesta valikosta Lisää taulukon sarakkeita. 
+3. Samalla periaatteella lisäät rivejä.
+Jos haluat lisätä useamman valitse lisättävä määrä ja lisää ne.
+
+Sarakkeen tai rivin poistat näin.
+1. Valitse rivi sen rivitunnuksesta (numero) tai sarake sen saraketunnuksesta (kirjain).
+2. Valitse Aloitus-välilehden Solut-ryhmästä Poista-komento. Valitse vielä avautuneesta valikosta Poista taulukon sarakkeita tai Poista tauluko rivejä sen mukaa, mitä olet poistamssa. 
+Jos haluat poistaa useamman valitse poistettavat sarakkeet/rivit ja poista ne edellä kuvatulla tavalla.
+
+Joskus sarakkeita tai rivi täytyy piilottaa. Tee se näin.
+1. Valitse piilotettava sarake tai rivi.
+2. Valitse Aloitus-välilehden Solut-ryhmästä Muotoile ja valitse avautuneesta valikosta Piilota tai näytä.
+3. Valitse avautuneesta valikosta, mitä haluat piilottaa tai näyttää.
+Tästä huomaat, että yksi sarake on piilotettu.
+Takaisin näkyviin tuot valitsemalla edellä kuvatusta valikosta näytä-komennon.
+
+Vinkki
+Suunnittele rakenne laajennettavaksi. Jätä taulukon ympärille tarkoituksella tyhjää tilaa ja käytä Muotoile taulukoksi -toimintoa. Tällöin uudet rivit ja sarakkeet liittyvät automaattisesti mukaan kaavoihin, suodatuksiin ja muotoiluihin, eikä sinun tarvitse korjata viittauksia käsin myöhemmin.
+
+
+
+HAKUSANAT:
+rivit, sarakkeet, rivien käsittely, sarakkeiden käsittely, lisää rivi, lisää sarake, poista rivi, poista sarake, lisää rivejä, lisää sarakkeita, poista rivejä, poista sarakkeita, rivin lisääminen, sarakkeen lisääminen, rivin poistaminen, sarakkeen poistaminen, rivikorkeus, sarakeleveys, muuta rivikorkeutta, muuta sarakeleveyttä, säädä sarakeleveys, säädä rivikorkeus, automaattinen sarakeleveys, automaattinen sovitus, kaksoisnapsautus sarakeleveys, muuta solun kokoa, piilota rivi, piilota sarake, näytä piilotettu rivi, näytä piilotettu sarake, piilota tai näytä, rivitunnus, saraketunnus, taulukon rakenne, lisää tietoja taulukkoon, muokkaa taulukkoa, taulukon laajentaminen, tyhjän tilan jättäminen, laajennettava taulukko, muotoile taulukoksi, Excel-taulukko, automaattinen laajeneminen, taulukon muokkaaminen
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään uuden rivin
+miten lisään uuden sarakkeen
+miten poistan rivin
+miten poistan sarakkeen
+miten muutan sarakkeen leveyttä
+miten muutan rivin korkeutta
+miten saan tekstin mahtumaan sarakkeeseen
+miten piilotan sarakkeen
+miten piilotan rivin
+miten saan piilotetun sarakkeen takaisin
+miten saan piilotetun rivin näkyviin
+miten lisään useita rivejä kerralla
+miten lisään useita sarakkeita kerralla
+miten teen taulukosta laajennettavan
+miksi jättää tyhjää tilaa taulukon ympärille
+

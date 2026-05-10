@@ -1,0 +1,34 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Ohjelman valmiiden taulukkomuotoilujen käyttäminen
+
+AIHE: Ohjelman valmiit taulukkomuotoilut
+
+TAVOITE: Oppia käyttämään ohjelman valmiita taulukkomuotoiluja.
+
+OHJE:
+Jos sinulla on jo laskentataulukossa tietoja, voit muotoilla sen taulukoksi. Excel-taulukoksi muotoiltu tieto on selkeämpää ja helpompaa käsitellä. Taulukko lisää automaattisesti suodatus- ja lajittelutoiminnot, pitää muotoilut yhtenäisinä ja helpottaa kaavojen käyttöä. Näin työskentely nopeutuu ja virheitä tulee vähemmän.
+
+Vie kohdistin tietoja sisältävän alueen sisälle ja valitse Aloitus-välilehdeltä Muotoile taulukoksi. 
+Valitse avautuneesta valikoimasta haluamasi muotoilu.
+Valitse avautuneesta valintaikkunasta Taulukko sisältää otsikot -ruutu, jos taulukkosi sisältää otsikot. Jos taulukkosi ei sisällä otsikkoja, Excel lisää taulukollesi oletusotsikot. 
+Hyväksy OK-painikkeella.
+Nyt ohjelma muotoili taulukkosi.
+Voit vaihtaa taulukkotyylin toiseksi milloin tahansa.
+Saat näkyviin taulukkotyökalut-välilehden. Siellä voit tehdä muotoiluja ja muita asetuksia taulukkoosi. 
+Kun lisäät taulukkoosi uusia rivejä tai sarakkeita, muotoilee ohjelma automaattisesti ne taulukkomuotoon. 
+
+Kun haluat tehdä laskentaa taulukossa, tarvitsee sinun lisätä laskukaava ainoastaan ensimmäiseen soluun ja Excel lisää kaava automaattisesti myös muihin soluihin.
+
+Huomaa myös, että ohjelma lisää taulukon otsikoiden viereen suodatuspainikkeet. Laskentaan ja suodatuksen käyttöön tutustut tällä kurssilla Tietojen suodattaminen -videossa.
+
+VINKKI:
+Käytä Muotoile taulukoksi -toimintoa, kun sinulla on selkeä tietotaulukko, jossa on otsikkorivi ja sen alla riveittäin tietoja (esimerkiksi myyntilista, asiakasluettelo tai tuntiseuranta).
+
+Toiminto tekee taulukosta heti helpomman käyttää: otsikot pysyvät näkyvissä, rivit erottuvat selkeämmin ja lajittelu sekä suodatus onnistuvat yhdellä napsautuksella. Tämä helpottaa työskentelyä ja vähentää virheitä tiedon käsittelyssä.
+
+
+HAKUSANAT:
+muotoile taulukoksi, Excel-taulukko, taulukkomuotoilu, valmiit taulukkomuotoilut, taulukkotyyli, taulukkotyylit, muunna taulukoksi, tee taulukko, taulukon muotoilu, taulukon tyyli, taulukon ulkoasu, Excel taulukko, tietotaulukko, taulukko otsikoilla, otsikkorivi, taulukon otsikot, taulukko sisältää otsikot, taulukkotyökalut, taulukon asetukset, taulukon suunnittelu, taulukon muokkaus, taulukon lajittelu, taulukon suodatus, suodatuspainikkeet, automaattinen suodatus, automaattinen lajittelu, lisää rivejä taulukkoon, lisää sarakkeita taulukkoon, automaattinen muotoilu, automaattinen kaava, kopioi kaava koko sarakkeeseen, taulukkolaskenta, rakenteellinen viittaus, tietojen hallinta, tietojen järjestäminen, tietojen käsittely, Excel lista, asiakaslista Excel, myyntitaulukko Excel, tuntiseuranta Excel

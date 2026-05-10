@@ -1,0 +1,157 @@
+Excelin yleisimmät virheilmoitukset
+
+Excel näyttää virheilmoituksen silloin, kun kaavaa ei voida laskea oikein tai kaavassa on rakennevirhe. Virheilmoitus auttaa sinua löytämään ongelman.
+
+Excelin yleisimmät virheet johtuvat yleensä:
+
+- väärästä tietotyypistä
+- puuttuvista arvoista
+- vääristä soluviittauksista
+- kirjoitusvirheistä kaavoissa
+- jakamisesta nollalla
+- hakufunktion epäonnistumisesta
+
+---------------------------
+
+
+#JAKO/0! (DIV/0!)
+
+Mitä tarkoittaa? Kaavassa yritetään jakaa luku nollalla tai tyhjällä solulla.
+
+Yleisin syy: Jakaja on 0 tai tyhjä.
+
+Esimerkki: =A1/B1
+Jos B1 sisältää arvon 0 tai on tyhjä, Excel näyttää virheen.
+
+Miten korjaat?
+- Tarkista, että jakaja ei ole nolla.
+- Tarkista, että jakajasolussa on arvo.
+
+
+---
+
+#ARVO! (VALUE!)
+
+Mitä tarkoittaa? Kaava käyttää väärän tyyppistä tietoa.
+
+Yleisin syy: Kaavassa käytetään tekstiä, vaikka pitäisi käyttää numeroa.
+
+Esimerkki: =A1+B1
+Jos A1 sisältää tekstin "Hei", kaava ei toimi.
+
+Miten korjaat?
+- Tarkista, että laskettavat arvot ovat numeroita.
+- Poista mahdolliset ylimääräiset välilyönnit.
+- Jos numero on solun vasemmassa reunassa, se voi olla tekstimuodossa. Muotoile se numeroksi.
+
+---
+
+#NIMI? (NAME?)
+
+Mitä tarkoittaa? Excel ei tunnista kaavassa olevaa nimeä.
+
+Yleisin syy: Funktion nimi on kirjoitettu väärin tai sen sisältämästä tekstistä puuttuvat lainausmerkit.
+
+Esimerkki: =SUMMAA(A1:A5)
+Oikea muoto: =SUMMA(A1:A5)
+
+Huomiothan myö, jos kaavassa käytetään tekstejä esim. =SUMMA.JOS(A2:A270;"Finland";B2:B270), täytyy tekstin olla lainausmerkkien sisällä. 
+
+Miten korjaat?
+ - Tarkista funktion nimi.
+ - Tarkista nimetyt alueet.
+ - Lisää mahdollisesti puuttuvat lainausmerkit tekstin ympärille.
+
+---
+
+#VIITTAUS! (REF!)
+
+Mitä tarkoittaa? Kaava viittaa paikkaan, jota ei enää ole.
+
+Yleisin syy: Viitattu solu, rivi, sarake tai taulukko on poistettu.
+
+Esimerkki: Kaava viittaa soluun A5, mutta A-sarake on poistettu.
+
+Miten korjaat?
+- Korjaa soluviittaukset.
+- Tarkista, ettei viitattuja alueita ole poistettu.
+
+---
+
+#PUUTTUU! (N/A)
+
+Mitä tarkoittaa? Arvoa ei löytynyt.
+
+Yleisin syy: Hakufunktio ei löydä haettua arvoa.
+
+Esimerkki: =PHAKU("Matti";A1:B10;2;EPÄTOSI)
+
+Jos Mattia ei löydy, Excel näyttää virheen.
+
+Miten korjaat?
+
+- Tarkista kirjoitusasu.
+- Tarkista, että arvo on olemassa.
+- Tarkista hakualue.
+
+---
+
+#LUKU! (NUM!)
+
+Mitä tarkoittaa? Kaavassa oleva luku ei kelpaa laskentaan.
+
+Yleisin syy: Luku on liian suuri, liian pieni tai matemaattisesti mahdoton.
+
+Esimerkki: =NELIÖJUURI(-5)
+
+Excel ei voi laskea tavallista neliöjuurta negatiivisesta luvusta.
+
+Miten korjaat?
+
+- Tarkista syötetyt luvut.
+- Tarkista funktion ehdot.
+
+---
+
+#TYHJÄ! (NULL!)
+
+Mitä tarkoittaa? Kaava yrittää etsiä kahden alueen leikkauspistettä, mutta sitä ei ole.
+
+Yleisin syy: Kaavassa on vahingossa välilyönti alueiden välissä.
+
+Esimerkki: =SUMMA(A1:A5 B1:B5)
+
+Excel tulkitsee välilyönnin leikkausoperaattoriksi.
+
+Miten korjaat?
+- Jos tarkoitus oli käyttää kahta aluetta: =SUMMA(A1:A5;B1:B5) tai =SUMMA(A1:B5) riippuen tarkoituksesta.
+
+Tämä on yksi Excelin helpoimmin väärinymmärrettävistä virheistä.
+
+---
+
+####### (risuaidat)
+
+Mitä tarkoittaa? Huomioithan että tämä ei ole varsinainen kaavavirhe, vaan sarakkeen leveys ei riitä näyttämään sisältöä.
+
+Yleisin syy: Luku tai päivämäärä ei mahdu näkyviin.
+
+Miten korjaat?
+
+- Levennä saraketta.
+- Lyhennä desimaaleja.
+- Muuta muotoilua.
+
+---
+
+Kehäviittaus (Circular Reference)
+
+Olet kirjoittanut kaavan, mutta se ei toimi. Sen sijaan saat viestin kehäviittausviestistä. 
+
+Mitä tarkoittaa? Kaava viittaa itseensä joko suoraan tai epäsuorasti.
+
+Esimerkki (suora): =A1+1, kun kaava on solussa A1.
+
+Miten korjaat?
+- Tarkista viittaukset.
+- Poista kaavan omaan soluun palaava viittaus.

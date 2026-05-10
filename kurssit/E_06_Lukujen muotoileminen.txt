@@ -2,12 +2,12 @@ TYYPPI: video
 
 OHJELMA: Excel
 
-VIDEO: Muotoile lukuja
+VIDEO: Lukujen muotoileminen
 
-AIHE:
-Lukuja voidaan muotoilla usealla eri tavalla. Nämä muotoilut muuttavat ainoastaan luvun ulkoasua, eivät sen arvoa. Tämä tarkoittaa sitä, että jos solussa näkyvästä luvusta esimerkiksi 20,95 on vähennetty desimaaleja muotoilulla, niin että solussa näkyy luku 21, käyttää Excel laskennassa kuitenkin lukua 20,95.
+AIHE: Lukujen muotoileminen
 
-TAVOITE: Oppia muotoilemaan lukuja ja ymmärtämään, miten muotoilu vaikuttaa lukuihin.
+
+TAVOITE: Oppia muotoilemaan lukuja ja ymmärtämään, miten muotoilu vaikuttaa lukuihin. Lukuja voidaan muotoilla usealla eri tavalla. Nämä muotoilut muuttavat ainoastaan luvun ulkoasua, eivät sen arvoa. Tämä tarkoittaa sitä, että jos solussa näkyvästä luvusta esimerkiksi 20,95 on vähennetty desimaaleja muotoilulla, niin että solussa näkyy luku 21, käyttää Excel laskennassa kuitenkin lukua 20,95.
 
 OHJE:
 Voit muotoilla tietoja Numero-ryhmän painikkeilla. 

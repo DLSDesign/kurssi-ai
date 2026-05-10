@@ -1,0 +1,29 @@
+TYYPPI: lisäohje
+
+OHJELMA: Excel
+
+AIHE: Päivämäärillä laskeminen
+
+TAVOITE: Oppia laskemaan päivämäärillä. Excel käsittelee päivämäärät numeroina, vaikka ne näkyvät käyttäjälle päivämäärinä. 
+
+OHJE:
+Jokainen päivä on yksi luku.
+
+Esimerkiksi:
+1.1.1900 = 1
+2.1.1900 = 2
+3.1.1900 = 3
+
+Näin jokainen seuraava päivä kasvattaa lukua yhdellä. Tämän vuoksi päivämäärillä voidaan laskea samalla tavalla kuin numeroilla.
+
+Esimerkiksi:
+
+Kun vähennät kahdesta päivämäärästä toisensa, saat päivien määrän niiden välillä.
+Kun lisäät päivämäärään luvun 7, siirryt seitsemän päivää eteenpäin.
+
+Esimerkki:
+Jos solussa A1 on 1.5.2026 ja kirjoitat kaavan =A1+7, tulos on 8.5.2026.
+
+Muista:
+Vaikka Excel näyttää arvon päivämääränä, taustalla se on aina numero.
+Hakusanat: päivämäärälaskenta, päivämäärä numeroina, päivämäärien erotus, lisää päiviä päivämäärään, Excel päivämäärämuotoilu

@@ -2,7 +2,7 @@ TYYPPI: video
 
 OHJELMA: Excel
 
-VIDEO: Valitse solualueita
+VIDEO: Solualueiden valitseminen
 
 AIHE: Valitse soluja ja solualueita
 

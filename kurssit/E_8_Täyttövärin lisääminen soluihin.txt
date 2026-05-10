@@ -1,0 +1,31 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Täyttövärin lisääminen soluihin
+
+AIHE: Täyttövärin lisääminen soluihin
+
+TAVOITE: Solujen täyttöväri auttaa tekemään taulukoista selkeämpiä ja helpommin luettavia. Täyttövärillä voit korostaa tärkeitä tietoja, erottaa otsikot muista tiedoista ja jäsentää taulukon sisältöä.
+
+OHJE:
+Täyttövärin eli solun taustavärin lisäät näin.
+1. Valitse solut, joihin haluat täyttövärin.
+2. Napsauta Aloitus-välilehdeltä Fontti-ryhmän Täyttöväri-painikkeen nuolta.
+3. Valitse avautuneesta valikoimasta haluamasi väri.
+
+Lisää värejä -valinnalla saat näkyviin valintaikkunan, jossa on lisää värivaihtoehtoja.
+
+Täyttövärin eli solun taustavärin poistat näin.
+1. Valitse solut, joista haluat poistaa täyttövärin.
+2. Napsauta Aloitus-välilehdeltä Fontti-ryhmän Täyttöväri-painikkeen nuolta.
+3. Valitse avautuneesta valikoimasta Ei täyttöä.
+
+VINKKI:
+Käytä täyttövärejä harkiten. Liian monet värit voivat tehdä taulukosta sekavan. Yksi tai kaksi korostusväriä riittää usein hyvin.
+
+VINKKI:
+Jos haluat käyttää täsmälleen tiettyä väriä, esimerkiksi yrityksen logon väriä, valitse Aloitus-välilehdeltä Fontti-ryhmän Täyttöväri-painikkeen valikosta Lisää värejä. Siirry valintaikkunan Mukautetut-välilehdelle ja määritä haluamasi värin koodit niille tarkoitettuihin kenttiin.
+
+HAKUSANAT:
+täyttöväri, solun täyttöväri, solun taustaväri, taustaväri, lisää väri soluun, poista täyttöväri, solun väri, Excel värit, värikoodi, RGB-väri, värisävy, mukautettu väri, yrityksen väri, brändiväri, tarkka väri, solun taustaväri, heks-koodi, heks-väri

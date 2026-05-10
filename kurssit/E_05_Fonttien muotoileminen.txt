@@ -1,0 +1,48 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Fonttien muotoileminen
+
+AIHE: Fonttien muotoilu
+
+TAVOITE: Fonttimuotoilujen avulla voit tehdä Excel-taulukostasi selkeämmän ja helpommin luettavan. Kun muutat fonttia, kokoa ja korostuksia, tärkeät tiedot erottuvat paremmin ja taulukko näyttää viimeistellyltä.
+
+OHJE:
+
+Fontit muotoilet helpoiten näiden Aloitus-työkalurivin Fontti-ryhmän painikkeiden avulla.
+
+1. Fontti-valikosta voit vaihtaa fontin.
+
+2. Fonttikoko-valikosta voit vaihtaa fontin koon. Sen oikealla puolella olevilla painikkeilla voit suurentaa ja pienentää fonttia.
+
+3. Fontin väri -painikkeella voit vaihtaa fontin värin.
+
+4. Lihavointi-painikkeella voit lihavoida valitun tekstin.
+
+5. Kursivointi-painikkeella voit kurssi voida tekstin.
+
+Täyttöväri-painikkeella voit muuttaa solun täyttövärin. 
+
+Vinkki
+Käytä fonttimuotoiluja maltillisesti. Kun korostat vain tärkeimmät otsikot tai luvut, taulukko pysyy selkeänä ja tiedot on helppo hahmottaa.
+
+VINKKI: Muotoilusivellin
+Muotoilusiveltimellä voit kopioida solun muotoilun toiseen soluun tai useisiin soluihin. Valitse ensin muotoiltu solu, napsauta Muotoilusivellintä ja valitse sitten kohdesolu. Tämä säästää aikaa, kun samaa muotoilua käytetään useaan paikkaan.
+
+Hakusanat: muotoilusivellin, muotoilun kopiointi, kopioi muotoilu, sama muotoilu useaan soluun
+
+VINKKI: Otsikoiden lihavointi
+Lihavointi auttaa erottamaan otsikot ja tärkeät tiedot muusta sisällöstä. Se parantaa taulukon luettavuutta ja tekee rakenteesta selkeämmän.
+
+Hakusanat: lihavointi, otsikon muotoilu, korosta otsikko, fontin lihavointi
+
+VINKKI: Värien käyttö taulukossa
+Fontin väriä ja solun täyttöväriä voi käyttää tärkeiden tietojen korostamiseen. Käytä värejä maltillisesti, jotta taulukko pysyy selkeänä.
+
+Hakusanat: fontin väri, täyttöväri, solun väri, tekstin väri, värien käyttö Excelissä
+
+VINKKI: Yhtenäinen muotoilu
+Kun käytät samoja fontteja, fonttikokoja ja korostuksia koko taulukossa, taulukko näyttää selkeältä ja ammattimaiselta. Yhtenäinen muotoilu helpottaa tietojen lukemista.
+
+Hakusanat: yhtenäinen muotoilu, sama fontti, fonttikoko, taulukon ulkoasu, selkeä taulukko

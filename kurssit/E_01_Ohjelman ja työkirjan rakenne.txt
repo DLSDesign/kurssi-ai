@@ -1,6 +1,6 @@
 OHJELMA: Excel
 
-VIDEO: Tutustu työkirjan rakenteeseen
+VIDEO: Ohjelman ja työkirjan rakenne
 
 AIHE: Excel-työkirjaan tutustuminen
 
@@ -46,14 +46,35 @@ Tilarivi sijaitsee työkirjan alapuolella. Siinä näet tietoja ohjelman tilasta
 
 Tilarivin oikean reunan säätimellä voit myös zoomata laskentataulukkoa.   
 
+
+
+Työkirja, laskentataulukko ja Excel-taulukko – mikä ero niillä on?
+
+Excelissä nämä käsitteet tarkoittavat eri asioita:
+
 Työkirja
-Työkirja on koko Excel-tiedosto, johon tallennat työsi. Se voi sisältää yhden tai useita laskentataulukoita.
+Työkirja on koko Excel-tiedosto. Se sisältää yhden tai useita laskentataulukoita.
+
+Esimerkki:
+Budjetti.xlsx on yksi työkirja.
 
 Laskentataulukko
-Laskentataulukko on työkirjan yksi välilehti, jossa käsittelet tietoja. Työkirjassa voi olla useita laskentataulukoita.
+Laskentataulukko on työkirjan yksittäinen välilehti, jossa tietoja käsitellään.
 
-Taulukko
-Taulukko on laskentataulukon sisällä oleva tietojoukko, joka on järjestetty riveihin ja sarakkeisiin. Taulukossa tiedot ovat selkeästi yhdessä paikassa.
+Esimerkki:
+Työkirjassa voi olla välilehdet Tammikuu, Helmikuu ja Yhteenveto.
+
+Excel-taulukko
+Excel-taulukko on laskentataulukon sisällä oleva tietojoukko, joka on muotoiltu Muotoile taulukoksi -toiminnolla. Se sisältää valmiita toimintoja, kuten suodatuksen, lajittelun ja automaattisen kaavojen kopioinnin.
+
+Esimerkki:
+Asiakaslista tai myyntiraportti voi olla Excel-taulukko.
+
+Yhteenveto:
+Työkirja = koko tiedosto
+Laskentataulukko = työkirjan välilehti
+Excel-taulukko = välilehden sisällä oleva muotoiltu tietotaulukko
+
 
 VINKKI: 
 
@@ -70,4 +91,4 @@ Näin teet sen:
 
 Työkalu näkyy tämän jälkeen aina yläreunassa, riippumatta siitä, millä välilehdellä työskentelet. Näin voit säästää monta klikkausta päivässä.
 
-HAKUSANAT: työkirja, työkirjan rakenne, laskentataulukko, Excel välilehdet, valintanauha, perinteinen valintanauha, näytä aina valintanauha, kaavarivi, nimi-ruutu, aktiivinen solu, solun osoite, soluosoite, sarakkeet, rivit, solut, tilarivi, zoomaus, pikatyökalurivi, Excel-työkalut, siirtyminen soluun, siirry soluun
+HAKUSANAT: työkirja, työkirjan rakenne, laskentataulukko, taulukko, Excel-välilehdet, valintanauha, perinteinen valintanauha, näytä aina valintanauha, kaavarivi, nimi-ruutu, aktiivinen solu, solun osoite, soluosoite, sarakkeet, rivit, solut, tilarivi, zoomaus, pikatyökalurivi, Excel-työkalut, siirtyminen soluun, siirry soluun

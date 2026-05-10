@@ -2,7 +2,7 @@ TYYPPI: video
 
 OHJELMA: Excel
 
-VIDEO: Siirrä ja kopioi tietoja
+VIDEO: Tietojen siirtäminen ja kopiointi
 
 AIHE: Tietojen kopiointi ja siirtäminen laskentataulukon sisällä
 

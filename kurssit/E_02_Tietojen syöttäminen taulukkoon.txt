@@ -2,7 +2,7 @@ TYYPPI: video
 
 OHJELMA: Excel
 
-VIDEO: Kirjoita tietoja soluihin
+VIDEO: Tietojen syöttäminen taulukkoon
 
 AIHE: Kirjoita tietoja soluihin
 
