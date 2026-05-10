@@ -1,0 +1,69 @@
+
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Lukujen pyöristäminen funktiolla
+
+AIHE: PYÖRISTÄ-funktion käyttö
+
+TAVOITE:
+Oppia pyöristämään lukuja PYÖRISTÄ-funktiolla ja ymmärtämään, miten pyöristystarkkuus määritellään.
+
+OHJE:
+
+PYÖRISTÄ-funktiolla voit pyöristää luvun haluamaasi tarkkuuteen.
+
+Funktion rakenne on: =PYÖRISTÄ(luku;numero)`
+
+Funktion argumentit:
+
+ luku = pyöristettävä luku
+ numero = kuinka tarkasti luku pyöristetään
+
+Esimerkki:
+
+`=PYÖRISTÄ(A2;-1)`
+
+Tässä luku pyöristetään lähimpään kymmeneen.
+
+Jos käytät arvoa -2, luku pyöristetään lähimpään sataan.
+
+Esimerkki:
+
+`=PYÖRISTÄ(A2;-2)`
+
+Tee pyöristys näin:
+
+1. Valitse solu, johon haluat tuloksen.
+2. Lisää PYÖRISTÄ-funktio.
+3. Valitse pyöristettävä luku tai solu.
+4. Määritä pyöristyksen tarkkuus.
+5. Hyväksy kaava painamalla Enter-näppäintä.
+
+Voit kopioida kaavan muihin soluihin vetämällä tai kaksoisnapsauttamalla solun oikeassa alakulmassa olevaa muokkauskahvaa.
+
+Kaksoisnapsautus kopioi kaavan automaattisesti alaspäin niin pitkälle kuin viereisessä sarakkeessa on tietoja.
+
+Pyöristyksen esimerkkejä:
+
+ `=PYÖRISTÄ(A2;2)` → pyöristää kahden desimaalin tarkkuudella
+ `=PYÖRISTÄ(A2;0)` → pyöristää lähimpään kokonaislukuun
+ `=PYÖRISTÄ(A2;-1)` → pyöristää lähimpään kymmeneen
+ `=PYÖRISTÄ(A2;-2)` → pyöristää lähimpään sataan
+
+VINKKI:
+Negatiivisilla luvuilla voit pyöristää suurempiin kokonaisuuksiin, kuten kymmeniin tai satoihin. Tämä on hyödyllistä esimerkiksi budjeteissa ja ennusteissa.
+
+HAKUSANAT:
+PYÖRISTÄ, pyöristä-funktio, lukujen pyöristäminen, pyöristä luku, pyöristä lähimpään kymmeneen, pyöristä lähimpään sataan, pyöristä kokonaisluvuksi, desimaalien pyöristys, pyöristyksen tarkkuus, pyöristysfunktio, negatiivinen pyöristys, 
+
+TYYPILLISET KYSYMYKSET:
+
+ miten PYÖRISTÄ-funktio toimii
+ miten pyöristän luvun kokonaisluvuksi
+ miten pyöristän lähimpään kymmeneen
+ miten pyöristän lähimpään sataan
+ mitä PYÖRISTÄ-funktion toinen argumentti tarkoittaa
+ miten kopioin pyöristyskaavan muihin soluihin
+ mitä negatiivinen luku tekee PYÖRISTÄ-funktiossa

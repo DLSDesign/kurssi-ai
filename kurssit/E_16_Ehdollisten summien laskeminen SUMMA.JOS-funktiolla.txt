@@ -1,0 +1,66 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Ehdollisten summien laskeminen SUMMA.JOS-funktiolla
+
+AIHE: SUMMA.JOS-funktion käyttö
+
+TAVOITE:
+Oppia laskemaan yhteen vain ne arvot, jotka täyttävät tietyn ehdon. Oppia käyttämään SUMMA.JOS-funktiota ja ymmärtämään sen argumentit.
+
+OHJE:
+
+SUMMA.JOS-funktiolla voit laskea yhteen vain ne arvot, jotka täyttävät määrittelemäsi ehdon.
+
+Esimerkiksi voit laskea, kuinka paljon yksi myyjä on myynyt yhteensä.
+
+SUMMA.JOS-funktion rakenne on:
+
+`=SUMMA.JOS(alue;ehto;summa_alue)`
+
+Funktion argumentit:
+
+ alue = mistä alueesta ehtoa etsitään
+ ehto = mikä tieto täytyy löytyä
+ summa_alue = mitä lukuja lasketaan yhteen
+
+Esimerkki:
+
+`=SUMMA.JOS($A$2:$A$20;D2;$B$2:$B$20)`
+
+Tässä:
+
+ alue = A2:A20 (myyjien nimet)
+ ehto = D2 (haettava myyjä)
+ summa_alue = B2:B20 (myynnit)
+
+Tee kaava näin:
+
+1. Valitse solu, johon haluat tuloksen.
+2. Lisää SUMMA.JOS-funktio.
+3. Valitse alue, josta ehtoa etsitään.
+4. Jos tulet kopioimaan laskukaavan useammalle riville, lukitse alue painamalla F4-näppäintä, jotta alue pysyy samana kopioitaessa.
+5. Valitse ehto, esimerkiksi myyjän nimi. Tätä viittausta ei lukita, jotta se muuttuu kopioitaessa.
+6. Valitse summa-alue, josta summat lasketaan.
+7. Lukitse summa-alue painamalla F4-näppäintä.
+8. Hyväksy kaava painamalla Enter-näppäintä.
+9. Kopioi kaava muihin soluihin.
+
+Kun kopioit kaavan, ehto muuttuu automaattisesti, mutta hakualue ja summa-alue pysyvät samoina.
+
+VINKKI:
+Kun käytät SUMMA.JOS-funktiota useille riveille, lukitse aina hakualue ja summa-alue. Näin kaava toimii oikein kopioitaessa.
+
+HAKUSANAT:
+SUMMA.JOS, summa.jos-funktio, ehdollinen summa, laske ehdolla, summa ehtojen mukaan, ehdollinen laskenta, hakualue, ehto, summa-alue, ehdollinen yhteenlasku, laske vain tietyt tiedot
+
+TYYPILLISET KYSYMYKSET:
+
+ miten SUMMA.JOS toimii
+ miten lasken ehdollisen summan
+ miten lasken yhden myyjän myynnit
+ mitä SUMMA.JOS-funktion argumentit ovat
+ mikä on hakualue SUMMA.JOS-funktiossa
+ miten kopioin SUMMA.JOS-kaavan
+ miten lasketaan vain tietyt rivit yhteen

@@ -1,0 +1,38 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Peruslaskukaavan tekeminen
+
+AIHE: Laskukaavojen tekeminen
+
+TAVOITE: Tutustu aivan ensimmäiseksi huolellisesti laskukaavan perusperiaatteisiin. 
+
+OHJE:
+Valitse se solu, johon haluat laskun tuloksen.
+Kirjoita = -merkki.
+Napsauta ensimmäistä kaavaan tulevaa solua hiirellä. Saat laskukaavaan soluosoitteen.
+Opettele napsauttamaan hiirellä solua, jonka haluat laskukaavaan sen sijaan, että kirjoitat solun osoitteen. Näin vähennät kirjoitusvirheen mahdollisuutta.
+Kirjoita operaattori (+, -, / tai *). Kauttaviiva on jakolasku ja tähti on kertolasku. 
+Napsauta hiirellä seuraavaa kaavaan tulevaa solua.
+Huomaa, että kaava näkyy kaavarivillä. Seuraa sitä siellä ja siellä voit myös korjata sitä.
+Kun laskukaava on valmis, hyväksy se Enter-näppäimellä.
+ 
+------
+Sulkumerkeillä voit tarvittaessa muuttaa laskujärjestystä.
+Niillä osoitat poikkeavan laskujärjestyksen niin, että sulkeissa oleva laskutoimitus lasketaan ensin.
+
+Esimerkkikaava voisi olla näin:
+
+Myynti 1: solu B2
+Myynti 2: solu C2
+Myynti 3: solu D2
+Bonus / myynti: 3 €
+
+Väärä kaava: =B2+C2+D2*3
+
+Tässä Excel kertoo vain solun D2 arvon kolmella ja lisää siihen solut B2 ja C2.
+
+Oikea kaava: =(B2+C2+D2)*3
+
+Sulkeiden avulla Excel laskee ensin myynnit yhteen ja kertoo vasta sen jälkeen summan kolmella.

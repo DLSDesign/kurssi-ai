@@ -1,0 +1,72 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Tietojen suodattaminen
+
+AIHE: Tietojen suodatus Excelissä
+
+TAVOITE:
+Oppia suodattamaan tietoja niin, että näkyviin saadaan vain halutut tiedot. Oppia käyttämään yhtä tai useampaa suodatusehtoa sekä poistamaan suodatukset.
+
+OHJE:
+
+Kun taulukossa on paljon rivejä, tietojen selaaminen voi olla hidasta. Suodatuksen avulla voit näyttää vain ne rivit, jotka täyttävät haluamasi ehdot.
+
+Suodatuksessa muut tiedot eivät poistu. Ne vain piilotetaan väliaikaisesti.
+
+Suodatus tehdään näin:
+
+1. Siirrä kohdistin taulukon sisälle.
+2. Valitse Aloitus-välilehti.
+3. Valitse Lajittele ja suodata.
+4. Valitse Suodatus.
+
+Tämän jälkeen sarakeotsikoiden viereen ilmestyy nuolipainikkeet.
+
+Suodata tiedot näin:
+
+1. Napsauta sen sarakkeen nuolta, jonka mukaan haluat suodattaa.
+2. Poista valinta Valitse kaikki.
+3. Valitse ne tiedot, jotka haluat näyttää.
+4. Hyväksy valinta.
+
+Excel näyttää nyt vain ne rivit, jotka vastaavat valintaasi.
+
+Kun suodatus on käytössä, sarakeotsikon nuolipainikkeen ulkoasu muuttuu.
+
+Poista yhden sarakkeen suodatus näin:
+
+1. Avaa kyseisen sarakkeen suodatuksen valikko.
+2. Valitse Tyhjennä suodatus.
+
+Voit käyttää suodatusta myös useassa sarakkeessa yhtä aikaa. Tällöin näkyviin jäävät vain ne rivit, jotka täyttävät kaikki valitsemasi ehdot.
+
+Poista kaikki suodatukset näin:
+
+1. Valitse Lajittele ja suodata.
+2. Valitse Tyhjennä.
+
+Poista suodatus kokonaan näin:
+
+1. Valitse Lajittele ja suodata.
+2. Valitse Suodatus uudelleen.
+
+Tällöin suodatus poistuu käytöstä.
+
+VINKKI:
+Suodatus on hyvä tapa tarkastella tietoja ilman, että muutat tai poistat mitään taulukosta.
+
+HAKUSANAT:
+suodatus, tietojen suodatus, suodata tiedot, Excel suodatus, suodatuspainike, suodatusvalikko, suodata sarake, suodata taulukko, valitse kaikki, tyhjennä suodatus, poista suodatus, usean ehdon suodatus, monitasoinen suodatus, suodata useita sarakkeita, näytä vain valitut tiedot, piilota rivit suodatuksella, lajittele ja suodata
+
+TYYPILLISET KYSYMYKSET:
+
+ miten suodatan tietoja
+ miten suodatus toimii Excelissä
+ miten näytän vain tietyt rivit
+ miten suodatan yhden sarakkeen
+ miten suodatan usealla ehdolla
+ miten poistan suodatuksen
+ miten tyhjennän suodatuksen
+  miten suodatan tietyn arvon perusteella

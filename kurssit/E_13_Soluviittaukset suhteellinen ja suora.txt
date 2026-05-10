@@ -1,0 +1,71 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Soluviittaukset: suhteellinen ja suora viittaus
+
+AIHE: Soluviittaukset laskukaavoissa
+
+TAVOITE:
+Oppia käyttämään suhteellisia ja suoria soluviittauksia Excelin laskukaavoissa. Ymmärtää, miten viittaukset käyttäytyvät kaavoja kopioitaessa ja milloin soluosoite kannattaa lukita.
+
+OHJE:
+
+Excelissä laskukaavoissa käytetään yleensä soluviittauksia, ei suoraan numeroita. Tämä helpottaa työskentelyä, koska voit muuttaa lähtötietoja ilman, että kaavaa tarvitsee tehdä uudelleen.
+
+Laskukaavoja kopioidaan usein. Näin voit tehdä kaavan kerran ja käyttää sitä useissa soluissa.
+
+Excelissä on kaksi yleistä viittaustapaa:
+
+Suhteellinen viittaus
+Suhteellinen viittaus muuttuu automaattisesti, kun kaavaa kopioidaan toiseen soluun.
+
+Esimerkki:
+`=B3+C3`
+
+Jos kopioit kaavan alemmalle riville, viittaus muuttuu esimerkiksi muotoon:
+
+`=B4+C4`
+
+Suhteellista viittausta käytetään silloin, kun kaava lasketaan samalla tavalla useille riveille.
+
+Suora viittaus
+Suora viittaus pysyy samana, vaikka kaavaa kopioidaan.
+
+Suora viittaus merkitään dollarimerkillä.
+
+Esimerkki:
+`=B3*$F$1`
+
+Tässä solu F1 pysyy aina samana, vaikka kaavaa kopioidaan muihin soluihin.
+
+Voit lukita soluviittauksen nopeasti valitsemalla soluosoitteen kaavassa ja painamalla F4-näppäintä.
+
+Suoraa viittausta käytetään esimerkiksi silloin, kun:
+
+ kerrotaan lukuja samalla hinnalla tai kertoimella
+ lasketaan prosenttiosuutta samalla prosentilla
+ käytetään yhtä kiinteää arvoa useissa laskuissa
+
+VINKKI:
+Jos kaavasi antaa väärän tuloksen kopioinnin jälkeen, tarkista soluviittaukset. Usein ongelma johtuu siitä, että jokin viittaus olisi pitänyt lukita.
+
+Jos F4-näppäin ei toimi
+Monissa kannettavissa F-näppäimet toimivat ensisijaisesti laitteiston ohjauksina (esim. äänenvoimakkuus tai kirkkaus). Ratkaisu: Paina Fn-näppäin alhaalla F4-näppäintä.
+
+Jos tuo ohje ei auta, syy voi olla se, että näppäimistön Fn-lukitus (Function Lock) on päällä. Tällöin F-näppäimet käyttävät laitteen erikoistoimintoja tavallisten F-toimintojen sijaan. Kokeile painaa Fn + Esc. Tämä poistaa tai vaihtaa Fn-lukituksen tilaa.
+
+
+HAKUSANAT:
+soluviittaus, suhteellinen viittaus, suora viittaus, absoluuttinen viittaus, soluosoite, kaavan kopiointi, lukitse solu, dollarimerkki, F4-näppäin, kaavan kopioiminen, suhteellinen soluviittaus, suora soluviittaus, kiinteä viittaus, laskukaavat, prosenttilasku, kerroin, vakioarvo
+
+TYYPILLISET KYSYMYKSET:
+
+ mikä on suhteellinen viittaus
+ mikä on suora viittaus
+ miten lukitsen soluviittauksen
+ mitä dollarimerkki tarkoittaa kaavassa
+ miten F4-näppäin toimii Excelissä
+ miksi kaava muuttuu kopioitaessa
+ miten pidän yhden solun samana kaavassa
+ miten lasken prosentin samalla prosentilla usealle riville

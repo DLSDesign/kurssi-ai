@@ -1,0 +1,60 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Kommenttien lisääminen soluihin
+
+AIHE: Kommenttien käyttö Excelissä
+
+TAVOITE:
+Oppia lisäämään, lukemaan ja poistamaan kommentteja soluista. Ymmärtää, miten kommentteja käytetään lisätietojen, huomautusten ja yhteistyön tukena.
+
+OHJE:
+
+Excelissä voit lisätä soluihin kommentteja. Kommentti on solun sisällöstä erillinen huomautus tai lisätieto.
+
+Kommentti näkyy, kun viet hiiren osoittimen solun päälle tai avaat kommentin.
+
+Lisää kommentti näin:
+
+1. Valitse solu, johon haluat lisätä kommentin.
+2. Siirry Tarkista-välilehdelle.
+3. Valitse Uusi kommentti.
+4. Kirjoita kommenttiin haluamasi teksti.
+5. Tallenna kommentti painikkeella, jossa on nuoli.
+6. Sulje kommentti.
+
+Soluun tulee merkki, joka kertoo, että siinä on kommentti.
+
+Voit avata kommentin viemällä hiiren osoittimen solun päälle tai napsauttamalla kommenttia.
+
+Kommenttiin voi myös vastata tai lisätä uusia kommentteja. Näin voit keskustella muiden käyttäjien kanssa suoraan työkirjassa.
+
+Jos työkirjassa on useita kommentteja:
+
+1. Siirry Tarkista-välilehdelle.
+2. Valitse Näytä kaikki kommentit.
+
+Tällöin kaikki kommentit näkyvät samalla kertaa.
+
+Poista kommentti näin:
+
+1. Avaa kommentti.
+2. Napsauta kommentin valikkoa (kolme pistettä).
+3. Valitse Poista kommenttiketju.
+
+VINKKI:
+Käytä kommentteja silloin, kun haluat selittää solun sisältöä tai jättää huomautuksia muille käyttäjille ilman, että itse taulukon sisältö muuttuu.
+
+HAKUSANAT:
+kommentti, kommentit, lisää kommentti, uusi kommentti, solun kommentti, kommentin lisääminen, kommentin poistaminen, kommenttiketju, kommenttiin vastaaminen, kommenttien näyttäminen, näytä kaikki kommentit, solun lisätieto, huomautus soluun
+
+TYYPILLISET KYSYMYKSET:
+
+ miten lisään kommentin soluun
+ miten näen kommentin
+ miten poistan kommentin
+ miten vastaan kommenttiin
+ miten näytän kaikki kommentit
+ missä kommentit ovat Excelissä
+ miten lisään huomautuksen soluun

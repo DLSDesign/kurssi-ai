@@ -1,0 +1,71 @@
+
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Lukumäärien laskeminen LASKE.JOS-funktiolla
+
+AIHE: LASKE.JOS-funktion käyttö
+
+TAVOITE:
+Oppia laskemaan, kuinka monta solua täyttää tietyn ehdon. Oppia käyttämään LASKE.JOS-funktiota esimerkiksi tulosten, arvosanojen tai muiden ehtojen laskemiseen.
+
+OHJE:
+
+LASKE.JOS-funktiolla voit laskea, kuinka monta solua täyttää määrittelemäsi ehdon.
+
+Esimerkiksi voit laskea, kuinka monta hyväksyttyä ja hylättyä tulosta aineistossa on.
+
+LASKE.JOS-funktion rakenne on:
+
+`=LASKE.JOS(alue;ehto)`
+
+Funktion argumentit:
+
+ alue = mistä alueesta tietoja etsitään
+ ehto = mikä ehto solun pitää täyttää
+
+Esimerkki hyväksyttyjen laskemisesta:
+
+`=LASKE.JOS(B2:B20;">=50")`
+
+Tässä lasketaan kaikki solut, joiden arvo on suurempi tai yhtä suuri kuin 50.
+
+Esimerkki hylättyjen laskemisesta:
+
+`=LASKE.JOS(B2:B20;"<50")`
+
+Tässä lasketaan kaikki solut, joiden arvo on pienempi kuin 50.
+
+Tee kaava näin:
+
+1. Valitse solu, johon haluat tuloksen.
+2. Lisää LASKE.JOS-funktio.
+3. Valitse alue, josta tiedot haetaan.
+4. Kirjoita ehto lainausmerkkeihin. Huom! Excelin työpöytäversio lisää lainausmerkit automaattisesti.
+5. Hyväksy kaava painamalla Enter-näppäintä.
+
+Kun käytät vertailumerkkejä, kuten >, <, >= tai <=, ne kirjoitetaan lainausmerkkeihin.
+
+Esimerkkejä ehdoista:
+
+ `">50"` = suurempi kuin 50
+ `"<50"` = pienempi kuin 50
+ `">=50"` = suurempi tai yhtä suuri kuin 50
+ `"<=50"` = pienempi tai yhtä suuri kuin 50
+
+VINKKI:
+LASKE.JOS-funktio sopii hyvin tilanteisiin, joissa haluat nopeasti nähdä esimerkiksi hyväksyttyjen, hylättyjen tai tietyn ehdon täyttävien määrän.
+
+HAKUSANAT:
+LASKE.JOS, laske.jos-funktio, lukumäärän laskeminen, laske ehdolla, laske solut, ehdollinen laskenta, ehtolaskenta, vertailumerkit, suurempi kuin, pienempi kuin, suurempi tai yhtä suuri, pienempi tai yhtä suuri, laske ehdon mukaan
+
+TYYPILLISET KYSYMYKSET:
+
+ miten LASKE.JOS toimii
+ miten lasken hyväksyttyjen määrän
+ miten lasken hylättyjen määrän
+ miten lasken tietyn ehdon täyttävät solut
+ miten käytän vertailumerkkejä LASKE.JOS-funktiossa
+ miksi ehto kirjoitetaan lainausmerkkeihin
+ miten lasken arvosanojen jakauman Excelissä

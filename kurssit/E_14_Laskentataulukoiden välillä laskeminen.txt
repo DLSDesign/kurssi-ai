@@ -1,0 +1,51 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Laskentataulukoiden välillä laskeminen
+
+AIHE: Laskeminen useiden laskentataulukoiden välillä
+
+TAVOITE:
+Opit tekemään laskukaavoja, jotka hakevat tietoja työkirjan eri laskentataulukoista. Ymmärrät, miten eri taulukoissa olevia arvoja voidaan yhdistää samaan laskentaan ilman tietojen kopioimista.
+
+OHJE:
+
+Usein tiedot on jaettu useisiin laskentataulukoihin, esimerkiksi kuukausittain tai eri osastoittain. Jos haluat laskea yhteen näiden taulukoiden tietoja, sinun ei tarvitse kopioida lukuja. Voit tehdä laskukaavan, joka viittaa suoraan eri laskentataulukoiden soluihin.
+
+Näin tiedot pysyvät ajan tasalla ja virheiden mahdollisuus pienenee.
+
+Tee laskukaava näin:
+
+1. Siirry laskentataulukkoon, johon haluat laskennan tuloksen.
+2. Valitse solu, johon haluat kirjoittaa laskukaavan.
+3. Kirjoita =-merkki.
+4. Siirry siihen laskentataulukkoon, jossa ensimmäinen laskettava arvo on.
+5. Napsauta haluamaasi solua. Excel lisää kaavaan automaattisesti laskentataulukon nimen ja soluosoitteen.
+6. Kirjoita laskutoimituksen merkki, esimerkiksi +.
+7. Siirry seuraavaan laskentataulukkoon ja valitse seuraava laskettava solu.
+8. Toista tarvittaessa sama muilla laskentataulukoilla.
+9. Hyväksy kaava painamalla Enter-näppäintä.
+
+Esimerkki kaavasta:
+`=Tammikuu!B2+Helmikuu!B2+Maaliskuu!B2`
+
+Kaava laskee yhteen solun B2 arvot kolmelta eri laskentataulukolta.
+
+Jos laskentataulukoiden rakenne on samanlainen, voit kopioida kaavan muihin soluihin. Tällöin soluviittaukset muuttuvat suhteellisesti, mutta taulukoiden nimet säilyvät.
+
+VINKKI:
+Kun käytät samoja soluja eri laskentataulukoissa (esimerkiksi sama solu jokaisessa kuukaudessa), voit tehdä yhteenvedot nopeasti ilman tietojen kopiointia.
+
+HAKUSANAT:
+laskentataulukoiden välillä laskeminen, laske eri taulukoista, viittaus toiseen taulukkoon, laskukaava eri taulukoista, taulukoiden välinen laskenta, taulukkoviittaus, laskentataulukon nimi kaavassa, työkirjan sisäinen viittaus, yhteenlasku eri taulukoista, kuukausitaulukoiden yhteenveto, osastojen yhteenveto, Excel-taulukoiden välinen laskenta, viittaus toiseen välilehteen, hae arvo toiselta laskentataulukolta
+
+TYYPILLISET KYSYMYKSET:
+
+ miten lasken yhteen eri taulukoiden tiedot
+ miten viittaan toiseen laskentataulukkoon
+ miten teen kaavan toiselle välilehdelle
+ miten haen luvun toiselta taulukolta
+ miten yhdistän usean taulukon tiedot
+ miten teen kuukausiyhteenvedon Excelissä
+ miten lasketaan eri välilehtien välillä

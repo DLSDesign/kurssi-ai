@@ -1,0 +1,51 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Tiedoston muuntaminen PDF-muotoon
+
+AIHE: Excel-tiedoston tallentaminen PDF-muotoon
+
+TAVOITE:
+Oppia muuttamaan Excel-tiedosto PDF-muotoon, jotta tiedosto voidaan jakaa helposti ilman muokkausmahdollisuutta.
+
+OHJE:
+
+Kun taulukko on valmis ja haluat lähettää sen toiselle henkilölle tai julkaista sen, voit tallentaa sen PDF-muotoon.
+
+PDF-tiedoston etuja:
+
+ vastaanottaja voi avata tiedoston ilman Exceliä
+ tiedoston ulkoasu säilyy samanlaisena
+ tiedostoa ei voi muokata helposti vahingossa
+
+Muuta tiedosto PDF-muotoon näin:
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Vie.
+3. Valitse Lataa PDF-tiedostona tai Luo PDF.
+4. Tarkista tiedoston esikatselu.
+5. Tee tarvittaessa tulostusasetukset.
+6. Valitse Lataa tai Tallenna.
+
+Excel luo PDF-tiedoston.
+
+Tiedosto tallentuu yleensä tietokoneen Lataukset-kansioon tai valitsemaasi tallennuspaikkaan.
+
+Voit siirtää tiedoston myöhemmin toiseen kansioon tai lähettää sen sähköpostilla.
+
+VINKKI:
+Tarkista aina tulostuksen esikatselu ennen PDF:n luomista. Näin varmistat, että kaikki tiedot näkyvät oikein eikä mitään jää sivun ulkopuolelle.
+
+HAKUSANAT:
+PDF, pdf-muoto, tallenna PDF, vie PDF:ksi, muunna PDF:ksi, Excel PDF, Excel tiedosto PDF, luo PDF, lataa PDF, tallenna tiedosto PDF-muotoon, julkaise PDF, jaa PDF, tulostus PDF:ksi, PDF-tiedosto
+
+TYYPILLISET KYSYMYKSET:
+
+ miten tallennan Excelin PDF:ksi
+ miten muunnan tiedoston PDF-muotoon
+ miten lähetän Excel-tiedoston ilman muokkausmahdollisuutta
+ miten teen PDF-tiedoston Excelistä
+ miten vien tiedoston PDF-muotoon
+ mihin PDF tallentuu
+ miten jaan Excel-taulukon PDF:nä

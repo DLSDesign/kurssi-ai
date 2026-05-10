@@ -1,0 +1,81 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Tietojen etsiminen ja korvaaminen
+
+AIHE: Etsi ja korvaa -toiminnon käyttö
+
+TAVOITE:
+Oppia etsimään ja korvaamaan tietoja nopeasti suurissa taulukoissa. Oppia löytämään tiettyjä sanoja, lukuja tai arvoja sekä korvaamaan niitä uusilla tiedoilla.
+
+OHJE:
+
+Suurissa taulukoissa tietojen etsiminen käsin voi olla hidasta. Excelin Etsi- ja Korvaa-toiminnot auttavat sinua löytämään ja muuttamaan tietoja nopeasti.
+
+Näitä toimintoja käytetään esimerkiksi silloin, kun haluat:
+
+ löytää tietyn sanan tai luvun
+ tarkistaa tietyn tiedon esiintymät
+ korjata kirjoitusvirheen
+ päivittää vanhat tiedot uusiksi
+
+Tietojen etsiminen
+
+Etsi tieto näin:
+
+1. Valitse Aloitus-välilehti.
+2. Valitse Etsi ja valitse.
+3. Valitse Etsi.
+4. Kirjoita etsittävä sana tai luku.
+5. Valitse tarvittaessa lisäasetukset.
+6. Valitse Etsi seuraava.
+
+Excel siirtyy ensimmäiseen löydettyyn tietoon.
+
+Jos haluat siirtyä seuraavaan osumaan, valitse Etsi seuraava uudelleen.
+
+Jos haluat nähdä kaikki osumat:
+
+1. Valitse Etsi kaikki.
+
+Excel näyttää luettelon kaikista löydetyistä tiedoista.
+
+Voit siirtyä haluamaasi kohtaan napsauttamalla sitä luettelosta.
+
+Tietojen korvaaminen
+
+Korvaa tieto näin:
+
+1. Valitse Aloitus-välilehti.
+2. Valitse Etsi ja valitse.
+3. Valitse Korvaa.
+4. Kirjoita etsittävä tieto.
+5. Kirjoita korvaava tieto.
+6. Valitse Etsi seuraava.
+
+Jos haluat korvata vain yhden löydetyn tiedon:
+
+ valitse Korvaa
+
+Jos haluat korvata kaikki samanlaiset tiedot:
+
+ valitse Korvaa kaikki
+
+Excel korvaa kaikki vastaavat tiedot kerralla.
+
+VINKKI:
+Käytä Korvaa kaikki -toimintoa varoen. Jos et ole varma, käytä ensin Etsi seuraava ja tarkista osumat yksi kerrallaan.
+
+HAKUSANAT:
+etsi, korvaa, etsi ja korvaa, tietojen etsiminen, tietojen korvaaminen, etsi tieto, etsi sana, etsi luku, etsi arvo, korvaa tieto, korvaa sana, korvaa arvo, etsi kaikki, etsi seuraava, korvaa kaikki, etsi ja valitse, hakutoiminto
+
+TYYPILLISET KYSYMYKSET:
+
+ miten etsin tietoa Excelissä
+ miten löydän tietyn sanan
+ miten löydän tietyn luvun
+ miten korvaan tiedon toisella
+ miten korvaan kaikki samanlaiset tiedot
+ miten etsi ja korvaa toimii
+ miten löydän kaikki saman arvon sisältävät solut

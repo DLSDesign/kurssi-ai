@@ -1,0 +1,110 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Yhteenvetojen tekeminen Pivot-taulukolla
+
+AIHE: Pivot-taulukon käyttö
+
+TAVOITE:
+Oppia tekemään yhteenvetoja suurista tietomääristä Pivot-taulukon avulla. Oppia ryhmittelemään, suodattamaan ja vertailemaan tietoja ilman laskukaavojen tekemistä.
+
+OHJE:
+
+Pivot-taulukon avulla voit tehdä nopeasti yhteenvetoja suurista tietomääristä.
+
+Pivot-taulukolla voit esimerkiksi:
+
+ laskea summia
+ laskea keskiarvoja
+ laskea tietojen määriä
+ hakea suurimman tai pienimmän arvon
+ ryhmitellä tietoja eri tavoilla
+
+Pivot-taulukosta on hyötyä erityisesti silloin, kun haluat:
+
+ nähdä nopeasti kokonaiskuvan tiedoista
+ vertailla eri ryhmiä
+ löytää poikkeamia tai trendejä
+ muuttaa yhteenvetoa ilman uusia kaavoja
+
+Pivot-taulukko perustuu lähdeaineistoon. Tekstiä sisältävistä kentistä voidaan laskea lukumääriä ja numeroita sisältävistä kentistä esimerkiksi summia tai keskiarvoja.
+
+Pivot-taulukon luominen
+
+Luo Pivot-taulukko näin:
+
+1. Siirrä kohdistin lähdetaulukon sisälle.
+2. Siirry Lisää-välilehdelle.
+3. Valitse Pivot-taulukko.
+4. Valitse Taulukosta tai alueelta.
+5. Tarkista, että valittu alue on oikea.
+6. Valitse Pivot-taulukon sijainti. Yleensä se lisätään uuteen laskentataulukkoon.
+7. Hyväksy valinta.
+
+Excel luo Pivot-taulukon ja avaa kenttäluettelon.
+
+Kenttien lisääminen
+
+Pivot-taulukon kentät lisätään tehtäväruudusta.
+
+Kun valitset:
+
+ tekstikentän → Excel sijoittaa sen yleensä Rivit-alueelle
+ numerokentän → Excel sijoittaa sen yleensä Arvot-alueelle
+
+Voit myös vetää kenttiä itse eri alueille:
+
+ Rivit = ryhmittely riveille
+ Sarakkeet = ryhmittely sarakkeille
+ Arvot = laskettavat tiedot
+ Suodattimet = rajattavat tiedot
+
+Esimerkki:
+
+ Maa → Rivit
+ Myynti → Arvot
+ Myyjä → Sarakkeet
+
+Tällöin voit tarkastella myyntejä maittain ja myyjittäin.
+
+Suodattaminen Pivot-taulukossa
+
+Voit vetää kentän Suodattimet-alueelle ja valita, mitä tietoja haluat tarkastella.
+
+Esimerkiksi:
+
+ Maa suodattimeksi
+ Myyjä riveille
+
+Tällöin voit tarkastella yhden maan tietoja kerrallaan valitsemalla maan suodattimesta.
+
+Voit käyttää suodatusta myös Pivot-taulukon otsikoiden omista suodatuspainikkeista.
+
+Pivot-taulukon päivittäminen
+
+Jos lähdetaulukon tiedot muuttuvat:
+
+1. Siirry Pivot-taulukko-välilehdelle.
+2. Valitse Päivitä.
+
+Näin Pivot-taulukko hakee uusimmat tiedot.
+
+VINKKI:
+Nimeä Pivot-taulukon laskentataulukko selkeästi, esimerkiksi Yhteenveto tai Raportti. Näin löydät sen helposti myöhemmin.
+
+HAKUSANAT:
+pivot-taulukko, Pivot-taulukko, pivot, yhteenveto, yhteenvetotaulukko, Pivot-raportti, tietojen yhteenveto, ryhmittely, ryhmittele tiedot, Pivot-analyysi, Pivot-raportointi, summat pivotilla, keskiarvo pivotilla, lukumäärä pivotilla, Pivot-kentät, Pivot-rivit, Pivot-sarakkeet, Pivot-arvot, Pivot-suodattimet, Pivot-päivitys, päivitä pivot, Pivot-taulukon luominen, Pivot-taulukon suodatus, Pivot-taulukon kenttäluettelo, raportointi Excelissä, analysoi tiedot
+
+TYYPILLISET KYSYMYKSET:
+
+ miten teen Pivot-taulukon
+ mikä on Pivot-taulukko
+ miten teen yhteenvedon tiedoista
+ miten ryhmittelen tietoja Pivotilla
+ miten lisään kenttiä Pivot-taulukkoon
+ miten suodatan Pivot-taulukkoa
+ miten vaihdan Pivot-taulukon rakennetta
+ miten päivitän Pivot-taulukon
+ miten lasken summia Pivotilla
+ miten vertailen tietoja Pivot-taulukolla

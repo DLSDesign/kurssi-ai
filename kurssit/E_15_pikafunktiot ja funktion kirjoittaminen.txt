@@ -1,0 +1,82 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Funktioiden käyttö – pikafunktiot ja funktion kirjoittaminen
+
+AIHE: Funktiot Excelissä
+
+TAVOITE:
+Oppia, mitä funktiot ovat ja miten niitä käytetään laskemiseen. Oppia käyttämään pikafunktioita sekä kirjoittamaan funktioita itse.
+
+OHJE:
+
+Funktiot ovat valmiita laskentakaavoja, joiden avulla voit laskea tietoja nopeasti. Ne säästävät aikaa ja vähentävät virheitä erityisesti silloin, kun käsittelet paljon lukuja.
+
+Funktion rakenne on aina sama:
+
+ Funktio alkaa =-merkillä
+ Sen jälkeen tulee funktion nimi
+ Lopuksi tulevat funktion argumentit sulkuihin. Argumentti voi olla solu, solualue, luku, teksti tai toinen funktio.
+
+Esimerkki:
+
+`=SUMMA(B2:B11)`
+
+Tässä funktio laskee yhteen alueen B2:B11 luvut.
+
+Pikafunktioiden käyttö
+
+Voit käyttää yleisimpiä funktioita nopeasti näin:
+
+1. Valitse alue, joka sisältää laskettavat luvut sekä solun, johon tulos tulee.
+2. Valitse Aloitus-välilehti.
+3. Napsauta Summa-painikkeen nuolta.
+4. Valitse avautuvasta luettelosta haluamasi funktio.
+
+Voit valita esimerkiksi:
+
+ Summa = laskee luvut yhteen
+ Keskiarvo = laskee lukujen keskiarvon
+ Laske numerot = laskee lukuja sisältävien solujen määrän
+ Maksimi = hakee suurimman luvun
+ Minimi = hakee pienimmän luvun
+
+Excel ehdottaa automaattisesti laskettavaa aluetta. Jos alue on oikea, hyväksy kaava painamalla Enter-näppäintä. Jos alue ei ole oikea, valitse alue hiirellä maalaamalla.
+
+Funktion kirjoittaminen itse
+
+Jos tiedät funktion nimen, voit kirjoittaa sen itse.
+
+Esimerkki pienimmän arvon hakemisesta: =MIN(B2:B11)`
+
+Esimerkki suurimman arvon hakemisesta: =MAKS(B2:B11)`
+
+Kirjoita funktio näin:
+
+1. Valitse solu, johon haluat tuloksen.
+2. Kirjoita =
+3. Kirjoita funktion nimi.
+4. Kirjoita ensimmäinen sulkumerkki.
+5. Valitse hiirellä laskettava alue.
+6. Kirjoita toinen sulkumerkki.
+7. Hyväksy kaava painamalla Enter.
+
+VINKKI:
+Jos et muista funktion nimeä, käytä pikafunktioita tai funktion lisäystoimintoa. Näin vältät kirjoitusvirheitä ja löydät helposti oikean funktion.
+
+HAKUSANAT:
+funktio, pikafunktio, autosumma, summafunktio, keskiarvo, keskiarvofunktio, min-funktio, maks-funktio, pienin arvo, suurin arvo, funktion rakenne, funktion kirjoittaminen, laske summa, laske keskiarvo, hae pienin luku, hae suurin luku, funktion argumentit, SUMMA, KESKIARVO, MIN, MAKS, laske numerot
+
+TYYPILLISET KYSYMYKSET:
+
+ mikä on funktio Excelissä
+ miten käytän autosummaa
+ miten lasken summan
+ miten lasken keskiarvon
+ miten haen pienimmän arvon
+ miten haen suurimman arvon
+ miten kirjoitan funktion itse
+ mitä MIN-funktio tekee
+ mitä MAKS-funktio tekee
+ miten funktiot toimivat Excelissä

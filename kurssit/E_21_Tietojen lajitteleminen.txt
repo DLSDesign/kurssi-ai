@@ -1,0 +1,82 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Tietojen lajitteleminen
+
+AIHE: Tietojen lajittelu Excelissä
+
+TAVOITE:
+Oppia lajittelemaan tietoja nopeasti yhden sarakkeen mukaan sekä tekemään monitasoista lajittelua usean ehdon perusteella.
+
+OHJE:
+
+Kun taulukossa on paljon tietoa, lajittelu helpottaa tietojen lukemista, löytämistä ja analysointia.
+
+Voit lajitella tiedot esimerkiksi:
+
+ aakkosjärjestykseen
+ numerojärjestykseen
+ päivämäärän mukaan
+ suurimmasta pienimpään
+ pienimmästä suurimpaan
+
+Excelissä voit käyttää kahta tapaa:
+
+Pikalajittelu
+Pikalajittelulla voit lajitella tiedot nopeasti yhden sarakkeen mukaan.
+
+Tee pikalajittelu näin:
+
+1. Napsauta jotakin sen sarakkeen solua, jonka mukaan haluat lajitella.
+2. Valitse Aloitus-välilehti.
+3. Valitse Lajittele ja suodata.
+4. Valitse haluamasi lajittelujärjestys.
+
+Esimerkkejä:
+
+ A–Ö
+ Ö–A
+ pienimmästä suurimpaan
+ suurimmasta pienimpään
+
+Mukautettu lajittelu
+Mukautetulla lajittelulla voit lajitella useamman ehdon mukaan.
+
+Tee mukautettu lajittelu näin:
+
+1. Valitse jokin taulukon solu.
+2. Valitse Lajittele ja suodata.
+3. Valitse Mukautettu lajittelu.
+4. Valitse ensimmäinen lajitteluehto.
+5. Valitse lajittelujärjestys.
+6. Valitse Lisää taso.
+7. Valitse toinen lajitteluehto.
+8. Hyväksy lajittelu.
+
+Esimerkki:
+
+Voit lajitella ensin myyjän nimen mukaan ja sen jälkeen tilauksen arvon mukaan.
+
+Tällöin:
+
+ myyjät ryhmitellään yhteen
+ jokaisen myyjän tiedot lajitellaan erikseen
+
+VINKKI:
+Valitse aina vain yksi solu taulukosta ennen lajittelua. Excel tunnistaa yleensä koko tietotaulukon automaattisesti.
+
+HAKUSANAT:
+lajittelu, tietojen lajittelu, pikalajittelu, mukautettu lajittelu, lajittele tiedot, lajittele sarake, lajittele aakkosjärjestykseen, lajittele numerojärjestykseen, lajittele päivämäärät, A–Ö lajittelu, Ö–A lajittelu, pienimmästä suurimpaan, suurimmasta pienimpään, monitasoinen lajittelu, lajittelu usealla ehdolla, lisää taso, lajittelu myyjän mukaan, lajittelu arvon mukaan, lajittele ja suodata
+
+TYYPILLISET KYSYMYKSET:
+
+ miten lajittelen tiedot
+ miten lajittelen aakkosjärjestykseen
+ miten lajittelen numerot
+ miten lajittelen päivämäärät
+ miten teen monitasoisen lajittelun
+ miten lajittelen kahden ehdon mukaan
+ mitä mukautettu lajittelu tarkoittaa
+ miten lisään lajittelutason
+ miten lajittelen myyjän ja summan mukaan

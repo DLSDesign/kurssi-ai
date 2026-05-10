@@ -1,0 +1,105 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Kaavioiden luominen
+
+AIHE: Kaavioiden tekeminen Excelissä
+
+TAVOITE:
+Oppia luomaan kaavioita taulukon tiedoista ja muokkaamaan niiden ulkoasua. Ymmärtää, miten kaavio auttaa tietojen visualisoinnissa ja vertailussa.
+
+OHJE:
+
+Kaavio on visuaalinen tapa esittää taulukon tiedot. Sen avulla näet nopeasti esimerkiksi:
+
+ miten luvut vertautuvat toisiinsa
+ miten tiedot muuttuvat ajan kuluessa
+ missä on suurimmat tai pienimmät arvot
+
+Kaavio sopii hyvin raportteihin, esityksiin ja tiedon analysointiin.
+
+Kaavio on linkitetty taulukon tietoihin. Jos muutat taulukon lukuja, Excel päivittää kaavion automaattisesti.
+
+Kaavion luominen
+
+Luo kaavio näin:
+
+1. Valitse taulukosta tiedot, joista haluat tehdä kaavion.
+2. Muista valita mukaan myös otsikot.
+3. Siirry Lisää-välilehdelle.
+4. Valitse Kaaviot-ryhmästä haluamasi kaaviotyyppi.
+5. Valitse tarkempi kaaviomalli.
+
+Excel luo kaavion valituista tiedoista.
+
+Kaavion otsikon lisääminen
+
+Lisää otsikko näin:
+
+1. Kaksoisnapsauta kaavion otsikon paikkamerkkiä.
+2. Kirjoita haluamasi otsikko.
+
+Voit muuttaa otsikkoa myöhemmin milloin tahansa.
+
+Kaavion siirtäminen
+
+Voit siirtää kaavion toiseen kohtaan:
+
+1. Valitse kaavio.
+2. Vedä se haluamaasi paikkaan.
+
+Kaaviotyypin vaihtaminen
+
+Jos haluat vaihtaa kaaviotyypin:
+
+1. Valitse kaavio.
+2. Valitse uusi kaaviotyyppi kaavion asetuksista.
+
+Esimerkkejä kaaviotyypeistä:
+
+ pylväskaavio
+ viivakaavio
+ ympyräkaavio
+ palkkikaavio
+
+Epäyhtenäisten alueiden valinta
+
+Jos haluat valita tietoja eri kohdista:
+
+1. Valitse ensimmäinen alue.
+2. Pidä Ctrl-näppäin painettuna.
+3. Valitse muut alueet.
+
+Näin voit valita esimerkiksi otsikot ja tiedot eri kohdista.
+
+Kaavion muokkaaminen
+
+Kun valitset kaavion tai sen osan, Excel näyttää kaavion asetukset.
+
+Voit muokata esimerkiksi:
+
+ kaavion tyyliä
+ värejä
+ otsikoita
+ selitteitä
+ tietopisteiden arvoja
+
+VINKKI:
+Valitse kaaviotyyppi sen mukaan, mitä haluat näyttää. Viivakaavio sopii hyvin muutosten seuraamiseen ja pylväskaavio vertailuun.
+
+HAKUSANAT:
+kaavio, kaaviot, kaavion luominen, tee kaavio, luo kaavio, Excel-kaavio, kaaviotyyppi, pylväskaavio, viivakaavio, ympyräkaavio, palkkikaavio, kaavion otsikko, muuta kaaviota, kaavion muokkaaminen, vaihda kaaviotyyppi, kaavion siirtäminen, tietojen visualisointi, graafinen esitys, kaavio raporttiin, kaavio esitykseen, arvopisteet, selite, kaavion asetukset
+
+TYYPILLISET KYSYMYKSET:
+
+ miten teen kaavion Excelissä
+ miten luon kaavion taulukosta
+ miten lisään kaavion otsikon
+ miten vaihdan kaaviotyypin
+ miten siirrän kaaviota
+ miten valitsen tiedot kaaviota varten
+ miten teen pylväskaavion
+ miten teen viivakaavion
+ miten muokkaan kaaviota
+ miten lisään arvot kaavioon

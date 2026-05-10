@@ -1,0 +1,62 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Eri soluissa olevien tietojen yhdistäminen
+
+AIHE: Tekstien yhdistäminen YHDISTÄ-funktiolla
+
+TAVOITE:
+Oppia yhdistämään eri soluissa olevia tietoja samaan soluun. Oppia käyttämään YHDISTÄ-funktiota esimerkiksi nimien, osoitteiden tai muiden tekstien yhdistämiseen.
+
+OHJE:
+
+YHDISTÄ-funktiolla voit yhdistää useiden solujen sisällöt yhdeksi tekstiksi.
+
+Esimerkiksi voit yhdistää etu- ja sukunimen samaan soluun.
+
+YHDISTÄ-funktion rakenne on:
+
+`=YHDISTÄ(teksti1;teksti2;teksti3...)`
+
+Esimerkki:
+
+`=YHDISTÄ(A2;" ";B2)`
+
+Tässä:
+
+ A2 sisältää etunimen
+ " " lisää välilyönnin etu- ja sukunimen väliin
+ B2 sisältää sukunimen
+
+Tulos voi olla esimerkiksi: Matti Meikäläinen
+
+Tee yhdistäminen näin:
+
+1. Valitse solu, johon haluat yhdistetyn tiedon.
+2. Lisää YHDISTÄ-funktio.
+3. Valitse ensimmäinen yhdistettävä solu.
+4. Lisää tarvittaessa välimerkki tai välilyönti lainausmerkkeihin.
+5. Valitse seuraava yhdistettävä solu.
+6. Hyväksy kaava painamalla Enter-näppäimellä.
+7. Kopioi kaava muihin soluihin.
+
+Voit yhdistää myös useampia tietoja, kuten etunimen, sukunimen ja kaupungin.
+
+Esimerkki: =YHDISTÄ(A2;" ";B2;", ";C2)`
+
+VINKKI:
+Muista lisätä välilyönti tai muu erotin lainausmerkkeihin, jotta yhdistetyt tiedot eivät tule kiinni toisiinsa.
+
+HAKUSANAT:
+YHDISTÄ, yhdistä-funktio, tekstin yhdistäminen, yhdistä solut, yhdistä teksti, yhdistä etunimi ja sukunimi, ketjuta teksti, yhdistä tiedot, tekstiketjutus, yhdistä solujen sisältö, yhdistä nimet
+
+TYYPILLISET KYSYMYKSET:
+
+ miten yhdistän kaksi solua
+ miten yhdistän etu- ja sukunimen
+ miten lisään välilyönnin yhdistämisessä
+ miten yhdistän tekstit samaan soluun
+ miten YHDISTÄ-funktio toimii
+ miten ketjutan tekstiä Excelissä
+ miten yhdistän useita soluja yhdeksi tekstiksi

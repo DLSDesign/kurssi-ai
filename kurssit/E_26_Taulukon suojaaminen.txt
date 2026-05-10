@@ -1,0 +1,85 @@
+TYYPPI: video
+
+OHJELMA: Excel
+
+VIDEO: Taulukon suojaaminen
+
+AIHE: Laskentataulukon suojaus
+
+TAVOITE:
+Oppia suojaamaan laskentataulukko niin, että vain tietyt solut ovat muokattavissa. Oppia käyttämään salasanaa ja määrittämään, mitä käyttäjät voivat tehdä suojatussa taulukossa.
+
+OHJE:
+
+Laskentataulukon suojaaminen estää muiden tekemät muutokset suojattuihin soluihin. Tämä on hyödyllistä silloin, kun haluat suojata:
+
+ laskukaavat
+ tärkeät tiedot
+ valmiin rakenteen
+ lomakkeet tai täytettävät taulukot
+
+Voit jättää tietyt solut muokattaviksi ja suojata kaikki muut.
+
+Taulukon suojaaminen
+
+Suojaa laskentataulukko näin:
+
+1. Siirry Tarkista-välilehdelle.
+2. Valitse Hallitse suojausta tai Suojaa taulukko.
+3. Ota suojaus käyttöön.
+4. Valitse ne solut, jotka haluat jättää muokattaviksi eli avoimiksi.
+5. Määritä suojausasetukset eli mitä haluat suojata.
+6. Hyväksy suojaus.
+
+Voit valita esimerkiksi:
+
+ voiko käyttäjä valita soluja
+ voiko käyttäjä muokata tietoja
+ voiko käyttäjä lisätä rivejä tai sarakkeita
+ voiko käyttäjä lajitella tai suodattaa tietoja
+
+Salasanan lisääminen
+
+Voit lisätä suojaukselle salasanan.
+
+Jos asetat salasanan:
+
+ suojausta ei voi poistaa ilman salasanaa
+ vain salasanan tietävä henkilö voi muuttaa suojausta
+
+Salasana on valinnainen.
+
+Suojauksen jälkeen
+
+Kun suojaus on käytössä:
+
+ vain määritetyt solut ovat muokattavissa
+ suojattuja soluja ei voi muuttaa
+ käyttäjän toiminnot voivat olla rajoitettuja
+
+Suojauksen poistaminen
+
+Poista suojaus näin:
+
+1. Siirry Tarkista-välilehdelle.
+2. Valitse Poista taulukon suojaus.
+3. Anna salasana, jos sellainen on asetettu.
+
+Tämän jälkeen taulukkoa voi muokata normaalisti.
+
+VINKKI:
+Suojaa erityisesti ne solut, joissa on laskukaavoja. Näin vältät vahingossa tapahtuvat muutokset, jotka voivat rikkoa laskennan.
+
+HAKUSANAT:
+taulukon suojaaminen, suojaa taulukko, laskentataulukon suojaus, suojaus Excelissä, suojaa solut, suojaa kaavat, lukitse solut, suojaamattomat solut, suojatut solut, salasana Excelissä, taulukon salasana, poista suojaus, suojauksen poistaminen, suojausasetukset, käyttäjän oikeudet, estä muokkaus, suojaa tiedot, suojaa laskukaavat
+
+TYYPILLISET KYSYMYKSET:
+
+ miten suojaan taulukon
+ miten lukitsen solut
+ miten suojaan laskukaavat
+ miten jätän vain tietyt solut muokattaviksi
+ miten lisään salasanan Exceliin
+ miten poistan taulukon suojauksen
+ miksi en voi muokata soluja
+ miten estän muiden muutokset Excelissä
