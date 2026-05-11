@@ -95,8 +95,6 @@ Tämän jälkeen sisennys poistuu ja sisennysmerkit palautuvat viivaimen vasempa
 
 Voit tehdä sisennyksen myös valmiiseen tekstiin. Vie kohdistin kappaleeseen ja tee sisennys.
 
-Wordin työpöytäversiossa voit tehdä riippuvan sisennyksen nopeasti näppäinkomennolla Ctrl + T. Vastaavasti voit poistaa sen näppäinyhdistelmällä Ctrl + Vaihto + T. Huom! Tämä ei toimi Wordin verkkoversiossa.
-
 Tekstin tasaaminen
 
 Tasaus on kappalemuotoilu. Riittää, että viet kohdistimen johonkin kohtaan kappaleessa. Jos haluat tasata useita kappaleita samalla kertaa, valitse ne ensin.
@@ -129,3 +127,11 @@ miten teen sisennyksen näppäimistöllä
 mitä Ctrl T tekee
 mitä Ctrl M tekee
 miten sisennän valmiin tekstin
+
+VERSIOEROT:
+
+Word-verkkoversio:
+Ctrl+t-näppäinkomento ei toimi
+
+Word-työpöytäversio:
+Wordin työpöytäversiossa voit tehdä riippuvan sisennyksen nopeasti näppäinkomennolla Ctrl + T. Vastaavasti voit poistaa sen näppäinyhdistelmällä Ctrl + Vaihto + T. 
