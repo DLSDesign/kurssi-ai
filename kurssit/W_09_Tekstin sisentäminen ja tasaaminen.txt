@@ -95,7 +95,7 @@ Tämän jälkeen sisennys poistuu ja sisennysmerkit palautuvat viivaimen vasempa
 
 Voit tehdä sisennyksen myös valmiiseen tekstiin. Vie kohdistin kappaleeseen ja tee sisennys.
 
-Wordin työpöytäversiossa voit tehdä riippuvan sisennyksen nopeasti näppäinkomennolla Ctrl + T. Vastaavasti voit poistaa sen näppäinyhdistelmällä Ctrl + Vaihto + T.
+Wordin työpöytäversiossa voit tehdä riippuvan sisennyksen nopeasti näppäinkomennolla Ctrl + T. Vastaavasti voit poistaa sen näppäinyhdistelmällä Ctrl + Vaihto + T. Huom! Tämä ei toimi Wordin verkkoversiossa.
 
 Tekstin tasaaminen
 
