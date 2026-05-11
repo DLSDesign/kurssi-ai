@@ -1,0 +1,131 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tekstin sisentäminen ja tasaaminen
+
+AIHE: Sisennysten ja tasausten käyttäminen Wordissa
+
+TAVOITE:
+Oppia tekemään tekstin sisennyksiä ja tasaamaan tekstiä eri tavoilla Wordissa.
+
+OHJE:
+
+Sisennysten ja tasausten avulla teet tekstistä selkeämpää ja helpommin luettavaa.
+
+Niiden avulla voit:
+
+erottaa otsikot ja kappaleet toisistaan
+korostaa tärkeitä kohtia
+jäsentää sisältöä selkeästi
+
+Sisennystä käytetään tekstikappaleissa.
+
+Tasauksella voit määrittää, sijoittuuko teksti:
+
+vasempaan reunaan
+oikeaan reunaan
+keskelle
+tasaisesti molempiin reunoihin
+
+Viivaimen näyttäminen
+
+Ennen sisennysten tekemistä tuo viivain näkyviin.
+
+Tee näin:
+
+1. Siirry Näytä-välilehdelle.
+2. Valitse Viivain.
+
+Viivain näkyy asiakirjan yläreunassa. Sen avulla voit seurata sisennyksiä ja niiden sijaintia.
+
+Vasemman reunan sisennys
+
+Voit tehdä sisennyksen näin:
+
+1. Napsauta Aloitus-välilehden Kappale-ryhmän Suurenna sisennystä -painiketta.
+2. Jatka napsauttamista, kunnes kohdistin on halutussa kohdassa (yleensä 4,6 cm).
+3. Seuraa sisennysmerkkejä viivaimella.
+
+Viivaimella näkyvät sisennysmerkit osoittavat sisennyksen sijainnin.
+
+Kirjoita sen jälkeen teksti.
+
+Kun haluat palauttaa kohdistimen takaisin vasempaan reunaan:
+
+1. Napsauta Aloitus-välilehden Kappale-ryhmän Pienennä sisennystä -painiketta.
+2. Jatka, kunnes kohdistin on vasemmassa reunassa.
+
+Riippuva sisennys
+
+Riippuvassa sisennyksessä kappaleen ensimmäinen rivi alkaa vasemmasta reunasta ja muut rivit sisentyvät.
+
+Tätä käytetään usein esimerkiksi:
+
+lähdeluetteloissa
+luetteloissa
+hakemistoissa
+
+Tee riippuva sisennys näin:
+
+1. Vie kohdistin kohtaan, johon haluat sisennyksen.
+2. Avaa Aloitus-välilehden Kappale-ryhmän valintaikkuna (pieni painike ryhmän oikeassa alareunassa).
+3. Valitse Sisennys-kohdasta Riippuva.
+4. Määritä sisennys esimerkiksi kohtaan 4,6 cm.
+5. Hyväksy OK-painikkeella.
+
+Huomaa, että viivaimen sisennysmerkit muuttuvat. Ylempi merkki näyttää ensimmäisen rivin aloituskohdan. Alempi merkki näyttää muiden rivien sisennyskohdan.
+
+Kirjoita ensin otsikko.
+
+Paina sen jälkeen Sarkain-näppäintä ja kirjoita varsinainen teksti.
+
+Teksti rivittyy automaattisesti määritettyyn sisennyskohtaan.
+
+Sisennyksen poistaminen
+
+Voit poistaa riippuvan sisennyksen näin:
+
+1. Paina Enter-näppäintä päästäksesi tyhjälle riville.
+2. Avaa Aloitus-välilehden Kappale-ryhmän valintaikkuna (pieni painike ryhmän oikeassa alareunassa).
+3. Valitse Sisennys-kohdasta Ei mitään.
+4. Hyväksy muutos.
+
+Tämän jälkeen sisennys poistuu ja sisennysmerkit palautuvat viivaimen vasempaan reunaan.
+
+Voit tehdä sisennyksen myös valmiiseen tekstiin. Vie kohdistin kappaleeseen ja tee sisennys.
+
+Wordin työpöytäversiossa voit tehdä riippuvan sisennyksen nopeasti näppäinkomennolla Ctrl + T. Vastaavasti voit poistaa sen näppäinyhdistelmällä Ctrl + Vaihto + T.
+
+Tekstin tasaaminen
+
+Tasaus on kappalemuotoilu. Riittää, että viet kohdistimen johonkin kohtaan kappaleessa. Jos haluat tasata useita kappaleita samalla kertaa, valitse ne ensin.
+
+Voit käyttää seuraavia tasaustapoja:
+
+Tasaa vasempaan reunaan
+Tasaa keskelle
+Tasaa oikeaan reunaan
+Tasaa molemmat reunat
+
+VINKKI:
+Voit tehdä tavallisen sisennyksen myös näppäinkomennolla Ctrl + M ja palauttaa sen yhdistelmällä Ctrl + Vaihto + M.
+
+HAKUSANAT:
+sisennys, tekstin sisennys, riippuva sisennys, sivuotsikkosisennys, tasaus, tekstin tasaus, tasaa vasempaan, tasaa oikeaan, tasaa keskelle, tasaa molemmat reunat, viivain, Word viivain, kappalemuotoilu, Kappale-valintaikkuna, sisennysmerkit, Ctrl T, Ctrl Shift T, Ctrl M, Word sisennys, tekstin muotoilu, Sarkain-näppäin
+
+TYYPILLISET KYSYMYKSET:
+
+miten teen sisennyksen Wordissa
+miten näytän viivaimen
+mitä riippuva sisennys tarkoittaa
+miten teen riippuvan sisennyksen
+miten poistan sisennyksen
+miten tasaan tekstin keskelle
+miten tasaan tekstin oikeaan reunaan
+miten tasaan molemmat reunat
+mitä tasaus tarkoittaa
+miten teen sisennyksen näppäimistöllä
+mitä Ctrl T tekee
+mitä Ctrl M tekee
+miten sisennän valmiin tekstin

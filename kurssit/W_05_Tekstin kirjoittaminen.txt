@@ -1,0 +1,100 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tekstin kirjoittaminen
+
+AIHE: Tekstin kirjoittaminen Wordissa
+
+TAVOITE:
+Oppia kirjoittamaan ja muokkaamaan tekstiä Wordissa sekä hyödyntämään tekstin tarkistusta, hyperlinkkejä ja erikoismerkkejä.
+
+OHJE:
+
+Wordissa voit kirjoittaa erilaisia tekstejä, kuten kirjeitä, raportteja, muistioita ja ohjeita.
+
+Aloita kirjoittaminen näin:
+
+1. Kirjoita ensin tekstille otsikko.
+2. Paina Enter-näppäintä kaksi kertaa. Näin saat tyhjän rivin otsikon ja leipätekstin väliin.
+3. Kirjoita varsinainen teksti.
+
+Word rivittää tekstin automaattisesti.
+
+Sinun ei tarvitse painaa Enteriä rivin lopussa. Ohjelma rivittää tekstin automaattisesti. Paina Enteriä vain silloin, kun haluat aloittaa uuden kappaleen.
+
+Tekstin tarkistus
+
+Word tarkistaa tekstiä kirjoittamisen aikana.
+
+Ohjelma merkitsee väärin kirjoitetut sanat punaisella aaltoviivalla ja 
+kielioppivirheet sinisellä kaksoisviivalla.
+
+Voit korjata virheen näin:
+
+1. Vie hiiren osoitin sanan päälle.
+2. Napsauta hiiren kakkospainiketta.
+3. Valitse oikea sana ehdotuksista.
+
+Voit myös korjata sanan kirjoittamalla sen itse oikein.
+
+Ylä- ja alaindeksi
+
+Voit käyttää tekstissä ylä- ja alaindeksiä esimerkiksi kaavoissa ja mittayksiköissä.
+
+Tee näin:
+
+1. Valitse Aloitus-välilehden Fontti-ryhmästä ylä- tai alaindeksi-painike.
+2. Kirjoita haluamasi merkki.
+3. Poista toiminto käytöstä napsauttamalla painiketta uudelleen.
+4. Jatka kirjoittamista normaalisti.
+
+Erikoismerkit
+
+Wordissa voit lisätä merkkejä, joita ei löydy näppäimistöltä.
+
+Lisää merkki näin:
+
+1. Valitse Lisää-välilehti.
+2. Valitse Merkit-ryhmästä Symboli tai Erikoismerkki.
+3. Valitse haluamasi merkki.
+
+Voit lisätä esimerkiksi:
+
+symboleja
+matemaattisia merkkejä
+vieraskielisiä kirjaimia
+
+Hyperlinkit
+
+Word tekee automaattisesti hyperlinkkejä esimerkiksi sähköpostiosoitteista ja verkkosivujen osoitteista.
+
+Kun napsautat hyperlinkkiä, Word avaa selaimen tai sähköpostiohjelman.
+
+Poista hyperlinkki näin:
+
+1. Napsauta hyperlinkkiä hiiren kakkospainikkeella.
+2. Valitse Poista hyperlinkki.
+
+Huomaa, että Wordin työpöytäversiossa erikoismerkkejä on enemmän kuin selainversiossa.
+
+VINKKI:
+Jos Word korjaa tekstin automaattisesti väärin, voit kumota korjauksen heti Ctrl+Z-näppäinyhdistelmällä.
+
+HAKUSANAT:
+tekstin kirjoittaminen, kirjoita tekstiä Wordissa, Word kirjoittaminen, tekstin muokkaus, Enter-näppäin, kappaleen vaihto, tekstin tarkistus, oikeinkirjoitus, kieliopin tarkistus, punainen aaltoviiva, sininen kaksoisviiva, korjaa kirjoitusvirhe, hiiren kakkospainike, yläindeksi, alaindeksi, erikoismerkit, symbolit, hyperlinkki, poista hyperlinkki, Word hyperlinkki, Lisää-välilehti, Symboli-toiminto
+
+TYYPILLISET KYSYMYKSET:
+
+miten kirjoitan tekstiä Wordissa
+miten vaihdan kappaletta
+miksi Word tekee punaisen viivan
+miten korjaan kirjoitusvirheen
+miten käytän oikeinkirjoituksen tarkistusta
+miten teen yläindeksin
+miten teen alaindeksin
+mistä löydän erikoismerkit
+miten lisään symboleja
+miten poistan hyperlinkin
+miksi Word tekee linkin automaattisesti
+miten lisään vieraskielisiä kirjaimia

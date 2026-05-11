@@ -1,0 +1,123 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Luettelomerkit ja numerointi
+
+AIHE: Luettelomerkkien ja numeroinnin käyttäminen Wordissa
+
+TAVOITE:
+Oppia lisäämään luettelomerkkejä, numerointia ja monitasoisia luetteloita Wordissa sekä käyttämään sisennyksiä.
+
+OHJE:
+
+Luettelomerkkien ja numeroinnin avulla voit tehdä asiakirjasta selkeämmän ja helpommin luettavan.
+
+Luettelot auttavat jäsentämään tietoa esimerkiksi:
+
+ohjeissa
+tehtävälistoissa
+vaiheittaisissa työohjeissa
+yhteenvedoissa
+
+Wordissa voit käyttää:
+
+luettelomerkkejä
+numerointia
+monitasoisia luetteloita
+
+Voit myös vaihtaa luettelomerkit numeroinniksi tai numeroinnin luettelomerkeiksi milloin tahansa.
+
+Luettelomerkkien lisääminen
+
+Voit lisätä luettelomerkit työkalurivin painikkeella.
+
+Tee näin:
+
+1. Napsauta Aloitus-välilehden Kappale-ryhmästä Luettelomerkit-painiketta.
+2. Kirjoita ensimmäinen kohta.
+3. Paina Enter-näppäintä.
+4. Kirjoita seuraava kohta.
+
+Kun painat Enteriä rivin lopussa, Word jatkaa luetteloa automaattisesti seuraavalle riville.
+
+Luettelon lopettaminen
+
+Voit lopettaa luettelon näin:
+
+paina Enter-näppäintä kaksi kertaa tai poista luettelomerkit käytöstä sen painikkeesta.
+
+Luettelomerkin vaihtaminen
+
+Voit vaihtaa luettelomerkin toiseksi.
+
+Tee näin:
+
+1. Napsauta jotakin luettelon kohtaa.
+2. Avaa Luettelomerkki-painikkeen valikko. 
+3. Valitse uusi luettelomerkki.
+
+Numeroinnin lisääminen
+
+Voit tehdä numeroidun luettelon Numerointi-painikkeella.
+
+Numeroitu luettelo sopii esimerkiksi vaiheittaisiin ohjeisiin.
+
+Tee näin:
+
+1. Napsauta Aloitus-välilehden Kappale-ryhmän Numerointi-painiketta.
+2. Kirjoita ensimmäinen kohta.
+3. Paina Enter-näppäintä jatkaaksesi seuraavaan numeroon.
+
+Monitasoinen luettelo
+
+Voit tehdä myös monitasoisen luettelon. Monitasoisessa luettelossa on pääkohtia ja alakohtia.
+
+Tee näin:
+
+1. Napsauta Aloitus-välilehden Kappale-ryhmän Monitasoinen luettelo -painiketta.
+2. Valitse haluamasi luettelotyyli.
+3. Kirjoita luettelon kohdat.
+
+Sisennykset luettelossa
+
+Voit siirtää kohtia eri tasoille sisennysten avulla.
+
+Sisennyksen lisääminen:
+
+Napsauta Aloitus-välilehden Kappale-ryhmän Lisää sisennystä -painiketta tai paina Sarkain-näppäintä.
+
+Sisennyksen palauttaminen 
+
+Napsauta Aloitus-välilehden Kappale-ryhmän Vähennä sisennystä -painiketta tai paina Vaihto + Sarkain -näppäinyhdistelmää.
+
+Luettelomerkit valmiiseen tekstiin
+
+Voit lisätä luettelomerkit tai numeroinnin myös valmiiseen tekstiin.
+
+Tee näin:
+
+1. Valitse teksti.
+2. Valitse haluamasi luettelomerkki tai numerointi.
+
+Word muuttaa tekstin luetteloksi.
+
+VINKKI:
+Voit vaihtaa luettelomerkin nopeasti ilman koko luettelon valitsemista. Napsauta mitä tahansa luettelon kohtaa ja vaihda merkki valikosta. Word tunnistaa koko luettelon automaattisesti.
+
+HAKUSANAT:
+luettelomerkit, numerointi, Word luettelo, luettelomerkkiluettelo, numeroitu luettelo, monitasoinen luettelo, sisennys, lisää sisennystä, vähennä sisennystä, Sarkain, Vaihto Sarkain, luettelomerkin vaihtaminen, Word numerointi, luettelon tekeminen, vaiheittainen ohje, luettelon lopettaminen, luettelomerkit valmiiseen tekstiin, Word listat
+
+TYYPILLISET KYSYMYKSET:
+
+miten teen luettelon Wordissa
+miten lisään luettelomerkit
+miten teen numeroidun luettelon
+miten vaihdan luettelomerkin
+miten lopetan luettelon
+miten teen monitasoisen luettelon
+miten teen alakohtia luetteloon
+miten käytän sisennyksiä
+miten palautan sisennyksen
+miten lisään numeroinnin valmiiseen tekstiin
+miten vaihdan numeroinnin luettelomerkeiksi
