@@ -395,25 +395,8 @@ function muotoileVastaus(teksti) {
       else if (rivi.startsWith("Lisäohje:")) {
         html += `<div class="source-note">📘 ${rivi.replace("Lisäohje:", "").trim()}</div>`;
       }
-      else {
-       else {
-
-  if (
-    rivi.endsWith(":") &&
-    !rivi.startsWith("Löytyy videosta") &&
-    !rivi.startsWith("Lisäohje")
-  ) {
-    html += `<div class="answer-title">${rivi}</div>`;
-  }
-
-  else if (rivi.startsWith("SELITYS:")) {
-    html += `<div class="answer-info">${rivi.replace("SELITYS:", "").trim()}</div>`;
-  }
-
-  else {
-    html += `<div>${rivi}</div>`;
-  }
-}
+     else {
+  html += `<div>${rivi}</div>`;
       }
     }
   });
