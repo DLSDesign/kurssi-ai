@@ -316,7 +316,7 @@ input:focus {
 </div>
 
 <script>
-let historia = [];
+let historia = JSON.parse(localStorage.getItem("chatHistoria")) || [];
 let valittuOhjelma = "";
 
 function piilotaAloitusruutu() {
@@ -428,7 +428,7 @@ function valitseOhjelma(ohjelma) {
 
 function tyhjennaKeskustelu() {
   historia = [];
-
+localStorage.removeItem("chatHistoria");
   document.getElementById("chat").innerHTML = `
     <div id="welcome" class="welcome">
       <h2>Kysy apua 👋</h2>
@@ -493,6 +493,7 @@ async function lahetaKysymys() {
 
       historia.push({ role: "user", content: kysymys });
       historia.push({ role: "assistant", content: data.vastaus });
+localStorage.setItem("chatHistoria", JSON.stringify(historia));
     } else {
       lisaaViesti("assistant", "Virhe: " + data.virhe);
     }
@@ -507,6 +508,24 @@ document.getElementById("kysymys").addEventListener("keypress", function(e) {
     lahetaKysymys();
   }
 });
+window.onload = () => {
+
+  if (historia.length > 0) {
+
+    const welcome = document.getElementById("welcome");
+
+    if (welcome) {
+      welcome.remove();
+    }
+
+    historia.forEach(viesti => {
+      lisaaViesti(
+        viesti.role === "user" ? "user" : "assistant",
+        viesti.content
+      );
+    });
+  }
+};
 </script>
 
 </body>
