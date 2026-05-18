@@ -237,6 +237,21 @@ input:focus {
 .send-button:hover {
   background: #1d4ed8;
 }
+.message {
+  animation: messageIn 0.22s ease-out;
+}
+
+@keyframes messageIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 </style>
 </head>
 
