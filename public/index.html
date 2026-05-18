@@ -431,6 +431,8 @@ function valitseOhjelma(ohjelma) {
 function tyhjennaKeskustelu() {
   historia = [];
 localStorage.removeItem("chatHistoria");
+valittuOhjelma = "";
+document.getElementById("headerOhjelma").innerText = "";
   document.getElementById("chat").innerHTML = `
     <div id="welcome" class="welcome">
       <h2>Kysy apua 👋</h2>
