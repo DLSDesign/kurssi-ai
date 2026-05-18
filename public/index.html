@@ -46,6 +46,26 @@ body {
   color: #6b7280;
   margin-top: 2px;
 }
+.answer-title {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 8px;
+  color: #111827;
+}
+
+.answer-section {
+  margin-top: 10px;
+}
+
+.answer-info {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 10px 12px;
+  margin-top: 10px;
+  color: #475569;
+  font-size: 13px;
+}
 
 .clear-button {
   background: #ffffff;
@@ -376,7 +396,24 @@ function muotoileVastaus(teksti) {
         html += `<div class="source-note">📘 ${rivi.replace("Lisäohje:", "").trim()}</div>`;
       }
       else {
-        html += `<div>${rivi}</div>`;
+       else {
+
+  if (
+    rivi.endsWith(":") &&
+    !rivi.startsWith("Löytyy videosta") &&
+    !rivi.startsWith("Lisäohje")
+  ) {
+    html += `<div class="answer-title">${rivi}</div>`;
+  }
+
+  else if (rivi.startsWith("SELITYS:")) {
+    html += `<div class="answer-info">${rivi.replace("SELITYS:", "").trim()}</div>`;
+  }
+
+  else {
+    html += `<div>${rivi}</div>`;
+  }
+}
       }
     }
   });
