@@ -17,7 +17,8 @@ body {
 }
 
 .container {
-  width: 680px;
+  width: 100%;
+  max-width: 680px;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -124,11 +125,11 @@ body {
 }
 
 .message {
-  margin-bottom: 14px;
-  max-width: 86%;
-  padding: 12px 14px;
-  border-radius: 16px;
-  line-height: 1.5;
+  margin-bottom: 16px;
+  max-width: 88%;
+  padding: 14px 16px;
+  border-radius: 18px;
+  line-height: 1.55;
   font-size: 14px;
 }
 
@@ -256,7 +257,7 @@ input:focus {
   </div>
 
   <div class="input-area">
-    <input id="kysymys" placeholder="Kirjoita kysymys...">
+    <input id="kysymys" placeholder="Kirjoita kysymys kurssin sisällöstä...">
     <button class="send-button" onclick="lahetaKysymys()">Lähetä</button>
   </div>
 
