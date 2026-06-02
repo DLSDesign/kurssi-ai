@@ -1,0 +1,89 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Sivunvaihdon lisääminen
+
+AIHE: Sivunvaihdon lisääminen Wordissa
+
+TAVOITE:
+Oppia lisäämään sivunvaihto oikeaan kohtaan Wordissa ja välttämään virheelliset tyhjät rivit asiakirjassa.
+
+OHJE:
+
+Word tekee sivunvaihdot asiakirjaan automaattisesti.
+
+Joskus sivunvaihto kannattaa kuitenkin lisätä itse.
+
+Tällainen tilanne voi olla esimerkiksi silloin, kun:
+
+otsikko jää sivun alareunaan
+otsikkoa seuraava teksti siirtyy seuraavalle sivulle
+haluat aloittaa uuden luvun uudelta sivulta
+
+Älä tee sivunvaihtoa painamalla Enter-näppäintä monta kertaa.
+
+Jos käytät tyhjiä rivejä sivun siirtämiseen, asiakirjan rakenne voi rikkoutua myöhemmin.
+
+Esimerkiksi:
+
+kuvien lisääminen
+tekstin muokkaaminen
+fonttikoon muuttaminen
+
+voi siirtää sisältöä väärään paikkaan.
+
+Sivunvaihdon lisääminen
+
+Tee sivunvaihto näin:
+
+1. Vie kohdistin sen rivin alkuun, jonka haluat seuraavalle sivulle.
+2. Siirry Asettelu-välilehdelle.
+3. Valitse Vaihdot.
+4. Valitse Sivu.
+
+Word lisää sivunvaihdon valittuun kohtaan.
+
+Nyt sisältö pysyy oikeilla sivuilla, vaikka asiakirjaan lisätään myöhemmin uutta sisältöä.
+
+Sivunvaihdon poistaminen
+
+Voit poistaa sivunvaihdon poistamalla sivunvaihtomerkin.
+
+Tämä onnistuu helpoimmin, kun näytät muotoilumerkit.
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Sivunvaihdon lisääminen onnistuu perustoiminnoilla.
+* Kaikkia asettelun lisäasetuksia ei ole käytettävissä.
+
+Word työpöytäversio:
+
+* Käytettävissä on enemmän vaihto- ja asettelutoimintoja.
+* Muotoilumerkkien hallinta on laajempi.
+
+VINKKI:
+Voit lisätä sivunvaihdon nopeasti myös näppäinkomennolla:
+
+Ctrl + Enter
+
+HAKUSANAT:
+sivunvaihto, lisää sivunvaihto, Word sivunvaihto, vaihdot, Asettelu-välilehti, uusi sivu, sivunvaihdon lisääminen, Ctrl Enter, asiakirjan rakenne, otsikko uudelle sivulle, Word asettelu, muotoilumerkit, sivunvaihdon poistaminen
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään sivunvaihdon Wordissa
+miten aloitan uuden sivun
+mitä sivunvaihto tarkoittaa
+miksi ei kannata painaa Enteriä monta kertaa
+miten teen uuden luvun uudelle sivulle
+mitä Ctrl Enter tekee
+miten poistan sivunvaihdon
+missä Vaihdot-toiminto on
+miten siirrän otsikon seuraavalle sivulle
+miten teen asiakirjasta siistimmän

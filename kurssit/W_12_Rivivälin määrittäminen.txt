@@ -1,0 +1,91 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Rivinvälin määrittäminen
+
+AIHE: Rivivälin muuttaminen Wordissa
+
+TAVOITE:
+Oppia muuttamaan tekstin riviväliä Wordissa ja parantamaan asiakirjan luettavuutta.
+
+OHJE:
+
+Riviväli tarkoittaa tekstirivien välistä etäisyyttä.
+
+Kun rivien välissä on sopivasti tilaa, teksti näyttää selkeämmältä ja sitä on helpompi lukea.
+
+Liian pieni riviväli tekee tekstistä ahtaan.
+
+Liian suuri riviväli taas hajottaa tekstin kokonaisuutta.
+
+Useissa ohjeissa ja opetuskäytännöissä suositellaan riviväliä 1,5 tavallisiin teksteihin.
+
+Rivivälin muuttaminen
+
+Voit muuttaa riviväliä:
+
+koko asiakirjassa
+valitussa tekstissä
+yksittäisessä kappaleessa
+
+Koko asiakirjan valitseminen
+
+Voit valita koko asiakirjan nopeasti näppäinyhdistelmällä:
+
+Ctrl + A
+
+Rivivälin muuttaminen näin:
+
+1. Valitse teksti tai koko asiakirja.
+2. Valitse Aloitus-välilehden Kappale-ryhmästä Rivi- ja kappaleväli -painike.
+3. Valitse haluamasi riviväli.
+
+Yleisiä rivivälejä ovat esimerkiksi:
+
+1,0
+1,15
+1,5
+2,0
+
+Riviväli muuttuu heti valitulle tekstille.
+
+Kappaleväli
+
+Rivivälin lisäksi voit säätää myös kappaleiden välistä tilaa.
+
+Kappaleväli auttaa erottamaan kappaleet toisistaan selkeämmin.
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Yleisimmät rivivälit ovat käytettävissä.
+* Asetuksia on vähemmän kuin työpöytäversiossa.
+
+Word työpöytäversio:
+
+* Käytettävissä on tarkemmat rivi- ja kappalevälin asetukset.
+* Voit määrittää tarkkoja arvoja Kappale-valintaikkunassa.
+
+VINKKI:
+Älä käytä tyhjiä rivejä kappaleiden välin kasvattamiseen. Käytä mieluummin kappaleväliä, jolloin asiakirjan ulkoasu pysyy yhtenäisenä.
+
+HAKUSANAT:
+riviväli, muuta riviväliä, Word riviväli, rivi- ja kappaleväli, kappaleväli, tekstin riviväli, 1,5 riviväli, Word kappaleväli, Ctrl A, tekstin muotoilu, rivien väli, kappaleiden väli, asiakirjan muotoilu
+
+TYYPILLISET KYSYMYKSET:
+
+miten muutan riviväliä Wordissa
+miten teen 1,5 rivivälin
+mitä riviväli tarkoittaa
+miten valitsen koko asiakirjan
+miten muutan koko asiakirjan rivivälin
+miten lisään tilaa kappaleiden väliin
+mikä on hyvä riviväli
+miten muutan kappaleväliä
+mitä Ctrl A tekee
+miten teen tekstistä helpommin luettavaa

@@ -1,0 +1,127 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tekstin siirtäminen ja kopioiminen
+
+AIHE: Tekstin siirtäminen ja kopioiminen Wordissa
+
+TAVOITE:
+Oppia siirtämään ja kopioimaan tekstiä, kuvia ja muita sisältöjä Wordissa sekä asiakirjasta toiseen.
+
+OHJE:
+
+Wordissa voit siirtää ja kopioida esimerkiksi:
+
+tekstiä
+kuvia
+taulukoita
+kuvioita
+
+Voit siirtää tai kopioida tietoja:
+
+saman asiakirjan sisällä
+toiseen Word-asiakirjaan
+muihin Windows-ohjelmiin
+
+Tekstin siirtäminen
+
+Siirtäminen tarkoittaa, että sisältö poistuu alkuperäisestä paikasta ja siirtyy uuteen paikkaan.
+
+Siirrä teksti näin:
+
+1. Valitse siirrettävä teksti.
+2. Valitse Aloitus-välilehdeltä Leikkaa-painike.
+3. Vie kohdistin kohtaan, johon haluat siirtää tekstin.
+4. Valitse Aloitus-välilehdeltä Liitä-painike.
+
+Teksti siirtyy uuteen paikkaan.
+
+Tekstin kopioiminen
+
+Kopiointi tarkoittaa, että alkuperäinen sisältö säilyy ja siitä tehdään kopio.
+
+Kopioi teksti näin:
+
+1. Valitse kopioitava teksti.
+2. Valitse Aloitus-välilehdeltä Kopioi-painike.
+3. Vie kohdistin kohtaan, johon haluat tuoda kopion.
+4. Valitse Aloitus-välilehdeltä Liitä-painike.
+
+Voit liittää saman kopion useita kertoja.
+
+Tietojen kopioiminen toiseen asiakirjaan
+
+Voit kopioida sisältöä myös asiakirjasta toiseen.
+
+Tee näin:
+
+1. Valitse kopioitava sisältö.
+2. Valitse Aloitus-välilehdeltä Kopioi.
+3. Siirry toiseen asiakirjaan tai ohjelmaan.
+4. Vie kohdistin haluttuun kohtaan.
+5. Valitse Aloitus-välilehdeltä Liitä.
+
+Voit kopioida tietoja esimerkiksi:
+
+Wordista PowerPointiin
+Wordista sähköpostiin
+Wordista Exceliin
+
+Liittämisen vaihtoehdot
+
+Kun liität sisältöä, Word voi näyttää erilaisia liittämisvaihtoehtoja.
+
+Voit esimerkiksi:
+
+säilyttää alkuperäisen muotoilun
+käyttää kohdeasiakirjan muotoiluja
+liittää vain tekstin
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Perustoiminnot, kuten Leikkaa, Kopioi ja Liitä, toimivat normaalisti.
+* Liittämisvaihtoehtoja on vähemmän kuin työpöytäversiossa.
+
+Word työpöytäversio:
+
+* Käytettävissä on enemmän liittämisvaihtoehtoja.
+* Voit hallita tarkemmin muotoilujen säilymistä liitettäessä.
+
+VINKKI:
+Voit käyttää myös näppäinkomentoja.
+
+Siirtäminen:
+
+Ctrl + X = Leikkaa
+Ctrl + V = Liitä
+
+Kopioiminen:
+
+Ctrl + C = Kopioi
+Ctrl + V = Liitä
+
+Näppäinkomennot nopeuttavat työskentelyä huomattavasti.
+
+HAKUSANAT:
+siirrä teksti, kopioi teksti, leikkaa ja liitä, Word kopiointi, Word siirtäminen, Ctrl C, Ctrl V, Ctrl X, kopioiminen, liittäminen, siirtäminen, kopioi asiakirjasta toiseen, liitä teksti, liittämisvaihtoehdot, tekstin siirtäminen, tekstin kopioiminen, Word liitä, Word kopioi, Word leikkaa
+
+TYYPILLISET KYSYMYKSET:
+
+miten siirrän tekstiä Wordissa
+miten kopioin tekstiä
+mitä leikkaa tarkoittaa
+miten käytän liitä-toimintoa
+miten kopioin tekstin toiseen asiakirjaan
+miten siirrän tekstin toiseen ohjelmaan
+mitä Ctrl C tekee
+mitä Ctrl V tekee
+mitä Ctrl X tekee
+miten liitän saman tekstin monta kertaa
+miten kopioin kuvan Wordissa
+miten säilytän muotoilun liitettäessä

@@ -1,0 +1,148 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Lisää ylä- ja alatunnisteet
+
+AIHE: Ylä- ja alatunnisteiden käyttäminen Wordissa
+
+TAVOITE:
+Oppia lisäämään ylä- ja alatunnisteita sekä sivunumerointia Word-asiakirjaan.
+
+OHJE:
+
+Ylä- ja alatunnisteet ovat tietoja, jotka näkyvät automaattisesti asiakirjan jokaisella sivulla.
+
+Niissä voi olla esimerkiksi:
+
+yrityksen logo
+asiakirjan nimi
+yhteystiedot
+päivämäärä
+sivunumerointi
+
+WORD VERKKOVERSIO
+
+Sivunumeroinnin lisääminen verkkoversiossa
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Sivunumerot.
+3. Valitse haluamasi numeroinnin sijainti.
+
+Voit lisätä numeroinnin:
+
+ylätunnisteeseen
+alatunnisteeseen
+
+Jos haluat mukaan myös asiakirjan kokonaissivumäärän:
+
+1. Valitse Sisällytä sivujen määrä.
+
+Ylä- ja alatunnisteiden lisääminen verkkoversiossa
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Ylätunniste ja alatunniste.
+3. Kirjoita tunnisteeseen haluamasi tiedot.
+
+Voit lisätä esimerkiksi:
+
+tekstiä
+logoja
+yhteystietoja
+
+WORD TYÖPÖYTÄVERSIO
+
+Ylätunnisteen lisääminen
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Ylätunniste ja alatunniste.
+3. Word avaa ylätunnistealueen.
+
+Ylätunnistealue on jaettu kolmeen osaan.
+
+Voit kirjoittaa tunnisteeseen esimerkiksi:
+
+asiakirjan nimen
+päivämäärän
+yrityksen tiedot
+
+Voit lisätä myös logon.
+
+Sivunumeroinnin lisääminen
+
+1. Vie kohdistin kohtaan, johon haluat sivunumeroinnin.
+2. Avaa Sivunumerot-valikko.
+3. Valitse haluamasi asettelu.
+
+Jos haluat näyttää myös kokonaissivumäärän, valitse vaihtoehto, jossa näkyy:
+
+nykyinen sivu
+ja kokonaissivujen määrä
+
+Alatunnisteen lisääminen
+
+1. Valitse Siirry alatunnisteeseen.
+2. Kirjoita alatunnisteeseen haluamasi tiedot.
+
+Viivan lisääminen tunnisteeseen
+
+Voit erottaa tunnistealueen viivalla.
+
+Tee näin:
+
+1. Valitse koko tunnistealue.
+2. Avaa pikatyökalurivi.
+3. Lisää ylä- tai alaviiva.
+
+Ylätunnisteeseen lisätään yleensä alaviiva.
+
+Alatunnisteeseen voidaan lisätä yläviiva.
+
+Tunnistealueen sulkeminen
+
+Kun olet valmis:
+
+1. Valitse Sulje ylätunniste ja alatunniste.
+
+Nyt tunnisteet näkyvät automaattisesti kaikilla sivuilla.
+
+Nopea tapa avata tunnisteet
+
+Voit avata tunnistealueen myös kaksoisnapsauttamalla:
+
+sivun yläreunaa
+tai sivun alareunaa
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Sivunumerointi lisätään eri tavalla kuin työpöytäversiossa.
+* Toimintoja on hieman vähemmän kuin työpöytäversiossa.
+
+Word työpöytäversio:
+
+* Käytettävissä ovat kaikki tunniste- ja sivunumerointitoiminnot.
+* Tunnisteiden muotoilu ja sijoittelu ovat monipuolisempia.
+
+VINKKI:
+Pidä ylä- ja alatunnisteet selkeinä. Liian paljon tietoa tunnisteissa voi tehdä asiakirjasta sekavan.
+
+HAKUSANAT:
+ylätunniste, alatunniste, sivunumerointi, Word sivunumerot, lisää ylätunniste, lisää alatunniste, Word tunnisteet, sivujen määrä, logo ylätunnisteessa, yläviiva, alaviiva, Word verkkoversio sivunumerointi, Word työpöytäversio tunnisteet, Lisää-välilehti
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään ylätunnisteen Wordissa
+miten lisään alatunnisteen
+miten lisään sivunumerot
+miten lisään sivujen kokonaismäärän
+miten lisään logon ylätunnisteeseen
+miten poistan tunnisteen
+miten avaan ylätunnisteen
+miten sivunumerointi tehdään verkkoversiossa
+miten tunnisteet toimivat työpöytäversiossa
+miten lisään viivan tunnisteeseen

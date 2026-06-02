@@ -1,0 +1,138 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tekstien etsiminen ja korvaaminen
+
+AIHE: Hakeminen ja tekstin korvaaminen Wordissa
+
+TAVOITE:
+Oppia etsimään ja korvaamaan tekstiä Word-asiakirjassa nopeasti ja tehokkaasti.
+
+OHJE:
+
+Pitkässä asiakirjassa oikean kohdan löytäminen voi olla hidasta ilman hakutoimintoa.
+
+Wordin haku- ja korvaustoiminnot helpottavat asiakirjan käsittelyä.
+
+Voit etsiä esimerkiksi:
+
+sanoja
+lauseita
+numeroita
+kuvia
+taulukoita
+
+Voit myös korvata tekstiä toisella tekstillä.
+
+WORD VERKKOVERSIO
+
+Tekstin etsiminen verkkoversiossa
+
+1. Valitse Aloitus-välilehdeltä Haku.
+2. Kirjoita etsittävä sana tai lause hakuruutuun.
+
+Word aloittaa haun heti kirjoittamisen aikana.
+
+Löydetyt kohdat näkyvät:
+
+vasemman reunan hakupaneelissa
+asiakirjassa korostettuina
+
+Voit siirtyä löydettyjen kohtien välillä nuolipainikkeilla.
+
+Tekstin korvaaminen verkkoversiossa
+
+1. Valitse Korvaa.
+2. Kirjoita etsittävä sana tai lause.
+3. Kirjoita korvaava teksti.
+4. Valitse:
+
+   * Korvaa
+   * tai Korvaa kaikki
+
+WORD TYÖPÖYTÄVERSIO
+
+Tekstin etsiminen työpöytäversiossa
+
+1. Valitse Aloitus-välilehdeltä Haku.
+2. Kirjoita etsittävä sana tai lause.
+
+Hakupaneeli näyttää:
+
+löydetyt kohdat
+asiakirjan rakenteen
+hakutulosten sijainnit
+
+Voit siirtyä löydöksestä toiseen:
+
+nuolipainikkeilla
+tai napsauttamalla hakutulosta
+
+Tekstin korvaaminen työpöytäversiossa
+
+1. Valitse Korvaa.
+   Komento löytyy myös suoraan valintanauhalta.
+2. Kirjoita Etsi mitä -kenttään etsittävä teksti.
+3. Kirjoita Korvaa kenttään uusi teksti.
+4. Valitse:
+
+   * Korvaa
+   * tai Korvaa kaikki
+
+Korvaa-toiminto vaihtaa yhden esiintymän kerrallaan.
+
+Korvaa kaikki vaihtaa kaikki esiintymät yhdellä kertaa.
+
+HUOMIO:
+Suomen kielessä sanojen taivutusmuodot voivat vaikeuttaa korvaamista.
+
+Esimerkiksi sana voi esiintyä eri muodoissa:
+
+talo
+talossa
+taloon
+talolta
+
+Tällöin kaikkia muotoja ei voida aina korvata yhdellä kertaa automaattisesti.
+
+Joissakin tilanteissa teksti täytyy korjata käsin.
+
+Hakupaneelin sulkeminen
+
+Voit sulkea hakupaneelin sen Sulje-painikkeesta.
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Perushaku ja tekstin korvaaminen toimivat normaalisti.
+* Hakutoiminnoissa on vähemmän lisäasetuksia.
+
+Word työpöytäversio:
+
+* Käytettävissä on enemmän hakemisen ja korvaamisen lisätoimintoja.
+* Voit tehdä tarkempia hakuja esimerkiksi muotoilujen perusteella.
+
+VINKKI:
+Käytä Korvaa kaikki -toimintoa varovasti. Tarkista ensin muutama esiintymä, jotta et vahingossa korvaa väärää tekstiä koko asiakirjassa.
+
+HAKUSANAT:
+etsi ja korvaa, Word haku, tekstin hakeminen, tekstin korvaaminen, hakupaneeli, Korvaa kaikki, Word korvaa, etsi sana, etsi lause, hakutoiminto, hakuruutu, asiakirjan haku, Word verkkoversio haku, Word työpöytäversio korvaa
+
+TYYPILLISET KYSYMYKSET:
+
+miten etsin tekstiä Wordissa
+miten korvaan sanan toisella
+mitä Korvaa kaikki tekee
+miten avaan hakupaneelin
+miten siirryn hakutuloksesta toiseen
+miksi kaikkia sanoja ei korvata
+miten etsin lauseen Wordissa
+miten käytän hakua verkkoversiossa
+miten korvaaminen toimii työpöytäversiossa
+voinko etsiä kuvia tai taulukoita
+miten suljen hakupaneelin

@@ -1,0 +1,161 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VIDEO: Tasaa luettelon tekstit sarkaimilla
+
+AIHE: Sarkainten käyttäminen tekstin tasaamiseen Wordissa
+
+TAVOITE:
+Oppia käyttämään sarkaimia tekstin tasaamiseen ja selkeiden luetteloiden tekemiseen Wordissa.
+
+OHJE:
+
+Sarkaimien avulla voit asettaa tekstin tarkasti kohdilleen ilman taulukkoa.
+
+Sarkaimet sopivat hyvin esimerkiksi:
+
+luetteloihin
+hinnastoihin
+aikatauluihin
+yhteystietoihin
+taulukkomaisiin rakenteisiin
+
+Sarkaimilla voit:
+
+tasata tekstin alkuja
+keskittää tekstiä
+tasata numerot oikeaan reunaan
+
+WORD VERKKOVERSIO
+
+Sarkainten määrittäminen (verkkoversio)
+
+1. Avaa Aloitus-välilehden Kappale-ryhmän valintaikkuna.
+2. Valitse Sarkaimet.
+3. Määritä sarkainkohta.
+4. Valitse Lisää.
+
+Sarkaintyypit
+
+Vasen sarkain, teksti alkaa määritetystä kohdasta ja jatkuu oikealle.
+
+Keskittävä sarkain, teksti keskitetään määritettyyn kohtaan.
+
+Oikea sarkain, teksti tasataan oikeaan reunaan.
+
+Tätä käytetään usein:
+
+numeroissa
+hinnoissa
+päivämäärissä
+
+Uuden sarkaimen lisääminen
+
+Voit lisätä useita sarkainkohtia.
+
+1. Määritä uusi sarkainkohta.
+2. Valitse Lisää.
+
+Sarkaimien poistaminen
+
+Voit poistaa sarkaimia Poista-painikkeella.
+
+Luettelon kirjoittaminen
+
+Kirjoita luettelo ja siirry kohdasta toiseen Sarkain-näppäimellä.
+
+Sarkaimien muuttaminen viivaimella
+
+Voit muuttaa sarkainkohtia myös viivaimella.
+
+1. Valitse koko luettelo.
+2. Vedä sarkainmerkkiä viivaimella uuteen kohtaan.
+
+HUOMIO:
+Jos poistat vahingossa sarkaimen, käytä kumoamistoimintoa:
+
+Ctrl + Z
+
+Sarkainten käyttäminen
+
+1. Kirjoita luettelon ensimmäinen tieto.
+2. Paina Sarkain-näppäintä.
+3. Kirjoita seuraava tieto.
+4. Jatka samalla tavalla koko luettelo.
+
+Voit käyttää tätä esimerkiksi:
+
+nimien ja puhelinnumeroiden tasaamiseen
+yksinkertaisiin luetteloihin
+lyhyisiin tietoihin
+
+HUOMIO:
+Word verkkoversiossa tarkkoja sarkainkohtia ei voi hallita yhtä monipuolisesti kuin työpöytäversiossa.
+
+Jos tarvitset tarkkaa tasausta, käytä mieluummin:
+
+taulukkoa
+tai Word työpöytäversiota
+
+WORD TYÖPÖYTÄVERSIO
+
+Wordin työpöytäversiossa sarkainkohdat voidaan määrittää helposti viivaimen avulla.
+
+1. Siirry Näytä-välilehdelle.
+2. Valitse Viivain näkyviin.
+3. Napsauta viivaimen vasemmassa reunassa olevaa sarkainpainiketta ja valitse haluamasi sarkaintyyppi:
+vasen sarkain
+keskittävä sarkain
+oikea sarkain
+
+4. Napsauta viivainta siihen kohtaan, johon haluat sarkainkohdan.
+5. Sarkainmerkki ilmestyy viivaimelle.
+
+Voit siirtää sarkainkohtaa vetämällä sitä viivaimella.
+
+Voit poistaa sarkaimen vetämällä sen pois viivaimelta.
+
+Kirjoita luettelon otsikot.
+
+Siirry otsikosta toiseen Sarkain-näppäimellä.
+
+Siirry sen jälkeen tyhjälle riville.
+
+VERSIOT:
+Word verkkoversio, Word työpöytäversio
+
+VERSIOEROT:
+
+Word verkkoversio:
+
+* Sarkaintoiminnot ovat yksinkertaisempia.
+* Tarkkoja sarkainasetuksia ei ole käytettävissä samalla tavalla kuin työpöytäversiossa.
+
+Word työpöytäversio:
+
+* Käytettävissä ovat kaikki sarkainasetukset.
+* Viivaimen ja sarkainvalintaikkunan avulla voit tehdä tarkkoja tasauksia.
+
+VINKKI:
+Jos luettelosta tulee monimutkainen, kannattaa käyttää taulukkoa sarkainten sijaan.
+
+Voit tehdä taulukon, tasata tekstin soluihin ja poistaa lopuksi reunaviivat.
+
+HAKUSANAT:
+sarkaimet, sarkain, Word sarkaimet, tekstin tasaus, viivain, sarkainkohdat, vasen sarkain, keskittävä sarkain, oikea sarkain, luettelon tasaus, Word viivain, Sarkain-näppäin, Kappale-valintaikkuna, tekstin kohdistaminen, Word verkkoversio sarkaimet, Word työpöytäversio sarkaimet
+
+TYYPILLISET KYSYMYKSET:
+
+miten käytän sarkaimia Wordissa
+miten tasaan tekstin sarkaimilla
+mitä sarkain tarkoittaa
+miten näytän viivaimen
+miten teen oikean sarkaimen
+miten keskittävä sarkain toimii
+miten siirrän sarkainkohtaa
+miten poistan sarkaimen
+miten tasaan numerot oikeaan reunaan
+voiko sarkaimia käyttää verkkoversiossa
+miten sarkaimet toimivat työpöytäversiossa
+pitäisikö käyttää taulukkoa sarkainten sijaan
