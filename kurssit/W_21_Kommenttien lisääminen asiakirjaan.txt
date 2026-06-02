@@ -2,106 +2,117 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Kommenttien lisääminen asiakirjaan
 
-AIHE: Kommenttien käyttäminen Wordissa
+AIHE:
+Kommenttien käyttäminen Wordissa
 
 TAVOITE:
-Oppia lisäämään, näyttämään ja käsittelemään kommentteja Word-asiakirjassa.
+Oppia lisäämään, lukemaan, käsittelemään ja poistamaan kommentteja Word-asiakirjassa.
 
-OHJE:
+SELITYS:
 
 Kommentit helpottavat asiakirjan yhteiskäyttöä ja palautteen antamista.
 
 Kommentteja voidaan käyttää esimerkiksi:
 
-palautteen antamiseen
-kysymysten esittämiseen
-muistiinpanoihin
-tekstin tarkistamiseen
-tiimityöhön
+* palautteen antamiseen
+* kysymysten esittämiseen
+* muistiinpanoihin
+* tekstin tarkistamiseen
+* yhteiseen asiakirjan muokkaamiseen
 
-Kommentit eivät muuta varsinaista tekstiä, vaan ne näkyvät erillisinä huomautuksina.
+Kommentit eivät muuta asiakirjan varsinaista sisältöä, vaan näkyvät erillisinä huomautuksina.
 
-WORD VERKKOVERSIO
+OHJE:
 
-Kommentin lisääminen verkkoversiossa
+Kommentin lisääminen
 
-1. Vie kohdistin kohtaan tai valitse teksti, johon haluat kommentin.
+1. Valitse teksti tai vie kohdistin siihen kohtaan, johon haluat lisätä kommentin.
 2. Siirry Tarkista-välilehdelle.
 3. Valitse Uusi kommentti.
-4. Kirjoita kommentti.
-5. Lisää kommentti valitsemalla Lähetä tai Lisää.
+4. Kirjoita kommenttisi.
+5. Lisää kommentti valitsemalla Lähetä-painike.
+
+Kommentti näkyy asiakirjan reunassa kommenttipaneelissa.
 
 Kommenttien näyttäminen
 
-Jos kommentit eivät näy:
+Jos kommentit eivät ole näkyvissä:
 
 1. Siirry Tarkista-välilehdelle.
 2. Valitse Näytä kommentit.
 
-Kommentteihin vastaaminen
+Kommenttipaneeli avautuu asiakirjan reunaan.
 
-Voit kirjoittaa vastauksen kommenttiin suoraan kommenttikenttään.
+Kommenttiin vastaaminen
 
-Kommentin ratkaiseminen
+Voit vastata kommenttiin suoraan asiakirjassa.
 
-Voit merkitä kommentin ratkaistuksi, kun asia on käsitelty.
+1. Avaa kommentti.
+2. Kirjoita vastauksesi Vastaa-kenttään.
+3. Lähetä vastaus.
 
-Kommentin poistaminen
-
-Voit poistaa kommentin tarvittaessa.
-
-WORD TYÖPÖYTÄVERSIO
-
-Kommentin lisääminen työpöytäversiossa
-
-1. Vie kohdistin kohtaan tai valitse teksti, johon haluat kommentin.
-2. Siirry Tarkista-välilehdelle.
-3. Valitse Uusi kommentti.
-4. Kirjoita kommentti.
-5. Tallenna kommentti.
-
-Kommenttien näyttäminen
-
-Voit näyttää tai piilottaa kommentit Tarkista-välilehdeltä.
-
-Kommentteihin vastaaminen
-
-Voit vastata kommenttiin tai lisätä uusia huomautuksia keskusteluun.
+Näin samaan kommenttiin voi muodostua keskusteluketju.
 
 Kommentin ratkaiseminen
 
-Ratkaistu kommentti jää näkyviin, mutta kertoo että asia on käsitelty.
+Kun kommentissa käsitelty asia on hoidettu:
+
+1. Avaa kommentin valikko.
+2. Valitse Ratkaise.
+
+Ratkaistu kommentti säilyy asiakirjassa, mutta se merkitään käsitellyksi.
 
 Kommentin poistaminen
 
-Voit poistaa yksittäisen kommentin tai kaikki kommentit.
+Poista kommentti näin:
+
+1. Avaa kommentin valikko.
+2. Valitse Poista kommentti.
+
+Jos kommentissa on useita vastauksia, koko kommenttiketju poistetaan.
 
 Kommenttien selaaminen
 
-Työpöytäversiossa voit siirtyä kommentista toiseen seuraava- ja edellinen-painikkeilla.
+Jos asiakirjassa on useita kommentteja:
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+1. Avaa kommenttipaneeli.
+2. Valitse haluamasi kommentti.
 
-VERSIOEROT:
+Word siirtyy automaattisesti siihen kohtaan asiakirjaa, johon kommentti liittyy.
 
-Word verkkoversio:
+HUOM:
 
-* Kommentointi toimii hyvin yhteistyössä muiden käyttäjien kanssa.
-* Toiminnot ovat hieman yksinkertaisempia kuin työpöytäversiossa.
-
-Word työpöytäversio:
-
-* Käytettävissä on enemmän tarkistus- ja kommentointitoimintoja.
-* Kommenttien hallinta ja selaaminen ovat monipuolisempia.
+* Kommentit näkyvät kaikille henkilöille, joilla on oikeus muokata asiakirjaa.
+* Kommentit eivät tulostu normaalisti asiakirjan mukana.
+* Kommentit soveltuvat erityisesti yhteistyöhön ja palautteen antamiseen.
+* Kommentti voidaan ratkaista ilman poistamista.
 
 VINKKI:
-Käytä kommentteja mieluummin kuin suoria muutoksia silloin, kun haluat ehdottaa muutosta toiselle käyttäjälle. Näin alkuperäinen teksti säilyy helposti luettavana.
+
+Käytä kommentteja silloin, kun haluat ehdottaa muutosta tai kysyä jotakin toiselta käyttäjältä. Näin asiakirjan varsinainen sisältö pysyy siistinä ja kaikki keskustelu löytyy samasta paikasta.
 
 HAKUSANAT:
-kommentit, Word kommentit, lisää kommentti, uusi kommentti, kommentointi, palaute Wordissa, Tarkista-välilehti, näytä kommentit, ratkaistu kommentti, poista kommentti, vastaa kommenttiin, asiakirjan kommentointi, Word yhteistyö, kommenttien hallinta
+
+kommentti
+kommentit
+word kommentit
+uusi kommentti
+lisää kommentti
+kommentointi
+palaute wordissa
+tarkista-välilehti
+näytä kommentit
+vastaa kommenttiin
+ratkaise kommentti
+poista kommentti
+kommenttipaneeli
+asiakirjan kommentointi
+yhteiskäyttö
+yhteistyö wordissa
 
 TYYPILLISET KYSYMYKSET:
 
@@ -111,8 +122,7 @@ miten näytän kommentit
 miten vastaan kommenttiin
 miten poistan kommentin
 mitä ratkaistu kommentti tarkoittaa
-miten kommentoin verkkoversiossa
-miten kommentointi toimii työpöytäversiossa
+miten kommenttipaneeli avataan
 voiko useampi henkilö kommentoida samaa asiakirjaa
 miten siirryn kommentista toiseen
 miten annan palautetta Wordissa

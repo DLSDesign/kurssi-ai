@@ -2,81 +2,134 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tietojen lajitteleminen
 
-AIHE: Tietojen lajittelu Excelissä
+AIHE:
+Tietojen lajittelu Excelissä
 
 TAVOITE:
-Oppia lajittelemaan tietoja nopeasti yhden sarakkeen mukaan sekä tekemään monitasoista lajittelua usean ehdon perusteella.
+Osaat lajitella tietoja yhden tai useamman sarakkeen perusteella sekä käyttää pikalajittelua ja mukautettua lajittelua.
+
+SELITYS:
+Lajittelun avulla voit järjestää tiedot haluamaasi järjestykseen. Voit lajitella esimerkiksi nimet aakkosjärjestykseen, myynnit suuruusjärjestykseen tai päivämäärät vanhimmasta uusimpaan. Lajittelu helpottaa tietojen tarkastelua, analysointia ja etsimistä.
 
 OHJE:
 
-Kun taulukossa on paljon tietoa, lajittelu helpottaa tietojen lukemista, löytämistä ja analysointia.
-
-Voit lajitella tiedot esimerkiksi:
-
- aakkosjärjestykseen
- numerojärjestykseen
- päivämäärän mukaan
- suurimmasta pienimpään
- pienimmästä suurimpaan
-
-Excelissä voit käyttää kahta tapaa:
-
 Pikalajittelu
-Pikalajittelulla voit lajitella tiedot nopeasti yhden sarakkeen mukaan.
-
-Tee pikalajittelu näin:
 
 1. Napsauta jotakin sen sarakkeen solua, jonka mukaan haluat lajitella.
 2. Valitse Aloitus-välilehti.
 3. Valitse Lajittele ja suodata.
 4. Valitse haluamasi lajittelujärjestys.
 
-Esimerkkejä:
+Voit lajitella esimerkiksi:
 
- A–Ö
- Ö–A
- pienimmästä suurimpaan
- suurimmasta pienimpään
+* A–Ö
+* Ö–A
+* Pienimmästä suurimpaan
+* Suurimmasta pienimpään
 
 Mukautettu lajittelu
-Mukautetulla lajittelulla voit lajitella useamman ehdon mukaan.
-
-Tee mukautettu lajittelu näin:
 
 1. Valitse jokin taulukon solu.
 2. Valitse Lajittele ja suodata.
 3. Valitse Mukautettu lajittelu.
-4. Valitse ensimmäinen lajitteluehto.
+4. Valitse ensimmäinen lajitteluperuste.
 5. Valitse lajittelujärjestys.
 6. Valitse Lisää taso.
-7. Valitse toinen lajitteluehto.
+7. Valitse toinen lajitteluperuste.
 8. Hyväksy lajittelu.
 
 Esimerkki:
 
-Voit lajitella ensin myyjän nimen mukaan ja sen jälkeen tilauksen arvon mukaan.
+Voit lajitella tiedot ensin myyjän nimen mukaan ja sen jälkeen myynnin arvon mukaan.
 
-Tällöin:
+HUOM:
 
- myyjät ryhmitellään yhteen
- jokaisen myyjän tiedot lajitellaan erikseen
-
-VINKKI:
-Valitse aina vain yksi solu taulukosta ennen lajittelua. Excel tunnistaa yleensä koko tietotaulukon automaattisesti.
+* Excel tunnistaa yleensä koko tietotaulukon automaattisesti, kun valitset yhden solun ennen lajittelua.
+* Lajittelu järjestää kokonaiset rivit uudelleen, jotta tiedot pysyvät oikein yhdessä.
+* Voit lajitella tekstejä, numeroita, päivämääriä ja kellonaikoja.
+* Monitasoisella lajittelulla voit käyttää useita lajitteluperusteita samanaikaisesti.
+* Jos taulukossa on tyhjiä rivejä tai sarakkeita, Excel ei välttämättä tunnista koko aineistoa oikein.
 
 HAKUSANAT:
-lajittelu, tietojen lajittelu, pikalajittelu, mukautettu lajittelu, lajittele tiedot, lajittele sarake, lajittele aakkosjärjestykseen, lajittele numerojärjestykseen, lajittele päivämäärät, A–Ö lajittelu, Ö–A lajittelu, pienimmästä suurimpaan, suurimmasta pienimpään, monitasoinen lajittelu, lajittelu usealla ehdolla, lisää taso, lajittelu myyjän mukaan, lajittelu arvon mukaan, lajittele ja suodata
+lajittelu
+tietojen lajittelu
+lajittele tiedot
+lajittele taulukko
 
-TYYPILLISET KYSYMYKSET:
+pikalajittelu
+pikajärjestys
 
- miten lajittelen tiedot
- miten lajittelen aakkosjärjestykseen
- miten lajittelen numerot
- miten lajittelen päivämäärät
- miten teen monitasoisen lajittelun
- miten lajittelen kahden ehdon mukaan
- mitä mukautettu lajittelu tarkoittaa
- miten lisään lajittelutason
- miten lajittelen myyjän ja summan mukaan
+mukautettu lajittelu
+monitasoinen lajittelu
+usean ehdon lajittelu
+lajittelu usealla ehdolla
+
+lajittele sarake
+lajittele rivi
+
+aakkosjärjestys
+aakkosjärjestykseen
+järjestä aakkosiin
+
+a-ö
+ö-a
+
+lajittele numerot
+numerojärjestys
+järjestä numerot
+
+lajittele päivämäärät
+järjestä päivämäärät
+uusin ensin
+vanhin ensin
+
+pienimmästä suurimpaan
+suurimmasta pienimpään
+
+lajittelu myyjän mukaan
+lajittelu nimen mukaan
+lajittelu summan mukaan
+lajittelu päivämäärän mukaan
+
+lisää taso
+toinen lajitteluperuste
+kolmas lajitteluperuste
+
+lajittele ja suodata
+lajitteluvalikko
+
+miten lajittelen tiedot
+miten lajittelen taulukon
+miten lajittelen aakkosjärjestykseen
+
+miten lajittelen numerot
+miten lajittelen päivämäärät
+
+miten teen monitasoisen lajittelun
+miten lajittelen kahden ehdon mukaan
+miten lajittelen usean ehdon mukaan
+
+mitä mukautettu lajittelu tarkoittaa
+miten lisään lajittelutason
+
+miten lajittelen myyjän ja summan mukaan
+miten lajittelen nimen ja päivämäärän mukaan
+
+taulukko meni sekaisin lajittelussa
+lajittelu ei toimi
+excel lajittelee väärin
+
+vain yksi sarake lajittui
+rivit eivät pysy mukana
+tiedot menivät väärille riveille
+
+en saa koko taulukkoa lajiteltua
+osa tiedoista ei lajittunut
+
+miksi lajittelu ei toimi
+miksi päivämäärät eivät lajitu oikein
+miksi numerot eivät lajitu oikein

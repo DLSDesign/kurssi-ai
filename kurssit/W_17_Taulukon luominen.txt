@@ -2,154 +2,152 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Taulukon luominen
 
-AIHE: Taulukon luominen ja muokkaaminen Wordissa
+AIHE:
+Taulukon luominen ja muokkaaminen Wordissa
 
 TAVOITE:
-Oppia luomaan ja muokkaamaan taulukoita Wordissa sekä käyttämään niitä tietojen selkeään esittämiseen.
+Osaat luoda taulukon, lisätä siihen tietoja sekä muokata taulukon rakennetta ja ulkoasua.
+
+SELITYS:
+Taulukon avulla voit esittää tietoja selkeästi riveinä ja sarakkeina. Taulukot sopivat hyvin esimerkiksi aikataulujen, luetteloiden, vertailujen ja yhteenvetojen tekemiseen.
 
 OHJE:
 
-Taulukot helpottavat tietojen esittämistä selkeästi ja jäsennellysti.
+Taulukon luominen
 
-Taulukko sopii hyvin esimerkiksi:
-
-aikatauluihin
-luetteloihin
-vertailuihin
-yhteenvetoihin
-rakenteisten tietojen esittämiseen
-
-Taulukko auttaa lukijaa hahmottamaan kokonaisuuksia nopeasti ja tekee asiakirjasta selkeämmän.
-
-TAULUKON LUOMINEN
-
-Lisää taulukko näin:
-
-1. Vie kohdistin kohtaan, johon haluat taulukon.
+1. Vie kohdistin kohtaan, johon haluat lisätä taulukon.
 2. Siirry Lisää-välilehdelle.
 3. Valitse Taulukko.
-4. Valitse avautuneesta ruudukosta hiirellä vetämällä haluamasi määrä rivejä ja sarakkeita.
+4. Valitse ruudukosta haluamasi määrä rivejä ja sarakkeita.
 
 Word lisää taulukon asiakirjaan.
 
 Tietojen kirjoittaminen taulukkoon
 
-Kirjoita tiedot taulukon soluihin.
+1. Napsauta haluamaasi solua.
+2. Kirjoita tieto.
 
-Voit siirtyä solusta toiseen:
+Voit siirtyä seuraavaan soluun:
 
-Sarkain-näppäimellä
-hiirellä
+* Sarkain-näppäimellä
+* hiirellä napsauttamalla
 
 Uuden rivin lisääminen nopeasti
 
-Kun painat Sarkain-näppäintä taulukon viimeisessä solussa, Word lisää automaattisesti uuden rivin.
+Kun kohdistin on taulukon viimeisessä solussa ja painat Sarkain-näppäintä, Word lisää automaattisesti uuden rivin taulukon loppuun.
 
-TAULUKON MUOTOILU
+Taulukon muotoilu
 
-Kun kohdistin on taulukossa, näkyviin tulevat taulukkotyökalut.
-
-Voit käyttää valmiita taulukkotyylejä esimerkiksi:
-
-värien vaihtamiseen
-otsikkorivien korostamiseen
-reunaviivojen muotoiluun
-
-Voit myös:
-
-vaihtaa taulukon värejä
-määrittää reunaviivojen tyylin
-vaihtaa viivan leveyttä
-valita reunaviivojen sijainnin
-
-Taulukon rakenne
-
-Taulukon asettelu -välilehdellä voit muuttaa taulukon rakennetta.
+Kun valitset taulukon, voit käyttää valmiita taulukkotyylejä.
 
 Voit esimerkiksi:
 
-lisätä rivejä
-lisätä sarakkeita
-poistaa rivejä
-poistaa sarakkeita
-yhdistää soluja
-muuttaa tekstin tasausta
+* korostaa otsikkorivin
+* vaihtaa värejä
+* lisätä tai poistaa reunaviivoja
+* tehdä taulukosta selkeämmän
 
-Rivien ja sarakkeiden lisääminen
+Rivien lisääminen
 
-Tee näin:
+1. Vie kohdistin sen rivin kohdalle, jonka viereen haluat uuden rivin.
+2. Napsauta hiiren kakkospainikkeella.
+3. Valitse Lisää.
+4. Valitse lisätäänkö rivi ylä- vai alapuolelle.
 
-1. Valitse rivi tai sarake tai vie kohdistin siihen.
-2. Valitse Taulukon asettelu -välilehdeltä Lisää-komento.
+Sarakkeiden lisääminen
 
-Jos haluat lisätä useita rivejä tai sarakkeita kerralla:
-
-1. Valitse yhtä monta riviä tai saraketta kuin haluat lisätä.
-2. Valitse Taulukon asettelu -välilehdeltä Lisää-komento.
-
-Solujen yhdistäminen
-
-Voit yhdistää useita soluja yhdeksi soluksi.
-
-Tee näin:
-
-1. Valitse yhdistettävät solut.
-2. Valitse Taulukon asettelu -välilehdeltä Yhdistä solut.
-
-Tekstin tasaus taulukossa
-
-Voit määrittää tekstin sijainnin soluissa.
-
-Teksti voidaan tasata esimerkiksi:
-
-vasemmalle
-keskelle
-oikealle
-ylös tai alas
+1. Vie kohdistin sen sarakkeen kohdalle, jonka viereen haluat uuden sarakkeen.
+2. Napsauta hiiren kakkospainikkeella.
+3. Valitse Lisää.
+4. Valitse lisätäänkö sarake vasemmalle vai oikealle.
 
 Rivien ja sarakkeiden poistaminen
 
-Poista rivi tai sarake näin:
-
-1. Valitse rivi tai sarake tai vie kohdistin siihen.
-2. Siirry Taulukon asettelu -välilehdelle.
+1. Valitse poistettava rivi tai sarake.
+2. Napsauta hiiren kakkospainikkeella.
 3. Valitse Poista.
-4. Valitse, mitä haluat poistaa.
+4. Valitse poistetaanko rivi vai sarake.
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+Solujen yhdistäminen
 
-VERSIOEROT:
+Voit yhdistää useita soluja yhdeksi suuremmaksi soluksi.
 
-Word verkkoversio:
+1. Valitse yhdistettävät solut.
+2. Napsauta hiiren kakkospainikkeella.
+3. Valitse Yhdistä solut.
 
-* Perustaulukot ja yleisimmät muotoilut ovat käytettävissä.
-* Taulukkotyökaluja ja muotoiluvaihtoehtoja on vähemmän kuin työpöytäversiossa.
+Tekstin tasaaminen taulukossa
 
-Word työpöytäversio:
+Voit tasata tekstin solussa esimerkiksi:
 
-* Käytettävissä on enemmän taulukkotyylejä ja rakenteen muokkaustyökaluja.
-* Solujen yhdistäminen, reunaviivojen hallinta ja tarkka muotoilu ovat monipuolisempia.
+* vasemmalle
+* keskelle
+* oikealle
+
+Samat tasaustyökalut toimivat myös taulukon sisällä.
+
+HUOM:
+
+* Taulukko laajenee tarvittaessa uusilla riveillä.
+* Sarkain siirtää kohdistimen seuraavaan soluun.
+* Taulukkoon kannattaa lisätä otsikkorivi, jotta tiedot ovat helpommin luettavia.
+* Valmiit taulukkotyylit nopeuttavat taulukon muotoilua.
+
+Täydentävä vinkki: Otsikkorivi
+
+Lisää taulukon ensimmäiselle riville otsikot, kuten Nimi, Päivämäärä tai Summa. Otsikkorivi helpottaa tietojen hahmottamista erityisesti suurissa taulukoissa.
 
 VINKKI:
-Pidä taulukot mahdollisimman selkeinä. Käytä vain tarpeellisia värejä ja reunaviivoja, jotta tiedot pysyvät helposti luettavina.
+
+Jos taulukko sisältää paljon tietoa, käytä valmista taulukkotyyliä. Muutamalla napsautuksella saat taulukosta huomattavasti selkeämmän ja ammattimaisemman näköisen.
 
 HAKUSANAT:
-taulukko, Word taulukko, lisää taulukko, taulukon luominen, taulukon muokkaus, taulukon muotoilu, rivit ja sarakkeet, lisää rivi, lisää sarake, poista rivi, poista sarake, yhdistä solut, taulukon tasaus, taulukkotyylit, reunaviivat, Word taulukkotyökalut, Sarkain taulukossa
+taulukko
 
-TYYPILLISET KYSYMYKSET:
+word taulukko
+lisää taulukko
 
-miten teen taulukon Wordissa
+taulukon luominen
+taulukon muokkaaminen
+
+rivit
+sarakkeet
+
+lisää rivi
+lisää sarake
+
+poista rivi
+poista sarake
+
+yhdistä solut
+taulukon solut
+
+taulukkotyyli
+taulukon muotoilu
+
+otsikkorivi
+reunaviivat
+
+sarkain taulukossa
+siirry seuraavaan soluun
+
+miten teen taulukon wordissa
 miten lisään rivejä taulukkoon
+
 miten lisään sarakkeita taulukkoon
 miten yhdistän soluja
+
 miten poistan rivin taulukosta
 miten poistan sarakkeen
+
 miten muotoilen taulukon
 miten vaihdan taulukon väriä
+
 miten tasaan tekstin taulukossa
-mitä Sarkain tekee taulukossa
+mitä sarkain tekee taulukossa
+
 miten lisään uuden rivin taulukkoon
-miten käytän taulukkotyylejä Wordissa

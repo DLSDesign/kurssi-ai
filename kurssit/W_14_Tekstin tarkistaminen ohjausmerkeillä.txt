@@ -2,108 +2,135 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tekstin tarkistaminen ohjausmerkeillä
 
-AIHE: Ohjausmerkkien käyttäminen Wordissa
+AIHE:
+Ohjausmerkkien käyttäminen Wordissa
 
 TAVOITE:
-Oppia näyttämään ohjausmerkit Wordissa ja tunnistamaan asiakirjan rakenteeseen liittyviä ongelmia.
+Osaat näyttää ohjausmerkit ja tunnistaa niiden avulla yleisimmät asiakirjan rakenteeseen liittyvät ongelmat.
+
+SELITYS:
+Asiakirjassa on erilaisia merkkejä, jotka eivät näy normaalisti. Niitä kutsutaan ohjausmerkeiksi. Ohjausmerkit auttavat hahmottamaan asiakirjan rakennetta ja löytämään esimerkiksi ylimääräiset tyhjät rivit, välilyönnit ja sarkaimet.
+
+Ohjausmerkit eivät tulostu paperille eivätkä näy valmiissa PDF-tiedostossa.
 
 OHJE:
 
-Asiakirjassa voi olla piilotettuja merkkejä, jotka vaikeuttavat tekstin muokkaamista.
-
-Tällaisia voivat olla esimerkiksi:
-
-rivinvaihdot
-sarkaimet
-välilyönnit
-sivunvaihdot
-osanvaihdot
-
-Näitä merkkejä kutsutaan ohjausmerkeiksi.
-
-Ohjausmerkit eivät tulostu paperille, mutta niiden näyttäminen helpottaa asiakirjan korjaamista.
-
 Ohjausmerkkien näyttäminen
 
-Näytä ohjausmerkit näin:
+1. Siirry Aloitus-välilehdelle.
+2. Valitse Kappale-ryhmästä Näytä tai piilota -painike (¶).
 
-1. Valitse Aloitus-välilehden Kappale-ryhmän viimeinen painike (ohjausmerkkien painike).
-2. Word näyttää asiakirjan piilotetut merkit.
+Word näyttää asiakirjan ohjausmerkit.
 
-Nyt voit nähdä asiakirjan rakenteen tarkemmin.
+Voit piilottaa ne myöhemmin napsauttamalla samaa painiketta uudelleen.
 
-Rivinvaihdot
+Kappalemerkit
 
-Kun Enter-näppäintä on painettu, Word näyttää kappalemerkin:
+Kun painat Enter-näppäintä, Word lisää kappalemerkin.
+
+Kappalemerkki näkyy näin:
 
 ¶
 
-Näin huomaat helposti ylimääräiset tyhjät rivit.
+Kappalemerkkien avulla näet helposti:
 
-Voit poistaa turhat kappalemerkit poistamalla ne normaalisti Delete- tai Backspace-näppäimellä.
-
-Sarkaimet
-
-Sarkain-näppäimen painallukset näkyvät nuolina ->.
-
-Jos tekstissä on turhia sarkaimia, voit poistaa ne.
+* missä kappale alkaa
+* missä kappale päättyy
+* onko asiakirjassa ylimääräisiä tyhjiä rivejä
 
 Välilyönnit
 
 Välilyönnit näkyvät pisteinä.
 
-Näin löydät helposti ylimääräiset välilyönnit tekstistä.
+Näin löydät helposti:
 
-Pakotettu rivinvaihto
+* ylimääräiset välilyönnit
+* sanat, joiden välissä on useita välilyöntejä
 
-Pakotettu rivinvaihto siirtää tekstin seuraavalle riville ilman uutta kappaletta.
+Sarkaimet
 
-Se näkyy omana merkkinään ohjausmerkeissä (kulmanuoli).
+Sarkain-näppäimen painallukset näkyvät nuolina.
 
-Sivun- ja osanvaihdot
+Näin voit tarkistaa:
 
-Ohjausmerkkien avulla näet myös:
+* onko tekstin tasaamiseen käytetty sarkaimia
+* onko asiakirjassa tarpeettomia sarkainmerkkejä
 
-sivunvaihdot
-osanvaihdot
+Sivunvaihdot
 
-Ne näkyvät elemnttinä, joka sisällä lukee sivunvaihto tai osanvaihto. Jos ne ovat turhia, voit poistaa ne.
+Jos asiakirjaan on lisätty sivunvaihtoja, ne näkyvät selkeästi omana merkintänään.
 
-Ohjausmerkit helpottavat asiakirjan virheiden löytämistä ja korjaamista.
+Näin voit helposti nähdä:
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+* mistä uusi sivu alkaa
+* onko asiakirjassa tarpeettomia sivunvaihtoja
 
-VERSIOEROT:
+Ohjausmerkkien poistaminen
 
-Word verkkoversio:
+Ohjausmerkit eivät ole virheitä. Ne ovat osa asiakirjan rakennetta.
 
-* Kaikkia ohjausmerkkejä ei välttämättä näytetä yhtä laajasti kuin työpöytäversiossa.
-* Muokkaustoiminnot ovat hieman rajallisempia.
+Jos haluat poistaa esimerkiksi ylimääräisen kappalemerkin, välilyönnin tai sarkaimen:
 
-Word työpöytäversio:
+1. Vie kohdistin merkin kohdalle.
+2. Poista merkki Delete- tai Backspace-näppäimellä.
 
-* Käytettävissä ovat kaikki ohjausmerkit ja rakenteen tarkastelutoiminnot.
-* Soveltuu paremmin asiakirjojen tarkkaan korjaamiseen.
+HUOM:
+
+* Ohjausmerkit eivät tulostu paperille.
+* Ohjausmerkit eivät näy valmiissa PDF-tiedostossa.
+* Kappalemerkit kertovat, missä kappaleet alkavat ja päättyvät.
+* Useimmat asiakirjan muotoiluongelmat johtuvat ylimääräisistä kappalemerkeistä, välilyönneistä tai sarkaimista.
+* Ohjausmerkit helpottavat erityisesti pitkien asiakirjojen korjaamista.
+
+Täydentävä vinkki: Etsi ylimääräiset Enterit
+
+Jos asiakirjassa näkyy liian suuria tyhjiä välejä, ota ohjausmerkit näkyviin. Usein syynä on useita peräkkäisiä Enter-näppäimen painalluksia. Ne on helppo löytää ja poistaa ohjausmerkkien avulla.
 
 VINKKI:
-Jos asiakirjan muotoilu näyttää oudolta eikä syy löydy helposti, ota ohjausmerkit näkyviin. Usein ongelma johtuu ylimääräisistä Entereistä, sarkaimista tai välilyönneistä.
+
+Pidä ohjausmerkit näkyvissä silloin, kun muokkaat pitkää tai monimutkaista asiakirjaa. Näet asiakirjan rakenteen tarkemmin ja löydät virheet huomattavasti nopeammin.
 
 HAKUSANAT:
-ohjausmerkit, tulostumattomat merkit, Word ohjausmerkit, kappalemerkki, rivinvaihto, sarkain, välilyönti, sivunvaihto, osanvaihto, pakotettu rivinvaihto, asiakirjan rakenne, Word muotoilu, piilotetut merkit, näytä ohjausmerkit, kappalemerkit, ylimääräiset välilyönnit
+ohjausmerkit
 
-TYYPILLISET KYSYMYKSET:
+näytä ohjausmerkit
+piilota ohjausmerkit
 
-miten näytän ohjausmerkit Wordissa
-mitä kappalemerkki tarkoittaa
+word ohjausmerkit
+tulostumattomat merkit
+
+kappalemerkki
+enter merkki
+
+välilyönti
+ylimääräiset välilyönnit
+
+sarkain
+sarkainmerkki
+
+sivunvaihto
+asiakirjan rakenne
+
+piilotetut merkit
+tekstin rakenne
+
 miksi tekstissä on outoja merkkejä
-miten poistan ylimääräiset rivinvaihdot
-miten löydän ylimääräiset välilyönnit
+miksi word näyttää pisteitä
+
+miten näytän ohjausmerkit wordissa
+miten piilotan ohjausmerkit
+
+mitä kappalemerkki tarkoittaa
 mitä sarkainmerkki tarkoittaa
+
+miten löydän ylimääräiset välilyönnit
+miten löydän ylimääräiset enterit
+
 miten näen sivunvaihdot
-mitä osanvaihto tarkoittaa
 miten korjaan asiakirjan rakenteen
-miksi Word näyttää pisteitä tekstissä
-miten poistan turhat ohjausmerkit
+
+miksi asiakirjassa on tyhjiä rivejä

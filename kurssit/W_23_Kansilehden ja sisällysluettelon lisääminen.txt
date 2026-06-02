@@ -2,100 +2,76 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Kansilehden ja sisällysluettelon lisääminen
 
-AIHE: Kansilehden ja sisällysluettelon tekeminen Wordissa
+AIHE:
+Kansilehden ja sisällysluettelon tekeminen Wordissa
 
 TAVOITE:
 Oppia lisäämään kansilehti ja automaattinen sisällysluettelo Word-asiakirjaan.
 
-OHJE:
+SELITYS:
 
 Sisällysluettelo helpottaa pitkän asiakirjan lukemista.
 
 Sen avulla lukija löytää nopeasti haluamansa kohdat esimerkiksi:
 
-raporteissa
-oppaissa
-opinnäytetöissä
-käsikirjoissa
+* raporteissa
+* oppaissa
+* käsikirjoissa
+* projektisuunnitelmissa
 
 Sisällysluettelo toimii oikein vain silloin, kun asiakirjan otsikoissa käytetään Wordin otsikkotyylejä.
 
-WORD VERKKOVERSIO
+OHJE:
 
-Kansilehden lisääminen verkkoversiossa
+Valmistele kansilehti ja sisällysluettelosivu
 
 1. Vie kohdistin asiakirjan alkuun.
-2. Lisää tyhjä sivu Lisää-välilehdeltä tai sivunvaihdolla.
+2. Lisää tyhjä sivu Lisää-välilehdeltä.
 3. Lisää toinen tyhjä sivu sisällysluetteloa varten.
 
-Kirjoita kansilehdelle esimerkiksi:
+Asiakirjan alussa on nyt:
 
-asiakirjan nimi
-tekijän nimi
-päivämäärä
-
-Sisällysluettelon lisääminen verkkoversiossa
-
-1. Vie kohdistin kohtaan, johon haluat sisällysluettelon.
-2. Siirry Viittaukset-välilehdelle.
-3. Valitse Sisällysluettelo.
-
-Word luo sisällysluettelon automaattisesti otsikkotyylien perusteella.
-
-HUOMIO:
-Verkkoversiossa sisällysluettelon muokkausmahdollisuuksia on vähemmän kuin työpöytäversiossa.
-
-WORD TYÖPÖYTÄVERSIO
-
-Tyhjien sivujen lisääminen
-
-Lisätään asiakirjan alkuun kaksi tyhjää sivua:
-
-yksi kansilehteä varten
-yksi sisällysluetteloa varten
-
-Tee näin:
-
-1. Vie kohdistin asiakirjan alkuun.
-2. Siirry Asettelu-välilehdelle.
-3. Valitse Vaihdot.
-4. Valitse Sivu.
-
-Word lisää tyhjän sivun.
-
-Lisää samalla tavalla toinen sivu.
+* kansilehti
+* sisällysluettelosivu
+* varsinainen sisältö
 
 Kansilehden tekeminen
 
-Kaksoisnapsauta ylätunnistealuetta.
+Kirjoita kansilehdelle esimerkiksi:
 
-Valitse:
+* asiakirjan nimi
+* tekijän nimi
+* päivämäärä
+* organisaation nimi
 
-Erilainen ensimmäinen sivu
+Jos käytät asiakirjassa ylä- tai alatunnisteita:
 
-Näin kansilehdellä ei näy ylätunniste- tai alatunnistetietoja.
+1. Kaksoisnapsauta ylätunnistealuetta.
+2. Valitse Erilainen ensimmäinen sivu.
+3. Valitse Sulje esikatselu.
 
-Sulje tunnistealue.
-
-Kirjoita kansilehdelle haluamasi tiedot.
+Näin kansilehdellä ei näy samoja tunnistetietoja kuin muilla sivuilla.
 
 Sisällysluettelon lisääminen
 
-1. Vie kohdistin sisällysluettelosivulle.
-2. Siirry Viittaukset-välilehdelle.
-3. Valitse Sisällysluettelo.
+1. Siirry toiselle sivulle eli sisällysluettelosivulle.
+2. Vie kohdistin kohtaan, johon haluat sisällysluettelon.
+3. Siirry Viittaukset-välilehdelle.
+4. Valitse Sisällysluettelo.
 
-Word luo sisällysluettelon automaattisesti otsikkotyylien perusteella.
+Word luo sisällysluettelon automaattisesti asiakirjassa käytettyjen otsikkotyylien perusteella.
 
 Sisällysluettelon päivittäminen
 
-Jos asiakirjaan tehdään muutoksia:
+Jos asiakirjaan tehdään myöhemmin muutoksia, esimerkiksi:
 
-uusia otsikoita
-sivumäärän muutoksia
-otsikoiden siirtoja
+* uusia otsikoita
+* otsikoiden siirtoja
+* sivumäärän muutoksia
 
 sisällysluettelo täytyy päivittää.
 
@@ -104,28 +80,36 @@ Tee näin:
 1. Napsauta sisällysluetteloa.
 2. Valitse Päivitä sisällysluettelo.
 
-Painike löytyy myös Viittaukset-välilehdeltä.
+Voit päivittää sisällysluettelon myös Viittaukset-välilehden komennolla.
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+HUOM:
 
-VERSIOEROT:
-
-Word verkkoversio:
-
-* Sisällysluettelo voidaan lisätä ja päivittää.
-* Muotoilu- ja asetusvaihtoehtoja on vähemmän kuin työpöytäversiossa.
-
-Word työpöytäversio:
-
-* Käytettävissä ovat kaikki kansilehti- ja sisällysluettelotoiminnot.
-* Sisällysluettelon muokkaus ja tunnisteasetukset ovat monipuolisempia.
+* Käytä pääotsikoissa tyyliä Otsikko 1.
+* Käytä alaotsikoissa tyyliä Otsikko 2 tai Otsikko 3.
+* Pelkkä fonttikoon muuttaminen tai lihavointi ei riitä. Sisällysluettelo tunnistaa vain otsikkotyyleillä muotoillut otsikot.
 
 VINKKI:
-Käytä aina Wordin otsikkotyylejä otsikoissa. Muuten sisällysluettelo ei tunnista otsikoita oikein.
+
+Avaa Siirtymisruutu Näytä-välilehdeltä ennen sisällysluettelon tekemistä. Jos kaikki otsikot näkyvät siirtymisruudussa oikein, myös sisällysluettelo muodostuu yleensä oikein.
 
 HAKUSANAT:
-kansilehti, sisällysluettelo, Word sisällysluettelo, lisää kansilehti, otsikkotyylit, Viittaukset-välilehti, päivitä sisällysluettelo, erilainen ensimmäinen sivu, Word raportti, automaattinen sisällysluettelo, sivunvaihto, otsikot, Word kansilehti, Word verkkoversio sisällysluettelo
+
+kansilehti
+sisällysluettelo
+Word sisällysluettelo
+lisää kansilehti
+otsikkotyylit
+Viittaukset-välilehti
+päivitä sisällysluettelo
+erilainen ensimmäinen sivu
+Word raportti
+automaattinen sisällysluettelo
+tyhjä sivu
+sivunvaihto
+otsikko 1
+otsikko 2
+otsikko 3
+siirtymisruutu
 
 TYYPILLISET KYSYMYKSET:
 
@@ -137,5 +121,6 @@ mitä otsikkotyylit ovat
 miten teen ensimmäisestä sivusta erilaisen
 miten lisään tyhjän sivun
 miten teen raportin Wordissa
-miten sisällysluettelo toimii verkkoversiossa
-miten sisällysluettelo tehdään työpöytäversiossa
+miksi otsikko ei näy sisällysluettelossa
+miten käytän Otsikko 1 -tyyliä
+miten tarkistan asiakirjan rakenteen

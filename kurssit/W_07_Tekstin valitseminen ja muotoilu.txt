@@ -2,32 +2,22 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Valitse tekstiä ja muotoile
 
-AIHE: Tekstin valitseminen ja muotoileminen Wordissa
+AIHE:
+Tekstin valitseminen ja muotoileminen
 
 TAVOITE:
-Oppia valitsemaan tekstiä eri tavoilla ja käyttämään yleisimpiä tekstin muotoiluja Wordissa.
+Osaat valita tekstiä eri tavoilla ja käyttää yleisimpiä tekstin muotoiluja Wordissa.
+
+SELITYS:
+Ennen kuin voit muotoilla, kopioida, siirtää tai poistaa tekstiä, sinun täytyy valita se. Kun osaat valita tekstiä tehokkaasti, asiakirjan muokkaaminen nopeutuu huomattavasti.
 
 OHJE:
 
-Tekstin valitseminen on tärkeä taito Wordissa. Ennen kuin voit muotoilla, kopioida, siirtää tai poistaa tekstiä, sinun täytyy ensin valita se tekstialue, johon haluat tehdä muutoksen.
-
-Valitseminen mahdollistaa myös esimerkiksi:
-
-tekstin värin vaihtamisen
-lihavoinnin ja kursivoinnin
-hyperlinkkien lisäämisen
-luetteloiden tekemisen
-tekstin siirtämisen
-
-Kun opit valitsemaan tekstiä eri tavoilla, asiakirjan käsittely nopeutuu.
-
 Tekstin valitseminen hiirellä
-
-Voit valita tekstiä maalaamalla sen hiirellä.
-
-Tee näin:
 
 1. Vie hiiren osoitin tekstin alkuun.
 2. Paina hiiren painike alas.
@@ -36,96 +26,152 @@ Tee näin:
 
 Yhden sanan valitseminen
 
-Jos haluat muotoilla yhden sanan, riittää yleensä, että napsautat kohdistimen sanan kohdalle.
+1. Kaksoisnapsauta sanaa.
 
 Koko kappaleen valitseminen
 
-Voit valita koko kappaleen näin:
-
 1. Pidä Ctrl-näppäin painettuna.
-2. Kolmoisnapsauta kappaletta hiirellä.
-
-Usean rivin valitseminen
-
-Voit valita rivejä kerralla näin:
-
-1. Vie hiiren osoitin ensimmäisen rivin alkuun.
-2. Paina hiiren painike alas.
-3. Vedä hiirtä suoraan alaspäin.
+2. Napsauta kappaletta hiirellä.
 
 Koko asiakirjan valitseminen
 
-Voit valita koko asiakirjan nopeasti näppäinyhdistelmällä Ctrl + A.
+1. Paina Ctrl + A.
 
-Tekstin muotoilu
+Tekstin muotoileminen
 
-Kun teksti on valittu, voit muotoilla sitä.
-
-Yleisimmät muotoilut löytyvät valintanauhan Fontti-ryhmästä.
-
-Kun valitset tekstiä, näkyviin tulee myös pikavalikko, josta löydät yleisimpiä muotoiluja.
-
-Yleisimmät muotoilut
+1. Valitse teksti.
+2. Käytä Aloitus-välilehden Fontti-ryhmän työkaluja.
 
 Voit esimerkiksi:
 
-vaihtaa fontin
-vaihtaa fonttikoon
-suurentaa tai pienentää fonttia
-vaihtaa tekstin värin
-lihavoida tekstin
-kursivoida tekstin
-alleviivata tekstin
-vaihtaa kirjainkoon
-korostaa tekstin värillä
+* vaihtaa fontin
+* vaihtaa fonttikoon
+* suurentaa tai pienentää fonttia
+* vaihtaa tekstin värin
+* lihavoida tekstin
+* kursivoida tekstin
+* alleviivata tekstin
+* korostaa tekstin värillä
+* muuttaa kirjainkokoa
+
+Pikatyökalut
+
+Kun valitset tekstiä, näkyviin tulee usein myös pieni pikatyökalurivi, josta löydät yleisimpiä muotoiluja.
 
 Kirjainkoon muuttaminen
 
-Voit muuttaa tekstin kirjainkokoa esimerkiksi isoiksi kirjaimiksi. Tämä on hyödyllistä esimerkiksi otsikoissa.
+1. Valitse teksti.
+2. Valitse Aloitus-välilehdeltä Muuta kirjainkoko.
+3. Valitse haluamasi vaihtoehto.
 
 Tekstin korostaminen
 
-Korostusvärillä voit nostaa tärkeän kohdan paremmin esiin.
+1. Valitse teksti.
+2. Valitse Tekstin korostusväri.
+3. Valitse haluamasi väri.
 
-VINKKI:
-Muotoile maltilla.
+HUOM:
 
-Käytä asiakirjassa vain muutamaa selkeää muotoilua. Yksi fontti leipätekstiin ja toinen otsikoihin riittää yleensä hyvin.
+* Teksti täytyy yleensä valita ennen muotoilun tekemistä.
+* Kaksoisnapsautus valitsee yhden sanan nopeasti.
+* Ctrl + A valitsee koko asiakirjan.
+* Korostusväri sopii tärkeiden kohtien esille nostamiseen.
+* Liiallinen muotoilu voi tehdä asiakirjasta sekavan.
+* Yhtenäinen fontti ja maltillinen korostusten käyttö tekevät asiakirjasta selkeämmän.
 
-Korosta tärkeät asiat esimerkiksi lihavoinnilla, mutta vältä liikaa värejä ja tehosteita. Kun tyyli on yhtenäinen ja selkeä, tekstiä on helpompi lukea.
+Täydentävä vinkki: Tekstin valitseminen näppäimistöllä
 
-VINKKI:
-Voit valita tekstiä myös näppäimistöllä. Tämä nopeuttaa työskentelyä, koska sinun ei tarvitse siirtää kättä jatkuvasti hiirelle.
+Voit valita tekstiä myös näppäimistön avulla.
 
-Siirrä ensin kohdistin siihen kohtaan, josta haluat aloittaa valinnan.
+Yleisimmät näppäinyhdistelmät:
 
-Yleisimmät näppäinkomennot:
-
-Vaihto + nuoli vasemmalle tai oikealle = valitsee merkkejä
-Vaihto + nuoli ylös tai alas = valitsee rivejä
-Ctrl + Vaihto + nuoli = valitsee sanoja
-Vaihto + End = valitsee rivin loppuun
-Vaihto + Home = valitsee rivin alkuun
-Ctrl + Vaihto + End = valitsee kaikki tekstit asiakirjan loppuun saakka
-Ctrl + Vaihto + Home = valitsee kaikki tekstit asiakirjan alkuun saakka
-Ctrl + A = valitsee koko asiakirjan
+* Vaihto + nuoli vasemmalle tai oikealle = valitsee merkkejä
+* Vaihto + nuoli ylös tai alas = valitsee rivejä
+* Ctrl + Vaihto + nuoli = valitsee sanoja
+* Vaihto + End = valitsee rivin loppuun
+* Vaihto + Home = valitsee rivin alkuun
+* Ctrl + Vaihto + End = valitsee tekstin kohdistimesta asiakirjan loppuun
+* Ctrl + Vaihto + Home = valitsee tekstin kohdistimesta asiakirjan alkuun
+* Ctrl + A = valitsee koko asiakirjan
 
 HAKUSANAT:
-tekstin valitseminen, valitse teksti, tekstin muotoilu, Word muotoilu, maalaa teksti, valitse sana, valitse kappale, valitse koko asiakirja, Ctrl A, lihavointi, kursivointi, alleviivaus, fontti, fonttikoko, tekstin väri, korostusväri, kirjainkoon muuttaminen, isot kirjaimet, tekstin korostaminen, näppäinkomennot, tekstin valinta näppäimistöllä
+tekstin valitseminen
+valitse teksti
+tekstin valinta
 
-TYYPILLISET KYSYMYKSET:
+maalaa teksti
+tekstin maalaaminen
 
-miten valitsen tekstiä Wordissa
-miten valitsen koko asiakirjan
-miten valitsen kappaleen
+valitse sana
+valitse yksi sana
+
+valitse kappale
+valitse koko kappale
+
+valitse koko asiakirja
+valitse kaikki
+ctrl a
+
+tekstin muotoilu
+muotoile teksti
+
+fontti
+vaihda fontti
+
+fonttikoko
+vaihda fonttikoko
+
+suurenna fonttia
+pienennä fonttia
+
+tekstin väri
+vaihda tekstin väri
+
+lihavointi
+lihavoi teksti
+
+kursivointi
+kursivoi teksti
+
+alleviivaus
+alleviivaa teksti
+
+korostusväri
+korosta teksti
+
+muuta kirjainkoko
+isot kirjaimet
+pienet kirjaimet
+
+pikatyökalurivi
+pikamuotoilu
+
+näppäinkomennot
+tekstin valinta näppäimistöllä
+
+ctrl shift nuoli
+shift home
+shift end
+
+miten valitsen tekstiä wordissa
 miten maalaan tekstiä
+
+miten valitsen koko asiakirjan
+miten valitsen kaikki tekstit
+
+miten valitsen yhden sanan
+miten valitsen kappaleen
+
 miten lihavoin tekstiä
 miten kursivoin tekstin
+
 miten alleviivaan tekstin
+miten korostan tekstiä
+
 miten vaihdan fontin
 miten vaihdan fonttikoon
+
 miten vaihdan tekstin värin
-miten korostan tekstiä
 miten teen isot kirjaimet
-mitä Ctrl+A tekee
-miten valitsen tekstiä näppäimistöllä
+
+mitä ctrl a tekee

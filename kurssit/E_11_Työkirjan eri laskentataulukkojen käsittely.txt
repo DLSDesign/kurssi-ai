@@ -2,36 +2,90 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Työkirjan eri laskentataulukkojen käsittely
 
-AIHE: Laskentataulukkojen käsittely
+AIHE:
+Laskentataulukkojen käsittely
 
-TAVOITE: Opit lisäämään, nimeämään, poistamaan, siirtämään ja kopioimaan laskentataulukkoja.
+TAVOITE:
+Osaat lisätä, nimetä, poistaa, siirtää ja järjestää laskentataulukkoja työkirjassa.
+
+SELITYS:
+Yhdessä työkirjassa voi olla useita laskentataulukkoja. Tietoja kannattaa jakaa eri laskentataulukoille silloin, kun ne käsittelevät eri aiheita tai kokonaisuuksia. Näin työkirja pysyy selkeänä ja tiedot löytyvät helpommin.
 
 OHJE:
 
-Yhdessä laskentataulussa on paljon rivejä ja sarakkeita. Usein tietoja on hyvä lisätä useammalle eri laskentatauluun, esimerkiksi silloin kun tietojen sisältö liittyy eri aiheeseen. 
- 
-Työkirjan eri laskentataulukot näet täällä alareunassa.
-Jos haluat nimetä laskentataulukon, kaksoisnapsauta kielekettä ja kirjoita nimi.
-Hyväksy nimi napsauttamalla jossakin taulukon solussa tai painamalla Enter-näppäintä.
-Huomaa, että nimi saa olla korkeintaan 31 merkkiä pitkä, eikä se saa sisältää erikoismerkkejä.
+1. Tarkastele työkirjan laskentataulukkoja ohjelmaikkunan alareunassa.
+2. Nimeä laskentataulukko kaksoisnapsauttamalla sen kielekettä.
+3. Kirjoita uusi nimi ja hyväksy se painamalla Enteriä tai napsauttamalla taulukkoa.
+4. Muuta laskentataulukon väriä napsauttamalla sen kielekettä hiiren oikealla painikkeella.
+5. Valitse Taulukonvalitsimen väri ja valitse haluamasi väri.
+6. Lisää uusi laskentataulukko napsauttamalla kielekkeiden vieressä olevaa plusmerkkiä.
+7. Muuta laskentataulukkojen järjestystä vetämällä kielekettä hiirellä haluamaasi paikkaan.
+8. Poista laskentataulukko napsauttamalla sen kielekettä hiiren oikealla painikkeella ja valitsemalla Poista.
 
-Taulukonvalitsimen värin voit muuttaa näin.
-Napsauta hiiren kakkospainikkeella taulukonvalitsinta.
-Valitse avautuneesta pikavalikosta Taulukonvalitsimen väri.
-Valitse haluamasi väri.
+HUOM:
 
-Uuden laskentataulukon lisäät napsauttamalla laskentataulukkojen kielekkeiden oikealla puolella olevaa plus-merkkiä.
-
-Laskentataulukkojen järjestystä voit muuttaa hiirellä vetämällä. Tartu hiirellä kiinni taulukonvalitsimesta ja vedä se toiseen paikkaan työkirjassa. 
-
-Jos haluat poistaa laskentataulukon, napsauta kielekettä hiiren kakkospainikkeella ja valitse avautuneesta valikosta Poista. 
+* Laskentataulukon nimi saa olla enintään 31 merkkiä pitkä.
+* Nimi ei saa sisältää tiettyjä erikoismerkkejä.
+* Laskentataulukon väri helpottaa eri aiheiden tai kokonaisuuksien erottamista toisistaan.
+* Laskentataulukkojen järjestystä voi muuttaa milloin tahansa.
+* Laskentataulukon poistaminen poistaa myös sen sisältämät tiedot.
+* Työkirja on koko Excel-tiedosto ja laskentataulukot ovat sen sisältämiä välilehtiä.
 
 HAKUSANAT:
-laskentataulukko, laskentataulukot, taulukonvalitsin, taulukon kieleke, taulukkovälilehti, lisää laskentataulukko, uusi laskentataulukko, nimeä laskentataulukko, muuta taulukon nimi, nimeä välilehti, vaihda välilehden nimi, poista laskentataulukko, poista välilehti, siirrä laskentataulukko, muuta laskentataulukkojen järjestystä, kopioi laskentataulukko, monista laskentataulukko, taulukonvalitsimen väri, muuta välilehden väri, välilehden väri, taulukon väri, työkirjan rakenne, taulukkojen hallinta, työkirjan välilehdet
+laskentataulukko
+laskentataulukot
+taulukonvalitsin
+taulukon kieleke
+taulukkovälilehti
+välilehti
+työkirjan välilehdet
 
-TYYPILLISET KYSYMYKSET:
+lisää laskentataulukko
+uusi laskentataulukko
+tee uusi laskentataulukko
+lisää uusi välilehti
+uusi välilehti
+plusmerkki
+
+nimeä laskentataulukko
+muuta taulukon nimi
+nimeä välilehti
+vaihda välilehden nimi
+muuta välilehden nimi
+taulukon nimeäminen
+
+poista laskentataulukko
+poista välilehti
+poista taulukko
+välilehden poistaminen
+
+siirrä laskentataulukko
+siirrä välilehti
+muuta laskentataulukkojen järjestystä
+vaihda välilehtien järjestystä
+järjestä välilehdet
+
+kopioi laskentataulukko
+monista laskentataulukko
+
+taulukonvalitsimen väri
+muuta välilehden väri
+välilehden väri
+taulukon väri
+värikoodaa välilehdet
+
+työkirjan rakenne
+taulukkojen hallinta
+useita laskentataulukoita
+
+missä näen laskentataulukot
+missä ovat välilehdet
+en löydä välilehtiä
+en löydä laskentataulukkoja
 
 miten lisään uuden laskentataulukon
 miten teen uuden välilehden
@@ -40,7 +94,14 @@ miten vaihdan välilehden nimen
 miten poistan laskentataulukon
 miten siirrän välilehteä
 miten vaihdan välilehtien järjestystä
-miten kopioin laskentataulukon
 miten vaihdan välilehden värin
-missä näen työkirjan laskentataulukot
+
 mikä ero on työkirjalla ja laskentataulukolla
+mikä on laskentataulukko
+mikä on työkirja
+
+välilehti katosi
+taulukko katosi
+en löydä taulukkoa
+työkirja on sekava
+haluan erottaa eri aiheet

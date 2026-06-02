@@ -2,74 +2,135 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Korjaa kirjoitusvirheet ja oikolue teksti
 
-AIHE: Kirjoitusvirheiden korjaaminen ja tekstin oikoluku Wordissa
+AIHE:
+Kirjoitusvirheiden korjaaminen ja tekstin oikoluku
 
 TAVOITE:
-Oppia käyttämään Wordin kielentarkistusta kirjoitusvirheiden ja kielioppivirheiden korjaamiseen.
+Osaat käyttää Wordin kielentarkistusta kirjoitus- ja kielioppivirheiden löytämiseen ja korjaamiseen sekä muuttaa tekstin kirjainkokoa.
+
+SELITYS:
+Word tarkistaa tekstiä kirjoittamisen aikana ja auttaa löytämään kirjoitus- ja kielioppivirheitä. Ohjelma ehdottaa korjauksia, mutta käyttäjän kannattaa aina tarkistaa ehdotukset ennen niiden hyväksymistä.
 
 OHJE:
 
-Pieni kirjoitusvirhe voi helposti jäädä huomaamatta.
+Kirjoitusvirheiden korjaaminen
 
-Word auttaa tekstin tarkistamisessa. Ohjelma havaitsee kirjoitus- ja kielioppivirheitä ja ehdottaa niihin korjauksia.
+Word merkitsee mahdolliset kirjoitusvirheet punaisella alleviivauksella.
 
-Voit hyväksyä ehdotuksen tai ohittaa sen.
+1. Napsauta alleviivattua sanaa hiiren kakkospainikkeella.
+2. Tarkastele Wordin ehdottamia korjauksia.
+3. Valitse tilanteeseen sopiva korjaus.
 
-Word merkitsee:
+Voit myös korjata sanan kirjoittamalla sen itse uudelleen.
 
-väärin kirjoitetut sanat punaisella alleviivauksella
-yleisimmät kielioppivirheet sinisellä alleviivauksella
+Kielioppivirheiden korjaaminen
 
-Korjaa kirjoitusvirhe näin:
-
-1. Napsauta väärin kirjoitettua sanaa hiiren kakkospainikkeella.
-2. Valitse avautuvasta valikosta oikeinkirjoituksen tarkistus.
-3. Katso ohjelman ehdottamat korjaukset.
-4. Valitse tilanteeseen sopivin ehdotus.
-
-Kielioppivirheet korjataan samalla periaatteella.
-
-Korjaa kielioppivirhe näin:
+Word merkitsee mahdolliset kielioppivirheet sinisellä alleviivauksella.
 
 1. Napsauta alleviivattua tekstiä hiiren kakkospainikkeella.
-2. Valitse avautuvasta valikosta Kielioppi.
-3. Lue, minkä virheen Word on löytänyt.
-4. Korjaa virhe.
+2. Tarkastele Wordin ehdottamaa korjausta.
+3. Hyväksy korjaus tai korjaa teksti itse.
 
-Muista kuitenkin tarkistaa ehdotukset itse.
+Kirjainkoon muuttaminen
 
-Word ei aina tunnista virhettä oikein. Jos ohjelman ehdotus ei sovi tilanteeseen, älä valitse sitä.
+Jos teksti on kirjoitettu esimerkiksi vahingossa isoilla kirjaimilla:
 
-Korjaa virhe silloin itse kirjoittamalla teksti oikein.
+1. Valitse teksti.
+2. Siirry Aloitus-välilehdelle.
+3. Avaa Muuta kirjainkoko -painikkeen valikko.
+4. Valitse haluamasi kirjainkoko.
 
-Voit myös ohittaa ehdotuksen, jos teksti on oikein eikä sitä tarvitse muuttaa.
+Voit esimerkiksi valita:
 
-Caps Lock -vinkki
+* Virkkeen kirjainkoko
+* pienaakkoset
+* SUURAAKKOSET
 
-Jos Caps Lock on jäänyt vahingossa päälle, teksti voi tulla isoilla kirjaimilla. Voit korjata isot kirjaimet muuttamatta koko tekstiä käsin.
+HUOM:
 
-Valitse ensin teksti, jossa kirjaimet ovat väärässä muodossa. Valitse sen jälkeen Aloitus-välilehden Fontti-ryhmän Muuta kirjainkoko -painikkeen valikosta Virkkeen kirjainkoko. 
-
-Huomaa, että täällä voit muuttaa myös pienet kirjaimet isoiksi ja päin vastoin. 
-
-VINKKI:
-Älä luota kielentarkistukseen täysin. Lue teksti vielä itse läpi, sillä ohjelma voi ehdottaa myös väärää korjausta tai ohjelma ei ole huomannut kaikkia virheitä.
+* Punainen alleviivaus tarkoittaa mahdollista kirjoitusvirhettä.
+* Sininen alleviivaus tarkoittaa mahdollista kielioppivirhettä.
+* Word ei aina tunnista virheitä oikein.
+* Oikein kirjoitettu erisnimi tai vieraskielinen sana voidaan joskus merkitä virheelliseksi.
+* Kielentarkistus toimii asiakirjalle valitun kielen perusteella.
+* Ohjelman ehdotukset kannattaa aina tarkistaa ennen niiden hyväksymistä.
+* Muuta kirjainkoko -toiminnolla voit korjata nopeasti esimerkiksi vahingossa Caps Lockilla kirjoitetun tekstin.
 
 HAKUSANAT:
-kirjoitusvirhe, kirjoitusvirheiden korjaaminen, oikoluku, oikolue teksti, kielentarkistus, oikeinkirjoituksen tarkistus, kieliopin tarkistus, kielioppivirhe, punainen alleviivaus, sininen alleviivaus, korjaa virhe, oikeinkirjoitus, kielioppi, Caps Lock, isot kirjaimet, pienet kirjaimet, vaihda kirjainkoko
+oikoluku
+oikolue teksti
+tekstin oikoluku
 
-TYYPILLISET KYSYMYKSET:
+kielentarkistus
+tekstin tarkistus
 
-miten korjaan kirjoitusvirheen Wordissa
+oikeinkirjoitus
+oikeinkirjoituksen tarkistus
+
+kirjoitusvirhe
+kirjoitusvirheen korjaaminen
+
+kielioppi
+kielioppivirhe
+kieliopin tarkistus
+
+punainen alleviivaus
+punainen viiva sanan alla
+
+sininen alleviivaus
+sininen viiva tekstin alla
+
+korjaa virhe
+korjaa kirjoitusvirhe
+
+korjausehdotus
+ehdotettu korjaus
+
+hiiren kakkospainike
+
+asiakirjan kieli
+oikoluvun kieli
+
+caps lock
+caps lock päällä
+
+isot kirjaimet
+pienet kirjaimet
+
+vaihda kirjainkoko
+muuta kirjainkoko
+
+virkkeen kirjainkoko
+suuraakkoset
+pienaakkoset
+
+teksti tuli isoilla kirjaimilla
+teksti tuli pienillä kirjaimilla
+
+miten korjaan kirjoitusvirheen wordissa
 miten käytän oikeinkirjoituksen tarkistusta
+
 mitä punainen alleviivaus tarkoittaa
+miksi sana on punaisella alleviivattu
+
 mitä sininen alleviivaus tarkoittaa
+miksi teksti on sinisellä alleviivattu
+
 miten korjaan kielioppivirheen
-mistä löydän kieliopin tarkistuksen
-voinko ohittaa Wordin ehdotuksen
-voiko Word ehdottaa väärää korjausta
-miten korjaan Caps Lockilla kirjoitetun tekstin
+miten käytän kielentarkistusta
+
+voinko ohittaa ehdotuksen
+word ehdottaa väärää sanaa
+
+miksi word ei tunnista sanaa
+miksi word merkitsee sanan virheelliseksi
+
+miten korjaan caps lockilla kirjoitetun tekstin
 miten vaihdan isot kirjaimet pieniksi
-miten oikoluen tekstin Wordissa
+
+miten vaihdan pienet kirjaimet isoiksi
+miten muutan kirjainkokoa

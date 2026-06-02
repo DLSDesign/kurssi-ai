@@ -2,37 +2,120 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Peruslaskukaavan tekeminen
 
-AIHE: Laskukaavojen tekeminen
+AIHE:
+Laskukaavojen tekeminen
 
-TAVOITE: Tutustu aivan ensimmäiseksi huolellisesti laskukaavan perusperiaatteisiin. 
+TAVOITE:
+Osaat tehdä yksinkertaisia laskukaavoja ja ymmärrät laskukaavan perusrakenteen sekä sulkujen vaikutuksen laskujärjestykseen.
+
+SELITYS:
+Excelin laskukaavat alkavat aina yhtäsuuruusmerkillä (=). Laskukaavoissa käytetään yleensä soluosoitteita, jolloin laskenta päivittyy automaattisesti tietojen muuttuessa. Sulkumerkeillä voit tarvittaessa määrittää laskujärjestyksen.
 
 OHJE:
-Valitse se solu, johon haluat laskun tuloksen.
-Kirjoita = -merkki.
-Napsauta ensimmäistä kaavaan tulevaa solua hiirellä. Saat laskukaavaan soluosoitteen.
-Opettele napsauttamaan hiirellä solua, jonka haluat laskukaavaan sen sijaan, että kirjoitat solun osoitteen. Näin vähennät kirjoitusvirheen mahdollisuutta.
-Kirjoita operaattori (+, -, / tai *). Kauttaviiva on jakolasku ja tähti on kertolasku. 
-Napsauta hiirellä seuraavaa kaavaan tulevaa solua.
-Huomaa, että kaava näkyy kaavarivillä. Seuraa sitä siellä ja siellä voit myös korjata sitä.
-Kun laskukaava on valmis, hyväksy se Enter-näppäimellä.
- 
-------
-Sulkumerkeillä voit tarvittaessa muuttaa laskujärjestystä.
-Niillä osoitat poikkeavan laskujärjestyksen niin, että sulkeissa oleva laskutoimitus lasketaan ensin.
 
-Esimerkkikaava voisi olla näin:
+1. Valitse solu, johon haluat laskun tuloksen.
 
-Myynti 1: solu B2
-Myynti 2: solu C2
-Myynti 3: solu D2
-Bonus / myynti: 3 €
+2. Kirjoita yhtäsuuruusmerkki (=).
 
-Väärä kaava: =B2+C2+D2*3
+3. Napsauta ensimmäistä laskukaavaan tulevaa solua.
 
-Tässä Excel kertoo vain solun D2 arvon kolmella ja lisää siihen solut B2 ja C2.
+4. Kirjoita laskutoimituksen merkki (+, -, * tai /).
 
-Oikea kaava: =(B2+C2+D2)*3
+5. Napsauta seuraavaa laskukaavaan tulevaa solua.
 
-Sulkeiden avulla Excel laskee ensin myynnit yhteen ja kertoo vasta sen jälkeen summan kolmella.
+6. Jatka tarvittaessa samalla tavalla muiden solujen kanssa.
+
+7. Tarkista kaava kaavariviltä.
+
+8. Hyväksy laskukaava painamalla Enteriä.
+
+9. Käytä sulkuja, jos haluat muuttaa laskujärjestystä.
+
+10. Kirjoita sulut niiden laskutoimitusten ympärille, jotka haluat laskea ensin.
+
+HUOM:
+
+* Laskukaava alkaa aina yhtäsuuruusmerkillä (=).
+* Solujen napsauttaminen on yleensä turvallisempaa kuin soluosoitteiden kirjoittaminen käsin.
+* Tähti (*) tarkoittaa kertolaskua.
+* Kauttaviiva (/) tarkoittaa jakolaskua.
+* Kaavarivillä näet laskukaavan ja voit korjata sitä myöhemmin.
+* Excel noudattaa normaalia laskujärjestystä: kerto- ja jakolaskut suoritetaan ennen yhteen- ja vähennyslaskuja.
+* Sulkumerkeillä voit määrittää poikkeavan laskujärjestyksen.
+
+Esimerkki:
+
+Väärä kaava:
+=B2+C2+D2*3
+
+Excel kertoo vain solun D2 arvon kolmella.
+
+Oikea kaava:
+=(B2+C2+D2)*3
+
+Excel laskee ensin myynnit yhteen ja kertoo summan vasta sen jälkeen kolmella.
+
+HAKUSANAT:
+laskukaava
+laskukaavat
+peruslaskukaava
+tee laskukaava
+laskukaavan tekeminen
+
+# yhtäsuuruusmerkki
+
+kaava alkaa merkillä
+
+yhteenlasku
+vähennyslasku
+kertolasku
+jakolasku
+laske yhteen
+laske erotus
+laske tulo
+laske jako
+
+operaattori
+plusmerkki
+miinusmerkki
+tähti
+kauttaviiva
+
+soluosoite
+soluviittaus
+käytä soluosoitetta
+napsauta solu kaavaan
+
+kaavarivi
+laskukaava näkyy kaavarivillä
+
+sulut
+sulkumerkit
+laskujärjestys
+muuta laskujärjestystä
+
+excel laskee väärin
+kaava antaa väärän tuloksen
+miksi tulos on väärä
+kertolasku menee ensin
+yhteenlasku ei toimi oikein
+
+miten teen laskukaavan
+miten lasken yhteen soluja
+miten vähennän lukuja
+miten kerron lukuja
+miten jaan lukuja
+
+haluan laskea soluja yhteen
+haluan tehdä kaavan
+haluan laskea summan
+haluan laskea tuloksen
+
+virhe laskukaavassa
+kaava ei toimi
+kaava ei laske
+en saa laskukaavaa toimimaan

@@ -2,41 +2,95 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Reunaviivojen lisääminen
 
-AIHE: Reunaviivojen lisääminen taulukkoon
+AIHE:
+Reunaviivojen lisääminen taulukkoon
 
-TAVOITE: Reunaviivojen avulla taulukon rakenne näkyy selkeämmin ja tiedot erottuvat paremmin. Reunaviivoilla voit rajata tietoja, korostaa alueita ja tehdä taulukosta helpommin luettavan.
+TAVOITE:
+Osaat lisätä, muuttaa ja poistaa reunaviivoja sekä käyttää niitä taulukon rakenteen ja luettavuuden parantamiseen.
+
+SELITYS:
+Reunaviivojen avulla voit erottaa tietoja toisistaan, korostaa taulukon osia ja tehdä taulukosta helpommin luettavan. Reunaviivat auttavat hahmottamaan tietojen rakennetta sekä näytöllä että tulosteessa.
 
 OHJE:
 
-Voit lisätä soluihin reunaviivat näin. 
 1. Valitse solut, joihin haluat lisätä reunaviivat.
-2. Napsauta Aloitus-välilehden Fontti-ryhmän Reunat-painikkeen oikeassa reunassa olevaa nuolta.
+2. Avaa Aloitus-välilehden Fontti-ryhmän Reunat-painikkeen valikko.
 3. Valitse haluamasi reunaviivatyyli.
 
 Voit lisätä esimerkiksi:
 
-kaikki reunaviivat
-ulkoreunat
-yläreunan
-alareunan
+* kaikki reunaviivat
+* ulkoreunat
+* yläreunan
+* alareunan
 
-Jos haluat poistaa reunaviivat:
+4. Jos haluat poistaa reunaviivat:
 
-1. Valitse solut.
-2. Avaa Aloitus-välilehden Fontti-ryhmän Reunat-painikkeen valikko.
-3. Valitse Ei reunaviivaa. 
+   * Valitse solut.
+   * Avaa Reunat-painikkeen valikko.
+   * Valitse Ei reunaviivaa.
 
-Vinkki
-Lisää reunaviivat vasta, kun taulukon sisältö on valmis. Kun valitset koko taulukon ja lisäät reunaviivat yhdellä kertaa, lopputuloksesta tulee siisti ja yhtenäinen.
+HUOM:
+
+* Reunaviivat helpottavat taulukon lukemista ja tietojen hahmottamista.
+* Kaikki reunaviivat lisää viivat jokaisen valitun solun ympärille.
+* Ulkoreunat lisää viivan vain valitun alueen ulkoreunoille.
+* Reunaviivoja kannattaa lisätä vasta, kun taulukon sisältö on valmis. Näin lopputuloksesta tulee siisti ja yhtenäinen.
+* Reunaviivat näkyvät tulosteessa.
+* Laskentataulukon ruudukko ei ole sama asia kuin reunaviivat.
+* Ruudukko näkyy oletuksena näytöllä, mutta ei yleensä tulosteessa.
+* Reunaviivoilla voit korostaa otsikoita, yhteenvetoja tai muita tärkeitä alueita.
 
 HAKUSANAT:
-reunaviivat, solujen reunaviivat, lisää reunaviivat, poista reunaviivat, taulukon reunat, solun reunat, reunojen muotoilu, ulkoreunat, kaikki reunaviivat
-
-TYYPILLISET KYSYMYKSET:
-
-miten lisään reunaviivat soluihin
+reunaviivat
+reunaviiva
+solujen reunaviivat
+lisää reunaviivat
+poista reunaviivat
+reunat
+taulukon reunat
+solun reunat
+reunojen muotoilu
+ulkoreunat
+kaikki reunaviivat
+yläreuna
+alareuna
+vasen reuna
+oikea reuna
+ei reunaviivaa
+kehys
+kehys taulukkoon
+kehys soluun
+taulukon kehys
+solun kehys
+kehystä taulukko
+kehystä solut
+viivat taulukkoon
+viivat soluihin
+viivat solujen ympärille
+rajaa taulukko
+taulukon rajat
+solujen rajat
+korosta taulukko
+korosta alue
+erota tiedot toisistaan
+tee taulukosta selkeämpi
+ruudukko
+ruudukko ei tulostu
+miten lisään reunaviivat
 miten saan taulukkoon reunat
+miten teen kehyksen taulukkoon
+miten teen kehyksen soluun
+miten saan viivat taulukkoon
+miten saan viivat soluihin
+miten korostan taulukon
+miten rajaan taulukon
+miten erotan tiedot toisistaan
+taulukko näyttää epäselvältä
+haluan viivat taulukkoon
+haluan kehyksen taulukon ympärille
 miten poistan reunaviivat
-

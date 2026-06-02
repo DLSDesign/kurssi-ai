@@ -2,37 +2,115 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tietojen siirtäminen ja kopiointi
 
-AIHE: Tietojen kopiointi ja siirtäminen laskentataulukon sisällä
+AIHE:
+Tietojen kopiointi ja siirtäminen laskentataulukon sisällä
 
-TAVOITE: Oppia siirtämään ja kopioimaan tietoja laskentataulukon sisällä. 
+TAVOITE:
+Osaat siirtää ja kopioida soluja, solualueita ja laskukaavoja sekä käyttää erilaisia liittämistapoja.
 
-OHJE: 
-Solujen sisältöjä ja niissä olevia laskukaavoja voit siirtää ja kopioida.
-Tarvittavat työkalut löydät tästä Aloitus-valintanauhan Leikepöytä-ryhmästä.
-Voit siirtää alueita näin. 
-1. Valitse siirrettävä alue.
-2. Napsauta työkalurivin Leikkaa-painiketta.
-3. Siirrä kohdistin kohtaan, johon haluat siirtää tiedot.
-4. Napsauta työkalurivin Liitä-painiketta.
+SELITYS:
+Tietojen siirtäminen ja kopioiminen ovat Excelin yleisimpiä toimintoja. Voit siirtää tai kopioida sekä tavallisia tietoja että laskukaavoja. Tarvittaessa voit myös kopioida pelkän laskukaavan tuloksen ilman itse kaavaa.
 
-Samassa laskentataulukossa voit siirtää alueen myös hiirellä näin.
-1. Valitse siirrettävät solut.
-2. Tartu hiirellä kiinni valitun solualueen reunaviivasta ja vedä alue haluamaasi kohtaan.
+OHJE:
 
-Solun sisällön kopioit näin. 
-1. Valitse alue ja napsauta Leikepöytä-ryhmän Kopioi-painiketta.
-2. Siirrä kohdistin kohdesoluun ja napsauta Liitä-painiketta.
+1. Valitse siirrettävä solu tai solualue.
 
-Jos alueen tiedot muodostuvat laskukaavasta, voit kopioida kaavan tuloksen ilman laskukaavaa näin. 
-1. Valitse solut, jotka sisältävät laskukaavan.
-2. Napsauta Leikepöytä-ryhmän Kopioi-painiketta.
-3. Siirry kohdesoluun. 
-4. Valitse Liitä-painikkeen valikosta vain arvot. 
+2. Napsauta Aloitus-välilehden Leikepöytä-ryhmästä Leikkaa.
 
-Kun olet liittänyt jotain, näkyviin tulee pieni toimintopainike. Siitä voit valita samat liittämisen vaihtoehdot kuin Liitä-painikkeesta. Voit siis vaihtaa liittämistapaa myös tämän painikkeen kautta.
+3. Valitse kohdesolu.
 
-VINKKI:
-Toki voit käyttää kopiointiin näppäinyhdistelmää Control + C ja liittää sen Control + V. Siirtoon vastaavasti Control + x. Jos haluat kopioida hiirellä, pidä Ctrl-näppäintä alhaalla, kun siirrät aluetta. Näin toiminto onkin kopiointi.
+4. Napsauta Liitä.
 
+5. Voit siirtää alueen myös hiirellä:
+
+   * Valitse siirrettävä alue.
+   * Tartu valinnan reunaviivaan.
+   * Vedä alue haluamaasi paikkaan.
+
+6. Kopioi solu tai alue valitsemalla se ja napsauttamalla Kopioi.
+
+7. Valitse kohdesolu.
+
+8. Napsauta Liitä.
+
+9. Jos haluat kopioida laskukaavan tuloksen ilman laskukaavaa:
+
+   * Valitse laskukaavoja sisältävät solut.
+   * Napsauta Kopioi.
+   * Valitse kohdesolu.
+   * Valitse Liitä-valikosta Vain arvot.
+
+10. Tarkastele liittämisen jälkeen näkyvää toimintopainiketta, josta voit vaihtaa liittämistapaa.
+
+HUOM:
+
+* Leikkaa siirtää tiedon alkuperäisestä sijainnista uuteen paikkaan.
+* Kopioi jättää alkuperäisen tiedon paikalleen ja luo siitä kopion.
+* Vain arvot -liittäminen kopioi laskukaavan tuloksen, mutta ei itse laskukaavaa.
+* Liittämisen jälkeen näkyvä toimintopainike tarjoaa samat liittämisvaihtoehdot kuin Liitä-painikkeen valikko.
+* Hiirellä siirtäessä voit kopioida alueen pitämällä Ctrl-näppäintä painettuna vetämisen aikana.
+* Pikanäppäimet nopeuttavat työskentelyä: Ctrl+C kopioi, Ctrl+X leikkaa ja Ctrl+V liittää.
+
+HAKUSANAT:
+kopioi solu
+kopioi alue
+kopiointi excelissä
+kopioi tiedot
+kopioi taulukko
+kopioi solut
+
+siirrä solu
+siirrä alue
+siirrä tiedot
+siirrä taulukko
+tietojen siirtäminen
+
+leikkaa ja liitä
+kopioi ja liitä
+liitä
+liittämisvaihtoehdot
+toimintopainike
+leikepöytä
+
+ctrl c
+ctrl v
+ctrl x
+kopiointi pikanäppäin
+liittämisen pikanäppäin
+
+vain arvot
+liitä vain arvot
+kopioi kaavan tulos
+kopioi ilman kaavaa
+kopioi pelkkä arvo
+poista kaava
+säilytä tulos
+laskukaavan kopiointi
+kaavan tulos
+
+vedä ja siirrä
+vedä ja kopioi
+kopioi hiirellä
+siirrä hiirellä
+
+miten kopioin tiedot
+miten siirrän tiedot
+miten kopioin taulukon
+miten siirrän taulukon
+haluan kopioida solut
+haluan siirtää solut
+
+kaava kopioituu mukana
+en halua kopioida kaavaa
+haluan vain numeron
+haluan vain tuloksen
+haluan poistaa kaavan mutta säilyttää luvun
+miten saan pelkän arvon
+
+kopiointi ei onnistu
+liittäminen ei onnistu
+en löydä liitä-painiketta

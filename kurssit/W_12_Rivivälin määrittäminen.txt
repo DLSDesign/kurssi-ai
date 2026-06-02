@@ -2,90 +2,104 @@ TYYPPI: video
 
 OHJELMA: Word
 
-VIDEO: Rivinvälin määrittäminen
+VERSIO: verkkoversio
 
-AIHE: Rivivälin muuttaminen Wordissa
+VIDEO: Rivivälin määrittäminen
+
+AIHE:
+Rivivälin muuttaminen Wordissa
 
 TAVOITE:
-Oppia muuttamaan tekstin riviväliä Wordissa ja parantamaan asiakirjan luettavuutta.
+Osaat muuttaa tekstin riviväliä ja kappaleväliä sekä parantaa asiakirjan luettavuutta.
+
+SELITYS:
+Riviväli tarkoittaa tekstirivien välistä etäisyyttä. Sopiva riviväli tekee tekstistä selkeämpää ja helpommin luettavaa. Rivivälin lisäksi voit säätää kappaleiden välistä tilaa, jolloin asiakirjan rakenne erottuu paremmin.
 
 OHJE:
 
-Riviväli tarkoittaa tekstirivien välistä etäisyyttä.
-
-Kun rivien välissä on sopivasti tilaa, teksti näyttää selkeämmältä ja sitä on helpompi lukea.
-
-Liian pieni riviväli tekee tekstistä ahtaan.
-
-Liian suuri riviväli taas hajottaa tekstin kokonaisuutta.
-
-Useissa ohjeissa ja opetuskäytännöissä suositellaan riviväliä 1,5 tavallisiin teksteihin.
-
 Rivivälin muuttaminen
 
-Voit muuttaa riviväliä:
+Voit muuttaa riviväliä yksittäisessä kappaleessa, valitussa tekstissä tai koko asiakirjassa.
 
-koko asiakirjassa
-valitussa tekstissä
-yksittäisessä kappaleessa
-
-Koko asiakirjan valitseminen
-
-Voit valita koko asiakirjan nopeasti näppäinyhdistelmällä:
-
-Ctrl + A
-
-Rivivälin muuttaminen näin:
-
-1. Valitse teksti tai koko asiakirja.
-2. Valitse Aloitus-välilehden Kappale-ryhmästä Rivi- ja kappaleväli -painike.
-3. Valitse haluamasi riviväli.
+1. Valitse teksti, jonka riviväliä haluat muuttaa.
+2. Jos haluat muuttaa koko asiakirjan rivivälin, valitse koko asiakirja näppäinyhdistelmällä Ctrl + A.
+3. Valitse Aloitus-välilehden Kappale-ryhmästä Rivi- ja kappaleväli -painike.
+4. Valitse haluamasi riviväli.
 
 Yleisiä rivivälejä ovat esimerkiksi:
 
-1,0
-1,15
-1,5
-2,0
+* 1,0
+* 1,15
+* 1,5
+* 2,0
 
 Riviväli muuttuu heti valitulle tekstille.
 
-Kappaleväli
+Kappalevälin muuttaminen
 
-Rivivälin lisäksi voit säätää myös kappaleiden välistä tilaa.
+Kappaleväli lisää tai vähentää tyhjää tilaa kappaleiden välissä.
 
-Kappaleväli auttaa erottamaan kappaleet toisistaan selkeämmin.
+1. Valitse teksti tai kappaleet, joita haluat muokata.
+2. Valitse Aloitus-välilehden Kappale-ryhmästä Rivi- ja kappaleväli.
+3. Valitse Lisää kappaleväli ennen kappaletta tai Lisää kappaleväli jälkeen kappaleen.
+4. Voit myös poistaa kappalevälin samasta valikosta.
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+HUOM:
 
-VERSIOEROT:
+* Riviväli vaikuttaa tekstirivien väliseen etäisyyteen.
+* Kappaleväli vaikuttaa kappaleiden väliseen etäisyyteen.
+* Riviväli 1,0 sopii tiiviisiin asiakirjoihin.
+* Riviväli 1,5 on yleinen esimerkiksi raporteissa, tehtävissä ja opinnäytetöissä.
+* Riviväli 2,0 jättää paljon tilaa riveille esimerkiksi kommentointia varten.
+* Rivivälin muuttaminen ei muuta tekstin sisältöä, ainoastaan sen ulkoasua.
 
-Word verkkoversio:
+Täydentävä vinkki: Tarkista asiakirjan ohjeet
 
-* Yleisimmät rivivälit ovat käytettävissä.
-* Asetuksia on vähemmän kuin työpöytäversiossa.
-
-Word työpöytäversio:
-
-* Käytettävissä on tarkemmat rivi- ja kappalevälin asetukset.
-* Voit määrittää tarkkoja arvoja Kappale-valintaikkunassa.
+Jos kirjoitat raporttia, opinnäytetyötä tai muuta virallista asiakirjaa, tarkista aina mahdolliset ohjeet rivivälistä ennen muotoilujen tekemistä.
 
 VINKKI:
-Älä käytä tyhjiä rivejä kappaleiden välin kasvattamiseen. Käytä mieluummin kappaleväliä, jolloin asiakirjan ulkoasu pysyy yhtenäisenä.
+
+Älä lisää tyhjiä rivejä Enter-näppäimellä kappaleiden väliin. Käytä mieluummin kappaleväliä. Näin asiakirjan ulkoasu pysyy yhtenäisenä ja sitä on helpompi muokata myöhemmin.
 
 HAKUSANAT:
-riviväli, muuta riviväliä, Word riviväli, rivi- ja kappaleväli, kappaleväli, tekstin riviväli, 1,5 riviväli, Word kappaleväli, Ctrl A, tekstin muotoilu, rivien väli, kappaleiden väli, asiakirjan muotoilu
+riviväli
+muuta riviväliä
 
-TYYPILLISET KYSYMYKSET:
+word riviväli
+tekstin riviväli
 
-miten muutan riviväliä Wordissa
+rivi ja kappaleväli
+kappaleväli
+
+rivien väli
+kappaleiden väli
+
+1,5 riviväli
+kaksoisriviväli
+
+muuta koko asiakirjan riviväli
+rivivälin muuttaminen
+
+tekstin muotoilu
+asiakirjan muotoilu
+
+lisää kappaleväli
+poista kappaleväli
+
+ctrl a
+valitse koko asiakirja
+
+miten muutan riviväliä wordissa
 miten teen 1,5 rivivälin
+
 mitä riviväli tarkoittaa
-miten valitsen koko asiakirjan
+mikä on hyvä riviväli
+
 miten muutan koko asiakirjan rivivälin
 miten lisään tilaa kappaleiden väliin
-mikä on hyvä riviväli
+
 miten muutan kappaleväliä
-mitä Ctrl A tekee
 miten teen tekstistä helpommin luettavaa
+
+miksi kappaleiden välissä on liikaa tilaa
+miksi teksti näyttää liian tiiviiltä

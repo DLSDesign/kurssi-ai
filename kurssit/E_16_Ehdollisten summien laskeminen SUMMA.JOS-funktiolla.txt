@@ -2,65 +2,105 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Ehdollisten summien laskeminen SUMMA.JOS-funktiolla
 
-AIHE: SUMMA.JOS-funktion käyttö
+AIHE:
+SUMMA.JOS-funktion käyttö
 
 TAVOITE:
-Oppia laskemaan yhteen vain ne arvot, jotka täyttävät tietyn ehdon. Oppia käyttämään SUMMA.JOS-funktiota ja ymmärtämään sen argumentit.
+Osaat laskea yhteen vain ne arvot, jotka täyttävät määritellyn ehdon, sekä käyttää SUMMA.JOS-funktion tärkeimpiä argumentteja.
+
+SELITYS:
+SUMMA.JOS-funktiolla voit laskea yhteen vain tietyt arvot valitsemasi ehdon perusteella. Esimerkiksi voit laskea yhden myyjän kokonaismyynnin, tietyn tuotteen myynnin tai tietyn osaston kustannukset ilman erillistä suodatusta.
 
 OHJE:
-
-SUMMA.JOS-funktiolla voit laskea yhteen vain ne arvot, jotka täyttävät määrittelemäsi ehdon.
-
-Esimerkiksi voit laskea, kuinka paljon yksi myyjä on myynyt yhteensä.
-
-SUMMA.JOS-funktion rakenne on:
-
-`=SUMMA.JOS(alue;ehto;summa_alue)`
-
-Funktion argumentit:
-
- alue = mistä alueesta ehtoa etsitään
- ehto = mikä tieto täytyy löytyä
- summa_alue = mitä lukuja lasketaan yhteen
-
-Esimerkki:
-
-`=SUMMA.JOS($A$2:$A$20;D2;$B$2:$B$20)`
-
-Tässä:
-
- alue = A2:A20 (myyjien nimet)
- ehto = D2 (haettava myyjä)
- summa_alue = B2:B20 (myynnit)
-
-Tee kaava näin:
 
 1. Valitse solu, johon haluat tuloksen.
 2. Lisää SUMMA.JOS-funktio.
 3. Valitse alue, josta ehtoa etsitään.
-4. Jos tulet kopioimaan laskukaavan useammalle riville, lukitse alue painamalla F4-näppäintä, jotta alue pysyy samana kopioitaessa.
-5. Valitse ehto, esimerkiksi myyjän nimi. Tätä viittausta ei lukita, jotta se muuttuu kopioitaessa.
-6. Valitse summa-alue, josta summat lasketaan.
+4. Jos aiot kopioida kaavan muille riveille, lukitse alue painamalla F4-näppäintä.
+5. Valitse ehto, esimerkiksi myyjän nimi.
+6. Valitse summa-alue, jonka lukuja haluat laskea yhteen.
 7. Lukitse summa-alue painamalla F4-näppäintä.
-8. Hyväksy kaava painamalla Enter-näppäintä.
-9. Kopioi kaava muihin soluihin.
+8. Hyväksy kaava painamalla Enteriä.
+9. Kopioi kaava tarvittaessa muille riveille.
 
-Kun kopioit kaavan, ehto muuttuu automaattisesti, mutta hakualue ja summa-alue pysyvät samoina.
+SUMMA.JOS-funktion rakenne:
 
-VINKKI:
-Kun käytät SUMMA.JOS-funktiota useille riveille, lukitse aina hakualue ja summa-alue. Näin kaava toimii oikein kopioitaessa.
+=SUMMA.JOS(alue;ehto;summa_alue)
+
+Esimerkki:
+
+=SUMMA.JOS($A$2:$A$20;D2;$B$2:$B$20)
+
+Tässä:
+
+* alue = A2:A20 (myyjien nimet)
+* ehto = D2 (haettava myyjä)
+* summa_alue = B2:B20 (myynnit)
+
+HUOM:
+
+* Alue on se solualue, josta ehtoa etsitään.
+* Ehto kertoo, mitä tietoa alueelta etsitään.
+* Summa-alue sisältää luvut, jotka lasketaan yhteen.
+* Hakualue ja summa-alue kannattaa yleensä lukita, jos kaavaa kopioidaan useille riveille.
+* Ehtoa sisältävää soluviittausta ei yleensä lukita, jotta se muuttuu kopioitaessa.
+* SUMMA.JOS laskee yhteen vain ne rivit, jotka täyttävät ehdon.
 
 HAKUSANAT:
-SUMMA.JOS, summa.jos-funktio, ehdollinen summa, laske ehdolla, summa ehtojen mukaan, ehdollinen laskenta, hakualue, ehto, summa-alue, ehdollinen yhteenlasku, laske vain tietyt tiedot
+summa.jos
+summa.jos-funktio
+summa jos
+sumif
 
-TYYPILLISET KYSYMYKSET:
+ehdollinen summa
+ehdollinen yhteenlasku
+laske ehdolla
+summa ehtojen mukaan
+laske vain tietyt tiedot
 
- miten SUMMA.JOS toimii
- miten lasken ehdollisen summan
- miten lasken yhden myyjän myynnit
- mitä SUMMA.JOS-funktion argumentit ovat
- mikä on hakualue SUMMA.JOS-funktiossa
- miten kopioin SUMMA.JOS-kaavan
- miten lasketaan vain tietyt rivit yhteen
+ehdollinen laskenta
+ehtoon perustuva laskenta
+laske tietyn ehdon mukaan
+
+alue
+hakualue
+summa-alue
+ehto
+funktion argumentit
+
+laske yhden myyjän myynnit
+laske tietyn myyjän myynnit
+laske tietyn tuotteen myynti
+laske tietyn osaston kulut
+
+laske vain tietyt rivit
+laske vain tietyt arvot
+laske vain yksi tuoteryhmä
+laske vain yhden henkilön tiedot
+
+miten summa.jos toimii
+miten lasken ehdollisen summan
+miten lasken vain tietyt rivit yhteen
+miten lasken vain yhden myyjän myynnit
+miten lasken vain tietyn tuotteen myynnin
+
+mitä summa.jos-funktion argumentit ovat
+mikä on hakualue summa.jos-funktiossa
+mikä on summa-alue
+mikä on ehto
+
+miten kopioin summa.jos-kaavan
+miten lukitsen alueen
+miten käytän f4-näppäintä
+
+kaava ei anna oikeaa summaa
+summa.jos ei toimi
+kaava laskee väärin
+summa puuttuu
+kaava ei löydä tietoa
+sama summa tulee kaikille riveille
+kopioitu kaava ei toimi

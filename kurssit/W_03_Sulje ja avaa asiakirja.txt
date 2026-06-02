@@ -2,29 +2,126 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Sulje ja avaa dokumentti
 
-AIHE: Tiedoston sulkeminen ja avaaminen
+AIHE:
+Tiedoston sulkeminen ja avaaminen
 
-TAVOITE: Oppia sulkemaan ja avaamaan asiakirjan
+TAVOITE:
+Osaat sulkea asiakirjan, avata aiemmin tallennetun asiakirjan sekä tuoda tietokoneella olevan tiedoston Wordin verkkoversioon.
 
-Kun haluat sulkea dokumentin, voit sulkea selainohjelmasta sen välilehden. 
-Aloitusvälilehti on täällä edelleen avoinna ja voit halutessasi avata ohjelman ja dokumentit sieltä uudelleen.
-Kun haluat avata aiemmin tekemäsi dokumentin, napsauta Word kuvaketta.
-Näet etusivulla listan viimeksi käytetyistä tiedostoista.
-Napsauta tiedoston nimeä, jos se on listalla.
-Jos tiedostoa ei näy, valitse Näytä kaikki tiedostot. 
-Nyt voi käyttää näitä suodatuspainikkeita tai etsiä tiedoston tämän hakuruudun avulla. 
-Kun löydät haluamasi tiedoston, napsauta sen nimeä.
-Tiedosto avautuu uuteen selaimen välilehteen. 
-Voit aloittaa sen muokkaamisen.
+SELITYS:
+Wordin verkkoversiossa asiakirjat tallentuvat automaattisesti OneDriveen. Kun suljet asiakirjan, sitä ei tarvitse tallentaa erikseen. Voit avata aiemmin käyttämiäsi tiedostoja viimeksi käytettyjen tiedostojen luettelosta tai hakea niitä OneDrivesta.
 
-Tuo olemassa oleva dokumentti käsiteltäväksi Wordin verkkoversioon.
-Avaa Word.
-Napsauta Wordissa Lataa tiedosto –painiketta. 
-Selaa tietokoneeltasi haluamasi tiedosto ja valitse Avaa.
-Word avaa tiedoston ja lataa sen automaattisesti OneDriveen.
-Jos olet tehnyt OneDriveen kansioita, voit siirtää tiedoston haluamaasi kansioon näin.
-Valitse Tiedosto-välilehdeltä Siirrä tiedosto.
-Saat näkyviin valintaikkunan, jossa voit määrittää, mihin tiedosto siirretään.
+OHJE:
 
+Asiakirjan sulkeminen
+
+1. Sulje asiakirjan selainvälilehti.
+2. Wordin aloitussivu jää käytettäväksi toiselle välilehdelle.
+3. Voit avata asiakirjan myöhemmin uudelleen Wordista.
+
+Aiemmin tallennetun asiakirjan avaaminen
+
+1. Avaa Word.
+2. Tarkastele viimeksi käytettyjen tiedostojen luetteloa.
+3. Napsauta tiedoston nimeä, jos se näkyy luettelossa.
+
+Jos tiedostoa ei näy:
+
+1. Valitse Näytä kaikki tiedostot.
+2. Käytä suodattimia tai hakuruutua tiedoston etsimiseen.
+3. Napsauta tiedoston nimeä.
+
+Tiedosto avautuu uuteen selainvälilehteen.
+
+Tietokoneella olevan tiedoston avaaminen Wordissa
+
+1. Avaa Word.
+2. Valitse Lataa tiedosto.
+3. Etsi tiedosto tietokoneeltasi.
+4. Valitse Avaa.
+
+Word avaa tiedoston ja tallentaa sen OneDriveen.
+
+Tiedoston siirtäminen kansioon
+
+1. Avaa tiedosto.
+2. Siirry Tiedosto-välilehdelle.
+3. Valitse Siirrä tiedosto.
+4. Valitse haluamasi kansio.
+5. Hyväksy siirto.
+
+HUOM:
+
+* Wordin verkkoversio tallentaa muutokset automaattisesti.
+* Selainvälilehden sulkeminen ei poista tiedostoa.
+* Viimeksi käytetyt tiedostot löytyvät yleensä helposti Wordin etusivulta.
+* Hakuruudulla voit etsiä tiedostoja nimen perusteella.
+* Tietokoneelta avattu tiedosto tallennetaan OneDriveen, jotta sitä voidaan käyttää verkkoversiossa.
+* Tiedosto kannattaa siirtää oikeaan kansioon heti, jos käytät OneDrivessa kansiorakennetta.
+
+HAKUSANAT:
+avaa tiedosto
+avaa dokumentti
+avaa asiakirja
+
+sulje tiedosto
+sulje dokumentti
+sulje asiakirja
+
+word tiedostot
+omat tiedostot
+
+viimeksi käytetyt tiedostot
+viimeisimmät tiedostot
+
+näytä kaikki tiedostot
+etsi tiedosto
+
+haku tiedostoista
+hae asiakirja
+
+avaa vanha tiedosto
+avaa aiemmin tallennettu tiedosto
+
+missä tiedostoni ovat
+missä asiakirjani ovat
+
+onedrive tiedostot
+onedrive asiakirjat
+
+lataa tiedosto
+avaa tiedosto tietokoneelta
+
+tuo tiedosto wordiin
+avaa omalta koneelta
+
+siirrä tiedosto
+siirrä kansioon
+
+järjestä tiedostot
+tiedoston hallinta
+
+miten avaan tiedoston
+miten löydän tiedoston
+
+miten avaan vanhan asiakirjan
+miten löydän aiemmin tekemäni tiedoston
+
+en löydä tiedostoa
+asiakirja katosi
+
+missä wordin tiedostot ovat
+mihin tiedosto tallentui
+
+miten tuon tiedoston wordiin
+miten avaan tietokoneella olevan tiedoston
+
+miten siirrän tiedoston kansioon
+miten järjestän tiedostot onedrivessa
+
+suljin tiedoston vahingossa
+miten saan tiedoston takaisin näkyviin

@@ -1,94 +1,76 @@
+TYYPPI: video
+
 OHJELMA: Excel
+
+VERSIO: verkkoversio
 
 VIDEO: Ohjelman ja työkirjan rakenne
 
-AIHE: Excel-työkirjaan tutustuminen
+AIHE:
+Excel-työkirjaan tutustuminen
 
-TAVOITE: Oppia tuntemaan Excelin käyttöliittymä ja työkirjan rakenne. Kun tiedät, mitä ovat työkirja, laskentataulukko, solut, kaavarivi ja valikot, Excelin käyttö tuntuu loogiselta. Hyvä perusosaaminen auttaa sinua käsittelemään tietoa nopeammin ja tekee työskentelystäsi sujuvampaa. 
+TAVOITE:
+Tunnet Excelin käyttöliittymän tärkeimmät osat ja ymmärrät, mitä tarkoittavat työkirja, laskentataulukko, Excel-taulukko, solu, kaavarivi, nimi-ruutu ja valintanauha.
+
+SELITYS:
+Excelissä työskentely tapahtuu työkirjassa. Työkirja sisältää yhden tai useamman laskentataulukon, joissa tiedot sijaitsevat soluissa. Kun tunnet käyttöliittymän tärkeimmät osat, löydät työkalut helpommin ja työskentelet tehokkaammin.
 
 OHJE:
- 
-Excelissä työskentelyaluetta kutsutaan työkirjaksi.  
 
-Yläreunassa näkyy erilaisia välilehtiä, kuten Tiedosto, Aloitus, Lisää ja niin edelleen. Kun napsautat jotain välilehteä, sen työkalut tulevat näkyviin valintanauhalle välilehtien alle. 
+1. Tutustu ohjelmaikkunan yläreunassa oleviin välilehtiin, kuten Tiedosto-, Aloitus- ja Lisää-välilehtiin.
+2. Napsauta välilehteä nähdäksesi sen työkalut valintanauhassa.
+3. Tarvittaessa laajenna valintanauha napsauttamalla sen oikeassa reunassa olevaa nuolikuvaketta.
+4. Valitse Perinteinen valintanauha, jos haluat nähdä kaikki työkalut.
+5. Valitse Näytä aina valintanauha, jos haluat työkalujen olevan jatkuvasti näkyvissä.
+6. Tutustu laskentataulukkoon, jossa sarakkeet on merkitty kirjaimilla ja rivit numeroilla.
+7. Napsauta jotakin solua ja tarkastele sen osoitetta nimi-ruudussa.
+8. Tarkastele valitun solun sisältöä kaavarivillä.
+9. Tutustu työkirjan alareunassa olevaan tilariviin ja sen zoomaussäätimeen.
+10. Tarkastele laskentataulukon välilehtiä ja huomaa, että työkirjaan voi lisätä uusia laskentataulukoita tarpeen mukaan.
 
-Jos näet työkaluja kaikkien työkalujen näkyvän, voit laajentaa valintanauhan.  
+HUOM:
 
-1. Napsauta valintanauhan oikeassa reunassa olevaa nuolikuvaketta. 
+* Työkirja on koko Excel-tiedosto.
+* Laskentataulukko on työkirjan yksittäinen välilehti, jossa tietoja käsitellään.
+* Excel-taulukko on laskentataulukon sisällä oleva muotoiltu tietotaulukko, jossa on esimerkiksi lajittelu- ja suodatustoiminnot.
+* Uusi työkirja sisältää oletuksena yhden laskentataulukon.
+* Yhdessä laskentataulukossa on yli miljoona riviä ja yli 16 000 saraketta.
+* Osa välilehdistä näkyy vain tarvittaessa. Esimerkiksi kaavion työkalut tulevat näkyviin vasta, kun kaavio on valittuna.
+* Voit siirtyä nopeasti tiettyyn soluun kirjoittamalla sen osoitteen nimi-ruutuun ja painamalla Enteriä.
+* Voit lisätä usein käyttämiäsi komentoja pikatyökaluriville napsauttamalla komentoa hiiren oikealla painikkeella ja valitsemalla Lisää pikatyökaluriville.
 
-2. Valitse avautuneesta valikosta Perinteinen valintanauha. Näin saat näkyviin kaikki perinteiset työkalut.  
-
-3. Jos haluat kaikkien työkalujen olevan koko ajan esillä, valitse vielä samasta valikosta Näytä aina valintanauha. 
-
-4. Säädä automaattisesti -valinnalla valintanauha tulee näkyviin, kun napsautat jotakin välilehteä, ja piiloutuu taas, kun siirryt pois. 
-
-Hienoa, nämä asetukset helpottavat työskentelyäsi. 
-
-Valintanauhassa komennot on järjestetty omiin ryhmiinsä. Ryhmän nimi näkyy valintanauhan alareunassa. 
-
-Kaikki ohjelman valintanauhat eivät ole oletuksena näkyvissä.  
-
-Osa niistä tulee näkyviin silloin, kun niitä tarvitaan.  
-
-Näin toimii esimerkiksi kaavion muokkaus välilehti, joka näkyy ainoastaan silloin, kun jokin kaavio on valittuna.  
-
-Kun avaat uuden työkirjan, on siinä yksi laskentataulukko. Voit lisätä laskentataulukoita tarpeen mukaan.  
-
-Yhdessä laskentataulukossa on yli miljoona riviä ja yli 16 tuhatta saraketta.   
-
-Rivit on yksilöity numeroilla ja sarakkeet kirjaimilla. 
-
-Nimi-ruudussa näet valittuna olevan solun osoitteen, esimerkiksi A1 eli A-sarakkeen ensimmäinen rivi. 
-
-Kaavarivillä näet valittuna olevan solun sisällön, syötetyt tiedot ja kaavat. Siinä voit myös muokata solun sisältöä.  
-
-Tilarivi sijaitsee työkirjan alapuolella. Siinä näet tietoja ohjelman tilasta, käynnissä olevista toiminnoista tai valittuna olevasta kohteesta.  
-
-Tilarivin oikean reunan säätimellä voit myös zoomata laskentataulukkoa.   
-
-
-
-Työkirja, laskentataulukko ja Excel-taulukko – mikä ero niillä on?
-
-Excelissä nämä käsitteet tarkoittavat eri asioita:
-
-Työkirja
-Työkirja on koko Excel-tiedosto. Se sisältää yhden tai useita laskentataulukoita.
-
-Esimerkki:
-Budjetti.xlsx on yksi työkirja.
-
-Laskentataulukko
-Laskentataulukko on työkirjan yksittäinen välilehti, jossa tietoja käsitellään.
-
-Esimerkki:
-Työkirjassa voi olla välilehdet Tammikuu, Helmikuu ja Yhteenveto.
-
-Excel-taulukko
-Excel-taulukko on laskentataulukon sisällä oleva tietojoukko, joka on muotoiltu Muotoile taulukoksi -toiminnolla. Se sisältää valmiita toimintoja, kuten suodatuksen, lajittelun ja automaattisen kaavojen kopioinnin.
-
-Esimerkki:
-Asiakaslista tai myyntiraportti voi olla Excel-taulukko.
-
-Yhteenveto:
-Työkirja = koko tiedosto
-Laskentataulukko = työkirjan välilehti
-Excel-taulukko = välilehden sisällä oleva muotoiltu tietotaulukko
-
-
-VINKKI: 
-
-Nimi-ruutua voit käyttää myös laskentataulukossa liikkumiseen. Kun kirjoitat siihen solun osoitteen (esimerkiksi D250) ja painat Enteriä, Excel siirtyy suoraan kyseiseen kohtaan. Tämä säästää paljon aikaa etenkin suurissa taulukoissa. 
-
-VINKKI:
-Voit nopeuttaa työskentelyä lisäämällä usein käyttämäsi komennot Excelin Pikatyökaluriville, joka näkyy ohjelmaikkunan oikeassa yläreunassa.
-
-Näin teet sen:
-
-1. Etsi haluamasi komento valintanauhasta.
-2. Napsauta komentoa hiiren oikealla painikkeella.
-3. Valitse avautuneesta valikosta Lisää pikatyökaluriville.
-
-Työkalu näkyy tämän jälkeen aina yläreunassa, riippumatta siitä, millä välilehdellä työskentelet. Näin voit säästää monta klikkausta päivässä.
-
-HAKUSANAT: työkirja, työkirjan rakenne, laskentataulukko, taulukko, Excel-välilehdet, valintanauha, perinteinen valintanauha, näytä aina valintanauha, kaavarivi, nimi-ruutu, aktiivinen solu, solun osoite, soluosoite, sarakkeet, rivit, solut, tilarivi, zoomaus, pikatyökalurivi, Excel-työkalut, siirtyminen soluun, siirry soluun
+HAKUSANAT:
+mikä on työkirja
+työkirja
+excel-tiedosto
+mikä on laskentataulukko
+laskentataulukko
+välilehti
+mikä on excel-taulukko
+excel-taulukko
+taulukko excelissä
+excelin osat
+excelin käyttöliittymä
+mistä löydän työkalut
+valintanauha
+perinteinen valintanauha
+näytä aina valintanauha
+excelin välilehdet
+missä näkyy solun osoite
+nimi-ruutu
+solun osoite
+soluosoite
+missä näkyy solun sisältö
+kaavarivi
+aktiivinen solu
+rivit ja sarakkeet
+solut
+miten siirryn tiettyyn soluun
+siirry soluun
+excelin alareunan tiedot
+tilarivi
+miten suurennan näkymää
+zoomaus
+pikatyökalurivi
+exceliin tutustuminen
+excelin perusnäkymä

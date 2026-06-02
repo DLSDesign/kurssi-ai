@@ -2,68 +2,103 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tietojen syöttäminen taulukkoon
 
-AIHE: Kirjoita tietoja soluihin
+AIHE:
+Tietojen kirjoittaminen soluihin
 
-TAVOITE: Oppia, miten Excel tulkitsee tietoja ja miten voit itse vaikuttaa tietojen syöttöön ja muotoiluun. 
+TAVOITE:
+Osaat syöttää tietoja Exceliin, ymmärrät miten Excel tulkitsee erilaisia tietoja ja osaat hyödyntää täyttökahvaa tietojen kopioimisessa ja sarjojen luomisessa.
+
+SELITYS:
+Excel tunnistaa automaattisesti, onko syöttämäsi tieto tekstiä, luku, päivämäärä vai prosentti. Tämän perusteella ohjelma muotoilee tiedon ja käsittelee sitä eri tavoin. Kun ymmärrät, miten Excel tulkitsee tietoja, vältät yleisimmät virheet ja työskentelet tehokkaammin.
 
 OHJE:
-Excel muotoilee tiedot automaattisesti sen mukaan, mitä syötät. Tekstit tulevat vasempaan reunaan, luvut oikeaan ja päivämäärät omassa muodossaan. Tämä helpottaa työskentelyäsi, mutta voi joskus aiheuttaa yllätyksiä, kuten etunollien katoamista tai vääränlaista muotoilua. 
 
-Oletuksena ohjelma muotoilee tiedot niiden syöttömuodon perusteella ja tasaa näin tekstit solun vasempaan reunaan ja luvut oikeaan reunaan.  
+1. Napsauta solua ja kirjoita siihen haluamasi tieto.
+2. Huomaa, että tekstit tasataan oletuksena vasemmalle ja luvut oikealle.
+3. Kirjoita päivämäärät muodossa pp.kk.vvvv.
+4. Voit valita useita soluja etukäteen ja kirjoittaa tiedot alueelle. Enter siirtää kohdistimen automaattisesti seuraavaan valittuun soluun.
+5. Kopioi solun sisältö tarttumalla täyttökahvaan, joka sijaitsee valitun solun oikeassa alakulmassa.
+6. Vedä täyttökahvaa haluttuun suuntaan kopioidaksesi tiedon useisiin soluihin.
+7. Kokeile automaattitäyttöä kirjoittamalla esimerkiksi kuukauden tai viikonpäivän nimi ja vetämällä täyttökahvasta.
+8. Jos kopioit päivämäärän ja haluat säilyttää saman päivämäärän kaikissa soluissa, avaa kopioinnin jälkeen näkyvä toimintopainike ja valitse Kopioi solut.
+9. Jos postinumeroista katoavat etunollat, muuta sarakkeen numeromuotoiluksi Postinumero.
 
-Kirjoita päivämäärä tähän muotoon pp.kk.vvvv. 
+HUOM:
 
-Voit myös valita tietojen syöttöalueen hiirellä ja kirjoittaa tiedot. Kun painat Enter-näppäintä, siirtyy kohdistin automaattisesti seuraavaan valitun alueen soluun. 
+* Excel tunnistaa tiedon tyypin sen syöttötavan perusteella.
+* Tekstit tasataan yleensä vasemmalle ja luvut oikealle.
+* Postinumeroiden ja muiden nollalla alkavien tietojen etunollat voivat poistua, koska Excel tulkitsee ne luvuiksi.
+* Voit kirjoittaa yksittäisen nollalla alkavan tiedon eteen heittomerkin (') säilyttääksesi etunollat.
+* Jos solussa ollut päivämäärä- tai prosenttimuotoilu jää voimaan, uusi luku voi näkyä väärin. Vaihda tällöin solun numeromuodoksi Yleinen.
+* Täyttökahva sijaitsee valitun solun oikeassa alakulmassa olevassa pienessä neliössä.
+* Automaattitäyttö toimii esimerkiksi numeroiden, päivämäärien, viikonpäivien ja kuukausien kanssa.
+* Tyhjä sarake keskellä aineistoa voi aiheuttaa ongelmia lajittelussa, suodatuksessa ja kaavoissa.
 
-Ohjelmassa on kätevä kopiointitoiminto. Kun valitset solun ja viet hiiren osoittimen solun oikeaan alakulmaan (täyttökahvan päälle), muuttuu hiiren osoitin mustaksi ristiksi.  
+HAKUSANAT:
+tietojen syöttäminen
+kirjoita soluun
+kirjoita tietoja exceliin
+solun sisältö
+syötä tiedot
 
-Nyt kopiointitoiminto on päällä ja voit hiirellä vetämällä kopioida solun sisältöä.  
+teksti ja luku
+teksti vasemmalla
+luku oikealla
+excel tunnistaa tiedon
 
-Ohjelmassa on myös valmiina erilaisia sarjoja esimerkiksi kuukausille ja päivämäärille. Kun kirjoitat ensimmäisen tiedon ja tartut täyttökahvasta kiinni ja vedät, jatkaa ohjelma automaattisesti sarjaa. Täyttökahva on valitun solun oikeassa alakulmassa oleva pieni neliö. 
+päivämäärä
+päivämäärän kirjoittaminen
+päivämäärä excelissä
+miten syötän päivämäärän
+päivämäärä näkyy väärin
+päivämäärä muuttuu
 
-Päivämäärissä tämä on joskus ongelmallista. Kun kopioit päivämäärää, antaa ohjelma automaattisesti seuraavan päivän.  
+postinumero
+postinumero muotoilu
+etunollat
+etunollat katoavat
+miksi nollat häviävät
+00100 muuttuu 100
+nollat katoavat
+excel poistaa etunollat
+heittomerkki
 
-Jos kuitenkin haluat kopioida samaa päivämäärää, avaa kopioinnin jälkeen ilmestyvä toimintopainike.  
+numeromuotoilu
+yleinen muotoilu
+erikoismuotoilu
+luku näkyy väärin
+solun muotoilu väärä
 
-Valitse sen valikosta Kopioi solut.    
+täyttökahva
+kopioi solut
+kopiointi excelissä
+automaattitäyttö
+sarjan jatkaminen
+jatka sarjaa
+kopioi alas
+kopioi viereisiin soluihin
 
-Tietojen syöttämisessä tulee usein esiin seuraava ongelma. Kirjoitat soluun postinumeron 00100.  
-
-Ohjelma tunnistaa syöttämäsi tiedon luvuksi, tasaa sen solun oikeaan reunaan ja poistaa siitä etunollat. Soluun jää luku 100. 
-
-Voit muotoilla solut postinumerotyyppiseksi erikoismuotoilujen avulla.  
-
-1. Valitse muotoiltava sarake ja valitse täältä Lisää numeromuotoja. 
-
-2. Valitse Erikoismuotoilu. 
-
-3. Valitse luettelosta Postinumero. 
-
-VINKKI:
-Jos kirjoitat nollalla alkavan luvun yhteen yksittäiseen soluun, voit lisätä luvun eteen heittomerkin ('). Näin tieto muuntuu tekstitiedoksi ja etunollat jäävät näkyviin.  
-
-Hyvin yleinen ongelma on myös se, että olet jossakin vaiheessa syöttänyt soluun päivämäärän tai prosenttiluvun.  
-
-Poistat sen ja kirjoitat soluun luvun. Muotoilu onkin jäänyt soluun, eikä luku näy oikein.  
-
-Valitse solulle yleinen muotoilu, niin saat korjattua tämän ongelman. 
-
-VINKKI:
-
-Tietoja syötettäessä voi vahingossa jäädä tyhjä sarake. Tämä tapahtuu usein silloin, kun jonkin sarakkeen teksti on pitkä ja näyttää ulottuvan viereisen sarakkeen puolelle, vaikka sarake on oikeasti tyhjä. 
-
-Tyhjä sarake voi aiheuttaa ongelmia esimerkiksi lajittelussa, suodatuksessa ja kaavojen toiminnassa. Siksi on hyvä tarkistaa taulukko ja poistaa turhat tyhjät sarakkeet ennen jatkokäsittelyä. 
-
-VINKKI:
-Hyödynnä automaattitäyttöä. Kun kirjoitat ensimmäisen arvon tai sarjan alkuosan (esimerkiksi maanantai tai tammikuu), voit jatkaa sarjaa nopeasti vetämällä solun oikeassa alakulmassa olevaa pientä täyttökahvaa.
-
-Esimerkkejä:
-
-numerot: 1, 2, 3…
-päivämäärät
-viikonpäivät
 kuukaudet
+viikonpäivät
+päivämääräsarja
+numeroiden sarja
 
-Näin säästät aikaa ja vältät turhaa kirjoittamista. Kokeile.
+kopioi sama päivämäärä
+päivämäärä muuttuu seuraavaksi päiväksi
+haluan saman päivämäärän
+toimintopainike
+
+tyhjä sarake
+tyhjä sarake taulukossa
+lajittelu ei toimi
+suodatus ei toimi
+kaava ei toimi
+
+miten kopioin tiedon useaan soluun
+miten jatkan kuukausia
+miten jatkan viikonpäiviä
+haluan täyttää sarjan automaattisesti

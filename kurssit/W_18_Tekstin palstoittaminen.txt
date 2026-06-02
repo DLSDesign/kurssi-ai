@@ -2,131 +2,90 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tekstin palstoittaminen
 
-AIHE: Tekstin palstoittaminen Wordissa
+AIHE:
+Palstoitetun asiakirjan tarkasteleminen Wordissa
 
 TAVOITE:
-Oppia jakamaan teksti useaan palstaan Wordissa sekä muokkaamaan palstojen asetuksia.
+Ymmärtää, mitä palstoitus tarkoittaa ja miten palstoitettu asiakirja näkyy Wordin verkkoversiossa.
 
-OHJE:
+SELITYS:
 
-Palstoittaminen tekee asiakirjasta selkeämmän ja visuaalisesti kiinnostavamman.
+Palstoittamisessa teksti jaetaan useaan pystysuuntaiseen palstaan.
 
-Palstoja käytetään usein esimerkiksi:
+Palstoja käytetään esimerkiksi:
 
-esitteissä
-uutiskirjeissä
-lehtityylisissä asiakirjoissa
-tiedotteissa
+* esitteissä
+* uutiskirjeissä
+* tiedotteissa
+* lehtimäisissä julkaisuissa
 
-Voit jakaa tekstin:
+Palstojen avulla tekstiä voidaan esittää tiiviimmin ja visuaalisesti selkeämmin.
 
-kahteen palstaan
-kolmeen palstaan
-useampaan palstaan
+Palstoitetun asiakirjan tarkasteleminen
 
-Palstoitus voidaan tehdä:
+Jos avaat Word-verkkoversiossa asiakirjan, joka on palstoitettu esimerkiksi Wordin työpöytäversiossa, palstat näkyvät normaalisti.
 
-koko asiakirjaan
-vain valittuun tekstiosaan
+Voit:
 
-HUOMIO:
-Poista tekstistä mahdolliset sisennykset ennen palstoittamista.
+* lukea asiakirjaa
+* muokata tekstiä palstoissa
+* lisätä ja poistaa tekstiä
 
-Muuten sisennykset voivat näkyä myös palstoissa ja vaikeuttaa asiakirjan ulkoasua.
+Word säilyttää palstoituksen asiakirjassa.
 
-WORD VERKKOVERSIO
+HUOM:
 
-Word verkkoversiossa palstoittaminen on rajallisempaa ja ohjelma palstoittaa koko tekstin.
+Wordin verkkoversiossa ei voi luoda uusia palstoja eikä muokata palsta-asetuksia samalla tavalla kuin työpöytäversiossa.
 
-Palstoita teksti näin:
+Jos asiakirjaan tarvitaan:
 
-1. Siirry Asettelu-välilehdelle.
-2. Valitse Sarakkeet.
-3. Valitse haluamasi palstamäärä.
+* uusia palstoja
+* palstojen määrän muuttamista
+* palstojen leveyksien säätämistä
+* palstanvaihtoja
 
-Voit tarkastella palstoitettuja asiakirjoja, mutta kaikkia palstojen muokkaustoimintoja ei välttämättä ole käytettävissä.
+asiakirja tulee avata Wordin työpöytäversiossa.
 
-Jos haluat tehdä monipuolisia palstoituksia tai muuttaa tarkempia asetuksia, käytä Word työpöytäversiota.
+Palstoituksen tunnistaminen
 
-WORD TYÖPÖYTÄVERSIO
+Palstoitetussa asiakirjassa teksti näkyy useana rinnakkaisena tekstialueena samalla sivulla.
 
-Palstoita teksti näin:
+Esimerkiksi:
 
-1. Valitse teksti, jonka haluat palstoittaa.
-   Voit myös jättää tekstin valitsematta, jolloin Word palstoittaa koko asiakirjan.
-2. Siirry Asettelu-välilehdelle.
-3. Valitse Sarakkeet.
-4. Valitse haluamasi palstamäärä.
+* kaksi palstaa
+* kolme palstaa
 
-Voit valita esimerkiksi:
-
-yksi palsta
-kaksi palstaa
-kolme palstaa
-
-Palstojen muokkaaminen
-
-Voit muuttaa palstoja myöhemmin näin:
-
-1. Avaa Sarakkeet-valikko uudelleen.
-2. Valitse Lisää sarakkeita tai viimeinen komento.
-
-Voit tämän jälkeen:
-
-vaihtaa palstojen määrää
-määrittää palstojen leveyksiä
-lisätä viivan palstojen väliin
-
-Palstanvaihto
-
-Voit siirtää tekstin seuraavan palstan alkuun palstanvaihdolla.
-
-Tämä on hyödyllistä esimerkiksi silloin, kun haluat:
-
-aloittaa uuden aiheen seuraavasta palstasta
-tasata sisältöä paremmin
-
-Palstanvaihto tehdään näin työpöytäversiossa:
-
-1. Vie kohdistin kohtaan, josta uuden palstan halutaan alkavan.
-2. Siirry Asettelu-välilehdelle.
-3. Valitse Vaihdot.
-4. Valitse Palsta.
-
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
-
-VERSIOEROT:
-
-Word verkkoversio:
-
-* Palstoitettujen asiakirjojen tarkastelu onnistuu.
-* Palstojen luonti ja tarkka muokkaus voivat olla rajoitettuja.
-
-Word työpöytäversio:
-
-* Käytettävissä ovat kaikki palstoitustoiminnot.
-* Voit määrittää tarkasti palstojen määrän, leveyden ja välistyksen.
-* Palstanvaihdot ja palstojen lisäasetukset ovat käytettävissä.
+Teksti jatkuu ensimmäisestä palstasta seuraavaan automaattisesti.
 
 VINKKI:
-Palstoitettu teksti toimii parhaiten silloin, kun kappaleet ovat melko lyhyitä. Pitkät kappaleet voivat tehdä palstoista raskaita lukea.
+
+Jos työskentelet pääasiassa Wordin verkkoversiolla, kannattaa palstoitus tehdä valmiiksi työpöytäversiossa. Tämän jälkeen voit jatkaa asiakirjan normaalia muokkaamista verkkoversiossa.
 
 HAKUSANAT:
-palstat, palstoitus, palstoita teksti, Word palstat, sarakkeet, palstanvaihto, kaksi palstaa, kolme palstaa, palstojen muokkaus, palstojen välinen viiva, Asettelu-välilehti, Word sarakkeet, palstojen leveys, lehtityylinen asiakirja, Word työpöytäversio palstat
+
+palstat
+palstoitus
+palstoitettu asiakirja
+word palstat
+sarakkeet
+kaksi palstaa
+kolme palstaa
+palstanvaihto
+palstojen tarkastelu
+word verkkoversio
+asiakirjan asettelu
+lehtimäinen asiakirja
 
 TYYPILLISET KYSYMYKSET:
 
-miten teen palstat Wordissa
-miten jaan tekstin kahteen palstaan
-miten teen kolme palstaa
-miten poistan palstat
-miten lisään viivan palstojen väliin
-miten teen palstanvaihdon
-mitä palstanvaihto tarkoittaa
-miten muokkaan palstoja
-miksi palstoitus näyttää oudolta
-voiko Word verkkoversiossa tehdä palstoja
-miten palstoitus tehdään työpöytäversiossa
+mitä palstoitus tarkoittaa
+miltä palstoitettu asiakirja näyttää
+voiko word verkkoversiossa tehdä palstoja
+voiko verkkoversiossa muokata palstoja
+miksi en löydä Sarakkeet-toimintoa
+miten avaan palstoidun asiakirjan
+miten palstat näkyvät verkkoversiossa

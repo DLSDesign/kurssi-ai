@@ -2,50 +2,44 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tietojen etsiminen ja korvaaminen
 
-AIHE: Etsi ja korvaa -toiminnon käyttö
+AIHE:
+Etsi ja korvaa -toiminnon käyttö
 
 TAVOITE:
-Oppia etsimään ja korvaamaan tietoja nopeasti suurissa taulukoissa. Oppia löytämään tiettyjä sanoja, lukuja tai arvoja sekä korvaamaan niitä uusilla tiedoilla.
+Osaat etsiä ja korvata tietoja nopeasti sekä löytää tietyn sanan, luvun tai arvon suurista taulukoista.
+
+SELITYS:
+Etsi- ja Korvaa-toiminnoilla voit löytää tietoja nopeasti ilman, että joudut selaamaan taulukkoa käsin. Voit etsiä esimerkiksi nimiä, numeroita, koodeja tai muita tietoja sekä korvata vanhat tiedot uusilla yhdellä kertaa.
 
 OHJE:
 
-Suurissa taulukoissa tietojen etsiminen käsin voi olla hidasta. Excelin Etsi- ja Korvaa-toiminnot auttavat sinua löytämään ja muuttamaan tietoja nopeasti.
-
-Näitä toimintoja käytetään esimerkiksi silloin, kun haluat:
-
- löytää tietyn sanan tai luvun
- tarkistaa tietyn tiedon esiintymät
- korjata kirjoitusvirheen
- päivittää vanhat tiedot uusiksi
-
 Tietojen etsiminen
-
-Etsi tieto näin:
 
 1. Valitse Aloitus-välilehti.
 2. Valitse Etsi ja valitse.
 3. Valitse Etsi.
-4. Kirjoita etsittävä sana tai luku.
+4. Kirjoita etsittävä sana, luku tai muu tieto.
 5. Valitse tarvittaessa lisäasetukset.
 6. Valitse Etsi seuraava.
 
-Excel siirtyy ensimmäiseen löydettyyn tietoon.
+Excel siirtyy ensimmäiseen löydettyyn osumaan.
 
-Jos haluat siirtyä seuraavaan osumaan, valitse Etsi seuraava uudelleen.
+7. Valitse Etsi seuraava uudelleen siirtyäksesi seuraavaan osumaan.
 
-Jos haluat nähdä kaikki osumat:
+Kaikkien osumien näyttäminen
 
-1. Valitse Etsi kaikki.
+1. Avaa Etsi-toiminto.
+2. Valitse Etsi kaikki.
 
-Excel näyttää luettelon kaikista löydetyistä tiedoista.
+Excel näyttää luettelon kaikista löydetyistä osumista.
 
-Voit siirtyä haluamaasi kohtaan napsauttamalla sitä luettelosta.
+3. Siirry haluamaasi kohtaan napsauttamalla sitä luettelosta.
 
 Tietojen korvaaminen
-
-Korvaa tieto näin:
 
 1. Valitse Aloitus-välilehti.
 2. Valitse Etsi ja valitse.
@@ -56,26 +50,99 @@ Korvaa tieto näin:
 
 Jos haluat korvata vain yhden löydetyn tiedon:
 
- valitse Korvaa
+7. Valitse Korvaa.
 
-Jos haluat korvata kaikki samanlaiset tiedot:
+Jos haluat korvata kaikki vastaavat tiedot:
 
- valitse Korvaa kaikki
+8. Valitse Korvaa kaikki.
 
-Excel korvaa kaikki vastaavat tiedot kerralla.
+HUOM:
 
-VINKKI:
-Käytä Korvaa kaikki -toimintoa varoen. Jos et ole varma, käytä ensin Etsi seuraava ja tarkista osumat yksi kerrallaan.
+* Etsi-toiminto auttaa löytämään tiedot nopeasti suurista taulukoista.
+* Etsi kaikki näyttää kaikki osumat yhdellä kertaa.
+* Korvaa muuttaa vain valitut tiedot, ei koko taulukkoa.
+* Korvaa kaikki vaihtaa kaikki löytyneet osumat kerralla.
+* Korvaa kaikki -toimintoa kannattaa käyttää harkiten, koska muutosta ei aina huomaa heti.
+* Jos et ole varma lopputuloksesta, tarkista osumat ensin Etsi seuraava -toiminnolla.
 
 HAKUSANAT:
-etsi, korvaa, etsi ja korvaa, tietojen etsiminen, tietojen korvaaminen, etsi tieto, etsi sana, etsi luku, etsi arvo, korvaa tieto, korvaa sana, korvaa arvo, etsi kaikki, etsi seuraava, korvaa kaikki, etsi ja valitse, hakutoiminto
+etsi
+korvaa
+etsi ja korvaa
 
-TYYPILLISET KYSYMYKSET:
+tietojen etsiminen
+tietojen korvaaminen
 
- miten etsin tietoa Excelissä
- miten löydän tietyn sanan
- miten löydän tietyn luvun
- miten korvaan tiedon toisella
- miten korvaan kaikki samanlaiset tiedot
- miten etsi ja korvaa toimii
- miten löydän kaikki saman arvon sisältävät solut
+etsi tieto
+etsi sana
+etsi teksti
+etsi luku
+etsi numero
+etsi arvo
+
+etsi kaikki
+etsi seuraava
+hakutulos
+osumat
+
+korvaa tieto
+korvaa sana
+korvaa teksti
+korvaa luku
+korvaa arvo
+
+korvaa kaikki
+korvaa yksi kerrallaan
+
+etsi ja valitse
+hakutoiminto
+hakuruutu
+
+löydä tieto
+löydä arvo
+löydä teksti
+
+etsi nimi
+etsi asiakas
+etsi tuote
+etsi tunnus
+
+muuta tieto toiseksi
+vaihda tieto toiseksi
+päivitä tiedot
+
+korjaa kirjoitusvirhe
+korjaa virheellinen tieto
+
+miten etsin tietoa excelissä
+miten löydän tietyn sanan
+miten löydän tietyn luvun
+miten löydän tietyn arvon
+
+miten korvaan tiedon toisella
+miten vaihdan yhden tiedon toiseksi
+miten korvaan kaikki samanlaiset tiedot
+
+miten etsi ja korvaa toimii
+miten löydän kaikki saman arvon sisältävät solut
+
+haluan löytää tietyn asiakkaan
+haluan löytää tietyn tuotteen
+haluan löytää tietyn numeron
+
+haluan vaihtaa vanhan tiedon uuteen
+haluan päivittää saman tiedon kaikkialle
+
+en löydä tietoa
+en löydä arvoa
+en löydä sanaa
+
+hakutoiminto ei löydä mitään
+etsi ei toimi
+korvaa ei toimi
+
+löydän yhden tiedon mutta en kaikkia
+mistä näen kaikki osumat
+
+korvasin vahingossa kaikki tiedot
+korvaa kaikki teki väärin

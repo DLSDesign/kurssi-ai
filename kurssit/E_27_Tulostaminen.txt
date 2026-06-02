@@ -2,121 +2,176 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tulostaminen
 
-AIHE: Tulostusasetukset ja tulostuksen esikatselu
+AIHE:
+Tulostusasetukset ja tulostuksen esikatselu
 
 TAVOITE:
-Oppia tulostamaan Excel-taulukko oikein ja säätämään tulostusasetuksia niin, että tiedot mahtuvat sivulle ja tulostuvat selkeästi.
+Osaat tulostaa Excel-taulukon ja säätää tulostusasetuksia niin, että tiedot tulostuvat selkeästi ja mahtuvat sivulle.
+
+SELITYS:
+Ennen tulostamista kannattaa tarkistaa tulostuksen esikatselusta, miltä taulukko näyttää paperilla. Tulostusasetusten avulla voit vaikuttaa esimerkiksi sivun kokoon, suuntaan, reunuksiin ja siihen, miten tiedot sovitetaan sivulle.
 
 OHJE:
-
-Ennen tulostamista on hyvä tarkistaa, miltä taulukko näyttää paperilla. Tulostuksen esikatselussa voit nähdä, mahtuvatko kaikki tiedot sivulle ja tehdä tarvittavat muutokset.
-
-Tulostaminen tehdään näin:
 
 1. Siirry Tiedosto-välilehdelle.
 2. Valitse Tulosta.
 
-Tulostuksen esikatselussa näet, miltä tulostettava sivu näyttää.
-
-Voit selata useita sivuja esikatselussa vierityspalkilla.
+Tulostuksen esikatselussa näet, miltä tuloste näyttää.
 
 Tulostusasetukset
 
-Tulostusnäkymässä voit määrittää:
+Voit määrittää esimerkiksi:
 
 Mitä tulostetaan
 
-Voit valita esimerkiksi:
-
- aktiivinen laskentataulukko
- valittu alue
- koko työkirja
-
-Jos valitset Koko työkirja, kaikki työkirjan laskentataulukot tulostetaan.
+* Aktiivinen laskentataulukko
+* Valittu alue
+* Koko työkirja
 
 Paperikoko
 
-Voit valita esimerkiksi:
-
- A4
- A3
+* A4
+* A3
 
 Sivun suunta
 
-Voit valita:
-
- pysty
- vaaka
-
-Vaakasuunta sopii usein leveille taulukoille.
+* Pysty
+* Vaaka
 
 Reunukset
 
-Voit muuttaa sivun reunuksia.
-
-Kapeammat reunukset voivat auttaa saamaan enemmän tietoa yhdelle sivulle.
+* Oletusreunukset
+* Kapeat reunukset
+* Mukautetut reunukset
 
 Skaalaus
 
-Voit määrittää, miten taulukko sovitetaan sivulle.
-
-Esimerkiksi:
-
- sovita yhdelle sivulle
- sovita yhden sivun leveydelle
-
-Huomaa, että liian pieni skaalaus voi tehdä tekstistä vaikeasti luettavaa.
+* Sovita yhdelle sivulle
+* Sovita yhden sivun leveydelle
+* Sovita yhden sivun korkeudelle
 
 Lisäasetukset
 
-Voit valita esimerkiksi:
-
- tulostetaanko ruudukko
- tulostetaanko rivi- ja sarakeotsikot
- tulostetaanko mustavalkoisena
- keskitetäänkö tiedot sivulle
+* Tulosta ruudukko
+* Tulosta riviotsikot
+* Tulosta sarakeotsikot
+* Tulosta mustavalkoisena
+* Keskitä tiedot sivulle
 
 Sivualue
 
-Voit määrittää, mitkä sivut tulostetaan.
+* Kaikki sivut
+* Tietyt sivut
 
-Esimerkiksi:
+Tulostaminen
 
- kaikki sivut
- vain tietyt sivut
+1. Valitse käytettävä tulostin.
+2. Tarkista esikatselu.
+3. Napsauta Tulosta.
 
-Tulostin
+HUOM:
 
-Valitse käytössä oleva tulostin.
-
-Tulostuksen käynnistäminen
-
-Kun asetukset ovat oikein:
-
-1. Valitse tulostin.
-2. Napsauta Tulosta.
-
-Voit palata takaisin työkirjaan sulkemalla tulostusnäkymän.
-
-Samoja asetuksia voit muuttaa myös Sivun asettelu -välilehdellä.
-
-VINKKI:
-Jos taulukko näyttää leviävän usealle sivulle, kokeile ensin vaihtaa sivu vaakasuuntaiseksi tai käyttää kapeampia reunuksia ennen skaalaamista.
+* Tulostuksen esikatselu näyttää mahdolliset ongelmat ennen tulostamista.
+* Vaakasuunta sopii usein leveille taulukoille.
+* Kapeammat reunukset voivat auttaa saamaan enemmän tietoa yhdelle sivulle.
+* Liian voimakas skaalaus voi tehdä tekstistä vaikeasti luettavaa.
+* Koko työkirjan tulostus tulostaa kaikki työkirjan laskentataulukot.
+* Sivun asettelu -välilehdellä voit tehdä samoja asetuksia jo ennen tulostamista.
+* Ruudukko ei tulostu oletusarvoisesti, ellei sitä erikseen oteta käyttöön.
 
 HAKUSANAT:
-tulostaminen, tulosta, tulostusasetukset, tulostuksen esikatselu, tulostusnäkymä, paperikoko, sivun suunta, pysty, vaaka, reunukset, sivun reunukset, skaalaus, sovita yhdelle sivulle, sovita sivulle, ruudukon tulostus, riviotsikot, sarakeotsikot, mustavalkoinen tulostus, keskitys sivulle, sivualue, tulostin, tulostuksen asetukset, sivun asettelu
+tulostaminen
+tulosta
+excel tulostus
 
-TYYPILLISET KYSYMYKSET:
+tulostusasetukset
+tulostuksen asetukset
+tulostusnäkymä
 
- miten tulostan Excelissä
- miten tulostan koko työkirjan
- miten tulostan vain yhden taulukon
- miten saan taulukon yhdelle sivulle
- miten vaihdan paperikoon
- miten vaihdan sivun vaakasuuntaiseksi
- miten pienennän reunuksia
- miten tulostan ruudukon
- miten tulostan otsikot
- miten tulostan mustavalkoisena
+tulostuksen esikatselu
+esikatselu ennen tulostusta
+
+paperikoko
+a4
+a3
+
+sivun suunta
+pysty
+vaaka
+vaakasuunta
+pystysuunta
+
+reunukset
+sivun reunukset
+kapeat reunukset
+
+skaalaus
+sovita sivulle
+sovita yhdelle sivulle
+sovita yhden sivun leveydelle
+
+tulosta ruudukko
+ruudukon tulostus
+
+tulosta otsikot
+riviotsikot
+sarakeotsikot
+
+mustavalkoinen tulostus
+tulosta mustavalkoisena
+
+keskitä sivulle
+keskitys sivulle
+
+sivualue
+tulosta valittu alue
+tulosta aktiivinen taulukko
+tulosta koko työkirja
+
+tulostin
+valitse tulostin
+
+sivun asettelu
+tulostusasetukset excelissä
+
+miten tulostan excelissä
+miten tulostan taulukon
+
+miten tulostan koko työkirjan
+miten tulostan vain yhden taulukon
+miten tulostan valitun alueen
+
+miten saan taulukon yhdelle sivulle
+miten sovitan taulukon sivulle
+
+miten vaihdan paperikoon
+miten vaihdan sivun vaakasuuntaiseksi
+
+miten pienennän reunuksia
+miten saan enemmän tietoa yhdelle sivulle
+
+miten tulostan ruudukon
+miten tulostan otsikot
+
+miten tulostan mustavalkoisena
+
+taulukko menee usealle sivulle
+taulukko ei mahdu yhdelle sivulle
+
+osa sarakkeista jää pois tulosteesta
+osa riveistä jää pois tulosteesta
+
+tuloste näyttää erilaiselta kuin näytöllä
+
+teksti on liian pientä tulosteessa
+tuloste on epäselvä
+
+miksi ruudukko ei tulostu
+miksi otsikot eivät tulostu
+
+excel tulostaa väärin
+tulostus ei näytä oikealta

@@ -2,32 +2,33 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tekstien etsiminen ja korvaaminen
 
-AIHE: Hakeminen ja tekstin korvaaminen Wordissa
+AIHE:
+Tekstin etsiminen ja korvaaminen Wordissa
 
 TAVOITE:
 Oppia etsimään ja korvaamaan tekstiä Word-asiakirjassa nopeasti ja tehokkaasti.
 
-OHJE:
+SELITYS:
 
-Pitkässä asiakirjassa oikean kohdan löytäminen voi olla hidasta ilman hakutoimintoa.
+Pitkässä asiakirjassa oikean kohdan löytäminen voi olla hidasta.
 
-Wordin haku- ja korvaustoiminnot helpottavat asiakirjan käsittelyä.
+Wordin haku- ja korvaustoimintojen avulla löydät nopeasti haluamasi tiedon ja voit tarvittaessa korvata sen toisella tekstillä.
 
 Voit etsiä esimerkiksi:
 
-sanoja
-lauseita
-numeroita
-kuvia
-taulukoita
+* sanoja
+* lauseita
+* numeroita
+* nimiä
+* yksittäisiä termejä
 
-Voit myös korvata tekstiä toisella tekstillä.
+HAKEMINEN
 
-WORD VERKKOVERSIO
-
-Tekstin etsiminen verkkoversiossa
+Etsi teksti näin:
 
 1. Valitse Aloitus-välilehdeltä Haku.
 2. Kirjoita etsittävä sana tai lause hakuruutuun.
@@ -36,103 +37,97 @@ Word aloittaa haun heti kirjoittamisen aikana.
 
 Löydetyt kohdat näkyvät:
 
-vasemman reunan hakupaneelissa
-asiakirjassa korostettuina
+* siirtymisruudussa
+* asiakirjassa korostettuina
 
-Voit siirtyä löydettyjen kohtien välillä nuolipainikkeilla.
+Voit siirtyä löydetystä kohdasta toiseen napsauttamalla hakutulosta siirtymisruudussa.
 
-Tekstin korvaaminen verkkoversiossa
+TEKSTIN KORVAAMINEN
 
-1. Valitse Korvaa.
-2. Kirjoita etsittävä sana tai lause.
-3. Kirjoita korvaava teksti.
+Korvaa teksti näin:
+
+1. Valitse Aloitus-välilehdeltä Korvaa.
+2. Kirjoita Etsi-kenttään etsittävä sana tai lause.
+3. Kirjoita Korvaa-kenttään uusi teksti.
 4. Valitse:
 
-   * Korvaa
-   * tai Korvaa kaikki
+   * Korvaa, jos haluat vaihtaa yhden esiintymän kerrallaan
+   * Korvaa kaikki, jos haluat vaihtaa kaikki esiintymät yhdellä kertaa
 
-WORD TYÖPÖYTÄVERSIO
+Word korvaa tekstin valintasi mukaisesti.
 
-Tekstin etsiminen työpöytäversiossa
+ESIMERKKI
 
-1. Valitse Aloitus-välilehdeltä Haku.
-2. Kirjoita etsittävä sana tai lause.
+Asiakirjassa esiintyy sana:
 
-Hakupaneeli näyttää:
+Asiakas
 
-löydetyt kohdat
-asiakirjan rakenteen
-hakutulosten sijainnit
+Haluat korvata sen sanalla:
 
-Voit siirtyä löydöksestä toiseen:
+Käyttäjä
 
-nuolipainikkeilla
-tai napsauttamalla hakutulosta
+Kirjoita:
 
-Tekstin korvaaminen työpöytäversiossa
+Etsi: Asiakas
 
-1. Valitse Korvaa.
-   Komento löytyy myös suoraan valintanauhalta.
-2. Kirjoita Etsi mitä -kenttään etsittävä teksti.
-3. Kirjoita Korvaa kenttään uusi teksti.
-4. Valitse:
+Korvaa: Käyttäjä
 
-   * Korvaa
-   * tai Korvaa kaikki
+Valitse Korvaa kaikki.
 
-Korvaa-toiminto vaihtaa yhden esiintymän kerrallaan.
+Word vaihtaa kaikki sanan esiintymät kerralla.
 
-Korvaa kaikki vaihtaa kaikki esiintymät yhdellä kertaa.
+HUOM:
 
-HUOMIO:
-Suomen kielessä sanojen taivutusmuodot voivat vaikeuttaa korvaamista.
+* Korvaa kaikki -toimintoa kannattaa käyttää harkiten.
+* Tarkista ennen korvaamista, että etsittävä sana on varmasti oikea.
+* Suomen kielessä sama sana voi esiintyä useissa eri taivutusmuodoissa. Tällöin kaikkia muotoja ei välttämättä voi korvata yhdellä kertaa.
 
-Esimerkiksi sana voi esiintyä eri muodoissa:
+Esimerkiksi:
 
-talo
-talossa
-taloon
-talolta
+* talo
+* talossa
+* taloon
+* talolta
 
-Tällöin kaikkia muotoja ei voida aina korvata yhdellä kertaa automaattisesti.
+Saatat joutua korvaamaan eri muodot erikseen.
 
-Joissakin tilanteissa teksti täytyy korjata käsin.
+SIIRTYMISRUUDUN SULKEMINEN
 
-Hakupaneelin sulkeminen
+Kun et enää tarvitse hakua:
 
-Voit sulkea hakupaneelin sen Sulje-painikkeesta.
-
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
-
-VERSIOEROT:
-
-Word verkkoversio:
-
-* Perushaku ja tekstin korvaaminen toimivat normaalisti.
-* Hakutoiminnoissa on vähemmän lisäasetuksia.
-
-Word työpöytäversio:
-
-* Käytettävissä on enemmän hakemisen ja korvaamisen lisätoimintoja.
-* Voit tehdä tarkempia hakuja esimerkiksi muotoilujen perusteella.
+1. Sulje siirtymisruutu sen Sulje-painikkeesta.
 
 VINKKI:
-Käytä Korvaa kaikki -toimintoa varovasti. Tarkista ensin muutama esiintymä, jotta et vahingossa korvaa väärää tekstiä koko asiakirjassa.
+
+Jos haluat nopeasti nähdä, kuinka monta kertaa jokin sana esiintyy asiakirjassa, kirjoita sana hakuruutuun. Siirtymisruutu näyttää kaikki löydetyt esiintymät yhdellä kertaa.
 
 HAKUSANAT:
-etsi ja korvaa, Word haku, tekstin hakeminen, tekstin korvaaminen, hakupaneeli, Korvaa kaikki, Word korvaa, etsi sana, etsi lause, hakutoiminto, hakuruutu, asiakirjan haku, Word verkkoversio haku, Word työpöytäversio korvaa
+
+etsi
+korvaa
+etsi ja korvaa
+tekstin etsiminen
+tekstin korvaaminen
+word haku
+hakuruutu
+siirtymisruutu
+korvaa kaikki
+etsi sana
+etsi lause
+hakutoiminto
+sanan vaihtaminen
+tekstin muuttaminen
+asiakirjan haku
 
 TYYPILLISET KYSYMYKSET:
 
 miten etsin tekstiä Wordissa
 miten korvaan sanan toisella
 mitä Korvaa kaikki tekee
-miten avaan hakupaneelin
+miten avaan haun
 miten siirryn hakutuloksesta toiseen
 miksi kaikkia sanoja ei korvata
 miten etsin lauseen Wordissa
-miten käytän hakua verkkoversiossa
-miten korvaaminen toimii työpöytäversiossa
-voinko etsiä kuvia tai taulukoita
-miten suljen hakupaneelin
+miten korvaan useita sanoja kerralla
+miten näen kaikki hakutulokset
+miten suljen siirtymisruudun

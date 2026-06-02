@@ -2,71 +2,135 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Tietojen suodattaminen
 
-AIHE: Tietojen suodatus Excelissä
+AIHE:
+Tietojen suodatus Excelissä
 
 TAVOITE:
-Oppia suodattamaan tietoja niin, että näkyviin saadaan vain halutut tiedot. Oppia käyttämään yhtä tai useampaa suodatusehtoa sekä poistamaan suodatukset.
+Osaat suodattaa tietoja yhden tai useamman ehdon perusteella sekä poistaa suodatukset tarvittaessa.
+
+SELITYS:
+Suodatuksen avulla voit näyttää vain ne tiedot, joita haluat tarkastella. Muut tiedot eivät poistu taulukosta, vaan ne piilotetaan väliaikaisesti. Suodatus helpottaa suurten aineistojen käsittelyä ja tietojen löytämistä.
 
 OHJE:
-
-Kun taulukossa on paljon rivejä, tietojen selaaminen voi olla hidasta. Suodatuksen avulla voit näyttää vain ne rivit, jotka täyttävät haluamasi ehdot.
-
-Suodatuksessa muut tiedot eivät poistu. Ne vain piilotetaan väliaikaisesti.
-
-Suodatus tehdään näin:
 
 1. Siirrä kohdistin taulukon sisälle.
 2. Valitse Aloitus-välilehti.
 3. Valitse Lajittele ja suodata.
 4. Valitse Suodatus.
 
-Tämän jälkeen sarakeotsikoiden viereen ilmestyy nuolipainikkeet.
+Tämän jälkeen sarakeotsikoiden viereen ilmestyvät suodatuspainikkeet.
 
 Suodata tiedot näin:
 
-1. Napsauta sen sarakkeen nuolta, jonka mukaan haluat suodattaa.
-2. Poista valinta Valitse kaikki.
-3. Valitse ne tiedot, jotka haluat näyttää.
+1. Napsauta sen sarakkeen suodatuspainiketta, jonka mukaan haluat suodattaa.
+2. Poista valinta kohdasta Valitse kaikki.
+3. Valitse ne arvot, jotka haluat näyttää.
 4. Hyväksy valinta.
 
-Excel näyttää nyt vain ne rivit, jotka vastaavat valintaasi.
+Excel näyttää vain ne rivit, jotka vastaavat valittuja ehtoja.
 
-Kun suodatus on käytössä, sarakeotsikon nuolipainikkeen ulkoasu muuttuu.
+Poista yhden sarakkeen suodatus:
 
-Poista yhden sarakkeen suodatus näin:
-
-1. Avaa kyseisen sarakkeen suodatuksen valikko.
+1. Avaa sarakkeen suodatusvalikko.
 2. Valitse Tyhjennä suodatus.
 
-Voit käyttää suodatusta myös useassa sarakkeessa yhtä aikaa. Tällöin näkyviin jäävät vain ne rivit, jotka täyttävät kaikki valitsemasi ehdot.
+Käytä useita suodatuksia:
 
-Poista kaikki suodatukset näin:
+1. Suodata ensimmäinen sarake.
+2. Suodata tämän jälkeen toinen sarake.
+3. Excel näyttää vain ne rivit, jotka täyttävät kaikki valitut ehdot.
+
+Poista kaikki suodatukset:
 
 1. Valitse Lajittele ja suodata.
 2. Valitse Tyhjennä.
 
-Poista suodatus kokonaan näin:
+Poista suodatus käytöstä kokonaan:
 
 1. Valitse Lajittele ja suodata.
 2. Valitse Suodatus uudelleen.
 
-Tällöin suodatus poistuu käytöstä.
+HUOM:
 
-VINKKI:
-Suodatus on hyvä tapa tarkastella tietoja ilman, että muutat tai poistat mitään taulukosta.
+* Suodatus ei poista tietoja taulukosta.
+* Suodatetut rivit piilotetaan väliaikaisesti.
+* Voit käyttää suodatusta useassa sarakkeessa samanaikaisesti.
+* Suodatuksen ollessa käytössä suodatuspainikkeen ulkoasu muuttuu.
+* Tyhjennä-toiminto poistaa ehdot mutta jättää suodatuksen käyttöön.
+* Suodatus-toiminnon poistaminen poistaa myös suodatuspainikkeet näkyvistä.
 
 HAKUSANAT:
-suodatus, tietojen suodatus, suodata tiedot, Excel suodatus, suodatuspainike, suodatusvalikko, suodata sarake, suodata taulukko, valitse kaikki, tyhjennä suodatus, poista suodatus, usean ehdon suodatus, monitasoinen suodatus, suodata useita sarakkeita, näytä vain valitut tiedot, piilota rivit suodatuksella, lajittele ja suodata
+suodatus
+tietojen suodatus
+suodata tiedot
+excel suodatus
 
-TYYPILLISET KYSYMYKSET:
+suodatuspainike
+suodatusvalikko
+suodatusnuoli
+suodatusnuolet
 
- miten suodatan tietoja
- miten suodatus toimii Excelissä
- miten näytän vain tietyt rivit
- miten suodatan yhden sarakkeen
- miten suodatan usealla ehdolla
- miten poistan suodatuksen
- miten tyhjennän suodatuksen
-  miten suodatan tietyn arvon perusteella
+suodata sarake
+suodata taulukko
+suodata aineisto
+
+valitse kaikki
+tyhjennä suodatus
+poista suodatus
+
+usean ehdon suodatus
+monitasoinen suodatus
+suodata useita sarakkeita
+suodata usealla ehdolla
+
+näytä vain valitut tiedot
+näytä vain tietyt tiedot
+näytä vain tietyt rivit
+
+piilota rivit suodatuksella
+rajaa näkyvät tiedot
+
+lajittele ja suodata
+
+suodata myyjän mukaan
+suodata tuotteen mukaan
+suodata päivämäärän mukaan
+
+miten suodatan tietoja
+miten suodatus toimii excelissä
+miten näytän vain tietyt rivit
+
+miten suodatan yhden sarakkeen
+miten suodatan usealla ehdolla
+miten suodatan tietyn arvon perusteella
+
+miten poistan suodatuksen
+miten tyhjennän suodatuksen
+miten saan kaikki tiedot takaisin näkyviin
+
+missä suodatuspainikkeet ovat
+missä suodatusnuolet ovat
+en näe suodatuspainikkeita
+
+haluan nähdä vain yhden asiakkaan
+haluan nähdä vain yhden myyjän
+haluan nähdä vain tietyn tuotteen
+
+haluan piilottaa muut tiedot
+haluan rajata tietoja
+
+taulukosta katosi rivejä
+osa riveistä ei näy
+kaikki tiedot eivät näy
+
+en löydä tietoa taulukosta
+taulukko näyttää vajaalta
+suodatus jäi päälle
+
+miksi kaikki rivit eivät näy
+miten saan kaikki rivit takaisin
+miksi osa tiedoista puuttuu

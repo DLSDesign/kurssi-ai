@@ -2,113 +2,122 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tyylien hyödyntäminen
 
-AIHE: Tyylien käyttäminen Wordissa
+AIHE:
+Tyylien käyttäminen
 
 TAVOITE:
-Oppia käyttämään Wordin tyylejä asiakirjan muotoilussa ja hyödyntämään otsikkotyylejä asiakirjan jäsentämisessä.
+Osaat käyttää Wordin tyylejä tekstin muotoilussa sekä hyödyntää otsikkotyylejä asiakirjan rakenteen hallinnassa.
+
+SELITYS:
+Tyylit ovat valmiita muotoiluja, joiden avulla asiakirjan ulkoasu pysyy yhtenäisenä. Tyylien käyttö nopeuttaa työskentelyä ja auttaa Wordia tunnistamaan esimerkiksi otsikot sisällysluetteloa ja siirtymisruutua varten.
 
 OHJE:
 
-Tyylit sisältävät valmiita muotoiluja, jotka helpottavat asiakirjan tekemistä.
+Tyylin käyttäminen
 
-Tyylien avulla voit:
+1. Vie kohdistin tekstiin tai valitse teksti, jonka haluat muotoilla.
+2. Valitse Aloitus-välilehden Tyylit-ryhmästä haluamasi tyyli.
 
-muotoilla tekstiä nopeasti
-pitää asiakirjan ulkoasun yhtenäisenä
-tehdä otsikoista selkeitä
-jäsentää pitkiä asiakirjoja
-luoda sisällysluettelon helpommin
+Voit käyttää esimerkiksi seuraavia tyylejä:
 
-Otsikkotyylien käyttäminen
+* Otsikko 1
+* Otsikko 2
+* Otsikko 3
+* Normaali
 
-Käytä asiakirjan otsikoissa Wordin valmiita otsikkotyylejä.
-
-Tyyleihin on määritetty valmiiksi esimerkiksi:
-
-fontti
-fonttikoko
-lihavointi
-värit
-sisennykset
-välistykset
-
-Tee näin:
-
-1. Vie kohdistin tekstiin, jonka haluat muotoilla.
-2. Valitse Aloitus-välilehdeltä Tyylit.
-3. Valitse haluamasi tyyli.
-
-Voit käyttää esimerkiksi:
-
-Otsikko 1
-Otsikko 2
-Otsikko 3
-Normaali
+Word muotoilee tekstin valitun tyylin mukaisesti.
 
 Tyylin vaihtaminen
 
-Voit vaihtaa tyylin milloin tahansa. Jos esimerkiksi valitset vahingossa otsikkotyylin tavalliselle tekstille:
+1. Vie kohdistin tekstiin, jonka tyyliä haluat muuttaa.
+2. Valitse toinen tyyli Tyylit-ryhmästä.
+
+Jos esimerkiksi otsikolle on vahingossa valittu väärä tyyli, voit vaihtaa sen helposti toiseksi.
+
+Normaalin tekstin palauttaminen
 
 1. Vie kohdistin tekstiin.
-2. Valitse tyylivalikoimasta Normaali-tyyli.
+2. Valitse Tyylit-ryhmästä Normaali.
 
-Teksti palautuu normaaliksi leipätekstiksi.
+Teksti palautuu tavalliseksi leipätekstiksi.
 
 Siirtymisruudun käyttäminen
 
-Otsikkotyylien avulla voit käyttää myös siirtymisruutua.
+Kun käytät otsikkotyylejä, voit hyödyntää siirtymisruutua asiakirjan rakenteen tarkasteluun.
 
-Siirtymisruudun avulla voit:
+1. Siirry Näytä-välilehdelle.
+2. Valitse Siirtymisruutu.
+3. Valitse Otsikot-välilehti.
 
-nähdä asiakirjan rakenteen
-siirtyä nopeasti otsikosta toiseen
-hahmottaa pitkän asiakirjan kokonaisuuden
+Siirtymisruudussa näkyvät kaikki otsikot, joissa on käytetty otsikkotyylejä.
 
-Näytä siirtymisruutu näin:
+Voit siirtyä suoraan haluamaasi kohtaan napsauttamalla otsikkoa.
 
-1. Valitse siirtymisruudun painike. Voit avata siirtymisruudun myös Näytä-välilehdeltä.
-2. Valitse Otsikot.
+HUOM:
 
-Siirtymisruutu näyttää kaikki otsikot, joissa on käytetty otsikkotyylejä. Voit siirtyä haluamaasi kohtaan napsauttamalla otsikkoa.
+* Käytä asiakirjan otsikoissa aina Wordin otsikkotyylejä.
+* Otsikkotyylit helpottavat pitkien asiakirjojen käsittelyä.
+* Siirtymisruutu näyttää vain ne otsikot, joihin on käytetty otsikkotyylejä.
+* Tyylit sisältävät valmiiksi määritettyjä muotoiluja, kuten fontin, fonttikoon, värit ja välistykset.
+* Tyylien avulla asiakirjan ulkoasu pysyy yhtenäisenä.
+* Pelkkä lihavointi, alleviivaus tai fonttikoon suurentaminen ei tee tekstistä otsikkoa. Word tunnistaa otsikot vain silloin, kun niihin on käytetty otsikkotyyliä.
 
-HUOMIO:
-Siirtymisruutu toimii oikein vain silloin, kun asiakirjassa on käytetty Wordin otsikkotyylejä.
+Täydentävä vinkki: Sisällysluettelo
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
-
-VERSIOEROT:
-
-Word verkkoversio:
-
- Perustyylit ja otsikkotyylit ovat käytettävissä.
- Siirtymisruutu toimii hieman suppeammin kuin työpöytäversiossa.
-
-Word työpöytäversio:
-
- Käytettävissä on laajempi tyylivalikoima.
- Tyylejä voi muokata tarkemmin.
- Siirtymisruudussa on enemmän toimintoja.
-
-VINKKI:
-Älä muotoile otsikoita vain muuttamalla fonttikokoa tai lihavointia. Käytä aina oikeita otsikkotyylejä. Näin Word tunnistaa otsikot automaattisesti esimerkiksi sisällysluetteloa varten.
+Jos käytät asiakirjassa otsikkotyylejä johdonmukaisesti, Word pystyy luomaan sisällysluettelon automaattisesti. Tämä säästää paljon aikaa erityisesti pitkissä raporteissa, oppaissa ja ohjeissa.
 
 HAKUSANAT:
-tyylit, Word tyylit, otsikkotyylit, otsikkotyyli, Normaali-tyyli, tekstin muotoilu, tyylien käyttö, siirtymisruutu, otsikot, asiakirjan rakenne, sisällysluettelo, Word otsikot, Word muotoilu, tyylivalikoima, otsikko 1, otsikko 2, otsikko 3, asiakirjan jäsentäminen
+tyylit
+word tyylit
 
-TYYPILLISET KYSYMYKSET:
+otsikkotyyli
+otsikkotyylit
 
-miten käytän tyylejä Wordissa
+otsikko 1
+otsikko 2
+otsikko 3
+
+normaali tyyli
+normaali
+
+tekstin muotoilu
+muotoile teksti
+
+tyylien käyttö
+käytä tyylejä
+
+siirtymisruutu
+siirtymisruudun käyttö
+
+otsikot
+asiakirjan rakenne
+
+sisällysluettelo
+automaattinen sisällysluettelo
+
+pitkä asiakirja
+asiakirjan jäsentäminen
+
+miten käytän tyylejä wordissa
 mitä tyylit ovat
-miten teen otsikon Wordissa
+
+miten teen otsikon wordissa
 miten käytän otsikkotyylejä
+
 miten vaihdan tyylin
-mitä Normaali-tyyli tarkoittaa
+mitä normaali tyyli tarkoittaa
+
 miten avaan siirtymisruudun
 miksi siirtymisruutu ei näytä otsikoita
+
 miten siirryn otsikosta toiseen
 miten teen sisällysluettelon
+
 miksi kannattaa käyttää otsikkotyylejä
+miksi otsikko ei näy siirtymisruudussa
+
 miten jäsennän pitkän asiakirjan

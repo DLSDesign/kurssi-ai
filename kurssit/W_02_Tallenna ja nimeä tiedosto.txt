@@ -2,19 +2,105 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tallenna ja nimeä tiedosto
 
-AIHE: Tiedoston tallentaminen ja nimeäminen
+AIHE:
+Tiedoston tallentaminen ja nimeäminen
 
-TAVOITE: Oppia tallentamaan tiedoston
+TAVOITE:
+Osaat nimetä asiakirjan ja ymmärrät, miten Wordin verkkoversio tallentaa muutokset automaattisesti.
 
-Ohjelman verkkoversio tallentaa muutokset automaattisesti OneDriveen. Täällä yläreunassa on tilanteen mukaan joko Tallennetaan tai Tallennettu. 
-Tässä näet dokumenttisi nimen. 
-Jos haluat nimetä sen uudelleen, napsauta nimeä hiirellä. 
-Saat näkyviin tämän valintaikkunan. 
-Kirjoita dokumentille haluamasi nimi. 
-Hyväksy nimi napsauttamalla hiirellä valintaikkunan ulkopuolella.
-Nyt uusi nimi näkyy tässä.
+SELITYS:
+Wordin verkkoversio tallentaa asiakirjan muutokset automaattisesti OneDriveen. Sinun ei tarvitse tallentaa tiedostoa erikseen. On kuitenkin tärkeää antaa asiakirjalle kuvaava nimi, jotta löydät sen helposti myöhemmin.
 
-Vinkki:
-Jos haluat palata aiempaan versioon dokumentista, napsauta yläreunasta tiedoston nimeä ja valitse Versiohistoria. Näet listan automaattisesti tallennetuista versioista ja voit tarvittaessa palauttaa niistä minkä tahansa.
+OHJE:
+
+1. Tarkista asiakirjan yläreunasta tallennuksen tila.
+2. Näet siellä esimerkiksi tekstin Tallennetaan tai Tallennettu.
+3. Napsauta asiakirjan nimeä yläreunassa.
+4. Kirjoita asiakirjalle uusi nimi.
+5. Hyväksy nimi napsauttamalla valintaikkunan ulkopuolelle.
+
+Uusi nimi näkyy tämän jälkeen asiakirjan yläreunassa.
+
+Versiohistorian tarkasteleminen
+
+1. Napsauta asiakirjan nimeä yläreunassa.
+2. Valitse Versiohistoria.
+3. Tarkastele aiemmin tallennettuja versioita.
+4. Palauta tarvittaessa haluamasi versio.
+
+HUOM:
+
+* Wordin verkkoversio tallentaa muutokset automaattisesti.
+* Asiakirjat tallentuvat yleensä OneDriveen.
+* Tallennetaan tarkoittaa, että muutoksia tallennetaan parhaillaan.
+* Tallennettu tarkoittaa, että viimeisimmät muutokset on tallennettu.
+* Selkeä tiedostonimi helpottaa asiakirjojen löytämistä myöhemmin.
+* Versiohistorian avulla voit palauttaa aiemmin tallennetun version asiakirjasta.
+
+HAKUSANAT:
+tallenna tiedosto
+tallentaminen
+tiedoston tallentaminen
+
+word tallentaa automaattisesti
+automaattinen tallennus
+automaattitallennus
+
+onedrive tallennus
+tallentuu onedriveen
+
+tiedoston nimi
+nimeä tiedosto
+nimeä asiakirja
+
+vaihda tiedoston nimi
+muuta tiedoston nimi
+muuta asiakirjan nimi
+
+dokumentin nimi
+asiakirjan nimi
+
+tallennetaan
+tallennettu
+
+versiohistoria
+asiakirjan versiot
+edellinen versio
+
+palauta versio
+palauta aiempi versio
+vanha versio
+
+miten tallennan tiedoston
+miten tallennan wordissa
+
+miten nimeän tiedoston
+miten vaihdan tiedoston nimen
+
+miten vaihdan asiakirjan nimen
+miten muutan dokumentin nimeä
+
+mihin tiedosto tallentuu
+missä tiedosto on
+
+mihin word tallentaa tiedoston
+löydänkö tiedoston onedrivesta
+
+onko tiedosto tallentunut
+mistä näen että tiedosto on tallennettu
+
+asiakirja katosi
+en löydä tiedostoa
+
+miten palautan vanhan version
+miten palautan aiemman version
+
+poistin vahingossa tekstiä
+haluan palauttaa vanhemman version
+
+word ei tallenna
+tallennus ei toimi

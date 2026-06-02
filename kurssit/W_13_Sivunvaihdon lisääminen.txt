@@ -2,88 +2,100 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Sivunvaihdon lisääminen
 
-AIHE: Sivunvaihdon lisääminen Wordissa
+AIHE:
+Sivunvaihdon lisääminen Wordissa
 
 TAVOITE:
-Oppia lisäämään sivunvaihto oikeaan kohtaan Wordissa ja välttämään virheelliset tyhjät rivit asiakirjassa.
+Osaat lisätä sivunvaihdon oikeaan kohtaan ja aloittaa uuden luvun tai asiakirjan osan uudelta sivulta.
+
+SELITYS:
+Word jakaa tekstin sivuille automaattisesti. Joskus haluat kuitenkin itse päättää, mistä kohdasta uusi sivu alkaa. Tällöin kannattaa käyttää sivunvaihtoa. Sivunvaihto säilyttää asiakirjan rakenteen myös silloin, kun tekstiä myöhemmin lisätään, poistetaan tai muokataan.
 
 OHJE:
 
-Word tekee sivunvaihdot asiakirjaan automaattisesti.
+Milloin sivunvaihtoa kannattaa käyttää?
 
-Joskus sivunvaihto kannattaa kuitenkin lisätä itse.
+Sivunvaihto on hyödyllinen esimerkiksi silloin, kun:
 
-Tällainen tilanne voi olla esimerkiksi silloin, kun:
-
-otsikko jää sivun alareunaan
-otsikkoa seuraava teksti siirtyy seuraavalle sivulle
-haluat aloittaa uuden luvun uudelta sivulta
-
-Älä tee sivunvaihtoa painamalla Enter-näppäintä monta kertaa.
-
-Jos käytät tyhjiä rivejä sivun siirtämiseen, asiakirjan rakenne voi rikkoutua myöhemmin.
-
-Esimerkiksi:
-
-kuvien lisääminen
-tekstin muokkaaminen
-fonttikoon muuttaminen
-
-voi siirtää sisältöä väärään paikkaan.
+* haluat aloittaa uuden luvun uudelta sivulta
+* otsikko jää sivun loppuun ja varsinainen sisältö alkaa seuraavalta sivulta
+* haluat erottaa asiakirjan eri osat toisistaan
+* teet raporttia, opinnäytetyötä tai muuta pitkää asiakirjaa
 
 Sivunvaihdon lisääminen
 
-Tee sivunvaihto näin:
+1. Vie kohdistin sen tekstin alkuun, jonka haluat siirtyvän uudelle sivulle.
+2. Siirry Lisää-välilehdelle.
+3. Valitse Sivunvaihto.
 
-1. Vie kohdistin sen rivin alkuun, jonka haluat seuraavalle sivulle.
-2. Siirry Asettelu-välilehdelle.
-3. Valitse Vaihdot.
-4. Valitse Sivu.
+Word lisää sivunvaihdon ja siirtää tekstin seuraavan sivun alkuun.
 
-Word lisää sivunvaihdon valittuun kohtaan.
+Sivunvaihdon lisääminen näppäimistöllä
 
-Nyt sisältö pysyy oikeilla sivuilla, vaikka asiakirjaan lisätään myöhemmin uutta sisältöä.
-
-Sivunvaihdon poistaminen
-
-Voit poistaa sivunvaihdon poistamalla sivunvaihtomerkin.
-
-Tämä onnistuu helpoimmin, kun näytät muotoilumerkit.
-
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
-
-VERSIOEROT:
-
-Word verkkoversio:
-
-* Sivunvaihdon lisääminen onnistuu perustoiminnoilla.
-* Kaikkia asettelun lisäasetuksia ei ole käytettävissä.
-
-Word työpöytäversio:
-
-* Käytettävissä on enemmän vaihto- ja asettelutoimintoja.
-* Muotoilumerkkien hallinta on laajempi.
-
-VINKKI:
-Voit lisätä sivunvaihdon nopeasti myös näppäinkomennolla:
+Voit lisätä sivunvaihdon myös nopeasti näppäinyhdistelmällä:
 
 Ctrl + Enter
 
+Sivunvaihdon poistaminen
+
+Jos haluat poistaa sivunvaihdon:
+
+1. Avaa Näytä-välilehti.
+2. Ota muotoilumerkit näkyviin, jos ne eivät ole näkyvissä.
+3. Napsauta sivunvaihtomerkkiä.
+4. Paina Delete- tai Backspace-näppäintä.
+
+HUOM:
+
+* Sivunvaihto on eri asia kuin Enter-näppäimellä tehty tyhjä rivi.
+* Sivunvaihto pysyy oikeassa kohdassa, vaikka asiakirjan sisältö muuttuu.
+* Enter-näppäimellä lisätyt tyhjät rivit voivat aiheuttaa ongelmia asiakirjan muokkauksen yhteydessä.
+* Sivunvaihtoa käytetään usein raporttien, ohjeiden ja muiden pitkien asiakirjojen rakenteen hallintaan.
+
+Täydentävä vinkki: Tarkista sivunvaihdot ennen tulostamista
+
+Pitkissä asiakirjoissa kannattaa selata dokumentti läpi ennen jakamista tai tulostamista. Näin varmistat, että luvut, otsikot ja tärkeät sisällöt alkavat halutuilta sivuilta.
+
+VINKKI:
+
+Älä siirrä sisältöä seuraavalle sivulle painamalla Enter-näppäintä useita kertoja. Käytä aina sivunvaihtoa. Näin asiakirja pysyy siistinä ja sen rakenne säilyy oikein myös myöhemmissä muokkauksissa.
+
 HAKUSANAT:
-sivunvaihto, lisää sivunvaihto, Word sivunvaihto, vaihdot, Asettelu-välilehti, uusi sivu, sivunvaihdon lisääminen, Ctrl Enter, asiakirjan rakenne, otsikko uudelle sivulle, Word asettelu, muotoilumerkit, sivunvaihdon poistaminen
+sivunvaihto
 
-TYYPILLISET KYSYMYKSET:
+lisää sivunvaihto
+word sivunvaihto
 
-miten lisään sivunvaihdon Wordissa
+uusi sivu
+aloita uusi sivu
+
+sivunvaihdon lisääminen
+sivunvaihdon poistaminen
+
+ctrl enter
+näppäinkomento sivunvaihto
+
+asiakirjan rakenne
+pitkä asiakirja
+
+uusi luku uudelle sivulle
+otsikko uudelle sivulle
+
+muotoilumerkit
+näytä muotoilumerkit
+
+miten lisään sivunvaihdon wordissa
 miten aloitan uuden sivun
+
 mitä sivunvaihto tarkoittaa
-miksi ei kannata painaa Enteriä monta kertaa
-miten teen uuden luvun uudelle sivulle
-mitä Ctrl Enter tekee
+mitä ctrl enter tekee
+
 miten poistan sivunvaihdon
-missä Vaihdot-toiminto on
-miten siirrän otsikon seuraavalle sivulle
+missä sivunvaihto on
+
+miksi ei kannata painaa enteriä monta kertaa
 miten teen asiakirjasta siistimmän

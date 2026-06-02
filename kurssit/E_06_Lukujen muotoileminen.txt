@@ -2,33 +2,113 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Lukujen muotoileminen
 
-AIHE: Lukujen muotoileminen
+AIHE:
+Lukujen muotoileminen
 
+TAVOITE:
+Osaat muotoilla lukuja eri tavoin ja ymmärrät, että muotoilu muuttaa vain luvun ulkoasua, ei sen arvoa tai laskennassa käytettävää tietoa.
 
-TAVOITE: Oppia muotoilemaan lukuja ja ymmärtämään, miten muotoilu vaikuttaa lukuihin. Lukuja voidaan muotoilla usealla eri tavalla. Nämä muotoilut muuttavat ainoastaan luvun ulkoasua, eivät sen arvoa. Tämä tarkoittaa sitä, että jos solussa näkyvästä luvusta esimerkiksi 20,95 on vähennetty desimaaleja muotoilulla, niin että solussa näkyy luku 21, käyttää Excel laskennassa kuitenkin lukua 20,95.
+SELITYS:
+Excelissä luvut voidaan esittää esimerkiksi valuuttana, prosentteina, päivämäärinä, kellonaikoina tai eri määrällä desimaaleja. Muotoilu vaikuttaa vain siihen, miltä tieto näyttää. Excel käyttää laskennassa aina alkuperäistä arvoa.
 
 OHJE:
-Voit muotoilla tietoja Numero-ryhmän painikkeilla. 
-Näkyvissä olevien painikkeiden lisäksi löydät ryhmässä näkyvästä luettelosta yleisimmät muotoilut.
-Löydät painikkeen, josta voit valita valuutan. 
-Löydät myös painikkeen luvun prosenttimuotoiluun. 
-Huomaa, että prosenttimuotoilu kertoo solussa olevan luvun sadalla. 
-Jos taas kirjoitat luvun perään %-merkin, ohjelma jakaa luvun sadalla. Näin sinun ei tarvitse prosenttilaskuissa jakaa ja kertoa lukuja sadalla.
-Löydät painikkeen, josta voit määrittää luvulle tuhaterottimen.
-Ryhmässä on myös kaksi painiketta, joista toisella voit lisätä ja toisella vähentää desimaaleja. Huomioi, että ohjelma pyöristää luvun näytöllä, mutta käyttää laskennassa edelleenkin pyöristämätöntä lukua.
-Valintaikkunan avaimella (painikeryhmän oikeassa alareunassa) voit avata valintaikkunan ja tehdä tarkempia määrityksiä siellä. 
-Päivämäärä kirjoitetaan yleensä tässä muodossa pp.kk.vvvv. Voit muotoilla ryhmän luettelosta avautuvan luettelon kautta. 
-Kellonajassa tunnit ja minuutit erotetaan pisteellä 13.20. 
-Myös kaksoispiste käy 13:20. 
-Voit käyttää muotoilujen kopioinnissa muotoilusivellintä. 
-Valitse solu, josta haluat kopioida muotoilut.
-Napsauta työkalurivin Leikepöytä-ryhmän muotoilusivellintä.
-Valitse solut, joihin haluat kopioida tämän saman muotoilun.
-Jos kaksoisnapsautat muotoilusivellintä, pysyy toimintoa päällä niin kauan, kunnes napsautat sitä uudelleen. Näin voit kopioida muotoilua usealle alueelle.
 
-VINKKI:
+1. Valitse muotoiltava solu tai solualue.
+2. Käytä Aloitus-välilehden Numero-ryhmän painikkeita luvun muotoilemiseen.
+3. Valitse tarvittaessa numeromuoto luettelosta.
+4. Muuta luku valuutaksi Valuutta-painikkeella.
+5. Muuta luku prosentiksi Prosenttimuotoilu-painikkeella.
+6. Lisää tai poista tuhaterottimet Tuhaterotin-painikkeella.
+7. Lisää tai vähennä näkyvien desimaalien määrää desimaalipainikkeilla.
+8. Avaa Numero-ryhmän valintaikkuna tarkempia määrityksiä varten.
+9. Kirjoita päivämäärä muodossa pp.kk.vvvv ja valitse haluamasi päivämäärämuoto.
+10. Kirjoita kellonaika muodossa 13.20 tai 13:20 ja valitse haluamasi kellonaikamuoto.
 
-Jos soluun ilmestyy muotoilun jälkeen ##### -merkkejä tai eksponenttimuoto (1.23E+09), luku ei mahdu soluun. Levennä saraketta. 
+HUOM:
 
+* Lukujen muotoilu muuttaa vain luvun ulkoasua, ei sen arvoa.
+* Jos vähennät näkyviä desimaaleja, Excel käyttää laskennassa edelleen alkuperäistä lukua.
+* Prosenttimuotoilu kertoo solussa olevan luvun sadalla.
+* Jos kirjoitat luvun perään %-merkin, Excel jakaa luvun automaattisesti sadalla.
+* Päivämäärät kirjoitetaan yleensä muodossa pp.kk.vvvv.
+* Kellonajassa voidaan käyttää joko pistettä (13.20) tai kaksoispistettä (13:20).
+* Muotoilusiveltimellä voit kopioida numeromuotoilun toisiin soluihin.
+* Jos kaksoisnapsautat Muotoilusivellintä, voit kopioida muotoilun useisiin kohteisiin peräkkäin.
+* Jos solussa näkyy #####-merkkejä, tieto ei mahdu sarakkeeseen. Levennä saraketta.
+* Jos luku näkyy muodossa 1,23E+09, Excel käyttää tieteellistä esitystapaa. Levennä saraketta tai muuta numeromuotoilua.
+
+HAKUSANAT:
+lukujen muotoilu
+numeromuotoilu
+muotoile luku
+numeromuoto
+numeroformaatti
+numero-ryhmä
+yleinen muotoilu
+
+valuutta
+eurot
+rahamuotoilu
+valuuttamuotoilu
+euromerkki
+
+prosentti
+prosenttimuotoilu
+prosenttimerkki
+prosenttiluku
+muuta prosentiksi
+
+tuhaterotin
+tuhaterottimet
+erota tuhannet
+
+desimaalit
+lisää desimaaleja
+vähennä desimaaleja
+desimaalien määrä
+pyöristys
+luku pyöristyy
+desimaalit katosivat
+
+päivämäärä
+päivämäärän muotoilu
+päivämäärämuoto
+päivämäärä näkyy väärin
+miten kirjoitan päivämäärän
+
+kellonaika
+ajan muotoilu
+kellonajan kirjoittaminen
+kellonaikamuoto
+miten kirjoitan kellonajan
+
+muotoilusivellin
+kopioi muotoilu
+kopioi numeromuotoilu
+
+##### merkkejä
+
+risuaidat solussa
+hastagit solussa
+luku ei mahdu soluun
+sarake liian kapea
+miten saan luvun näkymään
+
+1,23E+09
+1.23E+09
+eksponenttimuoto
+tieteellinen esitystapa
+luku näkyy väärin
+iso luku näkyy oudosti
+miksi luku muuttui
+levennä sarake
+
+numerot muuttuvat prosenteiksi
+prosentti näkyy väärin
+päivämäärä muuttuu numeroksi
+päivämäärä näkyy väärin
+aika näkyy väärin

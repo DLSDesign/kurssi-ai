@@ -2,135 +2,151 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Muotojen lisääminen asiakirjaan
 
-AIHE: Muotojen lisääminen ja muotoileminen Wordissa
+AIHE:
+Muotojen lisääminen ja muotoileminen Wordissa
 
 TAVOITE:
-Oppia lisäämään muotoja Word-asiakirjaan sekä muotoilemaan niitä ja lisäämään niihin tekstiä.
+Osaat lisätä asiakirjaan muotoja, muuttaa niiden ulkoasua sekä lisätä niihin tekstiä.
+
+SELITYS:
+Muotojen avulla voit korostaa tärkeitä asioita, havainnollistaa sisältöä ja tehdä asiakirjasta selkeämmän. Muotoja käytetään esimerkiksi ohjeissa, prosessikuvauksissa, organisaatiokaavioissa ja erilaisissa havainnekuvissa.
 
 OHJE:
 
-Muotojen avulla voit:
-
-korostaa tietoa
-jäsentää sisältöä
-havainnollistaa asioita visuaalisesti
-tehdä asiakirjasta selkeämmän
-
-Wordissa voit lisätä esimerkiksi:
-
-nuolia
-suorakulmioita
-ympyröitä
-puhekuplia
-viivoja
-
-WORD VERKKOVERSIO
-
-Lisää muoto näin verkkoversiossa:
-
-1. Siirry Lisää-välilehdelle.
-2. Valitse Piirto.
-3. Valitse haluamasi muoto.
-4. Vie hiiren osoitin kohtaan, johon haluat muodon.
-5. Paina hiiren painike alas.
-6. Vedä hiirtä alas ja oikealle.
-7. Vapauta hiiren painike.
-
-Kun muoto on valittuna, voit:
-
-vaihtaa väriä
-muuttaa reunaviivaa
-lisätä tekstiä muotoon
-käyttää valmiita tyylejä
-
-Voit kirjoittaa tekstiä muodon sisälle napsauttamalla muotoa ja kirjoittamalla tekstin.
-
-WORD TYÖPÖYTÄVERSIO
-
-Lisää muoto näin työpöytäversiossa:
+Muodon lisääminen
 
 1. Siirry Lisää-välilehdelle.
 2. Valitse Muodot.
 3. Valitse haluamasi muoto.
-4. Piirrä muoto asiakirjaan vetämällä hiirellä.
 
-Kun muoto on valittuna, näkyviin tulee Muodon muotoilu -välilehti.
+Voit lisätä esimerkiksi:
 
-Sen kautta voit:
+* suorakulmion
+* ympyrän
+* nuolen
+* viivan
+* puhekuplan
 
-vaihtaa muodon toiseksi
-vaihtaa täyttövärin
-muuttaa reunaviivan väriä ja paksuutta
-käyttää tehosteita
-määrittää muotojen järjestyksen
-lisätä ja muotoilla tekstiä
+4. Vie hiiren osoitin asiakirjaan.
+5. Paina hiiren painike alas.
+6. Vedä hiirtä haluamaasi suuntaan.
+7. Vapauta hiiren painike.
 
-Voit myös siirtää muotoja:
+Word lisää muodon asiakirjaan.
 
-eteen
-taakse
-muiden objektien päälle tai alle
+Muodon koon muuttaminen
+
+1. Valitse muoto.
+2. Tartu kulmassa olevaan kahvaan.
+3. Vedä kahvaa haluttuun suuntaan.
+
+Muodon siirtäminen
+
+1. Valitse muoto.
+2. Vedä sitä hiirellä haluamaasi paikkaan.
+
+Muodon ulkoasun muuttaminen
+
+Kun muoto on valittuna, voit muuttaa esimerkiksi:
+
+* täyttöväriä
+* reunaviivan väriä
+* reunaviivan paksuutta
+* muodon tyyliä
+
+Muutokset löytyvät näkyviin tulevista muodon asetuksista.
 
 Tekstin lisääminen muotoon
 
-Voit kirjoittaa tekstiä suoraan muodon sisälle.
-
-Tee näin:
-
 1. Valitse muoto.
-2. Kirjoita teksti.
+2. Napsauta muodon sisälle.
+3. Kirjoita haluamasi teksti.
+
+Teksti sijoittuu muodon sisälle.
 
 Tekstin muotoilu
 
-Voit muotoilla muodon tekstiä esimerkiksi:
+Muodon sisällä olevaa tekstiä voidaan muotoilla samalla tavalla kuin muutakin tekstiä.
 
-vaihtamalla fontin
-muuttamalla fonttikokoa
-lihavoimalla tekstin
-vaihtamalla tekstin värin
+Voit esimerkiksi:
 
-Tekstin tasaus
+* vaihtaa fontin
+* muuttaa fonttikokoa
+* lihavoida tekstin
+* kursivoida tekstin
+* vaihtaa tekstin värin
 
-Voit määrittää tekstin sijainnin muodossa.
+Muotojen järjestys
 
-Tekstin voi tasata:
+Jos asiakirjassa on useita muotoja tai kuvia, voit määrittää niiden järjestyksen.
 
-vaakasuunnassa
-pystysuunnassa
+Voit siirtää objektin:
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+* muiden objektien eteen
+* muiden objektien taakse
 
-VERSIOEROT:
+Näin voit rakentaa esimerkiksi yksinkertaisia prosessikaavioita.
 
-Word verkkoversio:
+HUOM:
 
-* Käytettävissä ovat perusmuodot ja yksinkertaiset muotoilut.
-* Toimintoja on vähemmän kuin työpöytäversiossa.
+* Muodot ovat hyödyllisiä erityisesti ohjeissa ja prosessikuvauksissa.
+* Nuolia voidaan käyttää näyttämään etenemissuuntaa tai yhteyksiä eri kohteiden välillä.
+* Suorakulmiot sopivat hyvin otsikoihin ja korostuksiin.
+* Muotoihin lisätty teksti pysyy mukana, vaikka siirrät muotoa myöhemmin.
 
-Word työpöytäversio:
+Täydentävä vinkki: Käytä yhtenäisiä värejä
 
-* Käytettävissä on enemmän muotoja, tehosteita ja asetteluvaihtoehtoja.
-* Muotojen käsittely on monipuolisempaa.
+Jos asiakirjassa on useita muotoja, käytä samoja värejä ja tyylejä koko asiakirjassa. Yhtenäinen ulkoasu tekee asiakirjasta ammattimaisemman ja helpommin luettavan.
 
 VINKKI:
-Käytä muotoja maltillisesti. Selkeä ja yksinkertainen ulkoasu tekee asiakirjasta helpommin luettavan.
+
+Yksinkertainen suorakulmio ja muutama nuoli riittävät usein havainnollistamaan asian paremmin kuin monimutkainen kaavio. Pidä muodot mahdollisimman selkeinä.
 
 HAKUSANAT:
-muodot, lisää muoto, Word muodot, piirto, Muodot-toiminto, suorakulmio, ympyrä, nuoli, viiva, puhekupla, muodon muotoilu, täyttöväri, reunaviiva, teksti muodossa, tekstin tasaus, Word verkkoversio muodot, Word työpöytäversio muodot
+muodot
 
-TYYPILLISET KYSYMYKSET:
+lisää muoto
+word muodot
 
-miten lisään muodon Wordiin
-miten piirrän nuolen Wordissa
+suorakulmio
+ympyrä
+
+nuoli
+viiva
+
+puhekupla
+kaavio
+
+muodon lisääminen
+muodon muokkaaminen
+
+täyttöväri
+reunaviiva
+
+muodon väri
+muodon tyyli
+
+teksti muodossa
+kirjoita muotoon
+
+muodon siirtäminen
+muodon koko
+
+objektien järjestys
+eteen taakse
+
+miten lisään muodon wordiin
+miten piirrän nuolen
+
 miten lisään suorakulmion
 miten vaihdan muodon väriä
+
 miten kirjoitan tekstiä muotoon
-miten tasaan tekstin muodon sisällä
-miten käytän muotoja Word verkkoversiossa
-miten muodot toimivat työpöytäversiossa
-miten siirrän muodon toisen päälle
-miten vaihdan reunaviivan väriä
-miten käytän Muodon muotoilu -välilehteä
+miten siirrän muotoa
+
+miten teen yksinkertaisen kaavion
+miten käytän muotoja wordissa

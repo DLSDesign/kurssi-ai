@@ -1,0 +1,137 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VERSIO: verkkoversio
+
+VIDEO: Tekstin siirtäminen ja kopioiminen
+
+AIHE:
+Tekstin siirtäminen ja kopioiminen
+
+TAVOITE:
+Osaat siirtää ja kopioida tekstiä sekä muuta sisältöä asiakirjan sisällä ja asiakirjasta toiseen.
+
+SELITYS:
+Siirtämisen ja kopioimisen avulla voit käyttää samaa sisältöä useissa paikoissa ilman, että sitä tarvitsee kirjoittaa uudelleen. Voit siirtää tai kopioida esimerkiksi tekstiä, kuvia, taulukoita ja muita asiakirjan sisältöjä.
+
+OHJE:
+
+Tekstin siirtäminen
+
+Siirtäminen tarkoittaa, että sisältö poistuu alkuperäisestä paikastaan ja siirtyy uuteen paikkaan.
+
+1. Valitse siirrettävä teksti tai muu sisältö.
+2. Valitse Aloitus-välilehden Leikepöytä-ryhmästä Leikkaa.
+3. Vie kohdistin kohtaan, johon haluat siirtää sisällön.
+4. Valitse Liitä.
+
+Sisältö siirtyy uuteen paikkaan.
+
+Tekstin kopioiminen
+
+Kopioinnissa alkuperäinen sisältö säilyy paikallaan ja siitä tehdään kopio.
+
+1. Valitse kopioitava teksti tai muu sisältö.
+2. Valitse Aloitus-välilehden Leikepöytä-ryhmästä Kopioi.
+3. Vie kohdistin kohtaan, johon haluat liittää kopion.
+4. Valitse Liitä.
+
+Voit liittää saman kopion useita kertoja.
+
+Sisällön kopioiminen toiseen asiakirjaan
+
+1. Valitse kopioitava sisältö.
+2. Valitse Kopioi.
+3. Siirry toiseen Word-asiakirjaan.
+4. Vie kohdistin haluttuun kohtaan.
+5. Valitse Liitä.
+
+Voit kopioida sisältöä myös muihin Microsoft 365 -ohjelmiin, kuten PowerPointiin, Outlookiin tai Exceliin.
+
+Liittämisen vaihtoehdot
+
+Kun liität sisältöä, voit valita erilaisia liittämistapoja.
+
+Voit esimerkiksi:
+
+* säilyttää alkuperäisen muotoilun
+* käyttää kohdeasiakirjan muotoiluja
+* liittää pelkän tekstin ilman muotoiluja
+
+HUOM:
+
+* Leikkaa siirtää sisällön alkuperäisestä paikasta uuteen paikkaan.
+* Kopioi jättää alkuperäisen sisällön paikalleen ja luo siitä kopion.
+* Voit siirtää ja kopioida tekstin lisäksi myös kuvia, taulukoita ja muita objekteja.
+* Liitä pelkkä teksti -vaihtoehto poistaa alkuperäiset muotoilut ja käyttää kohdeasiakirjan muotoiluja.
+* Sama kopioitu sisältö voidaan liittää useita kertoja.
+
+Täydentävä vinkki: Vedä ja pudota
+
+Voit siirtää tekstiä myös hiirellä. Valitse teksti ja vedä se hiirellä uuteen paikkaan. Tämä toimii kätevästi erityisesti silloin, kun siirrät sisältöä saman asiakirjan sisällä.
+
+VINKKI:
+
+Näppäinkomennot nopeuttavat työskentelyä:
+
+* Ctrl + X = Leikkaa
+* Ctrl + C = Kopioi
+* Ctrl + V = Liitä
+
+HAKUSANAT:
+siirrä teksti
+kopioi teksti
+
+tekstin siirtäminen
+tekstin kopioiminen
+
+leikkaa
+kopioi
+liitä
+
+leikkaa ja liitä
+kopioi ja liitä
+
+word kopiointi
+word siirtäminen
+
+ctrl c
+ctrl v
+ctrl x
+
+kopioi asiakirjasta toiseen
+kopioi toiseen tiedostoon
+
+liitä teksti
+liitä kuva
+
+liittämisvaihtoehdot
+säilytä muotoilu
+
+liitä pelkkä teksti
+poista muotoilut
+
+kopioi kuva
+kopioi taulukko
+
+siirrä kuva
+siirrä taulukko
+
+miten siirrän tekstiä wordissa
+miten kopioin tekstiä
+
+mitä leikkaa tarkoittaa
+mitä kopioi tarkoittaa
+
+miten käytän liitä toimintoa
+miten kopioin tekstin toiseen asiakirjaan
+
+miten siirrän tekstin toiseen ohjelmaan
+mitä ctrl c tekee
+
+mitä ctrl v tekee
+mitä ctrl x tekee
+
+miten liitän saman tekstin monta kertaa
+miten säilytän muotoilun liitettäessä

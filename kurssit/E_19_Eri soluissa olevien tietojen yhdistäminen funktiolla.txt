@@ -2,61 +2,124 @@ TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Eri soluissa olevien tietojen yhdistäminen
 
-AIHE: Tekstien yhdistäminen YHDISTÄ-funktiolla
+AIHE:
+Tekstien yhdistäminen YHDISTÄ-funktiolla
 
 TAVOITE:
-Oppia yhdistämään eri soluissa olevia tietoja samaan soluun. Oppia käyttämään YHDISTÄ-funktiota esimerkiksi nimien, osoitteiden tai muiden tekstien yhdistämiseen.
+Osaat yhdistää useissa soluissa olevia tietoja samaan soluun YHDISTÄ-funktion avulla.
+
+SELITYS:
+YHDISTÄ-funktiolla voit yhdistää useiden solujen sisällöt yhdeksi tekstiksi. Toimintoa käytetään usein esimerkiksi etu- ja sukunimien, osoitetietojen, tunnusten tai muiden tekstien yhdistämiseen.
 
 OHJE:
-
-YHDISTÄ-funktiolla voit yhdistää useiden solujen sisällöt yhdeksi tekstiksi.
-
-Esimerkiksi voit yhdistää etu- ja sukunimen samaan soluun.
-
-YHDISTÄ-funktion rakenne on:
-
-`=YHDISTÄ(teksti1;teksti2;teksti3...)`
-
-Esimerkki:
-
-`=YHDISTÄ(A2;" ";B2)`
-
-Tässä:
-
- A2 sisältää etunimen
- " " lisää välilyönnin etu- ja sukunimen väliin
- B2 sisältää sukunimen
-
-Tulos voi olla esimerkiksi: Matti Meikäläinen
-
-Tee yhdistäminen näin:
 
 1. Valitse solu, johon haluat yhdistetyn tiedon.
 2. Lisää YHDISTÄ-funktio.
 3. Valitse ensimmäinen yhdistettävä solu.
-4. Lisää tarvittaessa välimerkki tai välilyönti lainausmerkkeihin.
+4. Lisää tarvittaessa välilyönti, pilkku tai muu erotin lainausmerkkeihin.
 5. Valitse seuraava yhdistettävä solu.
-6. Hyväksy kaava painamalla Enter-näppäimellä.
-7. Kopioi kaava muihin soluihin.
+6. Lisää tarvittaessa lisää soluja ja erottimia.
+7. Hyväksy kaava painamalla Enteriä.
+8. Kopioi kaava muihin soluihin tarvittaessa.
 
-Voit yhdistää myös useampia tietoja, kuten etunimen, sukunimen ja kaupungin.
+YHDISTÄ-funktion rakenne:
 
-Esimerkki: =YHDISTÄ(A2;" ";B2;", ";C2)`
+=YHDISTÄ(teksti1;teksti2;teksti3...)
 
-VINKKI:
-Muista lisätä välilyönti tai muu erotin lainausmerkkeihin, jotta yhdistetyt tiedot eivät tule kiinni toisiinsa.
+Esimerkki:
+
+=YHDISTÄ(A2;" ";B2)
+
+Tässä:
+
+* A2 sisältää etunimen
+* " " lisää välilyönnin
+* B2 sisältää sukunimen
+
+Tulos:
+
+Matti Meikäläinen
+
+Voit yhdistää myös useita tietoja:
+
+=YHDISTÄ(A2;" ";B2;", ";C2)
+
+Tulos voi olla esimerkiksi:
+
+Matti Meikäläinen, Helsinki
+
+HUOM:
+
+* YHDISTÄ-funktio yhdistää tekstit samaan soluun.
+* Välilyönnit, pilkut ja muut erottimet täytyy lisätä lainausmerkkeihin.
+* Ilman erotinta tekstit yhdistyvät suoraan toisiinsa.
+* Funktio toimii sekä tekstien että muiden tietojen yhdistämisessä.
+* Yhdistetty tieto päivittyy automaattisesti, jos lähdesolujen sisältö muuttuu.
+* Voit kopioida kaavan muihin riveihin samalla tavalla kuin muutkin laskukaavat.
 
 HAKUSANAT:
-YHDISTÄ, yhdistä-funktio, tekstin yhdistäminen, yhdistä solut, yhdistä teksti, yhdistä etunimi ja sukunimi, ketjuta teksti, yhdistä tiedot, tekstiketjutus, yhdistä solujen sisältö, yhdistä nimet
+yhdistä
+yhdistä-funktio
+yhdistä funktio
+tekstin yhdistäminen
 
-TYYPILLISET KYSYMYKSET:
+yhdistä solut
+yhdistä solujen sisältö
+yhdistä tiedot
+yhdistä teksti
+yhdistä tekstit
 
- miten yhdistän kaksi solua
- miten yhdistän etu- ja sukunimen
- miten lisään välilyönnin yhdistämisessä
- miten yhdistän tekstit samaan soluun
- miten YHDISTÄ-funktio toimii
- miten ketjutan tekstiä Excelissä
- miten yhdistän useita soluja yhdeksi tekstiksi
+ketjuta teksti
+tekstiketjutus
+tekstien ketjutus
+
+yhdistä etunimi ja sukunimi
+yhdistä nimet
+yhdistä nimi
+kokoa nimi
+
+yhdistä osoitetiedot
+yhdistä osoite
+yhdistä kaupunki ja osoite
+
+yhdistä useita soluja
+yhdistä useita tietoja
+yhdistä monta solua
+
+lisää välilyönti
+lisää pilkku
+erotin tekstien väliin
+
+tekstit samaan soluun
+solujen sisältö samaan soluun
+
+miten yhdistän kaksi solua
+miten yhdistän useita soluja
+miten yhdistän tekstit samaan soluun
+
+miten yhdistän etu- ja sukunimen
+miten yhdistän nimet
+miten teen koko nimen
+
+miten lisään välilyönnin yhdistämisessä
+miten lisään pilkun yhdistämisessä
+
+miten yhdistä-funktio toimii
+miten ketjutan tekstiä excelissä
+
+haluan yhdistää kaksi saraketta
+haluan yhdistää tiedot yhteen sarakkeeseen
+haluan yhdistää etunimen ja sukunimen
+haluan yhdistää osoitetiedot
+
+tekstit menevät yhteen ilman väliä
+välilyönti puuttuu
+pilkku puuttuu
+yhdistetty teksti näyttää väärältä
+
+yhdistä ei toimi
+kaava ei yhdistä tekstejä

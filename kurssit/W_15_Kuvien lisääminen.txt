@@ -2,159 +2,134 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Kuvien lisääminen
 
-AIHE: Kuvien lisääminen ja käsittely Wordissa
+AIHE:
+Kuvien lisääminen ja käsittely Wordissa
 
 TAVOITE:
-Oppia lisäämään kuvia Word-asiakirjaan, muuttamaan kuvien kokoa ja käyttämään tekstin rivitystä kuvien ympärillä.
+Osaat lisätä kuvia asiakirjaan, muuttaa niiden kokoa sekä sijoittaa kuvan haluamaasi kohtaan tekstin yhteydessä.
+
+SELITYS:
+Kuvat tekevät asiakirjasta havainnollisemman ja kiinnostavamman. Niiden avulla voit täydentää tekstiä, selittää asioita visuaalisesti ja kiinnittää lukijan huomion tärkeisiin kohtiin.
 
 OHJE:
 
-Kuvat elävöittävät asiakirjaa ja tekevät sisällöstä helpommin ymmärrettävää.
-
-Kuvien avulla voit:
-
-havainnollistaa asioita
-täydentää tekstiä
-kiinnittää lukijan huomion
-tehdä asiakirjasta kiinnostavamman
-
-Kuvien lisääminen
-
-Lisää kuva näin:
+Kuvan lisääminen
 
 1. Vie kohdistin kohtaan, johon haluat lisätä kuvan.
 2. Siirry Lisää-välilehdelle.
-3. Napsauta Kuva-painikkeen nuolta.
-4. Valitse, mistä haluat tuoda kuvan.
+3. Valitse Kuvat.
+4. Selaa tietokoneeltasi haluamasi kuva.
+5. Valitse kuva ja napsauta Avaa.
 
-Voit lisätä kuvan esimerkiksi:
-
-omalta tietokoneelta
-verkkoasemalta
-Wordin kuvapankista
-
-Kuvan lisääminen tietokoneelta
-
-Valitse Tämä laite, jos haluat lisätä kuvan:
-
-tietokoneeltasi
-muistitikulta
-verkkoasemalta
-
-Kuvan lisääminen kuvapankista
-
-Voit lisätä kuvia Wordin kuvapankista.
-
-Kuvat on ryhmitelty eri aihealueisiin.
-
-Voit myös hakea kuvia kirjoittamalla hakusanan.
-
-Tee näin:
-
-1. Kirjoita hakusana.
-2. Valitse haluamasi kuva.
-3. Valitse Lisää.
-
-HUOMIO:
-Ilmaisessa Office-versiossa kuvapankin kuvia on vähemmän kuin maksullisissa versioissa.
+Word lisää kuvan asiakirjaan.
 
 Kuvan koon muuttaminen
 
-Voit muuttaa kuvan kokoa vetämällä kuvan kulmissa olevista muokkauskahvoista.
+1. Napsauta kuvaa.
+2. Tartu kuvan kulmassa olevaan muokkauskahvaan.
+3. Vedä kahvaa sisäänpäin pienentääksesi kuvaa tai ulospäin suurentaaksesi sitä.
 
-Käytä aina kulmien kahvoja.
+HUOM:
+Käytä aina kulmissa olevia kahvoja. Näin kuvan mittasuhteet säilyvät oikeina eikä kuva vääristy.
 
-Älä muuta kokoa sivukahvoista, koska silloin kuvan mittasuhteet voivat vääristyä.
+Kuvan siirtäminen
 
-Tekstin rivitys kuvan ympärille
+1. Valitse kuva.
+2. Vedä kuva hiirellä haluamaasi paikkaan.
+
+Tekstin rivitys
 
 Voit määrittää, miten teksti sijoittuu kuvan ympärille.
 
-Tee näin (Wordin verkkoversio):
-
 1. Valitse kuva.
-2. Siirry Kuva-välilehdelle.
-3. Valitse Rivitä teksti.
+2. Napsauta kuvan vieressä näkyvää Asetteluasetukset-painiketta.
+3. Valitse haluamasi rivitystapa.
 
 Yleisimmät vaihtoehdot ovat:
 
-Tekstin tasossa
-Neliö vasemmalla
-Neliö oikealla
-Tekstin takana
-Tekstin edessä
-
-Tekstin tasossa on kuvan oletusasetus.
-
-Kuva sijoittuu omalle rivilleen tekstin joukkoon.
-
-Neliö vasemmalla tai oikealla
-
-Teksti kiertää kuvaa.
-
-Voit sijoittaa kuvan esimerkiksi tekstikappaleen viereen.
-
-Tekstin takana
-
-Kuva sijoittuu tekstin taakse.
-
-Tekstin edessä
-
-Kuva sijoittuu tekstin päälle.
-
-Napsauta valittuna olevan kuvan oikealla puolella näkyvää painiketta.
-
-Tämän jälkeen voit valita haluamasi rivitystavan, esimerkiksi:
+* Tekstin tasossa
+* Neliö
+* Ylä- ja alapuolella
+* Tekstin takana
+* Tekstin edessä
 
 Tekstin tasossa
-Kuva toimii kuten tekstirivi ja sijoittuu omalle rivilleen.
+
+Kuva toimii kuten tekstirivi ja sijoittuu tekstin joukkoon.
+
 Neliö
-Teksti kiertää kuvaa suorakulmaisesti.
-Tiivis
-Teksti kiertää kuvaa tarkemmin kuvan muodon mukaan.
+
+Teksti kiertää kuvaa sen ympäriltä. Tämä on yksi käytetyimmistä vaihtoehdoista.
+
 Ylä- ja alapuolella
+
 Teksti näkyy vain kuvan ylä- ja alapuolella.
+
 Tekstin takana
+
 Kuva sijoittuu tekstin taakse.
+
 Tekstin edessä
+
 Kuva sijoittuu tekstin päälle.
 
-Voit myös siirtää kuvaa vapaasti asiakirjassa, kun käytössä on jokin muu vaihtoehto kuin Tekstin tasossa.
+HUOM:
 
-VERSIOT:
-Word verkkoversio, Word työpöytäversio
+* Suuret kuvat voivat kasvattaa tiedoston kokoa.
+* Kuvan kokoa kannattaa pienentää ennen asiakirjaan lisäämistä, jos kuva on erittäin suuri.
+* Kuvan paikkaa on helpointa muuttaa, kun käytössä on jokin muu rivitystapa kuin Tekstin tasossa.
 
-VERSIOEROT:
+Täydentävä vinkki: Kuvatekstit
 
-Word verkkoversio:
-
-* Kuvien lisääminen ja perusmuokkaus onnistuvat normaalisti.
-* Kuvien asetteluvaihtoehtoja on vähemmän kuin työpöytäversiossa.
-
-Word työpöytäversio:
-
-* Käytettävissä on enemmän tekstin rivitys- ja asetteluvaihtoehtoja.
-* Kuvien käsittely ja tarkka sijoittelu ovat monipuolisempia.
+Jos asiakirjassa on paljon kuvia, lisää niiden yhteyteen lyhyt kuvateksti. Näin lukija ymmärtää nopeasti, mitä kuva esittää ja miksi se on lisätty asiakirjaan.
 
 VINKKI:
-Älä lisää asiakirjaan liian montaa kuvaa. Käytä kuvia vain silloin, kun ne tukevat sisältöä ja helpottavat ymmärtämistä.
+
+Käytä kuvia harkiten. Hyvä kuva tukee sisältöä ja auttaa ymmärtämään asiaa. Liian suuri määrä kuvia voi vaikeuttaa asiakirjan lukemista.
 
 HAKUSANAT:
-lisää kuva, Word kuvat, kuvan lisääminen, kuvapankki, lisää kuva tietokoneelta, Word kuvan käsittely, kuvan koko, tekstin rivitys, rivitä teksti, kuvan sijoittelu, tekstin tasossa, neliö vasemmalla, neliö oikealla, tekstin takana, tekstin edessä, Word kuva, kuvan muokkaus, kuvan mittasuhteet
+kuva
+kuvat
 
-TYYPILLISET KYSYMYKSET:
+lisää kuva
+kuvan lisääminen
 
-miten lisään kuvan Wordiin
-miten lisään kuvan tietokoneelta
-miten käytän kuvapankkia
-miten haen kuvia Wordissa
+word kuva
+word kuvat
+
+lisää kuva tietokoneelta
+tuo kuva asiakirjaan
+
+kuvan koko
+muuta kuvan kokoa
+
+kuvan siirtäminen
+siirrä kuva
+
+tekstin rivitys
+rivitä teksti
+
+tekstin tasossa
+neliö
+
+tekstin takana
+tekstin edessä
+
+kuvan sijoittelu
+kuvan käsittely
+
+miten lisään kuvan wordiin
 miten muutan kuvan kokoa
-miksi kuva vääristyy
+
+miten siirrän kuvaa
 miten teksti kiertää kuvaa
-mitä rivitä teksti tarkoittaa
+
 miten sijoitan kuvan tekstin viereen
+miksi kuva vääristyy
+
 miten laitan kuvan tekstin taakse
 miten laitan kuvan tekstin päälle
-miten käsittelen kuvia Wordissa

@@ -1,69 +1,127 @@
-
 TYYPPI: video
 
 OHJELMA: Excel
 
+VERSIO: verkkoversio
+
 VIDEO: Lukujen pyöristäminen funktiolla
 
-AIHE: PYÖRISTÄ-funktion käyttö
+AIHE:
+PYÖRISTÄ-funktion käyttö
 
 TAVOITE:
-Oppia pyöristämään lukuja PYÖRISTÄ-funktiolla ja ymmärtämään, miten pyöristystarkkuus määritellään.
+Osaat pyöristää lukuja haluttuun tarkkuuteen PYÖRISTÄ-funktion avulla.
+
+SELITYS:
+PYÖRISTÄ-funktiolla voit pyöristää lukuja esimerkiksi tiettyyn desimaalimäärään, kokonaisluvuksi, lähimpään kymmeneen tai lähimpään sataan. Funktio on hyödyllinen esimerkiksi raportoinnissa, budjetoinnissa ja tulosten esittämisessä.
 
 OHJE:
-
-PYÖRISTÄ-funktiolla voit pyöristää luvun haluamaasi tarkkuuteen.
-
-Funktion rakenne on: =PYÖRISTÄ(luku;numero)`
-
-Funktion argumentit:
-
- luku = pyöristettävä luku
- numero = kuinka tarkasti luku pyöristetään
-
-Esimerkki:
-
-`=PYÖRISTÄ(A2;-1)`
-
-Tässä luku pyöristetään lähimpään kymmeneen.
-
-Jos käytät arvoa -2, luku pyöristetään lähimpään sataan.
-
-Esimerkki:
-
-`=PYÖRISTÄ(A2;-2)`
-
-Tee pyöristys näin:
 
 1. Valitse solu, johon haluat tuloksen.
 2. Lisää PYÖRISTÄ-funktio.
 3. Valitse pyöristettävä luku tai solu.
 4. Määritä pyöristyksen tarkkuus.
-5. Hyväksy kaava painamalla Enter-näppäintä.
+5. Hyväksy kaava painamalla Enteriä.
 
-Voit kopioida kaavan muihin soluihin vetämällä tai kaksoisnapsauttamalla solun oikeassa alakulmassa olevaa muokkauskahvaa.
+PYÖRISTÄ-funktion rakenne:
 
-Kaksoisnapsautus kopioi kaavan automaattisesti alaspäin niin pitkälle kuin viereisessä sarakkeessa on tietoja.
+=PYÖRISTÄ(luku;numero)
 
-Pyöristyksen esimerkkejä:
+Funktion argumentit:
 
- `=PYÖRISTÄ(A2;2)` → pyöristää kahden desimaalin tarkkuudella
- `=PYÖRISTÄ(A2;0)` → pyöristää lähimpään kokonaislukuun
- `=PYÖRISTÄ(A2;-1)` → pyöristää lähimpään kymmeneen
- `=PYÖRISTÄ(A2;-2)` → pyöristää lähimpään sataan
+* luku = pyöristettävä luku
+* numero = pyöristyksen tarkkuus
 
-VINKKI:
-Negatiivisilla luvuilla voit pyöristää suurempiin kokonaisuuksiin, kuten kymmeniin tai satoihin. Tämä on hyödyllistä esimerkiksi budjeteissa ja ennusteissa.
+Esimerkkejä:
+
+=PYÖRISTÄ(A2;2)
+→ pyöristää kahden desimaalin tarkkuudella
+
+=PYÖRISTÄ(A2;0)
+→ pyöristää lähimpään kokonaislukuun
+
+=PYÖRISTÄ(A2;-1)
+→ pyöristää lähimpään kymmeneen
+
+=PYÖRISTÄ(A2;-2)
+→ pyöristää lähimpään sataan
+
+6. Voit kopioida kaavan muihin soluihin vetämällä täyttökahvasta.
+7. Voit myös kaksoisnapsauttaa täyttökahvaa, jolloin Excel kopioi kaavan automaattisesti alaspäin.
+
+HUOM:
+
+* Positiivinen luku määrittää desimaalien määrän.
+* Arvo 0 pyöristää lähimpään kokonaislukuun.
+* Negatiivinen luku pyöristää kymmeniin, satoihin tai tuhansiin.
+* PYÖRISTÄ-funktio muuttaa laskennan tulosta, toisin kuin pelkkä numeromuotoilu.
+* Numeromuotoilulla piilotetut desimaalit ovat edelleen mukana laskennassa.
+* PYÖRISTÄ-funktiota kannattaa käyttää silloin, kun haluat laskennassa käytettävän pyöristettyä arvoa.
 
 HAKUSANAT:
-PYÖRISTÄ, pyöristä-funktio, lukujen pyöristäminen, pyöristä luku, pyöristä lähimpään kymmeneen, pyöristä lähimpään sataan, pyöristä kokonaisluvuksi, desimaalien pyöristys, pyöristyksen tarkkuus, pyöristysfunktio, negatiivinen pyöristys, 
+pyöristä
+pyöristä-funktio
+pyöristä funktio
+pyöristä luku
+lukujen pyöristäminen
 
-TYYPILLISET KYSYMYKSET:
+pyöristys
+pyöristysfunktio
+pyöristyksen tarkkuus
 
- miten PYÖRISTÄ-funktio toimii
- miten pyöristän luvun kokonaisluvuksi
- miten pyöristän lähimpään kymmeneen
- miten pyöristän lähimpään sataan
- mitä PYÖRISTÄ-funktion toinen argumentti tarkoittaa
- miten kopioin pyöristyskaavan muihin soluihin
- mitä negatiivinen luku tekee PYÖRISTÄ-funktiossa
+pyöristä desimaalit
+pyöristä kahteen desimaaliin
+pyöristä yhteen desimaaliin
+desimaalien pyöristys
+
+pyöristä kokonaisluvuksi
+pyöristä lähimpään kokonaislukuun
+
+pyöristä lähimpään kymmeneen
+pyöristä kymmeniin
+
+pyöristä lähimpään sataan
+pyöristä satoihin
+
+pyöristä lähimpään tuhanteen
+pyöristä tuhansiin
+
+negatiivinen pyöristys
+negatiivinen luku pyöristyksessä
+
+pyöristä
+pyöristä-funktio
+round-funktio
+round
+
+funktion argumentit
+pyöristettävä luku
+pyöristyksen tarkkuus
+
+täyttökahva
+kopioi kaava
+kopioi pyöristyskaava
+
+miten pyöristä-funktio toimii
+miten pyöristän luvun
+miten pyöristän luvun kokonaisluvuksi
+miten pyöristän kahteen desimaaliin
+
+miten pyöristän lähimpään kymmeneen
+miten pyöristän lähimpään sataan
+miten pyöristän lähimpään tuhanteen
+
+mitä pyöristä-funktion toinen argumentti tarkoittaa
+mitä negatiivinen luku tekee pyöristä-funktiossa
+
+haluan poistaa desimaalit
+haluan vähemmän desimaaleja
+haluan pyöristää luvut
+
+luku näkyy väärin
+desimaalit häiritsevät
+liian tarkka luku raportissa
+
+pyöristys ei vaikuta laskentaan
+miksi tulos ei muutu
+ero pyöristyksen ja muotoilun välillä

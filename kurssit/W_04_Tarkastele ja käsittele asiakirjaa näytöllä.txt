@@ -2,37 +2,138 @@ TYYPPI: video
 
 OHJELMA: Word
 
+VERSIO: verkkoversio
+
 VIDEO: Tarkastele ja käsittele asiakirjaa näytöllä
 
-AIHE: Tarkastele ja käsittele asiakirjaa näytöllä
+AIHE:
+Asiakirjan tarkasteleminen näytöllä
 
-TAVOITE: Oppia käsittelemään asiakirjaa eri näkymissä
+TAVOITE:
+Osaat käyttää viivainta, siirtymisruutua, tilariviä ja zoomausta asiakirjan tarkastelemiseen ja käsittelemiseen.
 
-Tällä videolla käymme läpi muutamia hyödyllisiä toimintoja, jotka auttavat sinua hahmottamaan ja hallitsemaan asiakirjaa. 
-Ohjelmaikkunan yläreunassa näet valintanauhan, jossa ovat kaikki tärkeimmät työkalut tekstin kirjoittamiseen ja muotoiluun. 
-Katsotaan pari hyödyllistä komentoa Näytä-välilehdeltä. 
-Ensimmäinen niistä on viivain. Sen avulla hahmotat, missä tekstisi kulkee, ja voit säätää esimerkiksi sisennyksiä. 
-Voit ottaa sen näkyviin tästä. 
-Jos et tarvitse viivainta, voit helposti piilottaa sen näin.
-Toinen hyödyllinen toiminto on komentopaneeli. Kun avaat sen, näet asiakirjan otsikot listana vasemmassa reunassa. 
-Voit siirtyä nopeasti haluamaasi kohtaan napsauttamalla otsikkoa. 
-Tässä voit myös hakea sanoja tai lauseita koko asiakirjasta. Tämä on erityisen kätevää silloin, kun asiakirja on pitkä.
-Tutkitaan seuraavaksi ohjelman tilariviä. Se sijaitsee sivun alareunassa, ja kertoo paljon hyödyllistä tietoa asiakirjasta.
-Tässä näet asiakirjan sanojen määrän. 
-Kun napsautat sitä, saat näkyviin tarkempia tietoja esimerkiksi merkkien ja kappaleiden määrän. Tämä on hyödyllistä, jos tehtävässä on rajattu sanamäärä.
-Tässä näet asiakirjan kielen. 
-Word tunnistaa kielen yleensä automaattisesti, mutta voit vaihtaa sen tarvittaessa. 
-Napsauta kieltä ja valitse listasta haluamasi vaihtoehto.  Tämä vaikuttaa siihen, millä kielellä oikoluku ja oikeinkirjoituksen tarkistus toimivat.
-Tilarivillä on myös Erilliset sivut -painike. 
-Kun tämä asetus on päällä, jokainen sivu näkyy omana alueenaan, ja niiden välissä on selvä väli. 
-Tilarivin alussa näet, millä sivulla olet, ja montako sivua asiakirjassa on yhteensä. Tämä auttaa hahmottamaan, missä kohtaa asiakirjaa olet menossa.
-Kun toiminto on pois päältä, asiakirja näkyy yhtenä pitkänä jatkumona ilman sivurajoja.
-Voit valita sen tilan, joka tuntuu sinusta selkeimmältä.
-Tässä näet zoomauksen. Sen avulla voit suurentaa tai pienentää näkymää.
-Jos haluat nähdä koko sivun kerralla, pienennä zoomausta.
-Jos taas haluat katsoa tekstiä tarkemmin, suurennus auttaa.
-Zoomausta voit säätää liukusäätimellä tai valitsemalla sopivan prosenttiluvun.
-Kun tunnet nämä perustoiminnot, työskentelysi on sujuvaa ja vaivatonta.
+SELITYS:
+Wordin verkkoversiossa on useita työkaluja, jotka helpottavat pitkien asiakirjojen lukemista, hahmottamista ja muokkaamista. Näiden toimintojen avulla löydät tarvitsemasi kohdat nopeammin ja voit mukauttaa näkymän itsellesi sopivaksi.
 
-Huom! Eroavaisuus Wordin työpöytäversioissa. Wordin työpöytäversiossa on enemmän erilaisia näyttötiloja. 
+OHJE:
 
+Viivaimen käyttäminen
+
+1. Siirry Näytä-välilehdelle.
+2. Ota Viivain käyttöön.
+3. Käytä viivainta tekstin sijainnin ja sisennysten hahmottamiseen.
+4. Poista viivain näkyvistä tarvittaessa samalla toiminnolla.
+
+Siirtymisruudun käyttäminen
+
+1. Siirry Näytä-välilehdelle.
+2. Ota käyttöön Siirtymä-komento.
+3. Word avaa vasempaan reunaan Siirtymisruudun.
+4. Tarkastele asiakirjan otsikoita siirtymisruudussa.
+5. Siirry haluamaasi kohtaan napsauttamalla otsikkoa.
+6. Voit myös etsiä sanoja tai lauseita siirtymisruudun hakuruudulla.
+
+Sanamäärän tarkasteleminen
+
+1. Tarkastele tilarivillä näkyvää sanamäärää.
+2. Napsauta sanamäärää nähdäksesi tarkempia tietoja.
+
+Saat näkyviin esimerkiksi:
+
+* sanojen määrän
+* merkkien määrän
+* kappaleiden määrän
+
+Asiakirjan kielen tarkasteleminen
+
+1. Tarkastele tilarivillä näkyvää kieltä.
+2. Napsauta kieltä tarvittaessa.
+3. Valitse haluamasi kieli.
+
+Kieli vaikuttaa esimerkiksi oikoluvun ja oikeinkirjoituksen tarkistuksen toimintaan.
+
+Erilliset sivut -näkymän käyttäminen
+
+1. Ota Erilliset sivut käyttöön, jos haluat nähdä sivut erillisinä.
+2. Poista asetus käytöstä, jos haluat nähdä asiakirjan yhtenä pitkänä jatkumona.
+
+Zoomauksen käyttäminen
+
+1. Käytä tilarivin zoomaussäädintä.
+2. Suurenna näkymää tarkempaa työskentelyä varten.
+3. Pienennä näkymää, jos haluat nähdä enemmän sisältöä kerralla.
+
+HUOM:
+
+* Viivain auttaa hahmottamaan tekstin sijaintia ja sisennyksiä.
+* Siirtymisruutu toimii parhaiten asiakirjoissa, joissa on käytetty otsikkotyylejä.
+* Siirtymisruudun avulla voit siirtyä nopeasti pitkän asiakirjan eri osiin.
+* Asiakirjan kieli vaikuttaa oikoluvun toimintaan.
+* Zoomaus muuttaa vain näkymää, ei asiakirjan todellista kokoa.
+* Erilliset sivut -näkymä helpottaa asiakirjan hahmottamista sivuittain.
+* Wordin työpöytäversiossa on enemmän näyttötiloja kuin verkkoversiossa.
+
+HAKUSANAT:
+viivain
+näytä viivain
+piilota viivain
+
+siirtymä
+siirtymisruutu
+näytä siirtymisruutu
+avaa siirtymisruutu
+
+asiakirjan rakenne
+otsikot
+asiakirjan otsikot
+
+etsi asiakirjasta
+etsi sana
+etsi teksti
+hae tekstiä
+
+siirry otsikkoon
+siirry asiakirjan kohtaan
+
+pitkä asiakirja
+asiakirjassa liikkuminen
+
+sanamäärä
+sanojen määrä
+laske sanat
+
+merkkimäärä
+merkkien määrä
+
+asiakirjan kieli
+vaihda kieli
+oikoluvun kieli
+
+sivunumero
+sivujen määrä
+
+erilliset sivut
+sivunäkymä
+
+zoomaus
+zoom
+suurenna näkymää
+pienennä näkymää
+
+haluan nähdä koko sivun
+teksti on liian pientä
+
+missä olen asiakirjassa
+monellako sivulla olen
+
+miten löydän tietyn sanan
+miten siirryn nopeasti toiseen kohtaan
+
+miten näen sanamäärän
+kuinka monta sanaa asiakirjassa on
+
+miksi oikoluku ei toimi oikein
+miten vaihdan asiakirjan kielen
+
+word näyttää erilaiselta
+asiakirja näkyy yhtenä pitkänä sivuna
