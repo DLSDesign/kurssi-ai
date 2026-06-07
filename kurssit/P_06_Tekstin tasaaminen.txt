@@ -1,0 +1,103 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Tekstin tasaaminen
+
+AIHE:
+Tekstin tasaaminen PowerPointissa
+
+TAVOITE:
+Oppia tasaamaan tekstiä eri tavoilla dioissa ja käyttämään tasaustyökaluja oikein.
+
+SELITYS:
+
+Tekstin tasaus määrittää, miten teksti sijoittuu tekstialueella.
+
+Oikea tasaus parantaa dian luettavuutta ja tekee esityksestä siistimmän.
+
+PowerPointissa voit tasata tekstin:
+
+* vasempaan reunaan
+* keskelle
+* oikeaan reunaan
+* tasaisesti molempiin reunoihin
+
+OHJE:
+
+Tekstin tasaaminen
+
+1. Valitse teksti, jonka haluat tasata.
+2. Siirry Aloitus-välilehdelle.
+3. Valitse Tasaus-ryhmästä haluamasi tasaustapa.
+
+Tasaa vasempaan
+
+Tasaa tekstin vasempaan reunaan.
+
+Tämä on yleisin tasaustapa esityksissä.
+
+Tasaa keskelle
+
+Sijoittaa tekstin keskelle tekstialuetta.
+
+Keskitys sopii erityisesti:
+
+* otsikoihin
+* korostettuihin teksteihin
+* kansidioihin
+
+Tasaa oikeaan
+
+Tasaa tekstin oikeaan reunaan.
+
+Tätä käytetään harvemmin, mutta se voi sopia esimerkiksi:
+
+* päivämääriin
+* yhteystietoihin
+* erikoisasetteluihin
+
+Tasaa molemmat reunat
+
+Tasaa tekstin sekä vasempaan että oikeaan reunaan.
+
+PowerPoint lisää automaattisesti välejä sanojen väliin, jotta rivit ovat yhtä pitkiä.
+
+HUOM:
+
+Useimmissa esityksissä vasen tasaus on selkein vaihtoehto. Keskitettyä tai oikealle tasattua tekstiä kannattaa käyttää vain silloin, kun siihen on selkeä syy.
+
+VINKKI:
+
+Jos diassa on paljon tekstiä, käytä vasenta tasausta. Tutkimusten mukaan sitä on yleensä nopeampi lukea kuin keskitettyä tekstiä.
+
+HAKUSANAT:
+
+tekstin tasaus
+tasaa teksti
+powerpoint tasaus
+vasen tasaus
+keskitys
+oikea tasaus
+tasaa molemmat reunat
+tekstin sijoittaminen
+tekstin muotoilu
+dian teksti
+tekstialue
+powerpoint teksti
+tasauspainikkeet
+
+TYYPILLISET KYSYMYKSET:
+
+miten tasaan tekstin PowerPointissa
+miten keskitän tekstin
+miten tasaan tekstin oikealle
+miten tasaan tekstin vasemmalle
+mitä tarkoittaa tasaa molemmat reunat
+missä tasauspainikkeet ovat
+mikä tasaustapa kannattaa valita
+miten muotoilen dian tekstit
+miten saan tekstin keskelle diaa
+miten teen siistin näköisen dian

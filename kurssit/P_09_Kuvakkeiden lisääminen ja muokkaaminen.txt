@@ -1,0 +1,117 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Kuvakkeiden lisääminen ja muokkaaminen
+
+AIHE:
+Kuvakkeiden käyttäminen PowerPointissa
+
+TAVOITE:
+Oppia lisäämään kuvakkeita dioihin sekä muuttamaan niiden kokoa, sijaintia ja värejä.
+
+SELITYS:
+
+Kuvakkeet ovat yksinkertaisia grafiikoita, joiden avulla voit havainnollistaa sisältöä ilman valokuvia.
+
+Kuvakkeita voidaan käyttää esimerkiksi:
+
+* korostamaan tärkeää asiaa
+* havainnollistamaan käsitteitä
+* tukemaan luetteloita
+* tekemään dioista visuaalisempia
+
+OHJE:
+
+Kuvakkeen lisääminen
+
+Voit lisätä kuvakkeen kahdella tavalla:
+
+* dian paikkamerkin Lisää kuvake -kuvakkeella
+* Lisää-välilehden Kuvakkeet-painikkeella
+
+Lisää kuvake näin:
+
+1. Valitse Lisää-välilehdeltä Kuvakkeet tai napsauta paikkamerkin Lisää kuvake -kuvaketta.
+2. Selaa kuvakevalikoimaa.
+3. Voit myös kirjoittaa hakuruutuun aihetta kuvaavan sanan.
+4. Valitse haluamasi kuvake.
+5. Napsauta Lisää.
+
+PowerPoint lisää kuvakkeen diaan.
+
+Kuvakkeen siirtäminen
+
+1. Valitse kuvake.
+2. Tartu kuvakkeeseen sen keskiosasta.
+3. Vedä kuvake haluamaasi paikkaan.
+
+Kun siirrät kuvaketta, näkyviin tulee apuviivoja.
+
+Apuviivat auttavat kohdistamaan kuvakkeet ja muut objektit siististi suhteessa dian muihin elementteihin.
+
+Kuvakkeen koon muuttaminen
+
+1. Valitse kuvake.
+2. Vedä kuvakkeen kulmissa olevista muokkauskahvoista.
+
+Kulmakahvojen käyttö säilyttää kuvakkeen mittasuhteet.
+
+Kuvakkeen värien muuttaminen
+
+Kun kuvake on valittuna, näkyviin tulee Grafiikka-välilehti.
+
+Voit muuttaa kuvakkeen ulkoasua seuraavilla työkaluilla:
+
+Grafiikan täyttö
+
+* vaihtaa kuvakkeen täyttövärin
+
+Grafiikan ääriviiva
+
+* vaihtaa kuvakkeen reunaviivan värin
+* muuttaa reunaviivan ulkoasua
+
+Näiden työkalujen avulla voit sovittaa kuvakkeet esityksen värimaailmaan.
+
+HUOM:
+
+Käytä esityksessä mahdollisimman yhtenäistä kuvaketyyliä. Samantyyliset kuvakkeet tekevät dioista ammattimaisempia ja helpommin hahmotettavia.
+
+VINKKI:
+
+Kuvakkeet toimivat parhaiten silloin, kun niitä käytetään tukemaan sisältöä. Vältä lisäämästä diaan liian montaa erilaista kuvaketta samaan aikaan.
+
+HAKUSANAT:
+
+kuvake
+kuvakkeet
+lisää kuvake
+powerpoint kuvake
+kuvakkeen lisääminen
+kuvakevalikoima
+grafiikka
+grafiikan täyttö
+grafiikan ääriviiva
+kuvakkeen väri
+kuvakkeen koko
+kuvakkeen siirtäminen
+apuviivat
+powerpoint grafiikka
+visuaaliset elementit
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään kuvakkeen PowerPointiin
+mistä löydän kuvakkeet
+miten etsin kuvakkeen
+miten muutan kuvakkeen kokoa
+miten siirrän kuvaketta
+miten vaihdan kuvakkeen värin
+mitä grafiikan täyttö tarkoittaa
+mitä grafiikan ääriviiva tarkoittaa
+miten käytän apuviivoja
+miten muokkaan kuvakkeita
+miten käytän kuvakkeita esityksessä

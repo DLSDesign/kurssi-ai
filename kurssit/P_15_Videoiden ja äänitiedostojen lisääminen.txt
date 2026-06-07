@@ -1,0 +1,145 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Videoiden ja äänien lisääminen
+
+AIHE:
+Videoiden ja äänitiedostojen lisääminen esitykseen
+
+TAVOITE:
+Oppia lisäämään videoita ja äänitiedostoja PowerPoint-esitykseen sekä määrittämään niiden toistoasetuksia.
+
+SELITYS:
+
+Videoiden ja äänien avulla voit tehdä esityksestä kiinnostavamman ja havainnollisemman.
+
+Voit lisätä esitykseen esimerkiksi:
+
+* koulutusvideoita
+* esittelyvideoita
+* taustamusiikkia
+* puhetta
+* tehosteääniä
+
+Multimediasisältöä voidaan käyttää diojen tukena tai osana varsinaista esitystä.
+
+OHJE:
+
+Online-videon lisääminen
+
+Jos video sijaitsee verkkopalvelussa, voit lisätä sen diaan linkin avulla.
+
+Tee näin:
+
+1. Lisää uusi dia tai valitse olemassa oleva dia.
+2. Siirry Lisää-välilehdelle.
+3. Valitse Video.
+4. Valitse Online-video.
+5. Kopioi videon verkko-osoite selaimen osoiteriviltä. Valitse se ja napsauta Ctrl+C-näppäinyhdistelmää
+6. Liitä osoite kenttään (Ctrl+V).
+7. Valitse Lisää.
+
+PowerPoint lisää videon diaan.
+
+Videon lisääminen omalta laitteelta
+
+Voit lisätä videon myös omalta tietokoneeltasi.
+
+Tee näin:
+
+1. Valitse dia, johon haluat lisätä videon.
+2. Siirry Lisää-välilehdelle.
+3. Valitse Video.
+4. Valitse Tämä laite.
+5. Selaa haluamasi videotiedosto.
+6. Valitse video.
+7. Valitse Avaa.
+
+PowerPoint lisää videon diaan.
+
+Videon muokkaaminen
+
+Voit muuttaa videon kokoa ja sijaintia.
+
+Tee näin:
+
+1. Valitse video.
+2. Vedä kulmissa olevista muokkauskahvoista, jos haluat muuttaa kokoa.
+3. Siirrä videota vetämällä sitä hiirellä.
+
+Voit myös esikatsella videota muokkausnäkymässä.
+
+Äänitiedoston lisääminen
+
+Voit lisätä esitykseen esimerkiksi:
+
+* musiikkia
+* puhetta
+* tehosteääniä
+
+Tee näin:
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Ääni.
+3. Selaa haluamasi äänitiedosto.
+4. Valitse tiedosto.
+5. Valitse Avaa.
+
+PowerPoint lisää diaan äänikuvakkeen.
+
+Äänen toistoasetukset
+
+Kun valitset äänitiedoston, voit määrittää sen toistoasetuksia.
+
+Voit esimerkiksi määrittää:
+
+* käynnistyykö ääni automaattisesti
+* käynnistyykö ääni napsautettaessa
+* toistetaanko ääntä jatkuvasti
+* näytetäänkö äänikuvake esityksen aikana
+
+Valitse tarkoitukseesi sopivat asetukset.
+
+HUOM:
+
+Jos käytät omalta laitteelta lisättyjä video- tai äänitiedostoja, varmista ennen esitystä, että tiedostot ovat edelleen saatavilla. Jos siirrät esityksen toiselle tietokoneelle, siirrä myös siihen liittyvät media­tiedostot.
+
+VINKKI:
+
+Pidä videot ja esitys samassa kansiossa. Näin niiden siirtäminen toiselle tietokoneelle on helpompaa ja tiedostojen yhteydet säilyvät paremmin.
+
+HAKUSANAT:
+
+video powerpointissa
+lisää video
+online-video
+videon lisääminen
+ääni powerpointissa
+lisää ääni
+taustamusiikki
+äänitiedosto
+videotiedosto
+video diaan
+ääni diaan
+toistoasetukset
+automaattinen toisto
+äänikuvake
+multimedia powerpointissa
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään videon PowerPointiin
+miten lisään online-videon
+miten lisään videon tietokoneelta
+miten lisään musiikkia esitykseen
+miten lisään äänitiedoston
+miten video käynnistetään automaattisesti
+miten ääni käynnistyy automaattisesti
+miten piilotan äänikuvakkeen
+miten muutan videon kokoa
+miten siirrän videota diassa
+miten lisään puhetta PowerPointiin
+miten käytän multimediaa esityksessä

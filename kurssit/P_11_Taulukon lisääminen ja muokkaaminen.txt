@@ -1,0 +1,180 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Taulukon luominen ja muokkaaminen
+
+AIHE:
+Taulukoiden käyttäminen PowerPointissa
+
+TAVOITE:
+Oppia lisäämään taulukoita dioihin sekä muokkaamaan niiden rakennetta, ulkoasua ja sisältöä.
+
+SELITYS:
+
+Taulukot ovat tehokas tapa esittää tietoa selkeästi ja jäsennellysti.
+
+Taulukko sopii hyvin esimerkiksi:
+
+* aikatauluihin
+* vertailuihin
+* hinnastoihin
+* yhteenvetoihin
+* luetteloihin
+
+OHJE:
+
+Taulukon lisääminen
+
+Helpoin tapa lisätä taulukko on käyttää dian paikkamerkkiä.
+
+1. Valitse dia, jossa on sisältöpaikkamerkki.
+2. Napsauta Lisää taulukko -kuvaketta.
+3. Määritä sarakkeiden määrä.
+4. Määritä rivien määrä.
+5. Valitse OK.
+
+PowerPoint lisää taulukon diaan.
+
+Jos lisäät taulukon etkä käytä dian rakennetta, valitse Lisää-välilehdeltä Taulukko. Saat näkyviin ruudukon, josta valitset hiirellä vetämällä rivien ja sarakkeiden määrän.
+
+Tietojen kirjoittaminen taulukkoon
+
+1. Napsauta solua, johon haluat kirjoittaa.
+2. Kirjoita teksti.
+3. Siirry seuraavaan soluun hiirellä tai Sarkain-näppäimellä.
+
+Taulukon tyylin muuttaminen
+
+Kun taulukko on valittuna, näkyviin tulevat taulukkotyökalut.
+
+1. Valitse taulukko.
+2. Siirry Taulukon rakenne -välilehdelle.
+3. Valitse haluamasi taulukkotyyli.
+
+Valmiiden tyylien avulla voit nopeasti vaihtaa esimerkiksi:
+
+* värejä
+* otsikkorivin korostusta
+* reunaviivojen ulkoasua
+
+Tekstin tasaaminen taulukossa
+
+1. Valitse haluamasi solut.
+2. Siirry Taulukon asettelu -välilehdelle.
+3. Valitse Tasaus-ryhmästä haluamasi tasaus.
+
+Voit tasata tekstin esimerkiksi:
+
+* vasemmalle
+* keskelle
+* oikealle
+* yläreunaan
+* keskelle pystysuunnassa
+* alareunaan
+
+Rivien ja sarakkeiden lisääminen
+
+Lisää rivi näin:
+
+1. Vie kohdistin riville, jonka yhteyteen haluat uuden rivin.
+2. Siirry Taulukon asettelu -välilehdelle.
+3. Valitse Lisää yläpuolelle tai Lisää alapuolelle.
+
+Lisää sarake näin:
+
+1. Vie kohdistin sarakkeeseen, jonka yhteyteen haluat uuden sarakkeen.
+2. Siirry Taulukon asettelu -välilehdelle.
+3. Valitse Lisää vasemmalle tai Lisää oikealle.
+
+Rivien ja sarakkeiden poistaminen
+
+1. Vie kohdistin poistettavalle riville tai sarakkeelle.
+2. Siirry Taulukon asettelu -välilehdelle.
+3. Valitse Poista.
+4. Valitse poistettava kohde.
+
+Voit poistaa:
+
+* rivejä
+* sarakkeita
+* yksittäisiä soluja
+* koko taulukon
+
+Taulukon koon muuttaminen
+
+Voit muuttaa koko taulukon kokoa vetämällä taulukon koonmuuttokahvoista.
+
+Rivien korkeuden muuttaminen
+
+1. Vie hiiren osoitin rivin reunaviivalle.
+2. Vedä reunaa haluamaasi suuntaan.
+
+Sarakkeiden leveyden muuttaminen
+
+1. Vie hiiren osoitin sarakkeen reunaviivalle.
+2. Vedä reunaa haluamaasi suuntaan.
+
+Voit muuttaa korkeuksia ja leveyksiä myös Taulukon asettelu -välilehden kokotyökaluilla.
+
+Fonttien muotoilu
+
+Voit muotoilla taulukon tekstejä samalla tavalla kuin muutakin dian sisältöä.
+
+Työkalut löytyvät:
+
+* Aloitus-välilehden Fontti-ryhmästä
+* tekstin valinnan yhteydessä näkyvästä pikatyökalurivistä
+
+Voit esimerkiksi:
+
+* vaihtaa fontin
+* muuttaa fonttikokoa
+* lihavoida tekstiä
+* kursivoida tekstiä
+* vaihtaa tekstin väriä
+
+HUOM:
+
+Taulukon kannattaa sisältää vain oleelliset tiedot. Liian suuri tai monimutkainen taulukko voi olla vaikea lukea esitystilanteessa.
+
+VINKKI:
+
+Korosta otsikkorivi eri värillä kuin muut rivit. Tämä helpottaa taulukon lukemista ja auttaa yleisöä hahmottamaan tiedot nopeammin.
+
+HAKUSANAT:
+
+taulukko
+powerpoint taulukko
+lisää taulukko
+taulukon luominen
+taulukon muokkaus
+taulukon rakenne
+taulukon asettelu
+lisää rivi
+lisää sarake
+poista rivi
+poista sarake
+taulukon tyyli
+solujen tasaus
+taulukon koko
+rivin korkeus
+sarakkeen leveys
+taulukon muotoilu
+
+TYYPILLISET KYSYMYKSET:
+
+miten teen taulukon PowerPointissa
+miten lisään rivejä taulukkoon
+miten lisään sarakkeita taulukkoon
+miten poistan rivin taulukosta
+miten poistan sarakkeen
+miten vaihdan taulukon tyyliä
+miten tasaan tekstin taulukossa
+miten muutan taulukon kokoa
+miten muutan rivin korkeutta
+miten muutan sarakkeen leveyttä
+miten muotoilen taulukon tekstejä
+miten käytän taulukkotyökaluja

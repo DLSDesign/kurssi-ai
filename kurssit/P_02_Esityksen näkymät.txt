@@ -1,0 +1,132 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Esityksen tarkasteleminen eri näkymissä
+
+AIHE:
+PowerPointin näkymien käyttäminen
+
+TAVOITE:
+Oppia käyttämään PowerPointin eri näkymiä ja hyödyntämään niitä esityksen suunnittelussa ja muokkaamisessa.
+
+SELITYS:
+
+PowerPointissa voit tarkastella esitystä eri näkymissä.
+
+Eri näkymät helpottavat esimerkiksi:
+
+* diojen muokkaamista
+* esityksen rakenteen hahmottamista
+* muistiinpanojen tekemistä
+* diojen järjestyksen muuttamista
+
+Kun opit käyttämään eri näkymiä, esityksen rakentaminen ja hallinta helpottuvat huomattavasti.
+
+OHJE:
+
+Muokkausnäkymä
+
+Muokkausnäkymä on PowerPointin yleisin työskentelytila.
+
+Tässä näkymässä:
+
+* vasemmassa reunassa näkyvät diojen pienoiskuvat
+* keskellä näkyy käsittelyssä oleva dia
+* alareunassa voidaan näyttää muistiinpanot
+
+Voit siirtyä diaan napsauttamalla sen pienoiskuvaa vasemmassa reunassa.
+
+Muistiinpanojen käyttäminen
+
+Muistiinpanot ovat esittäjän omia muistiinpanoja, jotka eivät näy yleisölle esityksen aikana.
+
+Näytä muistiinpanot näin:
+
+1. Valitse Muistiinpanot-painike.
+2. Muistiinpanoalue avautuu dian alapuolelle.
+
+Voit suurentaa tai pienentää muistiinpanoaluetta vetämällä sen reunaa hiirellä.
+
+Kirjoita muistiinpanoihin esimerkiksi:
+
+* puheenvuoron tukisanoja
+* lisätietoja aiheesta
+* muistettavia asioita
+
+Muistiinpanoja voidaan hyödyntää myöhemmin esittäjänäkymässä.
+
+Esittäjänäkymä
+
+Esittäjänäkymässä yleisö näkee vain varsinaisen dian.
+
+Esittäjä voi samalla nähdä:
+
+* omat muistiinpanonsa
+* seuraavan dian
+* esityksen etenemiseen liittyviä tietoja
+
+Tutustumme esittäjänäkymään tarkemmin myöhemmin tällä kurssilla.
+
+Dialajittelunäkymä
+
+Dialajittelunäkymässä kaikki diat näkyvät yhtä aikaa pienoiskuvina.
+
+Tämä näkymä sopii erityisesti silloin, kun haluat:
+
+* tarkastella esityksen rakennetta
+* vaihtaa diojen järjestystä
+* löytää tietyn dian nopeasti
+
+Diojen järjestyksen muuttaminen
+
+Voit vaihtaa diojen järjestystä näin:
+
+1. Siirry Dialajittelunäkymään.
+2. Tartu diaan hiirellä.
+3. Vedä dia haluamaasi paikkaan.
+
+PowerPoint päivittää esityksen rakenteen automaattisesti.
+
+HUOM:
+
+* Muokkausnäkymä soveltuu sisällön tekemiseen ja muokkaamiseen.
+* Dialajittelunäkymä soveltuu esityksen rakenteen tarkasteluun.
+* Muistiinpanot näkyvät vain esittäjälle, eivät yleisölle.
+
+VINKKI:
+
+Kun esityksessä on paljon dioja, käytä välillä Dialajittelunäkymää. Näet nopeasti, eteneekö esitys loogisesti ja ovatko diat oikeassa järjestyksessä.
+
+HAKUSANAT:
+
+muokkausnäkymä
+dialajittelunäkymä
+muistiinpanot
+muistiinpanoalue
+powerpoint näkymät
+esityksen näkymät
+diojen järjestys
+järjestä diat
+esityksen rakenne
+esittäjänäkymä
+dian pienoiskuva
+siirrä dia
+powerpoint muistiinpanot
+powerpoint dialajittelu
+
+TYYPILLISET KYSYMYKSET:
+
+miten vaihdan näkymää PowerPointissa
+mikä on muokkausnäkymä
+mikä on dialajittelunäkymä
+miten järjestän dioita uudelleen
+miten siirrän dian toiseen paikkaan
+miten lisään muistiinpanoja
+mihin muistiinpanoja käytetään
+mitä esittäjänäkymä näyttää
+miten näen kaikki diat kerralla
+miten tarkistan esityksen rakenteen
+miten siirryn diaan pienoiskuvasta

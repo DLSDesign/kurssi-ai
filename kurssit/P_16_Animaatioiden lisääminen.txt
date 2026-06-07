@@ -1,0 +1,183 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Animaatioiden lisääminen
+
+AIHE:
+Objektien animointi PowerPointissa
+
+TAVOITE:
+Oppia lisäämään animaatioita diojen teksteihin ja objekteihin sekä hallitsemaan animaatioiden järjestystä ja käynnistymistä.
+
+SELITYS:
+
+Animaatioiden avulla voit ohjata yleisön huomiota ja tuoda esitykseen elävyyttä.
+
+Animaatioita voidaan käyttää esimerkiksi:
+
+* tekstien näyttämiseen vaiheittain
+* kuvien korostamiseen
+* tärkeiden asioiden esiin nostamiseen
+* objektien poistamiseen näkyvistä
+* esityksen rytmittämiseen
+
+Animaatioiden avulla voit myös määrittää järjestyksen, jossa objektit näkyvät esityksen aikana.
+
+OHJE:
+
+Animaation lisääminen
+
+1. Valitse objekti, jonka haluat animoida.
+2. Siirry Animaatiot-välilehdelle.
+3. Valitse haluamasi animaatio.
+
+Voit lisätä animaatioita esimerkiksi:
+
+* teksteihin
+* kuviin
+* kuvakkeisiin
+* muotoihin
+* SmartArt-grafiikkaan
+
+Usean objektin animointi
+
+Jos haluat käyttää samaa animaatiota usealle objektille:
+
+1. Valitse ensimmäinen objekti.
+2. Pidä Ctrl-näppäin painettuna.
+3. Valitse muut objektit.
+4. Lisää animaatio normaalisti.
+
+Kaikki valitut objektit saavat saman animaation.
+
+Animaatiotyypit
+
+PowerPointissa on kolme päätyyppiä animaatioita:
+
+Sisääntuloanimaatiot
+
+Objekti tulee näkyviin diaan.
+
+Korostusanimaatiot
+
+Objekti korostuu esimerkiksi värin, koon tai liikkeen avulla.
+
+Poistumisanimaatiot
+
+Objekti poistuu näkyvistä.
+
+Tehosteasetukset
+
+Joihinkin animaatioihin voidaan määrittää lisäasetuksia.
+
+Voit esimerkiksi määrittää:
+
+* animaation suunnan
+* tekstien ilmestymisen kappaleittain
+* muita animaatiokohtaisia asetuksia
+
+Kaikille objekteille ei ole käytettävissä samoja asetuksia.
+
+Animaation käynnistäminen
+
+Voit määrittää, milloin animaatio suoritetaan.
+
+Vaihtoehtoja ovat esimerkiksi:
+
+* Napsautettaessa
+* Edellisen jälkeen
+
+Napsautettaessa animaatio käynnistyy esittäjän napsautuksesta.
+
+Edellisen jälkeen animaatio käynnistyy automaattisesti.
+
+Animaatioiden järjestys
+
+Kun objektille lisätään animaatio, sen viereen ilmestyy numero.
+
+Numero kertoo animaation suoritusjärjestyksen.
+
+Esimerkiksi:
+
+* 1 = ensimmäinen animaatio
+* 2 = toinen animaatio
+* 3 = kolmas animaatio
+
+Animaatioruudun käyttäminen
+
+Voit hallita animaatioita animaatioruudussa.
+
+Näytä animaatioruutu näin:
+
+1. Siirry Animaatiot-välilehdelle.
+2. Valitse Animaatioruutu.
+
+Animaatioruudussa voit:
+
+* tarkastella kaikkia animaatioita
+* muuttaa suoritusjärjestystä
+* poistaa animaatioita
+* hallita animaatioiden asetuksia
+
+Voit muuttaa järjestystä vetämällä animaatioita hiirellä haluamaasi paikkaan.
+
+Animaation poistaminen
+
+1. Avaa animaatioruutu.
+2. Valitse poistettava animaatio.
+3. Poista animaatio.
+
+Animaation esikatselu
+
+Voit tarkastella animaatioita ennen esitystä.
+
+1. Siirry Animaatiot-välilehdelle.
+2. Valitse Esikatsele.
+
+PowerPoint näyttää animaation.
+
+Voit poistua esikatselusta valitsemalla painikkeen uudelleen.
+
+HUOM:
+
+Käytä animaatioita harkiten. Liian suuri määrä erilaisia tehosteita voi tehdä esityksestä levottoman ja vaikeuttaa viestin seuraamista.
+
+VINKKI:
+
+Yksinkertaiset sisääntuloanimaatiot toimivat useimmissa esityksissä parhaiten. Käytä animaatioita tukemaan sisältöä, älä viemään huomiota pois itse asiasta.
+
+HAKUSANAT:
+
+animaatio
+powerpoint animaatio
+animoi objekti
+animoi teksti
+sisääntuloanimaatio
+korostusanimaatio
+poistumisanimaatio
+animaatiot-välilehti
+animaatioruutu
+tehosteasetukset
+animaation järjestys
+napsautettaessa
+edellisen jälkeen
+esikatsele animaatio
+animaation poistaminen
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään animaation PowerPointissa
+miten animoin tekstin
+miten animoin kuvan
+miten animoin useita objekteja
+mitä animaatiotyyppejä on olemassa
+miten animaatio käynnistyy napsautettaessa
+miten animaatio käynnistyy automaattisesti
+miten vaihdan animaatioiden järjestystä
+miten käytän animaatioruutua
+miten poistan animaation
+miten esikatselen animaatioita
+miten teen vaiheittain näkyvän luettelon PowerPointissa

@@ -1,0 +1,233 @@
+Ehdottomasti. Wordissa on myös paljon sellaisia käytännön vinkkejä, joita käyttäjät kysyvät jatkuvasti, mutta jotka eivät välttämättä kuulu yksittäisen toiminnon opetteluun.
+
+---
+
+ TYYPPI: ohje
+
+OHJELMA: Word
+
+AIHE: Wordin parhaat vinkit aloittelijalle
+
+TAVOITE:
+Oppia käyttämään Wordia sujuvammin sekä välttämään yleisimpiä asiakirjojen muotoilu- ja rakenneongelmia.
+
+---
+
+ Käytä otsikoissa aina otsikkotyylejä
+
+Älä muotoile otsikoita vain:
+
+* suurentamalla fonttia
+* lihavoimalla tekstiä
+* vaihtamalla väriä
+
+Käytä aina Wordin otsikkotyylejä:
+
+* Otsikko 1
+* Otsikko 2
+* Otsikko 3
+
+Näin voit myöhemmin:
+
+* luoda automaattisen sisällysluettelon
+* käyttää siirtymisruutua
+* jäsentää pitkää asiakirjaa helpommin
+
+---
+
+ Älä tee sivunvaihtoja Enter-näppäimellä
+
+Moni painaa Enteriä kymmeniä kertoja siirtääkseen tekstin seuraavalle sivulle.
+
+Tämä aiheuttaa ongelmia, kun asiakirjaa myöhemmin muokataan.
+
+Käytä aina sivunvaihtoa:
+
+1. Siirry Asettelu-välilehdelle.
+2. Valitse Vaihdot.
+3. Valitse Sivu.
+
+---
+
+ Käytä ohjausmerkkejä ongelmien selvittämiseen
+
+Jos asiakirja käyttäytyy oudosti:
+
+* rivit siirtyvät väärin
+* välejä on liikaa
+* sisennykset eivät toimi
+
+ota ohjausmerkit näkyviin.
+
+Valitse Aloitus-välilehden Kappale-ryhmästä ¶-painike.
+
+Useimmat muotoiluongelmat löytyvät nopeasti.
+
+---
+
+ Käytä tyylejä myös tavallisessa tekstissä
+
+Normaali-tyyli auttaa pitämään asiakirjan ulkoasun yhtenäisenä.
+
+Jos muotoilu alkaa näyttää sekavalta:
+
+1. Valitse teksti.
+2. Valitse Tyylit-valikoimasta Normaali.
+
+Näin pääset usein nopeasti takaisin siistiin ulkoasuun.
+
+---
+
+ Käytä sisällysluetteloa pitkissä asiakirjoissa
+
+Jos asiakirjassa on useita sivuja, lisää sisällysluettelo.
+
+Sisällysluettelon avulla:
+
+* lukija löytää tiedot nopeasti
+* asiakirja näyttää ammattimaisemmalta
+* otsikot päivittyvät automaattisesti
+
+---
+
+ Käytä haku- ja korvaustoimintoa
+
+Älä korjaa samaa virhettä käsin kymmeniä kertoja.
+
+Jos sana täytyy vaihtaa kaikkialta:
+
+1. Valitse Aloitus-välilehdeltä Korvaa.
+2. Kirjoita etsittävä teksti.
+3. Kirjoita korvaava teksti.
+4. Valitse Korvaa kaikki.
+
+---
+
+ Käytä kuvia harkiten
+
+Kuva kannattaa lisätä vain silloin, kun se tukee sisältöä.
+
+Liian monta kuvaa voi tehdä asiakirjasta sekavan.
+
+Muista myös:
+
+* käyttää riittävän suuria kuvia
+* sijoittaa kuvat lähelle niihin liittyvää tekstiä
+
+---
+
+ Käytä taulukkoa sarkainten sijaan monimutkaisissa luetteloissa
+
+Jos tietoja on paljon:
+
+* nimiä
+* osoitteita
+* puhelinnumeroita
+* hintoja
+
+käytä taulukkoa.
+
+Taulukko pysyy paremmin muodossaan kuin useilla sarkaimilla tehty luettelo.
+
+---
+
+ Käytä sivunumeroita pitkissä asiakirjoissa
+
+Sivunumerointi helpottaa asiakirjan käyttöä.
+
+Lisää sivunumerot:
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Sivunumerot.
+3. Valitse sijainti.
+
+---
+
+ Käytä siirtymisruutua pitkissä asiakirjoissa
+
+Jos asiakirjassa on paljon otsikoita:
+
+1. Siirry Näytä-välilehdelle.
+2. Valitse Siirtymisruutu.
+
+Voit siirtyä suoraan haluamaasi otsikkoon.
+
+---
+
+ Käytä kommentteja palautteen antamiseen
+
+Jos tarkistat toisen henkilön tekstiä:
+
+* älä muuta tekstiä suoraan
+* lisää kommentti
+
+Kommentit helpottavat yhteistyötä ja säilyttävät alkuperäisen tekstin.
+
+---
+
+ Tallenna lopullinen versio PDF-muotoon
+
+Kun asiakirja on valmis:
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Vie.
+3. Valitse Lataa PDF-tiedostona.
+
+PDF säilyttää asiakirjan ulkoasun samanlaisena kaikilla laitteilla.
+
+---
+
+ Käytä näppäinkomentoja
+
+Yleisimmät näppäinkomennot:
+
+* Ctrl + C = Kopioi
+* Ctrl + X = Leikkaa
+* Ctrl + V = Liitä
+* Ctrl + Z = Kumoa
+* Ctrl + Y = Tee uudelleen
+* Ctrl + A = Valitse kaikki
+* Ctrl + B = Lihavoi
+* Ctrl + I = Kursivoi
+* Ctrl + U = Alleviivaa
+* Ctrl + S = Tallenna
+
+Näppäinkomennot nopeuttavat työskentelyä huomattavasti.
+
+---
+
+ Yleisin virhe
+
+Aloittelijat yrittävät ratkaista kaikki ulkoasuongelmat:
+
+* välilyönneillä
+* Entereillä
+* sarkaimilla
+
+Wordissa kannattaa käyttää siihen tarkoitettuja toimintoja:
+
+* sisennyksiä
+* tasausta
+* sivunvaihtoja
+* tyylejä
+* taulukoita
+
+Näin asiakirja pysyy siistinä myös myöhemmin muokattaessa.
+
+---
+
+ VINKKI: Käytä Hae-toimintoa työkalujen löytämiseen
+
+Jos et löydä jotakin toimintoa:
+
+1. Napsauta yläreunan Hae-kenttää.
+2. Kirjoita esimerkiksi:
+
+   * taulukko
+   * sivunumerot
+   * sisällysluettelo
+   * kommentti
+
+Word näyttää suoraan oikean komennon.
+
+Tämä on yksi nopeimmista tavoista löytää harvemmin käytettyjä toimintoja.

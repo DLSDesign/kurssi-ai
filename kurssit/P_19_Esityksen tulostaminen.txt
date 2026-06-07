@@ -1,0 +1,150 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Esityksen tulostaminen
+
+AIHE:
+Tulostusasetukset ja esityksen tulostaminen
+
+TAVOITE:
+Oppia tulostamaan PowerPoint-esitys sekä käyttämään yleisimpiä tulostusasetuksia.
+
+SELITYS:
+
+Voit tulostaa esityksestä erilaisia versioita esimerkiksi:
+
+* omaa käyttöä varten
+* kokouksiin
+* koulutustilaisuuksiin
+* osallistujille jaettavaksi materiaaliksi
+
+Tulostettavaksi voidaan valita esimerkiksi:
+
+* diat koko sivun kokoisina
+* muistiinpanosivut
+* tiivistelmät usealla dialla sivua kohti
+
+OHJE:
+
+Tulostusnäkymän avaaminen
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Tulosta.
+
+Näet tulostuksen esikatselun sekä tulostusasetukset.
+
+Tulostettavien diojen valitseminen
+
+Voit valita, tulostetaanko:
+
+* koko esitys
+* vain tietyt diat
+
+Jos haluat tulostaa vain tietyt diat:
+
+1. Valitse Tulostettavat diat.
+2. Kirjoita haluamiesi diojen numerot.
+
+Esimerkiksi:
+
+* 1–5 tulostaa diat 1–5
+* 1,3,7 tulostaa diat 1, 3 ja 7
+
+Diojen tulostaminen koko sivun kokoisina
+
+Valitse Koko sivun diat, jos haluat jokaisen dian omalle sivulleen.
+
+Tämä vaihtoehto sopii esimerkiksi:
+
+* esityksen arkistointiin
+* yksityiskohtaiseen tarkasteluun
+
+Muistiinpanosivujen tulostaminen
+
+Voit tulostaa dian ja siihen liittyvät muistiinpanot.
+
+Valitse Muistiinpanosivut.
+
+Tällöin:
+
+* dia näkyy sivun yläosassa
+* muistiinpanot tulostuvat sen alapuolelle
+
+Tämä vaihtoehto sopii erityisesti esittäjän käyttöön.
+
+Tiivistelmän tulostaminen
+
+Voit tulostaa useita dioja samalle sivulle.
+
+Valitse haluamasi asettelu, esimerkiksi:
+
+* 2 diaa sivulle
+* 3 diaa sivulle
+* 4 diaa sivulle
+* 6 diaa sivulle
+
+Kolmen dian asettelu on suosittu koulutuksissa, koska diojen viereen jää tilaa omille muistiinpanoille.
+
+Tulostimen valitseminen
+
+Jos haluat tulostaa paperille:
+
+1. Valitse käytössä oleva tulostin.
+2. Tarkista asetukset.
+3. Valitse Tulosta.
+
+PDF-tiedoston luominen
+
+Jos haluat lähettää esityksen toiselle henkilölle, PDF-muoto on usein paras vaihtoehto.
+
+Tee näin:
+
+1. Valitse tulostimeksi Microsoft Print to PDF tai muu PDF-tulostin.
+2. Valitse Tulosta.
+3. Valitse tallennuspaikka.
+4. Tallenna PDF-tiedosto.
+
+PDF-tiedoston voi avata ilman PowerPoint-ohjelmaa.
+
+HUOM:
+
+Jos et muuta tulostusasetuksia, PowerPoint tulostaa oletusarvoisesti koko esityksen nykyisillä asetuksilla.
+
+VINKKI:
+
+Jos osallistujien on tarkoitus tehdä muistiinpanoja esityksen aikana, valitse kolmen dian tiivistelmä. Tällöin jokaisen dian viereen jää hyvin kirjoitustilaa.
+
+HAKUSANAT:
+
+tulostaminen
+powerpoint tulostus
+tulosta esitys
+tulostusasetukset
+koko sivun diat
+muistiinpanosivut
+tiivistelmä
+3 diaa sivulle
+6 diaa sivulle
+pdf tulostus
+tallenna pdf
+tulostettavat diat
+tulostuksen esikatselu
+powerpoint pdf
+
+TYYPILLISET KYSYMYKSET:
+
+miten tulostan PowerPoint-esityksen
+miten tulostan vain tietyt diat
+miten tulostan muistiinpanot
+miten tulostan useita dioja samalle sivulle
+miten teen osallistujamateriaalin
+miten tallennan esityksen PDF-muotoon
+miten valitsen tulostettavat diat
+mitä muistiinpanosivut tarkoittavat
+mitä tiivistelmä tarkoittaa
+miten tulostan kolme diaa sivulle
+miten tulostan esityksen paperille
+miten teen PDF-tiedoston PowerPoint-esityksestä

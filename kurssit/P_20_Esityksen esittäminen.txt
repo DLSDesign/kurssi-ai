@@ -1,0 +1,197 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Esittäjänäkymän käyttäminen
+
+AIHE:
+Diaesityksen pitäminen esittäjänäkymässä
+
+TAVOITE:
+Oppia käyttämään esittäjänäkymää ja hyödyntämään sen työkaluja esityksen aikana.
+
+SELITYS:
+
+Esittäjänäkymä on hyödyllinen silloin, kun pidät esitystä yleisölle esimerkiksi:
+
+* kokouksessa
+* koulutuksessa
+* webinaarissa
+* luennolla
+
+Esittäjänäkymässä yleisö näkee vain varsinaisen esitysdian.
+
+Sinä näet samalla:
+
+* nykyisen dian
+* seuraavan dian
+* omat muistiinpanosi
+* esityksen hallintatyökalut
+
+Näin voit seurata esityksen etenemistä ilman erillisiä paperimuistiinpanoja.
+
+OHJE:
+
+Diaesityksen testaaminen
+
+Ennen varsinaista esitystä kannattaa testata esitys omalla tietokoneella.
+
+Käynnistä diaesitys näin:
+
+1. Napsauta tilarivin Diaesitys-painiketta.
+
+Voit siirtyä diojen välillä:
+
+* hiiren napsautuksella
+* nuolinäppäimillä
+
+Poistu diaesityksestä painamalla:
+
+Esc
+
+Esittäjänäkymän käynnistäminen
+
+Kun käytössä on toinen näyttö tai dataprojektori, voit käyttää esittäjänäkymää.
+
+Tee näin:
+
+1. Siirry Diaesitys-välilehdelle.
+2. Ota käyttöön Esittäjänäkymä.
+3. Käynnistä esitys valitsemalla Alusta tai Nykyisestä diasta.
+
+PowerPoint avaa esittäjänäkymän.
+
+Esittäjänäkymän osat
+
+Nykyinen dia
+
+Näytön keskellä näkyy dia, jota yleisö parhaillaan katsoo.
+
+Seuraava dia
+
+Nykyisen dian vieressä näkyy seuraava dia.
+
+Näin voit valmistautua seuraavaan aiheeseen etukäteen.
+
+Muistiinpanot
+
+Näytön alaosassa näkyvät dian muistiinpanot.
+
+Voit kirjoittaa muistiinpanot etukäteen dian Muistiinpanot-alueelle.
+
+Yleisö ei näe näitä muistiinpanoja.
+
+Diojen vaihtaminen
+
+Voit siirtyä seuraavaan diaan:
+
+* hiiren napsautuksella
+* nuolinäppäimillä
+* Seuraava dia -painikkeella
+
+Voit siirtyä takaisin:
+
+* Edellinen dia -painikkeella
+
+Piirtotyökalut
+
+Esittäjänäkymän työkaluriviltä löydät useita esityksen aikana käytettäviä työkaluja.
+
+Laserosoitin
+
+Laserosoitin auttaa kiinnittämään yleisön huomion tiettyyn kohtaan diassa.
+
+Valitse:
+
+Laserosoitin
+
+Kynä
+
+Voit piirtää diaan merkintöjä.
+
+Valitse:
+
+Kynä
+
+Korostuskynä
+
+Voit korostaa tärkeitä kohtia dian päällä.
+
+Valitse:
+
+Korostuskynä
+
+Pyyhin
+
+Voit poistaa yksittäisiä merkintöjä.
+
+Valitse:
+
+Pyyhin
+
+Poista kaikki merkinnät
+
+Voit poistaa kaikki esityksen aikana tekemäsi merkinnät yhdellä kertaa.
+
+Valitse:
+
+Poista kaikki merkinnät
+
+Merkintöjen tallentuminen
+
+Laserosoittimella, kynällä ja korostuskynällä tehdyt merkinnät näkyvät vain esityksen aikana.
+
+Ne eivät muuta alkuperäisiä dioja.
+
+Diaesityksen lopettaminen
+
+Kun esitys on valmis:
+
+1. Valitse Lopeta diaesitys.
+
+Voit myös poistua esityksestä painamalla:
+
+Esc
+
+HUOM:
+
+Esittäjänäkymä toimii parhaiten silloin, kun käytössä on kaksi näyttöä, esimerkiksi kannettavan tietokoneen näyttö ja dataprojektori.
+
+VINKKI:
+
+Kirjoita tärkeimmät muistettavat asiat diojen Muistiinpanot-alueelle. Näin voit keskittyä yleisöön etkä joudu lukemaan dioja ääneen.
+
+HAKUSANAT:
+
+esittäjänäkymä
+powerpoint esittäjänäkymä
+diaesitys
+diaesitys-välilehti
+esittäjän muistiinpanot
+seuraava dia
+nykyinen dia
+laserosoitin
+kynä
+korostuskynä
+pyyhin
+poista merkinnät
+esityksen pitäminen
+esityksen hallinta
+diaesityksen käynnistäminen
+
+TYYPILLISET KYSYMYKSET:
+
+miten käytän esittäjänäkymää
+miten käynnistän diaesityksen
+miten näen seuraavan dian
+miten käytän muistiinpanoja esityksessä
+miten käytän laserosoitinta
+miten piirrän diaan esityksen aikana
+miten käytän korostuskynää
+miten poistan merkinnät
+näkeekö yleisö muistiinpanoni
+miten lopetan diaesityksen
+miksi kannattaa käyttää esittäjänäkymää
+miten testaan esityksen ennen koulutusta

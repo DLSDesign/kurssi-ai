@@ -1,0 +1,98 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Tekstin siirtäminen ja kopioiminen
+
+AIHE:
+Tekstin siirtäminen ja kopioiminen PowerPointissa
+
+TAVOITE:
+Oppia siirtämään ja kopioimaan tekstiä diojen välillä sekä saman dian sisällä.
+
+SELITYS:
+
+Tekstin siirtämisen ja kopioimisen avulla voit käyttää samaa sisältöä useissa kohdissa ilman, että kirjoitat sitä uudelleen.
+
+Siirtäminen tarkoittaa, että teksti poistuu alkuperäisestä paikasta ja siirtyy uuteen paikkaan.
+
+Kopioiminen tarkoittaa, että alkuperäinen teksti säilyy ja siitä tehdään kopio toiseen paikkaan.
+
+OHJE:
+
+Tekstin siirtäminen
+
+1. Valitse siirrettävä teksti.
+2. Valitse Aloitus-välilehden Leikepöytä-ryhmästä Leikkaa.
+3. Vie kohdistin kohtaan, johon haluat siirtää tekstin.
+4. Valitse Leikepöytä-ryhmästä Liitä.
+
+Teksti siirtyy uuteen paikkaan.
+
+Tekstin kopioiminen
+
+1. Valitse kopioitava teksti.
+2. Valitse Aloitus-välilehden Leikepöytä-ryhmästä Kopioi.
+3. Vie kohdistin kohtaan, johon haluat lisätä kopion.
+4. Valitse Leikepöytä-ryhmästä Liitä.
+
+Alkuperäinen teksti säilyy paikallaan ja kopio lisätään uuteen kohtaan.
+
+Sisällön kopioiminen diojen välillä
+
+Voit kopioida tekstiä myös eri diojen välillä.
+
+1. Valitse teksti.
+2. Valitse Kopioi.
+3. Siirry toiseen diaan.
+4. Valitse haluamasi tekstialue.
+5. Valitse Liitä.
+
+Näppäinkomennot
+
+Voit käyttää myös näppäimistöä:
+
+* Ctrl + X = Leikkaa
+* Ctrl + C = Kopioi
+* Ctrl + V = Liitä
+
+HUOM:
+
+Liitettäessä teksti säilyttää yleensä alkuperäisen muotoilunsa. Tarvittaessa voit muokata muotoiluja liittämisen jälkeen.
+
+VINKKI:
+
+Näppäinkomennot nopeuttavat työskentelyä huomattavasti, erityisesti silloin, kun käsittelet paljon dioja tai siirrät sisältöä usein.
+
+HAKUSANAT:
+
+siirrä teksti
+kopioi teksti
+leikkaa
+liitä
+kopioi
+leikepöytä
+tekstin siirtäminen
+tekstin kopioiminen
+powerpoint kopioi
+powerpoint liitä
+powerpoint leikkaa
+ctrl c
+ctrl v
+ctrl x
+tekstin muokkaaminen
+
+TYYPILLISET KYSYMYKSET:
+
+miten siirrän tekstiä PowerPointissa
+miten kopioin tekstiä
+mitä leikkaa tarkoittaa
+miten käytän liitä-toimintoa
+miten kopioin tekstin toiselle dialle
+mitä Ctrl C tekee
+mitä Ctrl V tekee
+mitä Ctrl X tekee
+miten siirrän tekstin toiseen paikkaan
+miten kopioin saman tekstin useaan kohtaan

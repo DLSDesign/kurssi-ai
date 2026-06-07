@@ -1,0 +1,123 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Sisällön kopioiminen muista ohjelmista
+
+AIHE:
+Sisällön kopioiminen ja liittäminen PowerPointiin
+
+TAVOITE:
+Oppia kopioimaan tekstiä, taulukoita ja dioja PowerPoint-esitykseen sekä hyödyntämään olemassa olevaa sisältöä tehokkaasti.
+
+SELITYS:
+
+Esitystä ei tarvitse rakentaa aina alusta asti.
+
+Voit hyödyntää sisältöä esimerkiksi:
+
+* toisesta PowerPoint-esityksestä
+* Word-asiakirjasta
+* Excel-taulukosta
+* sähköpostista
+* verkkosivuilta
+
+Voit kopioida yksittäisiä tekstejä, kuvia, taulukoita tai kokonaisia dioja.
+
+OHJE:
+
+Tekstin kopioiminen toisesta ohjelmasta
+
+1. Avaa tiedosto, jossa kopioitava sisältö sijaitsee.
+2. Valitse haluamasi teksti.
+3. Valitse Kopioi tai paina Ctrl + C.
+4. Siirry PowerPoint-esitykseen.
+5. Vie kohdistin kohtaan, johon haluat liittää tekstin.
+6. Valitse Liitä tai paina Ctrl + V.
+
+PowerPoint lisää tekstin diaan.
+
+Kokonaisen dian kopioiminen
+
+Voit kopioida dioja esityksestä toiseen.
+
+1. Avaa lähde-esitys.
+2. Valitse kopioitava dia vasemman reunan diaruudusta.
+3. Valitse Kopioi tai paina Ctrl + C.
+4. Siirry kohde-esitykseen.
+5. Valitse dia, jonka jälkeen haluat lisätä uuden dian.
+6. Valitse Liitä tai paina Ctrl + V.
+
+PowerPoint lisää kopioidun dian esitykseen.
+
+Excel-taulukon kopioiminen
+
+Voit tuoda Excelissä olevia tietoja PowerPointiin.
+
+1. Avaa Excel-työkirja.
+2. Valitse kopioitava taulukko.
+3. Valitse Kopioi tai paina Ctrl + C.
+4. Siirry PowerPointiin.
+5. Lisää tarvittaessa uusi dia.
+6. Vie kohdistin paikkamerkkiin tai haluamaasi kohtaan diassa.
+7. Valitse Liitä tai paina Ctrl + V.
+
+Taulukko liitetään PowerPoint-diaasi.
+
+Sisällön muokkaaminen
+
+Liittämisen jälkeen voit yleensä muokata sisältöä PowerPointin omilla työkaluilla.
+
+Voit esimerkiksi:
+
+* muuttaa tekstin muotoiluja
+* muuttaa taulukon kokoa
+* siirtää sisältöä
+* muokata värejä ja tyylejä
+
+
+VINKKI:
+
+Käytä näppäinkomentoja aina kun mahdollista.
+
+Yleisimmät komennot ovat:
+
+* Ctrl + C = Kopioi
+* Ctrl + V = Liitä
+* Ctrl + X = Leikkaa
+
+Näppäinkomennot nopeuttavat työskentelyä huomattavasti.
+
+HAKUSANAT:
+
+kopioi sisältö
+liitä sisältö
+powerpoint kopiointi
+kopioi dia
+liitä dia
+kopioi teksti
+kopioi excelistä
+liitä taulukko
+ctrl c
+ctrl v
+leikepöytä
+sisällön siirtäminen
+kopioi wordista powerpointiin
+kopioi excelistä powerpointiin
+käytä olemassa olevaa sisältöä
+
+TYYPILLISET KYSYMYKSET:
+
+miten kopioin tekstiä PowerPointiin
+miten liitän sisältöä diaan
+miten kopioin kokonaisen dian
+miten siirrän dian toiseen esitykseen
+miten kopioin taulukon Excelistä
+miten liitän Excel-taulukon PowerPointiin
+mitä Ctrl C tekee
+mitä Ctrl V tekee
+miten käytän leikepöytää
+miten kopioin sisältöä Wordista PowerPointiin
+miten siirrän sisältöä esitysten välillä

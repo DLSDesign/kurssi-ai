@@ -1,0 +1,76 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VERSIO: verkkoversio
+
+VIDEO: Asiakirjan tallentaminen PDF-muotoon
+
+AIHE:
+Asiakirjan tallentaminen PDF-muotoon
+
+TAVOITE:
+Oppia tallentamaan Word-asiakirja PDF-muotoon, jotta sitä voidaan jakaa helposti ilman muokkausmahdollisuutta.
+
+SELITYS:
+
+PDF on yleinen tiedostomuoto asiakirjojen jakamiseen.
+
+PDF-tiedoston etuja ovat:
+
+* asiakirjan ulkoasu säilyy samanlaisena kaikilla laitteilla
+* vastaanottaja ei tarvitse Word-ohjelmaa tiedoston avaamiseen
+* tiedostoa ei voi muokata yhtä helposti kuin Word-asiakirjaa
+
+OHJE:
+
+1. Tarkista asiakirja ja tee siihen tarvittaessa muutoksia.
+2. Siirry Tiedosto-välilehdelle.
+3. Valitse Vie.
+4. Valitse Lataa PDF-tiedostona.
+5. Napsauta Lataa-painiketta.
+
+Word luo asiakirjasta PDF-tiedoston.
+
+PDF-tiedosto tallentuu yleensä tietokoneesi Lataukset-kansioon.
+
+Voit siirtää tiedoston myöhemmin haluamaasi kansioon tai lähettää sen esimerkiksi sähköpostin liitetiedostona.
+
+HUOM:
+
+* PDF-tiedoston ulkoasu perustuu asiakirjan nykyiseen sisältöön.
+* Tee tarvittavat korjaukset ennen PDF:n luomista.
+* Jos muutat Word-asiakirjaa myöhemmin, PDF täytyy luoda uudelleen, jotta muutokset näkyvät myös PDF-tiedostossa.
+
+VINKKI:
+
+Avaa PDF-tiedosto vielä tallentamisen jälkeen ja tarkista, että kaikki sivut, kuvat ja muotoilut näkyvät oikein.
+
+HAKUSANAT:
+
+pdf
+pdf-muoto
+tallenna pdf
+lataa pdf
+word pdf
+vie pdf
+asiakirja pdf-muotoon
+pdf-tiedosto
+lataa pdf-tiedostona
+jaa asiakirja
+julkaise pdf
+word vienti
+pdf tallennus
+
+TYYPILLISET KYSYMYKSET:
+
+miten tallennan Wordin PDF-muotoon
+miten teen PDF-tiedoston Wordista
+miten lataan asiakirjan PDF:nä
+miten vien asiakirjan PDF-muotoon
+mihin PDF tallentuu
+miten jaan Word-asiakirjan ilman muokkausmahdollisuutta
+miten lähetän asiakirjan PDF:nä
+miksi PDF ei sisällä uusimpia muutoksia
+miten tarkistan PDF-tiedoston
+miten julkaisen asiakirjan PDF-muodossa

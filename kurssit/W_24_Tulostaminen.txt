@@ -1,0 +1,134 @@
+TYYPPI: video
+
+OHJELMA: Word
+
+VERSIO: verkkoversio
+
+VIDEO: Asiakirjan tulostaminen
+
+AIHE:
+Asiakirjan tulostaminen Wordissa
+
+TAVOITE:
+Oppia tulostamaan asiakirja ja käyttämään yleisimpiä tulostusasetuksia Wordissa.
+
+SELITYS:
+
+Ennen tulostamista kannattaa tarkistaa, miltä asiakirja näyttää paperilla.
+
+Tulostuksen esikatselussa voit nähdä:
+
+* asiakirjan sivut
+* sivujen määrän
+* tulostusasetusten vaikutukset
+
+Näin voit varmistaa, että asiakirja tulostuu haluamallasi tavalla.
+
+OHJE:
+
+Tulostusnäkymän avaaminen
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Tulosta.
+
+Word avaa tulostusnäkymän.
+
+Näet samalla:
+
+* tulostusasetukset
+* asiakirjan esikatselun
+
+Tulostettavien sivujen valitseminen
+
+Voit määrittää, mitä sivuja tulostetaan.
+
+Vaihtoehtoja ovat esimerkiksi:
+
+* Kaikki sivut
+* Nykyinen sivu
+* Mukautettu sivualue
+
+Jos valitset mukautetun sivualueen, kirjoita tulostettavat sivunumerot sille varattuun kenttään.
+
+Tulostettavien kopioiden määrä
+
+Voit määrittää, kuinka monta kopiota asiakirjasta tulostetaan.
+
+Kirjoita haluamasi määrä Kopiot-kenttään.
+
+Usean sivun tulostaminen samalle arkille
+
+Voit määrittää, montako asiakirjan sivua tulostetaan yhdelle paperiarkille.
+
+Tämä voi säästää paperia esimerkiksi luonnoksia tulostettaessa.
+
+Tulostimen valitseminen
+
+Valitse käytettävä tulostin tulostinluettelosta.
+
+Tietokoneessa voi olla esimerkiksi:
+
+* paperitulostin
+* PDF-tulostin
+* verkkotulostin
+
+Tulostuksen käynnistäminen
+
+Kun asetukset ovat valmiit:
+
+1. Valitse Tulosta.
+
+Word lähettää asiakirjan valitulle tulostimelle.
+
+Tulostaminen PDF-tiedostoksi
+
+Jos valitset PDF-tulostimen:
+
+1. Valitse PDF-tulostin tulostinluettelosta.
+2. Valitse Tulosta.
+3. Määritä tiedostolle tallennuspaikka.
+4. Anna tiedostolle nimi.
+5. Tallenna tiedosto.
+
+Word luo asiakirjasta PDF-version valitsemaasi kansioon.
+
+HUOM:
+
+* Jos et muuta asetuksia, Word tulostaa koko asiakirjan.
+* PDF-tulostus säilyttää asiakirjan ulkoasun alkuperäisenä.
+* PDF-tiedosto on helppo lähettää sähköpostilla tai jakaa muille.
+
+VINKKI:
+
+Tarkista aina tulostuksen esikatselu ennen tulostamista. Näin huomaat mahdolliset ongelmat, kuten väärät sivunvaihdot tai puuttuvat sisällöt ennen paperin tai PDF-tiedoston luomista.
+
+HAKUSANAT:
+
+tulostaminen
+tulosta
+word tulostus
+tulostuksen esikatselu
+tulosta asiakirja
+tulosta pdf
+pdf-tulostus
+tulostettavat sivut
+sivualue
+kopiot
+tulostin
+pdf-tiedosto
+tallenna pdf
+tiedosto tulostus
+word tulostin
+
+TYYPILLISET KYSYMYKSET:
+
+miten tulostan asiakirjan Wordissa
+miten tulostan vain tietyt sivut
+miten tulostan pdf-tiedoston
+miten valitsen tulostimen
+miten tulostan useita kopioita
+miten tulostan vain yhden sivun
+miten tallennan asiakirjan pdf-muotoon
+miten käytän tulostuksen esikatselua
+miten tulostan useita sivuja yhdelle arkille
+miksi asiakirja ei tulostu

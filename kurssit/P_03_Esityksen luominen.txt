@@ -1,0 +1,183 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Esityksen luominen
+
+AIHE:
+Uuden esityksen luominen PowerPointissa
+
+TAVOITE:
+Oppia luomaan uusi esitys, lisäämään dioja, käyttämään erilaisia diarakenneita, valitsemaan teema ja nimeämään esitys.
+
+SELITYS:
+
+PowerPoint-esitys koostuu dioista.
+
+Jokaisella dialla voi olla oma rakenne sen mukaan, sisältääkö dia esimerkiksi:
+
+* otsikon
+* tekstiä
+* kuvia
+* taulukoita
+* kaavioita
+
+Kun opit käyttämään diarakenneita ja teemoja, esityksestä tulee yhtenäinen ja ammattimaisen näköinen.
+
+OHJE:
+
+Uuden esityksen luominen
+
+1. Avaa PowerPoint.
+2. Valitse Tyhjä esitys.
+
+PowerPoint luo uuden esityksen, jossa on valmiina otsikkodia.
+
+Kirjoita diaan esimerkiksi:
+
+* esityksen otsikko
+* alaotsikko
+* oma nimesi
+
+Uuden dian lisääminen
+
+Voit lisätä esitykseen uusia dioja näin:
+
+1. Siirry Aloitus-välilehdelle.
+2. Valitse Uusi dia.
+
+PowerPoint lisää uuden dian esitykseen.
+
+Diarakenteen valitseminen
+
+Dioilla voi olla erilaisia rakenteita.
+
+Voit valita rakenteen esimerkiksi:
+
+* otsikolle
+* tekstille
+* kuville
+* vertailuille
+* kahdelle sisältöalueelle
+
+Vaihda rakenne näin:
+
+1. Napsauta dian pienoiskuvaa hiiren kakkospainikkeella.
+2. Valitse Rakenne.
+3. Valitse haluamasi diarakenne.
+
+Voit vaihtaa rakenteen milloin tahansa.
+
+Paikkamerkkien käyttäminen
+
+Dioissa näkyviä katkoviivalla rajattuja alueita kutsutaan paikkamerkeiksi.
+
+Paikkamerkkeihin voidaan lisätä esimerkiksi:
+
+* tekstiä
+* kuvia
+* taulukoita
+* SmartArt-kaavioita
+* kuvakkeita
+* videoita
+
+Napsauta paikkamerkin kuvaketta lisätäksesi haluamasi sisällön.
+
+Teeman valitseminen
+
+Teema määrittää esityksen yleisen ulkoasun.
+
+Valitse teema näin:
+
+1. Siirry Rakenne-välilehdelle.
+2. Avaa Teemat-valikoima.
+3. Valitse haluamasi teema.
+
+Valittu teema otetaan käyttöön koko esityksessä.
+
+Teeman värien vaihtaminen
+
+Monista teemoista löytyy useita värivaihtoehtoja.
+
+Voit vaihtaa niitä näin:
+
+1. Siirry Rakenne-välilehdelle.
+2. Valitse Variantit.
+3. Valitse haluamasi värimalli.
+
+Esityksen nimeäminen
+
+PowerPoint tallentaa tiedoston automaattisesti OneDriveen.
+
+Nimeä tiedosto näin:
+
+1. Napsauta vasemmassa yläkulmassa näkyvää tiedoston nimeä.
+2. Kirjoita esitykselle uusi nimi.
+3. Hyväksy nimi.
+
+Taustavärin muuttaminen
+
+Voit vaihtaa dian taustavärin näin:
+
+1. Siirry Rakenne-välilehdelle.
+2. Valitse Tausta.
+3. Valitse Tasainen täyttö.
+4. Valitse haluamasi väri.
+
+Taustakuvan lisääminen
+
+Voit käyttää myös kuvaa dian taustana.
+
+1. Siirry Rakenne-välilehdelle.
+2. Valitse Tausta.
+3. Valitse Lisää kuva.
+4. Valitse kuva haluamastasi sijainnista.
+
+PowerPoint lisää kuvan dian taustaksi.
+
+HUOM:
+
+* Teema vaikuttaa kaikkiin esityksen dioihin.
+* Dian rakennetta voi vaihtaa myös sen jälkeen, kun diaan on lisätty sisältöä.
+* Paikkamerkit helpottavat sisällön sijoittamista oikeisiin kohtiin.
+
+VINKKI:
+
+Valitse teema heti esityksen alussa. Näin kaikki uudet diat saavat automaattisesti saman ulkoasun eikä esitystä tarvitse muokata myöhemmin dia kerrallaan.
+
+HAKUSANAT:
+
+uusi esitys
+tyhjä esitys
+uusi dia
+diarakenne
+rakenne
+paikkamerkki
+powerpoint teema
+teemat
+variantit
+esityksen nimeäminen
+tiedoston nimi
+taustaväri
+taustakuva
+smartart
+kuvakkeet
+powerpoint verkkoversio
+esityksen luominen
+
+TYYPILLISET KYSYMYKSET:
+
+miten teen uuden esityksen
+miten lisään uuden dian
+miten vaihdan dian rakennetta
+mikä on paikkamerkki
+miten lisään kuvan diaan
+miten lisään taulukon diaan
+miten valitsen teeman
+miten vaihdan teeman värit
+miten nimeän esityksen
+miten vaihdan dian taustavärin
+miten lisään taustakuvan
+miten teen esityksestä yhtenäisen

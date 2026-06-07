@@ -1,0 +1,267 @@
+ TYYPPI: ohje
+
+OHJELMA: Excel
+
+AIHE: Excelin parhaat vinkit aloittelijalle
+
+TAVOITE:
+Oppia käyttämään Exceliä sujuvammin sekä välttämään yleisimpiä virheitä taulukoiden, laskelmien ja tietojen käsittelyssä.
+
+---
+
+ Älä kirjoita laskujen vastauksia käsin
+
+Excel on laskentaohjelma.
+
+Jos luvut voivat muuttua myöhemmin, käytä kaavaa.
+
+Esimerkiksi:
+
+* Älä kirjoita summaa käsin.
+* Käytä SUMMA-funktiota.
+
+Näin tulokset päivittyvät automaattisesti, kun lähtötiedot muuttuvat.
+
+---
+
+ Käytä Excelin valmiita taulukkomuotoiluja
+
+Kun tietoja on enemmän kuin muutama rivi:
+
+1. Valitse tiedot.
+2. Siirry Aloitus-välilehdelle.
+3. Valitse Muotoile taulukkona.
+
+Saat käyttöösi:
+
+* automaattiset suodattimet
+* selkeän ulkoasun
+* helpomman tietojen käsittelyn
+
+---
+
+ Käytä suodatusta tietojen etsimiseen
+
+Pitkiä luetteloita ei tarvitse selata käsin.
+
+Suodattimien avulla voit näyttää vain haluamasi tiedot.
+
+Esimerkiksi:
+
+* tietyn henkilön tiedot
+* yhden osaston tiedot
+* vain tietyt tuotteet
+
+---
+
+ Käytä lajittelua tietojen järjestämiseen
+
+Voit järjestää tiedot nopeasti:
+
+* aakkosjärjestykseen
+* numerojärjestykseen
+* päivämäärän mukaan
+
+Näin tietojen tarkastelu helpottuu huomattavasti.
+
+---
+
+ Käytä täyttökahvaa
+
+Täyttökahva on yksi Excelin hyödyllisimmistä työkaluista.
+
+Voit kopioida sillä esimerkiksi:
+
+* kaavoja
+* päivämääriä
+* kuukausia
+* viikonpäiviä
+* numeroita
+
+Vedä solun oikeassa alakulmassa olevasta täyttökahvasta.
+
+---
+
+ Tarkista aina aktiivinen solu
+
+Moni virhe johtuu siitä, että tiedot kirjoitetaan väärään soluun.
+
+Ennen kirjoittamista varmista:
+
+* mikä solu on aktiivinen
+* näkyykö sen ympärillä reunaviiva
+
+---
+
+ Käytä kaavoissa soluviittauksia
+
+Älä kirjoita kaavaan lukuja käsin, jos tiedot löytyvät soluista.
+
+Huono tapa:
+
+=100+250
+
+Parempi tapa:
+
+=A1+B1
+
+Näin kaava päivittyy automaattisesti.
+
+---
+
+ Käytä oikeaa tietomuotoa
+
+Excel osaa käsitellä tietoja paremmin, kun niille määritetään oikea muoto.
+
+Esimerkiksi:
+
+* Valuutta
+* Päivämäärä
+* Prosentti
+* Luku
+
+Oikea muotoilu tekee taulukosta selkeämmän.
+
+---
+
+ Hyödynnä kaavioita
+
+Kaavio auttaa hahmottamaan tietoja nopeasti.
+
+Yleisimmät kaaviot:
+
+* Pylväskaavio vertailuun
+* Viivakaavio muutosten seuraamiseen
+* Ympyräkaavio osuuksien esittämiseen
+
+Kaaviot päivittyvät automaattisesti tietojen muuttuessa.
+
+---
+
+ Käytä ehdollista muotoilua
+
+Ehdollinen muotoilu auttaa löytämään tärkeät tiedot.
+
+Voit esimerkiksi korostaa:
+
+* suurimmat arvot
+* pienimmät arvot
+* määräajan ylittäneet päivämäärät
+* poikkeavat luvut
+
+Näin tärkeät tiedot erottuvat heti.
+
+---
+
+ Käytä jäädytystä suurissa taulukoissa
+
+Jos taulukossa on paljon rivejä:
+
+1. Siirry Näytä-välilehdelle.
+2. Valitse Jäädytä ruudut.
+
+Näin otsikot pysyvät näkyvissä vieritettäessä.
+
+---
+
+ Älä käytä tyhjiä rivejä keskellä taulukkoa
+
+Tyhjät rivit voivat aiheuttaa ongelmia:
+
+* lajittelussa
+* suodatuksessa
+* kaavoissa
+
+Pidä tiedot yhtenäisenä taulukkona aina kun mahdollista.
+
+---
+
+ Tarkista virheilmoitukset
+
+Excel kertoo usein itse, mikä on ongelma.
+
+Yleisiä virheitä ovat:
+
+* JAKO/0!
+* NIMI?
+* ARVO!
+* PUUTTUU!
+
+Virheilmoituksia ei kannata jättää huomiotta.
+
+---
+
+ Käytä PDF-muotoa tiedostojen jakamiseen
+
+Kun taulukko on valmis:
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Vie.
+3. Valitse Lataa PDF-tiedostona.
+
+PDF säilyttää ulkoasun samanlaisena kaikilla vastaanottajilla.
+
+---
+
+ Tarkista tulostuksen esikatselu aina ennen tulostamista
+
+Ennen tulostamista:
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Tulosta.
+
+Tarkista erityisesti:
+
+* mahtuvatko kaikki sarakkeet sivulle
+* onko sivun suunta oikein
+* näkyvätkö otsikot
+
+---
+
+ Käytä näppäinkomentoja
+
+Yleisimmät näppäinkomennot:
+
+* Ctrl + C = Kopioi
+* Ctrl + X = Leikkaa
+* Ctrl + V = Liitä
+* Ctrl + Z = Kumoa
+* Ctrl + Y = Tee uudelleen
+* Ctrl + A = Valitse kaikki
+* Ctrl + S = Tallenna
+* Ctrl + F = Hae
+* Ctrl + H = Korvaa
+
+---
+
+ Yleisin virhe
+
+Aloittelijat käyttävät Exceliä kuin tekstinkäsittelyohjelmaa.
+
+Excel toimii parhaiten, kun:
+
+* tiedot ovat taulukkomuodossa
+* laskennassa käytetään kaavoja
+* tiedot pidetään yhtenäisenä alueena
+* otsikot ovat omalla rivillään
+
+Näin Excel pystyy hyödyntämään tietoja tehokkaasti.
+
+---
+
+ VINKKI: Käytä Hae-toimintoa työkalujen löytämiseen
+
+Jos et löydä jotakin toimintoa:
+
+1. Napsauta yläreunan Hae-kenttää.
+2. Kirjoita esimerkiksi:
+
+   * kaavio
+   * suodatus
+   * jäädytä
+   * summa
+   * tulostus
+
+Excel näyttää suoraan oikean komennon.
+
+Tämä on usein nopein tapa löytää harvemmin käytetty toiminto.

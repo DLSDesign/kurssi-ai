@@ -1,0 +1,140 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Tekstin muotoileminen
+
+AIHE:
+Tekstin muotoileminen PowerPointissa
+
+TAVOITE:
+Oppia muotoilemaan dian tekstiä sekä käyttämään yleisimpiä tekstin muotoilutyökaluja.
+
+SELITYS:
+
+Tekstin muotoilu auttaa tekemään esityksestä selkeämmän ja helpommin luettavan.
+
+Muotoilujen avulla voit esimerkiksi:
+
+* korostaa tärkeitä asioita
+* parantaa esityksen ulkoasua
+* tehdä otsikoista erottuvia
+* yhtenäistää esityksen ilmettä
+
+Perusperiaate on aina sama:
+
+1. Valitse muotoiltava teksti.
+2. Valitse haluamasi muotoilu.
+
+OHJE:
+
+Tekstin valitseminen
+
+1. Maalaa hiirellä se teksti, jonka haluat muotoilla.
+2. Valitse haluamasi muotoilu valintanauhasta.
+
+Fontin vaihtaminen
+
+Voit vaihtaa fontin näin:
+
+1. Valitse teksti.
+2. Avaa Aloitus-välilehden Fontti-nimi-luettelo.
+3. Valitse haluamasi fontti.
+
+Fonttikoon muuttaminen
+
+Voit muuttaa fonttikokoa näin:
+
+1. Valitse teksti.
+2. Valitse uusi koko Fonttikoko-luettelosta.
+
+Voit myös käyttää:
+
+* Suurenna fonttikokoa -painiketta
+* Pienennä fonttikokoa -painiketta
+
+Tekstin lihavointi
+
+Voit korostaa tekstiä lihavoimalla.
+
+1. Valitse teksti.
+2. Napsauta Lihavointi-painiketta.
+
+Tekstin kursivointi
+
+Voit korostaa tekstiä kursivoimalla.
+
+1. Valitse teksti.
+2. Napsauta Kursivointi-painiketta.
+
+Tekstin värin muuttaminen
+
+Voit vaihtaa tekstin värin näin:
+
+1. Valitse teksti.
+2. Avaa Fontin väri -painikkeen valikko.
+3. Valitse haluamasi väri.
+
+Pikavalikon käyttäminen
+
+Kun valitset tekstiä, näkyviin tulee usein pikavalikko.
+
+Pikavalikosta löydät nopeasti yleisimmät muotoilut, kuten:
+
+* fontin
+* fonttikoon
+* lihavoinnin
+* kursivoinnin
+* tekstin värin
+
+Koko paikkamerkin muotoileminen
+
+Jos haluat muotoilla kaikki paikkamerkin sisältämät tekstit samalla kertaa:
+
+1. Napsauta paikkamerkin reunaviivaa.
+2. Valitse haluamasi muotoilu.
+
+Muotoilu kohdistuu tällöin koko paikkamerkin sisältöön.
+
+HUOM:
+
+Jos muotoilu ei vaikuta kaikkeen tekstiin, tarkista oletko valinnut yksittäisen tekstin vai koko paikkamerkin.
+
+VINKKI:
+
+Käytä esityksessä vain muutamaa fonttia ja väriä. Yhtenäinen ulkoasu tekee dioista ammattimaisempia ja helpompia lukea.
+
+HAKUSANAT:
+
+tekstin muotoilu
+powerpoint muotoilu
+fontti
+fonttikoko
+lihavointi
+kursivointi
+tekstin väri
+fontin väri
+pikavalikko
+paikkamerkki
+tekstin korostaminen
+tekstin ulkoasu
+muotoile teksti
+powerpoint fontti
+powerpoint teksti
+
+TYYPILLISET KYSYMYKSET:
+
+miten muotoilen tekstiä PowerPointissa
+miten vaihdan fontin
+miten vaihdan fonttikoon
+miten suurennan tekstiä
+miten pienennän tekstiä
+miten lihavoin tekstin
+miten kursivoin tekstin
+miten vaihdan tekstin värin
+mikä on pikavalikko
+miten muotoilen koko paikkamerkin
+miten korostan tärkeää tekstiä
+miten teen dioista selkeämmät

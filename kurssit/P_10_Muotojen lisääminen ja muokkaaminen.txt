@@ -1,0 +1,201 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Muotojen lisääminen ja muokkaaminen
+
+AIHE:
+Muotojen käyttäminen PowerPointissa
+
+TAVOITE:
+Oppia lisäämään muotoja dioihin sekä muokkaamaan niiden ulkoasua, sijaintia ja järjestystä.
+
+SELITYS:
+
+Muodot ovat hyödyllisiä visuaalisia elementtejä, joiden avulla voit korostaa sisältöä, havainnollistaa asioita ja rakentaa selkeitä kaavioita.
+
+PowerPointissa voit käyttää esimerkiksi:
+
+* suorakulmioita
+* ympyröitä
+* nuolia
+* viivoja
+* puhekuplia
+
+OHJE:
+
+Muodon lisääminen
+
+1. Siirry Lisää-välilehdelle.
+2. Valitse Muodot.
+3. Valitse haluamasi muoto.
+4. Piirrä muoto diaan hiirellä vetämällä.
+
+Tekstin lisääminen muotoon
+
+1. Valitse muoto.
+2. Kirjoita teksti suoraan muodon sisään.
+
+Tekstin muotoileminen
+
+Voit muokata muodon sisällä olevaa tekstiä normaalien tekstityökalujen avulla.
+
+1. Valitse teksti.
+2. Siirry Aloitus-välilehdelle.
+3. Muuta esimerkiksi:
+
+* fonttia
+* fonttikokoa
+* väriä
+* lihavointia
+
+Muodon muokkaaminen
+
+Kun muoto on valittuna, näkyviin tulee Muoto-välilehti.
+
+Voit käyttää esimerkiksi seuraavia työkaluja:
+
+Muodon tyylit
+
+Valmiit tyylit muuttavat nopeasti muodon ulkoasua valitun teeman mukaisesti.
+
+Muodon täyttö
+
+Voit vaihtaa muodon taustavärin.
+
+Muodon ääriviiva
+
+Voit muuttaa:
+
+* reunaviivan väriä
+* viivan paksuutta
+* viivan tyyliä
+
+Muotoilusivellin
+
+Muotoilusiveltimellä voit kopioida yhden objektin muotoilut toiseen.
+
+1. Valitse objekti, jonka muotoilut haluat kopioida.
+2. Valitse Aloitus-välilehden Muotoilusivellin.
+3. Napsauta objektia, johon haluat kopioida muotoilut.
+
+Muotojen kopioiminen
+
+Voit kopioida muodon näin:
+
+1. Valitse muoto.
+2. Paina Ctrl + C.
+3. Paina Ctrl + V.
+
+Voit liittää saman muodon useita kertoja, koska se säilyy leikepöydällä.
+
+Voit käyttää myös Aloitus-välilehden Kopioi- ja Liitä-painikkeita.
+
+Muotojen siirtäminen
+
+1. Valitse muoto.
+2. Vedä sitä hiirellä haluamaasi paikkaan.
+
+PowerPoint näyttää apuviivoja, jotka auttavat kohdistamaan objektit siististi.
+
+Objektien tasaaminen
+
+Voit tasata useita objekteja tarkasti.
+
+1. Valitse objektit.
+2. Pidä Vaihto-näppäin painettuna, jos haluat valita useita objekteja.
+3. Siirry Muoto-välilehdelle.
+4. Valitse Tasaa.
+
+Voit esimerkiksi:
+
+* tasata yläreunaan
+* tasata alareunaan
+* tasata vasemmalle
+* tasata oikealle
+* keskittää objektit
+
+Tasaa diaan
+
+Tasaa objektit suhteessa koko diaan.
+
+Tasaa valitut objektit
+
+Tasaa objektit suhteessa toisiinsa.
+
+Objektien järjestyksen muuttaminen
+
+Jokainen objekti sijaitsee omalla tasollaan.
+
+Voit muuttaa objektien järjestystä näin:
+
+1. Valitse objekti.
+2. Siirry Muoto-välilehdelle.
+3. Valitse:
+
+* Siirrä eteenpäin
+* Siirrä taaksepäin
+
+Voit myös:
+
+* tuoda objektin päällimmäiseksi
+* siirtää objektin taaimmaiseksi
+
+Muodon kiertäminen
+
+Voit kiertää muotoja samalla tavalla kuin kuvia.
+
+1. Valitse muoto.
+2. Vedä kiertokahvasta.
+
+Tai
+
+1. Käytä Muoto-välilehden kiertotyökaluja.
+
+HUOM:
+
+Kun dioilla on paljon objekteja, niiden tasaaminen ja järjestäminen auttaa pitämään esityksen siistinä ja helposti luettavana.
+
+VINKKI:
+
+Käytä Muotoilusivellintä aina, kun haluat useiden objektien näyttävän samanlaisilta. Se säästää paljon aikaa verrattuna muotoilujen tekemiseen yksitellen.
+
+HAKUSANAT:
+
+muodot
+lisää muoto
+powerpoint muodot
+suorakulmio
+ympyrä
+nuoli
+viiva
+puhekupla
+muodon täyttö
+muodon ääriviiva
+muodon tyyli
+muotoilusivellin
+kopioi muotoilu
+objektien tasaus
+tasaa objektit
+siirrä eteenpäin
+siirrä taaksepäin
+objektien järjestys
+kierrä muoto
+powerpoint grafiikka
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään muodon PowerPointiin
+miten piirrän nuolen
+miten vaihdan muodon värin
+miten muutan reunaviivan väriä
+miten lisään tekstiä muotoon
+miten käytän muotoilusivellintä
+miten kopioin muodon
+miten tasaan objekteja
+miten siirrän objektin toisen päälle
+miten vaihdan objektien järjestystä
+miten kierrän muotoa
+miten teen siistin asettelun PowerPointissa

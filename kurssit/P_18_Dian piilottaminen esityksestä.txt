@@ -1,0 +1,89 @@
+Hyvä huomio. PowerPointin **verkkoversiossa** Piilota dia -toiminto ei ole samalla tavalla Diaesitys-välilehdellä kuin työpöytäversiossa.
+
+Jos kurssi käsittelee vain verkkoversiota, ohje kannattaa kirjoittaa näin:
+
+---
+
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Dian piilottaminen
+
+AIHE:
+Dian piilottaminen ja näyttäminen
+
+TAVOITE:
+Oppia piilottamaan dia väliaikaisesti esityksestä ja palauttamaan se myöhemmin näkyviin.
+
+SELITYS:
+
+Joskus esityksessä on dioja, joita ei haluta näyttää kaikille yleisöille tai kaikissa tilanteissa.
+
+Tällöin diaa ei tarvitse poistaa kokonaan. Voit piilottaa sen.
+
+Piilotettu dia:
+
+* säilyy esityksessä
+* voidaan edelleen muokata
+* ei näy diaesityksen aikana
+* voidaan palauttaa näkyviin milloin tahansa
+
+OHJE:
+
+Dian piilottaminen
+
+1. Valitse dia vasemman reunan dian pienoiskuvista.
+2. Napsauta diaa hiiren kakkospainikkeella.
+3. Valitse Piilota dia.
+
+Dia merkitään piilotetuksi.
+
+Piilotetun dian tunnistaminen
+
+Piilotettu dia näkyy edelleen diojen luettelossa.
+
+Dian numeron yhteydessä näkyvä merkintä kertoo, että dia on piilotettu diaesityksestä.
+
+Dian palauttaminen näkyviin
+
+1. Napsauta piilotettua diaa hiiren kakkospainikkeella.
+2. Valitse Piilota dia uudelleen.
+
+Valinta poistuu ja dia palautuu näkyviin esitykseen.
+
+HUOM:
+
+Piilotettu dia näkyy normaalisti muokkausnäkymässä, mutta sitä ei näytetä diaesityksen aikana.
+
+VINKKI:
+
+Dian piilottaminen on hyödyllistä silloin, kun haluat käyttää samaa esitystä eri tilanteissa ilman, että poistat dioja pysyvästi.
+
+HAKUSANAT:
+
+piilota dia
+piilotettu dia
+powerpoint piilota dia
+tuo esiin dia
+näytä dia
+piilotettu diaesityksessä
+dian palauttaminen
+esityksen hallinta
+piilotetut diat
+
+TYYPILLISET KYSYMYKSET:
+
+miten piilotan dian PowerPointissa
+miten tuon piilotetun dian takaisin näkyviin
+mitä piilota dia tarkoittaa
+näkyykö piilotettu dia muokkausnäkymässä
+miksi dia ei näy esityksessä
+miten palautan piilotetun dian
+voinko piilottaa useita dioja
+poistuuko dia esityksestä kokonaan
+miten teen eri versioita samasta esityksestä
+
+

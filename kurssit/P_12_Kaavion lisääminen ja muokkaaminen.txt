@@ -1,0 +1,157 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Kaavioiden luominen
+
+AIHE:
+Kaavioiden lisääminen ja muokkaaminen 
+
+TAVOITE:
+Oppia lisäämään kaavioita dioihin sekä muokkaamaan niiden tietoja ja ulkoasua.
+
+SELITYS:
+
+Kaavioiden avulla voit esittää tietoja visuaalisessa muodossa, jolloin niiden vertailu ja tulkinta on helpompaa.
+
+Yleisimpiä kaaviotyyppejä ovat:
+
+* pylväskaavio
+* palkkikaavio
+* viivakaavio
+* ympyräkaavio
+
+Jos käsiteltävää tietoa on paljon, kaavio kannattaa yleensä tehdä Excelissä ja tuoda valmiina PowerPoint-esitykseen.
+
+OHJE:
+
+Kaavion lisääminen
+
+Voit lisätä kaavion kahdella tavalla:
+
+* dian paikkamerkin Lisää kaavio -painikkeella
+* Lisää-välilehden Kaavio-komennolla
+
+Tee näin:
+
+1. Napsauta Lisää kaavio -painiketta tai valitse Lisää-välilehdeltä Kaavio.
+2. Valitse haluamasi kaaviotyyppi.
+3. Valitse haluamasi kaaviomalli.
+4. Hyväksy valinta.
+
+PowerPoint lisää kaavion diaan.
+
+Tietojen syöttäminen kaavioon
+
+Kaavion lisäämisen jälkeen PowerPoint avaa tietojen syöttämistä varten Excel-taulukon.
+
+1. Napsauta Muokkaa tietoja -painiketta tarvittaessa.
+2. Syötä omat tiedot taulukkoon.
+3. Korvaa esimerkkitiedot omillasi.
+
+Kaavio päivittyy automaattisesti tietojen muuttuessa.
+
+Rivien ja sarakkeiden poistaminen
+
+Jos tarvitset vähemmän tietoja:
+
+1. Valitse poistettava rivi tai sarake Excel-taulukossa.
+2. Siirry Excelin Aloitus-välilehdelle.
+3. Valitse Poista.
+4. Valitse Poista rivit tai Poista sarakkeet.
+
+Kun tiedot ovat valmiit:
+
+1. Sulje Excel-taulukko selaimen välilehden sulkupainikkeesta.
+
+Tietojen muokkaaminen myöhemmin
+
+Voit palata tietojen syöttötaulukkoon myöhemmin.
+
+1. Valitse kaavio.
+2. Valitse Muokkaa tietoja.
+
+Excel-taulukko avautuu uudelleen.
+
+Kaavion otsikon muuttaminen
+
+1. Kaksoisnapsauta kaavion otsikkoa.
+
+Tai
+
+1. Valitse kaavio.
+2. Muokkaa otsikkoa ohjelmaikkunan oikeassa reunassa näkyvistä asetuksista.
+
+Kirjoita uusi otsikko.
+
+Kaaviotyypin vaihtaminen
+
+1. Valitse kaavio.
+2. Avaa kaavion asetukset.
+3. Valitse uusi kaaviotyyppi.
+
+Voit vaihtaa esimerkiksi:
+
+* pylväskaavion viivakaavioksi
+* ympyräkaavion palkkikaavioksi
+
+Arvopisteiden näyttäminen
+
+Arvopisteiden avulla voit näyttää tarkat luvut suoraan kaaviossa.
+
+1. Valitse kaavio.
+2. Valitse Kaavion elementit.
+3. Ota käyttöön Arvopisteiden otsikot.
+
+PowerPoint näyttää arvot suoraan kaavion yhteydessä.
+
+Kaavion koon muuttaminen
+
+1. Valitse kaavio.
+2. Vedä kulmissa olevista muokkauskahvoista.
+
+Näin voit suurentaa tai pienentää kaaviota.
+
+HUOM:
+
+Kaavion tarkoitus on helpottaa tiedon ymmärtämistä. Käytä vain sellaista kaaviotyyppiä, joka tukee esitettävää tietoa.
+
+VINKKI:
+
+Pylväskaavio sopii hyvin eri arvojen vertailuun, kun taas viivakaavio soveltuu erityisesti muutosten seuraamiseen ajan kuluessa.
+
+HAKUSANAT:
+
+kaavio
+powerpoint kaavio
+lisää kaavio
+pylväskaavio
+palkkikaavio
+viivakaavio
+ympyräkaavio
+kaavion tiedot
+muokkaa tietoja
+excel taulukko
+kaavion otsikko
+arvopisteet
+kaavion elementit
+kaaviotyyppi
+muuta kaaviota
+graafinen esitys
+
+TYYPILLISET KYSYMYKSET:
+
+miten teen kaavion PowerPointissa
+miten lisään kaavion
+miten syötän tiedot kaavioon
+miten muokkaan kaavion tietoja
+miten vaihdan kaaviotyypin
+miten lisään arvot kaavioon
+miten muutan kaavion otsikkoa
+miten suurennan kaaviota
+miten poistan rivejä kaaviosta
+miten poistan sarakkeita kaaviosta
+miten käytän Exceliä kaavion tekemisessä
+miten teen pylväskaavion PowerPointissa

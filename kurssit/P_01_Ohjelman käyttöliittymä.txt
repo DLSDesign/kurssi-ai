@@ -1,0 +1,145 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Ohjelman avaaminen ja työkalut
+
+AIHE:
+PowerPointin käyttöliittymä ja työkalut
+
+TAVOITE:
+Oppia tuntemaan PowerPointin verkkoversion käyttöliittymä ja yleisimmät työkalut.
+
+SELITYS:
+
+PowerPointilla luot esityksiä, jotka koostuvat dioista.
+
+Ennen varsinaisen sisällön tekemistä kannattaa tutustua ohjelman käyttöliittymään ja tärkeimpiin työkaluihin. Kun tiedät, mistä työkalut löytyvät, työskentely nopeutuu huomattavasti.
+
+OHJE:
+
+Valintanauhan käyttäminen
+
+PowerPointin yläreunassa näkyvät ohjelman välilehdet, kuten:
+
+* Tiedosto
+* Aloitus
+* Lisää
+* Piirto
+* Suunnittelu
+* Siirtymät
+* Animaatiot
+* Esitys
+* Tarkista
+* Näytä
+
+Kun napsautat välilehteä, sen työkalut tulevat näkyviin valintanauhalle.
+
+Valintanauhan laajentaminen
+
+Jos näet työkaluja vain yhdellä rivillä:
+
+1. Napsauta oikeassa yläkulmassa olevaa nuolikuvaketta.
+2. Valitse Perinteinen valintanauha.
+
+Näin kaikki työkalut näkyvät selkeämmin.
+
+Jos haluat työkalujen olevan jatkuvasti näkyvissä:
+
+1. Avaa sama valikko.
+2. Valitse Näytä aina valintanauha.
+
+Jos valitset Säädä automaattisesti -asetuksen, valintanauha tulee näkyviin vain silloin, kun napsautat välilehteä.
+
+Tilarivin käyttäminen
+
+Ohjelmaikkunan alareunassa näkyy tilarivi.
+
+Tilariviltä näet esimerkiksi:
+
+* näkyvissä olevan dian numeron
+* diojen kokonaismäärän
+* esityksen kielen
+
+PowerPoint tunnistaa esityksen kielen yleensä automaattisesti.
+
+Zoomauksen käyttäminen
+
+Tilarivin oikeassa reunassa on zoomauksen liukusäädin.
+
+Sen avulla voit:
+
+* suurentaa diaa
+* pienentää diaa
+
+Voit myös valita zoomaustason suoraan prosenttiluvusta.
+
+Sovita ikkunaan -toiminto
+
+Voit sovittaa dian koon nykyiseen ohjelmaikkunaan Sovita ikkunaan -painikkeella.
+
+Tämä helpottaa työskentelyä erityisesti silloin, kun zoomaustasoa on muutettu.
+
+Suunnittelutyökalun käyttäminen
+
+PowerPointin suunnittelutyökalu (Designer) auttaa luomaan visuaalisesti näyttäviä dioja.
+
+Jos suunnittelutyökalu ei ole näkyvissä:
+
+1. Siirry Aloitus-välilehdelle.
+2. Valitse Designer.
+
+Suunnittelutyökalu avautuu ohjelmaikkunan oikeaan reunaan.
+
+Se ehdottaa automaattisesti erilaisia asetteluja dioille, joissa on esimerkiksi:
+
+* tekstiä
+* kuvia
+* otsikoita
+
+Voit ottaa ehdotuksen käyttöön napsauttamalla sitä.
+
+HUOM:
+
+* Suunnittelutyökalu ei aina tarjoa ehdotuksia kaikille dioille.
+* Ehdotusten määrä riippuu dian sisällöstä.
+* Parhaiten ehdotuksia saadaan yleensä silloin, kun diassa on otsikko sekä tekstiä tai kuvia.
+
+VINKKI:
+
+Kokeile suunnittelutyökalua aina uuden dian tekemisen jälkeen. Usein saat nopeasti valmiin ja näyttävän ulkoasun ilman erillistä muotoilutyötä.
+
+HAKUSANAT:
+
+powerpoint käyttöliittymä
+valintanauha
+perinteinen valintanauha
+näytä aina valintanauha
+tilarivi
+dian numero
+diojen määrä
+zoomaus
+sovita ikkunaan
+designer
+suunnittelutyökalu
+suunnitteluehdotukset
+powerpoint verkkoversio
+esityksen kieli
+powerpoint työkalut
+
+TYYPILLISET KYSYMYKSET:
+
+miten käytän PowerPointia
+miten näytän kaikki työkalut
+mitä valintanauha tarkoittaa
+miten suurennan diaa
+miten pienennän diaa
+mitä tilarivillä näkyy
+miten näen diojen määrän
+mikä on Designer
+miten avaan suunnittelutyökalun
+miten saan valmiita diaehdotuksia
+miten sovitan dian ikkunaan
+mistä löydän PowerPointin työkalut

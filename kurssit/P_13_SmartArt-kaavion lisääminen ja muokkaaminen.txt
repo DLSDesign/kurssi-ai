@@ -1,0 +1,142 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: SmartArt-grafiikan käyttäminen
+
+AIHE:
+SmartArt-grafiikan lisääminen ja muokkaaminen
+
+TAVOITE:
+Oppia lisäämään SmartArt-grafiikkaa diaan sekä muokkaamaan sen rakennetta, värejä ja ulkoasua.
+
+SELITYS:
+
+SmartArt-grafiikka on helppo tapa esittää tietoa visuaalisesti.
+
+SmartArtin avulla voit esimerkiksi:
+
+* tehdä luetteloita
+* kuvata prosesseja
+* esittää asioiden välisiä suhteita
+* havainnollistaa hierarkioita
+* luoda organisaatiokaavioita
+
+SmartArt auttaa tekemään dioista selkeämpiä ja helpommin ymmärrettäviä.
+
+OHJE:
+
+SmartArt-grafiikan lisääminen
+
+Voit lisätä SmartArt-grafiikan kahdella tavalla:
+
+* dian paikkamerkin SmartArt-kuvakkeesta
+* Lisää-välilehden SmartArt-komennolla
+
+Tee näin:
+
+1. Napsauta Lisää SmartArt -kuvaketta tai valitse Lisää-välilehdeltä SmartArt.
+2. Valitse haluamasi SmartArt-tyyppi.
+3. Hyväksy valinta.
+
+PowerPoint lisää SmartArt-grafiikan diaan.
+
+Tietojen kirjoittaminen
+
+SmartArtin yhteydessä avautuu tekstiruutu, johon voit kirjoittaa sisällön.
+
+1. Kirjoita tekstit tekstiruutuun.
+2. Jokainen rivi muodostaa oman elementtinsä SmartArt-kaavioon.
+
+Tekstit päivittyvät kaavioon automaattisesti.
+
+Tekstiruudun näyttäminen ja piilottaminen
+
+Voit sulkea tekstiruudun sen oikean yläkulman sulkupainikkeesta.
+
+Saat tekstiruudun näkyviin uudelleen:
+
+* napsauttamalla SmartArt-kaavion elementtiä
+* valitsemalla SmartArtin asetuksista Tekstiruutu-toiminnon
+
+SmartArtin värien muuttaminen
+
+Voit vaihtaa SmartArtin värit näin:
+
+1. Valitse SmartArt-kaavio.
+2. Siirry SmartArt-välilehdelle.
+3. Valitse Muuta värejä.
+4. Valitse haluamasi värimalli.
+
+SmartArtin tyylin muuttaminen
+
+Voit vaihtaa koko kaavion ulkoasun nopeasti.
+
+1. Valitse SmartArt-kaavio.
+2. Siirry SmartArt-välilehdelle.
+3. Valitse SmartArt-tyylit.
+4. Valitse haluamasi tyyli.
+
+Tyylit muuttavat esimerkiksi:
+
+* värejä
+* tehosteita
+* kolmiulotteisuutta
+* varjostuksia
+
+Elementtien poistaminen
+
+Jos haluat poistaa kaaviosta jonkin kohdan:
+
+1. Avaa SmartArtin tekstiruutu.
+2. Valitse poistettava tekstirivi.
+3. Poista rivi.
+
+Vastaava elementti poistuu myös kaaviosta.
+
+Elementtien lisääminen
+
+Voit lisätä uusia elementtejä kirjoittamalla uuden rivin tekstiruutuun.
+
+PowerPoint lisää uuden elementin automaattisesti kaavioon.
+
+HUOM:
+
+Valitse SmartArt-tyyppi sen mukaan, mitä haluat esittää. Prosessikaaviot sopivat vaiheiden kuvaamiseen ja hierarkiakaaviot organisaatioiden tai rakenteiden esittämiseen.
+
+VINKKI:
+
+Älä lisää SmartArtiin liikaa sisältöä. Lyhyet tekstit ja selkeä rakenne tekevät kaaviosta helpommin luettavan ja ymmärrettävän.
+
+HAKUSANAT:
+
+smartart
+smartart grafiikka
+lisää smartart
+organisaatiokaavio
+prosessikaavio
+hierarkia
+luettelo smartartilla
+muuta värejä
+smartart tyyli
+smartart tekstiruutu
+smartart elementti
+visualisointi
+kaavio powerpointissa
+graafinen esitys
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään SmartArtin PowerPointiin
+miten teen organisaatiokaavion
+miten teen prosessikaavion
+miten kirjoitan SmartArtiin tekstiä
+miten muutan SmartArtin värejä
+miten vaihdan SmartArtin tyylin
+miten lisään uuden elementin SmartArtiin
+miten poistan elementin SmartArtista
+miten avaan SmartArtin tekstiruudun
+miten käytän SmartArt-grafiikkaa PowerPointissa
+miten teen visuaalisen luettelon PowerPointiin

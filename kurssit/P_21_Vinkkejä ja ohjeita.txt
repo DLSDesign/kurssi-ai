@@ -1,0 +1,171 @@
+Kyllä löytyy. Itse asiassa tällainen **"PowerPointin parhaat vinkit aloittelijalle"** olisi erittäin hyvä kurssin loppuosio tai erillinen "Vinkit ja niksit" -tiedosto, koska juuri näitä asioita käyttäjät kysyvät koulutuksissa jatkuvasti.
+
+Voisit tehdä esimerkiksi tällaisen kokonaisuuden:
+
+---
+
+ TYYPPI: ohje
+
+OHJELMA: PowerPoint
+
+AIHE: PowerPointin parhaat vinkit aloittelijalle
+
+TAVOITE:
+Oppia käyttämään PowerPointia sujuvammin ja välttämään yleisimmät virheet.
+
+---
+
+ Käytä mahdollisimman vähän tekstiä
+
+Dia ei ole muistilappu.
+
+Kirjoita diaan vain tärkeimmät asiat.
+
+Hyvä nyrkkisääntö on:
+
+* yksi ajatus per dia
+* muutama avainsana per kohta
+* kerro loput itse puhumalla
+
+Pitkiä tekstikappaleita on vaikea lukea esityksen aikana.
+
+---
+
+ Käytä yhtä teemaa koko esityksessä
+
+Valitse teema esityksen alussa.
+
+Älä vaihda värejä, fontteja ja tyylejä jokaisella dialla.
+
+Yhtenäinen ulkoasu tekee esityksestä ammattimaisen.
+
+---
+
+ Hyödynnä Suunnittelutyökalua
+
+Jos dia näyttää tyhjältä tai sekavalta:
+
+1. Valitse dia.
+2. Napsauta Aloitus-välilehden Suunnittelutyökalu-painiketta.
+3. Valitse ehdotettu asettelu.
+
+Saat nopeasti siistimmän lopputuloksen.
+
+---
+
+ Kohdista objektit apuviivojen avulla
+
+Kun siirrät kuvia, kuvakkeita tai muotoja:
+
+* seuraa näkyviin tulevia apuviivoja
+* niiden avulla objektit asettuvat samaan linjaan
+
+Näin dia näyttää siistiltä ilman mittailua.
+
+---
+
+ Käytä kuvia harkiten
+
+Yksi hyvä kuva on parempi kuin viisi keskinkertaista.
+
+Valitse kuva, joka tukee viestiäsi.
+
+Vältä koristekuvia, joilla ei ole yhteyttä sisältöön.
+
+---
+
+ Älä käytä liikaa animaatioita
+
+Animaatioiden tarkoitus on korostaa sisältöä.
+
+Yksi tai kaksi tehostetta riittää yleensä hyvin.
+
+Liialliset animaatiot vievät huomion pois asiasta.
+
+---
+
+ Käytä kuvakkeita tekstin tukena
+
+Kuvakkeet auttavat hahmottamaan sisältöä nopeasti.
+
+Esimerkiksi:
+
+* puhelin = yhteystiedot
+* kalenteri = aikataulu
+* lamppu = idea
+* kilpi = tietoturva
+
+---
+
+ Käytä Zoomausta muokkaamisen apuna
+
+Jos elementtejä on paljon:
+
+* suurenna näkymää tarkkaa muokkausta varten
+* pienennä näkymää kokonaisuuden tarkastelua varten
+
+Näin työskentely on helpompaa.
+
+---
+
+ Tarkista esitys aina Diaesitys-tilassa
+
+Muokkausnäkymä ei kerro kaikkea.
+
+Käynnistä esitys ennen sen julkaisemista.
+
+Tarkista erityisesti:
+
+* kuvien sijainti
+* animaatiot
+* siirtymät
+* kirjoitusvirheet
+
+---
+
+ Käytä muistiinpanoja
+
+Kirjoita tärkeimmät muistettavat asiat dian Muistiinpanot-alueelle.
+
+Esittäjänäkymässä näet ne itse.
+
+Yleisö ei näe niitä.
+
+---
+
+ Kopioi onnistunut dia
+
+Jos löydät hyvän diarakenteen:
+
+1. Kopioi dia.
+2. Muuta sisältö.
+
+Näin esityksen ulkoasu pysyy yhtenäisenä.
+
+---
+
+ Tallenna esitys PDF-muotoon ennen lähettämistä
+
+Jos vastaanottajan ei tarvitse muokata esitystä:
+
+1. Siirry Tiedosto-välilehdelle.
+2. Valitse Vie.
+3. Valitse Lataa PDF-tiedostona.
+
+PDF säilyttää ulkoasun samanlaisena kaikilla laitteilla.
+
+---
+
+ Yleisin virhe
+
+Aloittelijat yrittävät tehdä yhdelle dialle liikaa sisältöä.
+
+Jos dia näyttää ahtaalta:
+
+* jaa sisältö kahdelle dialle
+* lisää mieluummin dioja kuin pienennä tekstiä
+
+Yleensä selkeä esitys sisältää enemmän dioja ja vähemmän sisältöä per dia.
+
+---
+

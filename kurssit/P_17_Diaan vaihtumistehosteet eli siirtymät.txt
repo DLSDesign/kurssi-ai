@@ -1,0 +1,134 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Dian siirtymätehosteet
+
+AIHE:
+Siirtymien lisääminen diojen välille
+
+TAVOITE:
+Oppia lisäämään dioille siirtymätehosteita sekä määrittämään niiden asetuksia ja kestoa.
+
+SELITYS:
+
+Siirtymätehoste määrittää, miten dia vaihtuu seuraavaan diaan esityksen aikana.
+
+Voit käyttää siirtymiä esimerkiksi:
+
+* korostamaan uuden aiheen alkua
+* rytmittämään esitystä
+* tekemään esityksestä sujuvamman
+
+Esityksen eri dioilla voi olla erilaiset siirtymätehosteet.
+
+OHJE:
+
+Siirtymätehosteen lisääminen
+
+Siirtymien määrittäminen onnistuu helpoiten Dialajittelu-näkymässä, jossa näet useita dioja samanaikaisesti.
+
+Tee näin:
+
+1. Valitse dia tai diat, joille haluat lisätä siirtymän.
+2. Siirry Siirtymät-välilehdelle.
+3. Valitse haluamasi siirtymätehoste.
+
+PowerPoint lisää valitun siirtymän dioille.
+
+Siirtymäasetusten muuttaminen
+
+Moniin siirtymätehosteisiin voidaan määrittää lisäasetuksia.
+
+Tee näin:
+
+1. Valitse dia.
+2. Siirry Siirtymät-välilehdelle.
+3. Valitse Tehosteasetukset.
+4. Valitse haluamasi vaihtoehto.
+
+Käytettävissä olevat asetukset riippuvat valitusta siirtymästä.
+
+Siirtymän keston muuttaminen
+
+Voit määrittää, kuinka nopeasti siirtymä suoritetaan.
+
+Tee näin:
+
+1. Valitse dia.
+2. Siirry Siirtymät-välilehdelle.
+3. Muuta Kesto-asetusta.
+
+Pienempi arvo tekee siirtymästä nopeamman.
+
+Suurempi arvo tekee siirtymästä hitaamman.
+
+Saman siirtymän käyttäminen kaikissa dioissa
+
+Jos haluat käyttää samaa siirtymää koko esityksessä:
+
+1. Valitse haluamasi siirtymä.
+2. Valitse Käytä kaikissa.
+
+PowerPoint lisää saman siirtymän kaikkiin dioihin.
+
+Siirtymän tunnistaminen
+
+PowerPoint näyttää dian yhteydessä symbolin, joka kertoo, että dialle on määritetty siirtymä tai animaatio.
+
+Näin voit helposti tarkistaa, missä dioissa tehosteita on käytetty.
+
+Siirtymien testaaminen
+
+Ennen varsinaista esitystä kannattaa tarkistaa, miltä siirtymät näyttävät.
+
+Tee näin:
+
+1. Käynnistä diaesitys.
+2. Siirry diojen välillä.
+3. Tarkista siirtymien toiminta.
+
+Tarvittaessa voit palata muokkaamaan asetuksia.
+
+HUOM:
+
+Siirtymätehosteiden tarkoitus on tukea esitystä, ei viedä huomiota itse sisältöä tärkeämpään rooliin.
+
+VINKKI:
+
+Käytä koko esityksessä yhtä tai muutamaa yhtenäistä siirtymätehostetta. Näin esitys näyttää ammattimaiselta ja katsojan huomio pysyy sisällössä.
+
+HAKUSANAT:
+
+siirtymä
+siirtymätehoste
+powerpoint siirtymä
+diojen vaihtuminen
+siirtymät-välilehti
+dialajittelu
+tehosteasetukset
+kesto
+käytä kaikissa
+dian vaihto
+esityksen siirtymät
+siirtymien asetukset
+vaihtumistehoste
+siirtymän nopeus
+diaesitys
+
+TYYPILLISET KYSYMYKSET:
+
+miten lisään siirtymän PowerPointissa
+miten vaihdan diojen vaihtumistehostetta
+miten käytän siirtymiä
+miten muutan siirtymän nopeutta
+mitä kesto tarkoittaa
+miten käytän samaa siirtymää kaikissa dioissa
+miten testaan siirtymiä
+miten siirtymät eroavat animaatioista
+miten lisään tehosteita diojen vaihtumiseen
+miten käytän dialajittelua siirtymien tekemiseen
+miten teen esityksestä sujuvamman
+miten muutan siirtymän asetuksia

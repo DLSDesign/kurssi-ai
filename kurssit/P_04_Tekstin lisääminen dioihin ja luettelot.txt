@@ -1,0 +1,152 @@
+TYYPPI: video
+
+OHJELMA: PowerPoint
+
+VERSIO: verkkoversio
+
+VIDEO: Tekstin kirjoittaminen ja luettelot
+
+AIHE:
+Tekstin kirjoittaminen sekä luetteloiden käyttäminen PowerPointissa
+
+TAVOITE:
+Oppia lisäämään dioille tekstiä sekä käyttämään luettelomerkkejä, numerointia ja monitasoisia luetteloita.
+
+SELITYS:
+
+PowerPoint-esityksissä tieto esitetään yleensä lyhyinä teksteinä ja luetteloina.
+
+Luettelot helpottavat sisällön lukemista ja auttavat yleisöä hahmottamaan tärkeimmät asiat nopeasti.
+
+PowerPointissa voit käyttää:
+
+* luettelomerkkejä
+* numerointia
+* monitasoisia luetteloita
+
+OHJE:
+
+Tekstin kirjoittaminen diaan
+
+1. Lisää uusi dia.
+2. Valitse rakenne, jossa on otsikko ja sisältö.
+3. Kirjoita dian otsikko otsikkopaikkamerkkiin.
+4. Kirjoita varsinainen sisältö sisältöalueelle.
+
+PowerPoint rivittää tekstin automaattisesti.
+
+Luettelomerkkien käyttäminen
+
+Voit tehdä luettelon näin:
+
+1. Kirjoita ensimmäinen luettelokohta.
+2. Paina Enter-näppäintä.
+3. Valitse Aloitus-välilehdeltä Luettelomerkit-painike.
+
+Kun painat Enter-näppäintä rivin lopussa, PowerPoint lisää automaattisesti uuden luettelomerkin seuraavalle riville.
+
+Luettelon lopettaminen
+
+Voit lopettaa luettelon näin:
+
+1. Napsauta Luettelomerkit-painiketta uudelleen.
+
+Luettelomerkit poistuvat käytöstä seuraavilta riveiltä.
+
+Luettelomerkin vaihtaminen
+
+Voit vaihtaa luettelomerkin ulkoasua näin:
+
+1. Valitse luettelon tekstit.
+2. Avaa Luettelomerkit-painikkeen valikko.
+3. Valitse haluamasi luettelomerkki.
+
+Numeroidun luettelon tekeminen
+
+Numeroitu luettelo sopii erityisesti vaiheittaisiin ohjeisiin.
+
+Tee numeroitu luettelo näin:
+
+1. Valitse Numerointi-painike.
+2. Kirjoita ensimmäinen kohta.
+3. Paina Enter-näppäintä.
+4. Kirjoita seuraava kohta.
+
+PowerPoint lisää seuraavan numeron automaattisesti.
+
+Monitasoinen luettelo
+
+Voit tehdä luettelosta useampitasoisen.
+
+Monitasoisessa luettelossa on:
+
+* pääkohtia
+* alakohtia
+
+Monitasoinen luettelomerkkiluettelo
+
+1. Valitse Luettelomerkit-painike.
+2. Kirjoita pääkohta.
+3. Valitse Suurenna luettelotasoa.
+4. Kirjoita alakohta.
+
+Monitasoinen numeroitu luettelo
+
+1. Valitse Numerointi-painike.
+2. Kirjoita pääkohta.
+3. Valitse Suurenna luettelotasoa.
+4. Kirjoita alakohta.
+
+Luettelotason muuttaminen
+
+Voit siirtää kohdan alemmalle tasolle näin:
+
+1. Valitse kohta.
+2. Napsauta Suurenna luettelotasoa.
+
+Voit palauttaa kohdan ylemmälle tasolle näin:
+
+1. Valitse kohta.
+2. Napsauta Pienennä luettelotasoa.
+
+HUOM:
+
+* Käytä luetteloissa lyhyitä tekstejä.
+* Yhdelle dialle ei kannata kirjoittaa liian paljon sisältöä.
+* Luettelot auttavat yleisöä seuraamaan esitystäsi.
+
+VINKKI:
+
+Yksi ajatus tai aihe per luettelokohta tekee esityksestä selkeämmän. Pitkät lauseet kannattaa usein tiivistää muutamaksi avainsanaksi.
+
+HAKUSANAT:
+
+luettelomerkit
+numerointi
+luettelo
+powerpoint luettelo
+luettelomerkkiluettelo
+numeroitu luettelo
+monitasoinen luettelo
+luettelotaso
+suurenna luettelotasoa
+pienennä luettelotasoa
+tekstin kirjoittaminen
+dian teksti
+powerpoint tekstit
+esityksen sisältö
+
+TYYPILLISET KYSYMYKSET:
+
+miten kirjoitan tekstiä PowerPointiin
+miten teen luettelon
+miten lisään luettelomerkit
+miten teen numeroidun luettelon
+miten vaihdan luettelomerkin
+miten teen monitasoisen luettelon
+miten lisään alakohtia luetteloon
+miten suurennan luettelotasoa
+miten pienennän luettelotasoa
+miten lopetan luettelon
+miten teen vaiheittaisen ohjeen PowerPointiin
+miten teen selkeän dian
